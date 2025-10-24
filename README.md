@@ -18,5 +18,6 @@ step5 : learning and adaption : knowledge update loop
 </p>
 <pre>
 now the identation will remain  like this only
+and i will write
 </pre>
 </html>
