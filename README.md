@@ -17,7 +17,8 @@ step5 : learning and adaption : knowledge update loop
 </br>
 </p>
 <pre>
-now the identation will remain  like this only
-and i will write
+ask the company whch sector does it belong (for example : oil and gas sector)
+analyse the company data that is the qualitative and quantitative data
+in accordance with the gri standards , ie , from the knowledge base , we extract the required data and make report
 </pre>
 </html>
