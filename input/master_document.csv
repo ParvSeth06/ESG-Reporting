@@ -1,0 +1,138 @@
+Disclosure Category,Data Field / Requirement,Type,Source
+I. Organization Profile (GRI 2: General Disclosures),"[cite_start]2-6 Activities, value chain and other business relationships [cite: 9564]",Narrative,
+,[cite_start]Sector(s) in which the organization is active[cite: 9567].,Narrative,
+,"[cite_start]Description of the value chain (activities, products, services, markets, supply chain, downstream entities)[cite: 9570, 9571, 9574, 9575].",Narrative,
+,[cite_start]Report other relevant business relationships[cite: 9577].,Narrative,
+,[cite_start]Describe significant changes in the above elements[cite: 9578].,Narrative,
+II. Management Approach (GRI 3: Material Topics),[cite_start]3-3 Management of material topics (Required for each Material Topic below) [cite: 14652],Narrative/Metrics,
+,"[cite_start]Describe the actual and potential, negative and positive impacts related to the topic[cite: 14654].",Narrative,
+,"[cite_start]Report organization's involvement with negative impacts (causes, contributes, or linked by activities/business relationships)[cite: 14655, 14656].",Narrative,
+,[cite_start]Describe the policies or commitments regarding the material topic[cite: 14658].,Narrative,
+,"[cite_start]Describe actions taken to prevent or mitigate potential negative impacts[cite: 14661, 14662].",Narrative,
+,"[cite_start]Describe actions taken to address actual negative impacts, including remediation[cite: 14661, 14665, 14666].",Narrative,
+,"[cite_start]Describe actions taken to manage actual and potential positive impacts[cite: 14661, 14667].",Narrative,
+,"[cite_start]Report processes to track effectiveness of actions (goals, targets, indicators, outcomes, lessons learned)[cite: 14668, 14669, 14671, 14673, 14674].",Narrative / Metrics,
+,[cite_start]Describe how stakeholder engagement informed actions and assessed their effectiveness[cite: 14675].,Narrative,
+,,,
+GRI 11 Topic & Ref. No.,Disclosure Source,Data Field (Quantitative / Qualitative / Metric),Citation
+11.1 GHG emissions,3-3 Management of material topics (Additional Sector Rec),Describe actions taken to manage flaring and venting and the effectiveness of actions taken. [cite_start],[cite: 2004]
+,305-1 $\text{Scope 1}$ GHG emissions,Gross direct ($\text{Scope 1}$) $\text{GHG}$ emissions (in metric tons of $\text{CO}_{2}$ equivalent). [cite_start],[cite: 2018]
+,,Percentage of gross direct ($\text{Scope 1}$) $\text{GHG}$ emissions from $\text{CH}_{4}$. [cite_start],[cite: 2022]
+,,"Breakdown of gross direct ($\text{Scope 1}$) $\text{GHG}$ emissions by type of source (stationary combustion, process, fugitive). [cite_start]",[cite: 2022]
+,305-2 $\text{Scope 2}$ GHG emissions,Gross location-based and (if applicable) gross market-based energy indirect ($\text{Scope 2}$) $\text{GHG}$ emissions (in $\text{t}$ $\text{CO}_{2} \text{e}$). [cite_start],[cite: 2023]
+,305-3 $\text{Scope 3}$ GHG emissions,Gross other indirect ($\text{Scope 3}$) $\text{GHG}$ emissions (in $\text{t}$ $\text{CO}_{2} \text{e}$). [cite_start],[cite: 2024]
+,305-4 GHG emissions intensity,$\text{GHG}$ emissions intensity ratio for the organization. [cite_start],[cite: 2025]
+,302-1 Energy consumption,"Total fuel consumption from non-renewable and renewable sources (in Joules or multiples, including fuel types). [cite_start]",[cite: 2012]
+,,"Total consumption (in J or Wh) of electricity, heating, cooling, and steam (purchased/acquired). [cite_start]",[cite: 2012]
+11.2 Climate Adaptation,3-3 Management of material topics (Additional Sector Rec),"Describe policies, commitments, and actions to prevent or mitigate the impacts of the transition to a low-carbon economy on workers and local communities. [cite_start]",[cite: 2076]
+,,"Describe the climate change-related scenarios used to assess the resilience of the strategy, including a $2^{\circ}\text{C}$ or lower scenario. [cite_start]",[cite: 2076]
+,201-2 Financial implications,"Risks and opportunities from climate change (physical, regulatory, other) with financial implications (pre-action) and costs of actions taken to manage. [cite_start]",[cite: 2076]
+,,[Additional Sector Recs] Report the emissions potential for proven and probable reserves. [cite_start],[cite: 2076]
+,,[Additional Sector Recs] Report the internal carbon-pricing and oil and gas pricing assumptions used. [cite_start],[cite: 2076]
+,305-5 Reduction of GHG emissions,"GHG emissions reduced due to reduction initiatives (in $\text{t}$ $\text{CO}_{2} \text{e}$) along with goals/targets, alignment with scientific consensus, and timeline. [cite_start]","[cite: 2076, 2082, 2085]"
+,Additional Sector Disclosure,"Describe approach to public policy development and lobbying on climate change, including affiliations with representative associations and any differences in stated positions. [cite_start]","[cite: 2087, 2091]"
+11.3 Air emissions,305-7 Air emissions,"Significant air emissions (in $\text{kg}$ or multiples) for $\text{NO}_{x}, \text{SO}_{x}$, $\text{POP}$, $\text{VOC}$, $\text{HAP}$, $\text{PM}$, and Other standard categories. [cite_start]",[cite: 2141]
+,416-1 Customer Health & Safety,Percentage of significant product and service categories for which health and safety impacts (due to emissions) are assessed for improvement. [cite_start],[cite: 2142]
+11.4 Biodiversity,3-3 Management of material topics (Additional Sector Rec),Describe policies and commitments to achieving no net loss or a net gain to biodiversity and whether this applies beyond areas of high biodiversity value. [cite_start],"[cite: 2184, 2186]"
+,,Report whether application of the mitigation hierarchy has informed actions. [cite_start],[cite: 2187]
+,304-1 Operational sites,"[cite_start]For each operational site (owned, leased, managed in, or adjacent to protected areas/high biodiversity value): Geographic location, size, biodiversity value, protected status, etc.",[cite: 2193]
+,304-2 Impacts on biodiversity,"[cite_start]
+Nature of significant direct and indirect impacts on biodiversity, quantified by species affected, extent of areas impacted, duration of impacts, and reversibility/irreversibility[cite: 2194, 2196].",Narrative $\left.\text{/}\right.$ Metrics
+,304-4 IUCN Red List species,"Total number of $\text{IUCN}$ $\text{Red List}$ species and national conservation list species with habitats in areas affected by operations, by level of extinction risk. [cite_start]",[cite: 2201]
+11.5 Waste,306-3 Waste generated,"[cite_start]
+Total weight of waste generated ($\text{t}$) broken down by composition[cite: 6330].",Metric
+,,"[cite_start]
+[Additional Sector Recs] Breakdown of waste generated by Drilling waste (muds and cuttings), Scale and sludges, and Tailings (if applicable)[cite: 2263, 2264, 2265].",Metric
+,306-4 Waste diverted from disposal,"[cite_start]
+Total weight of waste diverted from disposal ($\text{t}$), broken down by composition, waste type (hazardous/non-hazardous), recovery operation (reuse/recycling/other), and disposition (onsite/offsite)[cite: 6360, 6362, 6369, 6375].",Metric
+,,"[cite_start]
+[Additional Sector Recs] Breakdown of waste diverted by Drilling waste, Scale and sludges, and Tailings (if applicable)[cite: 2270, 2271, 2272].",Metric
+,306-5 Waste directed to disposal,"[cite_start]
+Total weight of waste directed to disposal ($\text{t}$), broken down by composition, waste type, disposal operation, and disposition (onsite/offsite)[cite: 6425, 6429, 6436, 6443].",Metric
+,,"[cite_start]
+[Additional Sector Recs] Breakdown of waste directed to disposal by Drilling waste, Scale and sludges, and Tailings (if applicable)[cite: 2276, 2277, 2278].",Metric
+11.6 Water & Effluents,303-3 Water withdrawal,"[cite_start]
+Total water withdrawal ($\text{ML}$) from all sources and from areas with water stress, broken down by Freshwater/Other water[cite: 12572, 12584, 12600].",Metric
+,303-4 Water discharge,"[cite_start]
+Total water discharge ($\text{ML}$) by destination/breakdown of Freshwater/Other water, specifying discharge to areas with water stress[cite: 12655, 12665, 12671].",Metric
+,,"[cite_start]
+Number of incidents of non-compliance with discharge limits[cite: 12682].",Metric
+,,"[cite_start]
+[Additional Sector Recs] Report volume ($\text{ML}$) of produced water and process wastewater discharged[cite: 2336].",Metric
+,,"[cite_start]
+[Additional Sector Recs] Report the concentration $(\text{mg/L})$ of hydrocarbons discharged in produced water and process wastewater[cite: 2337].",Metric
+,303-5 Water consumption,"[cite_start]
+Total water consumption ($\text{ML}$) from all areas and specifically from areas with water stress[cite: 12755, 12756].",Metric
+,,,
+,,,
+GRI 11 Topic & Ref. No.,Disclosure Source,Data Field (Quantitative / Qualitative / Metric),Citation
+11.7 Closure & Rehabilitation,402-1 Minimum notice periods,"[cite_start]
+Minimum number of weeks' notice to employees prior to significant operational changes[cite: 8273].",Metric
+,,[Additional Sector Rec] Describe the approach to engaging workers in advance of significant operational changes. [cite_start],[cite: 2394]
+,404-2 Programs for upgrading skills,"[cite_start]
+Type and scope of programs/assistance provided to upgrade employee skills and transition assistance programs for career endings[cite: 5736, 5737].",Narrative
+,Additional Sector Disclosure,List operational sites that: have closure/rehabilitation plans in place; have been closed; or are in the process of being closed. [cite_start],"[cite: 2401, 2404, 2405]"
+,,[cite_start]List decommissioned structures left in place and describe the rationale[cite: 2406].,Narrative
+,,"[cite_start]
+Total monetary value of financial provisions for closure and rehabilitation (including post-closure monitoring and aftercare)[cite: 2407].",Metric
+11.8 Asset Integrity,306-3 Significant spills,"[cite_start]
+Total number and total volume of recorded significant spills[cite: 7626].",Metric
+,,"[cite_start]
+[Additional Sector Rec] For each spill, report the cause of the spill and the volume of spill recovered[cite: 2456].",Narrative $\left.\text{/}\right.$ Metric
+,Additional Sector Disclosure,"Total number of Tier 1 and Tier 2 process safety events, and a breakdown of this total by business activity (e.g., exploration, production, etc.). [cite_start]",[cite: 2458]
+,Additional Sector Disclosure (Oil Sands Only),"[cite_start]List tailings facilities; report active/inactive/closed status; report date and findings of most recent risk assessment[cite: 2463, 2465, 2466, 2467].",Narrative
+,,[cite_start]Describe actions taken to prevent catastrophic failures of tailings facilities[cite: 2470].,Narrative
+11.9 OHS,403-9 Work-related injuries,"For employees AND controlled non-employees: Number and rate of fatalities, high-consequence injuries (excluding fatalities), and recordable injuries; [cite_start]Main types of injury; and Number of hours worked[cite: 8812, 8814, 8816, 8818, 8820, 8822, 8825, 8826, 8828, 8830, 8832, 8834].",Metric $\left.\text{/}\right.$ Narrative
+,403-10 Work-related ill health,"[cite_start]For employees AND controlled non-employees: Number of fatalities ($\text{ill health}$), recordable cases ($\text{ill health}$), and main types of $\text{ill health}$[cite: 8961, 8963, 8964, 8965, 8966, 8967].",Metric $\left.\text{/}\right.$ Narrative
+11.10 Employment Practices,401-1 New employee hires $\text{&}$ turnover,"[cite_start]
+Total number and rate of new employee hires by age group, gender, and region[cite: 15381].",Metric
+,401-2 Benefits provided,"[cite_start]
+Benefits (life insurance, healthcare, disability, parental leave, retirement, stock ownership, etc.) standard for full-time employees but NOT provided to temporary or part-time employees, by significant locations of operation[cite: 15410, 15412].",Narrative
+,401-3 Parental leave,"[cite_start]
+Total number entitled, took, returned, and retained 12 months after parental leave, by gender[cite: 15438, 15439, 15441, 15443].",Metric
+,414-1 New suppliers screened,"[cite_start]
+Percentage of new suppliers that were screened using social criteria[cite: 7396].",Metric
+,414-2 Negative social impacts,"[cite_start]
+Number of suppliers assessed, number identified with significant negative social impacts, and percentage where improvements were agreed upon or relationships were terminated[cite: 7409, 7411, 7419, 7420].",Metric
+11.11 Non-discrimination,405-1 Diversity,"[cite_start]
+Percentage of individuals within governance bodies and employees per employee category in diversity categories: Gender, Age group (under 30, 30-50, over 50), and Other indicators[cite: 146, 149, 151, 157, 158, 159].",Metric
+,405-2 Pay ratio,"[cite_start]
+Ratio of basic salary and remuneration of women to men for each employee category, by significant locations of operation[cite: 173].",Metric
+,406-1 Incidents of discrimination,"[cite_start]
+Total number of incidents of discrimination and their status and actions taken (reviewed, remediation plans, completed action)[cite: 7801, 7803].",Metric $\left.\text{/}\right.$ Narrative
+11.12 Forced Labor,409-1 Operations/suppliers at risk,"[cite_start]
+Operations and suppliers at significant risk for forced/compulsory labor, by type of operation/supplier and countries/geographic areas[cite: 4386].",Narrative
+,,"[cite_start]
+Measures taken intended to contribute to elimination of forced/compulsory labor[cite: 4392].",Narrative
+11.13 Freedom of Association,407-1 Operations/suppliers at risk,"[cite_start]
+Operations and suppliers in which the right to freedom of association/collective bargaining may be violated or at significant risk, by type of operation/supplier and countries/geographic areas[cite: 13175, 13176].",Narrative
+,,"[cite_start]
+Measures taken intended to support these rights[cite: 13181].",Narrative
+11.15 Local Communities,413-1 Community engagement,"[cite_start]
+Percentage of operations with implemented local community engagement, impact assessments, and/or development programs[cite: 496].",Metric
+,413-2 Negative impacts,"[cite_start]
+Location of operations with significant actual and potential negative impacts on local communities, and narrative description of those impacts[cite: 535, 539, 541].",Narrative
+,Additional Sector Disclosure,"[cite_start]Report the number and type of grievances from local communities, including percentage addressed/resolved and percentage resolved through remediation[cite: 2877, 2878, 2879].",Metric $\left.\text{/}\right.$ Narrative
+11.17 Indigenous Peoples,411-1 Incidents of violations,"[cite_start]
+Total number of identified incidents of violations involving the rights of indigenous peoples and the status of the incidents and actions taken[cite: 859, 861].",Metric $\left.\text{/}\right.$ Narrative
+,Additional Sector Disclosure,[cite_start]List the locations of operations where indigenous peoples are present or affected[cite: 2979].,Narrative
+,,"[cite_start]Report involvement in seeking free, prior and informed consent (FPIC): whether the process was mutually accepted and if an agreement was reached and publicly available[cite: 2981, 2983, 2984].",Narrative
+11.18 Conflict & Security,410-1 Security personnel trained,"[cite_start]
+Percentage of security personnel who have received formal training in the organization's human rights policies or specific procedures[cite: 1381].",Metric
+,Additional Sector Rec,[cite_start]List the locations of operations in areas of conflict[cite: 3012].,Narrative
+11.19 Anti-competitive Behavior,206-1 Legal actions,"[cite_start]
+Number of legal actions pending or completed regarding anti-competitive behavior/anti-trust/monopoly practices[cite: 8040].",Metric
+,,"[cite_start]
+Main outcomes of completed legal actions (decisions/judgements)[cite: 8041].",Narrative
+11.20 Anti-corruption,205-1 Operations assessed,"[cite_start]
+Total number and percentage of operations assessed for risks related to corruption[cite: 15752].",Metric
+,205-3 Incidents of corruption,"[cite_start]
+Total number and nature of confirmed incidents of corruption[cite: 15775].",Metric $\left.\text{/}\right.$ Narrative
+,,"[cite_start]
+Total number of confirmed incidents in which employees were dismissed or disciplined[cite: 15777].",Metric
+,,"[cite_start]
+Total number of confirmed incidents when contracts with business partners were terminated or not renewed[cite: 15779].",Metric
+11.21 Payments to Govts,207-4 Country-by-country reporting,"[cite_start]Financial and operating data reported country-by-country (names of entities, activities, revenue, profit/loss before tax, taxes paid/accrued, and $\text{tax}$ variance reasons)[cite: 6970].",Metric
+,Additional Sector Disclosure,"[cite_start]Breakdown of project-level payments to governments for revenue streams like royalties, bonuses, and license fees[cite: 3200, 3205, 3206].",Metric
+11.22 Public Policy,415-1 Political contributions,"[cite_start]
+Total monetary value of financial and in-kind political contributions (direct and indirect) by country and recipient/beneficiary[cite: 15155].",Metric
