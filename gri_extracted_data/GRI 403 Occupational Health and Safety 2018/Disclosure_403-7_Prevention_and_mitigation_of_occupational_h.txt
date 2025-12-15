@@ -1,0 +1,19 @@
+Disclosure 403-7 Prevention and mitigation of occupational health
+
+and safety impacts directly linked by business relationships
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. A description of the organization’s approach to preventing or mitigating significant
+negative occupational health and safety impacts that are directly linked to its
+operations, products, or services by its business relationships, and the related hazards
+and risks.
+Background
+GUIDANCE
+In cases where an organization has no control over both the work and workplace, it still has a
+responsibility to make efforts, including exercising any leverage it might have, to prevent and
+mitigate negative occupational health and safety impacts that are directly linked to its operations,
+products, or services by its business relationships. For more guidance, see the Scope of
+‘workers’ in this Standard section.
+References
+See reference [13] in the Bibliography.
+19 GRI 403: Occupational Health and Safety 2018

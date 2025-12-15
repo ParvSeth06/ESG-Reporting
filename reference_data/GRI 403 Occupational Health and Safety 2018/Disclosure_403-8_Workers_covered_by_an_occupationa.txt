@@ -1,0 +1,66 @@
+Disclosure 403-8 Workers covered by an occupational health and
+
+safety management system
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. If the organization has implemented an occupational health and safety management
+system based on legal requirements and/or recognized standards/guidelines:
+i. the number and percentage of all employees and workers who are not employees
+but whose work and/or workplace is controlled by the organization, who are
+covered by such a system;
+ii. the number and percentage of all employees and workers who are not employees
+but whose work and/or workplace is controlled by the organization, who are
+covered by such a system that has been internally audited;
+iii. the number and percentage of all employees and workers who are not employees
+but whose work and/or workplace is controlled by the organization, who are
+covered by such a system that has been audited or certified by an external party.
+b. Whether and, if so, why any workers have been excluded from this disclosure, including
+the types of worker excluded.
+c. Any contextual information necessary to understand how the data have been compiled,
+such as any standards, methodologies, and assumptions used.
+Background
+GUIDANCE
+Occupational health and safety management systems can serve as an effective approach to
+managing and continually eliminating hazards and minimizing risks. It is a systems-based
+approach that seeks to integrate occupational health and safety management into overall
+business processes. A system typically moves through a ‘plan-do-check-act’ cycle, promoting
+leadership and practice through meaningful consultation and participation of workers from all
+job levels in the organization.
+A systems-based approach, which encompasses fully integrated processes, can be a
+significant advancement over an approach that considers hazard identification, risk
+assessment, and incident investigation as isolated activities. Focusing on system deficiencies
+can enable an organization to identify deficiencies in its overall management of occupational
+health and safety; address resources, policy, and operational controls; and ensure continual
+improvement.
+Guidance for Disclosure 403-8
+This disclosure indicates what proportion of an organization’s employees, and workers who are
+not employees but whose work and/or workplace is controlled by the organization, are covered
+by an occupational health and safety management system based on legal requirements and/or
+recognized standards/guidelines. The list of legal requirements and/or recognized
+standards/guidelines used by the reporting organization in its occupational health and safety
+management system are reported using Disclosures 403-1-a-i and 403-1-a-ii in the Topic
+management disclosures section.
+If not all workers are covered by the occupational health and safety management system, the
+organization can report whether any of the workers not covered are at high risk of work-related
+injury or ill health.
+In addition to the information required by this disclosure, the organization can report the number
+and percentage of sites covered by an occupational health and safety management system
+based on legal requirements and/or recognized standards/guidelines.
+The organization can also describe:
+• the approach used for internal audits (e.g., whether they are carried out following an
+internally-developed audit standard or a recognized audit standard, what is the qualification
+20 GRI 403: Occupational Health and Safety 2018
+of the auditors);
+• whether any processes or functions have been excluded from the scope of the audit or
+certification, and how occupational health and safety performance is being monitored in
+those areas;
+• the audit or certification standard used.
+Audits by external parties may include both second-party and third-party audits. Second-party
+audits are usually performed by customers or others on behalf of customers, or by any other
+external parties that have a formal interest in the organization. Third-party audits are performed
+by independent organizations such as registrars (i.e., certification bodies) or regulators.
+Guidance for Disclosure 403-8-b
+Types of worker can be based on criteria such as full-time, part-time, non-guaranteed hours,
+permanent or temporary basis, type or degree of control (e.g., control of work or workplace, sole
+or shared control), and location, among others.
+21 GRI 403: Occupational Health and Safety 2018

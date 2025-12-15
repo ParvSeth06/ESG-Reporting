@@ -1,0 +1,70 @@
+Disclosure 302-2 Energy consumption outside of the organization
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Energy consumption outside of the organization, in joules or multiples.
+b. Standards, methodologies, assumptions, and/or calculation tools used.
+c. Source of the conversion factors used.
+Compilation requirements
+2.3 When compiling the information specified in Disclosure 302-2, the reporting
+organization shall exclude energy consumption reported in Disclosure 302-1.
+2.4 When compiling the information specified in Disclosure 302-2, the reporting organization
+RECOMMENDATIONS
+should:
+2.4.1 if subject to different standards and methodologies, describe the approach to
+selecting them;
+2.4.2 list energy consumption outside of the organization, with a breakdown by
+upstream and downstream categories and activities.
+Guidance for Disclosure 302-2
+GUIDANCE
+The reporting organization can identify energy consumption outside of the organization by
+assessing whether an activity’s energy consumption:
+• contributes significantly to the organization’s total anticipated energy consumption outside of
+the organization;
+• offers potential for reductions the organization can undertake or influence;
+• contributes to climate change-related risks, such as financial, regulatory, supply chain,
+product and customer, litigation, and reputational risks;
+• is deemed material by stakeholders, such as customers, suppliers, investors, or civil
+society;
+• results from outsourced activities previously performed in-house, or that are typically
+performed in-house by other organizations in the same sector;
+• has been identified as significant for the organization’s sector;
+• meets any additional criteria for determining relevance, developed by the organization or by
+organizations in its sector.
+The organization can use the following upstream and downstream categories and activities
+from the ‘GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard’
+for identifying relevant energy consumption outside of the organization (see reference [2] in the
+Bibliography):
+Upstream categories
+1. Purchased goods and services
+2. Capital goods
+3. Fuel- and energy-related activities (not included in Disclosure 302-1)
+4. Upstream transportation and distribution
+5. Waste generated in operations
+6. Business travel
+7. Employee commuting
+8. Upstream leased assets
+Other upstream
+Downstream categories
+1. Downstream transportation and distribution
+2. Processing of sold products
+3. Use of sold products
+4. End-of-life treatment of sold products
+5. Downstream leased assets
+12 GRI 302: Energy 2016
+6. Franchises
+7. Investments
+Other downstream
+For each of these categories and activities, the organization can calculate or estimate the
+amount of energy consumed.
+The organization can report energy consumption separately for non-renewable sources and
+renewable sources.
+Background
+Energy consumption can occur outside an organization, i.e., throughout the organization’s
+upstream and downstream activities associated with its operations.
+This can include consumers’ use of products the organization sells, and the end-of-life
+treatment of products.
+Quantifying energy consumption outside of the organization can provide a basis for calculating
+some of the relevant other indirect (Scope 3) GHG emissions in Disclosure 305-3 of GRI 305:
+Emissions 2016.
+13 GRI 302: Energy 2016

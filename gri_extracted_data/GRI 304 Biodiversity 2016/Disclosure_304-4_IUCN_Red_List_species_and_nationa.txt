@@ -1,0 +1,29 @@
+Disclosure 304-4 IUCN Red List species and national conservation
+
+list species with habitats in areas affected by operations
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Total number of IUCN Red List species and national conservation list species with
+habitats in areas affected by the operations of the organization, by level of extinction
+risk:
+i. Critically endangered
+ii. Endangered
+iii. Vulnerable
+iv. Near threatened
+v. Least concern
+2.3 When compiling the information specified in Disclosure 304-4, the reporting organization
+RECOMMENDATIONS
+should compare the information in the IUCN Red List and national conservation lists with
+the species outlined in planning documentation and monitoring records to ensure
+consistency.
+Background
+GUIDANCE
+This disclosure helps an organization to identify where its activities pose a threat to endangered
+plant and animal species. By identifying these threats, the organization can initiate appropriate
+steps to avoid harm and to prevent the extinction of species. The International Union for
+Conservation of Nature (IUCN) ‘Red List of Threatened Species’ (an inventory of the global
+conservation status of plant and animal species) and national conservation lists serve as
+authorities on the sensitivity of habitat in areas affected by operations, and on the relative
+importance of these habitats from a management perspective.
+See reference [8] in the Bibliography.
+12 GRI 304: Biodiversity 2016

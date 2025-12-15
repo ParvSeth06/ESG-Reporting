@@ -1,0 +1,42 @@
+Disclosure 207-4 Country-by-country reporting 12
+
+Glossary 16
+Bibliography 20
+4 GRI 207: Tax 2019
+Introduction
+GRI 207: Tax 2019 contains disclosures for organizations to report information about their tax-related impacts, and
+how they manage these impacts. The disclosures enable an organization to provide information on how it manages
+tax, and information about its revenue, tax, and business activities on a country-by-country basis.
+The Standard is structured as follows:
+• Section 1 contains three disclosures, which provide information about how the organization manages its tax-
+related impacts.
+• Section 2 contains one disclosure, which provides information about the organization’s tax-related impacts.
+• The Glossary contains defined terms with a specific meaning when used in the GRI Standards. The terms are
+underlined in the text of the GRI Standards and linked to the definitions.
+• The Bibliography lists authoritative intergovernmental instruments and additional references used in developing
+this Standard.
+The rest of the Introduction section provides a background on the topic, an overview of the system of GRI Standards
+and further information on using this Standard.
+Background on the topic
+This Standard addresses the topic of tax.
+Taxes are important sources of government revenue and are central to the fiscal policy and macroeconomic stability
+of countries.
+They are acknowledged by the United Nations to play a vital role in achieving the Sustainable Development Goals.1
+They are also a key mechanism by which organizations contribute to the economies of the countries in which they
+operate.
+Taxes paid by an organization reflect that profitability depends on many factors external to the organization, including
+access to workers, markets, public infrastructure and services, natural resources, and a public administration.
+Organizations have an obligation to comply with tax legislation, and a responsibility to their stakeholders to meet
+expectations of good tax practices. If organizations seek to minimize their tax obligation in a jurisdiction, they might
+deprive the government of revenue. This could lead to reduced investment in public infrastructure and services,
+increase in government debt, or shifting of the tax obligation onto other tax payers.
+Perceptions of tax avoidance by an organization could also undermine tax compliance more broadly, by driving other
+organizations to engage in aggressive tax planning based on the view that they might otherwise be at a competitive
+disadvantage. This can lead to increasing costs associated with tax regulation and enforcement.
+Public reporting on tax increases transparency and promotes trust and credibility in the tax practices of organizations
+and in the tax systems. It enables stakeholders to make informed judgments about an organization’s tax positions.
+Tax transparency also informs public debate and supports the development of socially desirable tax policy.
+Country-by-country reporting
+Country-by-country reporting involves the reporting of financial, economic, and tax-related information for each
+jurisdiction in which an organization operates. This indicates the organization’s scale of activity and the contribution it
+makes through tax in these jurisdictions.

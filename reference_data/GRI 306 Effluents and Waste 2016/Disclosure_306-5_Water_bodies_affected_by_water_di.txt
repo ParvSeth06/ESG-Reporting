@@ -1,0 +1,94 @@
+Disclosure 306-5 Water bodies affected by water discharges and/or runoff 12
+
+Glossary 13
+Bibliography 14
+4 GRI 306: Effluents and Waste 2016
+Introduction
+A. Overview
+This Standard is part of the set of GRI Sustainability Reporting Standards (GRI Standards). These Standards are
+designed to be used by organizations to report about their impacts on the economy, the environment, and society.
+The GRI Standards are structured as a set of interrelated, modular standards. The full set can be downloaded at
+www.globalreporting.org/standards/.
+There are three universal Standards that apply to every organization preparing a sustainability report:
+GRI 101: Foundation
+GRI 102: General Disclosures
+GRI 103: Management Approach
+GRI 101: Foundation is the starting point for using the GRI Standards. It has essential information on how to use and
+reference the Standards.
+An organization then selects from the set of topic-specific GRI Standards for reporting on its material topics. These
+Standards are organized into three series: 200 (Economic topics), 300 (Environmental topics) and 400 (Social topics).
+Each topic Standard includes disclosures specific to that topic, and is designed to be used together with GRI 103:
+Management Approach, which is used to report the management approach for the topic.
+GRI 306: Effluents and Waste is a topic-specific GRI Standard in the 300 series (Environmental topics).
+B. Using the GRI Standards and making claims
+There are two basic approaches for using the GRI Standards. For each way of using the Standards there is a
+corresponding claim, or statement of use, which an organization is required to include in any published materials.
+1. The GRI Standards can be used as a set to prepare a sustainability report that is in accordance with the Standards.
+There are two options for preparing a report in accordance (Core or Comprehensive), depending on the extent of
+disclosures included in the report.
+An organization preparing a report in accordance with the GRI Standards uses this Standard, GRI 306: Effluents and
+Waste, if this is one of its material topics.
+2. Selected GRI Standards, or parts of their content, can also be used to report specific information, without preparing
+a report in accordance with the Standards. Any published materials that use the GRI Standards in this way are to
+include a ‘GRI-referenced’ claim.
+See Section 3 of GRI 101: Foundation for more information on how to use the GRI Standards, and the specific claims
+that organizations are required to include in any published materials.
+C. Requirements, recommendations and guidance
+The GRI Standards include:
+Requirements. These are mandatory instructions. In the text, requirements are presented in bold font and indicated
+with the word ‘shall’. Requirements are to be read in the context of recommendations and guidance; however, an
+organization is not required to comply with recommendations or guidance in order to claim that a report has been
+prepared in accordance with the Standards.
+Recommendations. These are cases where a particular course of action is encouraged, but not required. In the text,
+the word ‘should’ indicates a recommendation.
+Guidance. These sections include background information, explanations and examples to help organizations better
+understand the requirements.
+An organization is required to comply with all applicable requirements in order to claim that its report has been
+prepared in accordance with the GRI Standards. See GRI 101: Foundation for more information.
+5 GRI 306: Effluents and Waste 2016
+D. Background context
+In the context of the GRI Standards, the environmental dimension of sustainability concerns an organization’s impacts
+on living and non-living natural systems, including land, air, water, and ecosystems.
+GRI 306 addresses the topic of effluents and waste. This includes water discharges; the generation, treatment and
+disposal of waste; and spills of chemicals, oils, fuels, and other substances.
+The impacts of water discharges vary depending on the quantity, quality, and destination of the discharge. The
+unmanaged discharge of effluents with a high chemical or nutrient load (principally nitrogen, phosphorous, or
+potassium) can affect aquatic habitats, the quality of an available water supply, and an organization’s relationship with
+communities and other water users.
+The generation, treatment and disposal of waste – including its improper transportation – can also pose harm to
+human health and the environment. This is of particular concern if waste is transported to countries lacking the
+infrastructure and regulations to handle it.
+Spills of chemicals, oils, and fuels, among other substances, can potentially affect soil, water, air, biodiversity, and
+human health.
+These concepts are covered by the Basel and Ramsar Conventions, and in key instruments of the International
+Maritime Organization: see References.
+The disclosures in this Standard can provide information about an organization’s impacts related to effluents and
+waste, and how it manages these impacts.
+GRI 306: Effluents and Waste
+6 GRI 306: Effluents and Waste 2016
+GRI 306: Effluents and Waste
+This Standard includes disclosures on the management approach and topic-specific disclosures. These are set out
+in the Standard as follows:
+• Management approach disclosures (this section references GRI 103)
+• Disclosure 306-1 Water discharge by quality and destination
+• Disclosure 306-2 Waste by type and disposal method
+• Disclosure 306-3 Significant spills
+• Disclosure 306-4 Transport of hazardous waste
+• Disclosure 306-5 Water bodies affected by water discharges and/or runoff
+1. Management approach disclosures
+Management approach disclosures are a narrative explanation of how an organization manages a material topic, the
+associated impacts, and stakeholders’ reasonable expectations and interests. Any organization that claims its report
+has been prepared in accordance with the GRI Standards is required to report on its management approach for every
+material topic, as well as reporting topic-specific disclosures for those topics.
+Therefore, this topic-specific Standard is designed to be used together with GRI 103: Management Approach in order
+to provide full disclosure of the organization’s impacts. GRI 103 specifies how to report on the management approach
+and what information to provide.
+7 GRI 306: Effluents and Waste 2016
+1.1 The reporting organization shall report its management approach for effluents and waste
+REQUIREMENTS
+using GRI 103: Management Approach.
+When reporting its management approach for effluents and waste, the reporting organization
+GUIDANCE
+can also disclose expenditures on:
+• treatment and disposal of waste;
+• clean-up costs, including costs for remediation of spills as specified in Disclosure 306-3.

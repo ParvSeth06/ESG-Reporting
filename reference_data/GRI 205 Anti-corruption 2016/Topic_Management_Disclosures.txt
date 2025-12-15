@@ -1,0 +1,45 @@
+Topic Management Disclosures
+
+1. Topic management disclosures
+An organization reporting in accordance with the GRI Standards is required to report how it manages each of its
+material topics.
+An organization that has determined anti-corruption to be a material topic is required to report how it manages the
+topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).
+This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.
+1.1 The reporting organization shall report how it manages anti-corruption using
+REQUIREMENTS
+Disclosure 3-3 in GRI 3: Material Topics 2021.
+1.2 The reporting organization should disclose the following information:
+RECOMMENDATIONS
+1.2.1 The organization’s risk assessment procedures for corruption, including the
+criteria used in the risk assessment, such as location, activity, and sector;
+1.2.2 How the organization identifies and manages conflicts of interest that employees
+or persons linked to the organization’s activities, products, or services may have.
+Conflicts of interest for the highest governance body are covered in Disclosure 2-
+15 of GRI 2: General Disclosures 2021;
+1.2.3 How the organization ensures that charitable donations and sponsorships
+(financial and in-kind) that are made to other organizations are not used as a
+disguised form of bribery. Recipients of charitable donations and sponsorships
+(financial and in-kind) can include not-for-profit organizations, religious
+organizations, private organizations, and events;
+1.2.4 The extent to which communication and training on anti-corruption is tailored to
+those governance body members, employees, business partners, and other
+persons that have been identified as having a high risk of incidents of corruption;
+1.2.5 At which stage the training on anti-corruption for governance body members,
+employees, business partners and other persons that have been identified as
+having a high risk of incidents of corruption is provided (e.g., when new
+employees join the organization or when relationships with new business
+partners are established); and the frequency of the training (e.g., annually or
+biannually);
+1.2.6 Whether the organization participates in collective action to combat corruption,
+including:
+1.2.6.1 the strategy for the collective action activities;
+1.2.6.2 a list of the collective action initiatives in which the organization
+participates;
+1.2.6.3 a description of the main commitments of these initiatives.
+Guidance for clauses 1.2.4 and 1.2.5
+GUIDANCE
+In the context of this GRI Standard, the term ‘business partners’ includes, among others,
+suppliers, agents, lobbyists and other intermediaries, joint venture and consortia partners,
+governments, customers, and clients.
+8 GRI 205: Anti-corruption 2016

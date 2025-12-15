@@ -1,0 +1,18 @@
+Topic Management Disclosures
+
+the Topic management disclosures section.
+To compile this information, the organization can use the following approach: (a) determine the
+number of suppliers with significant water-related impacts from water discharge, (b) determine
+how many of these suppliers have set minimum standards for the quality of their effluent
+discharge, (c) calculate the percentage using the following formula:
+Percentage of suppliers with significant water-related impacts from water
+discharge that have set minimum standards for the quality of their effluent
+discharge
+=
+Number of suppliers that have set minimum standards for the quality of their
+effluent discharge
+x 100
+________________________________________________________________
+Number of suppliers with significant water-related impacts from water discharge
+For an example of how to present this information, see Table 3.
+16 GRI 303: Water and Effluents 2018

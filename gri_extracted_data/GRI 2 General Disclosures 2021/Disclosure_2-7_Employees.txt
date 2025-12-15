@@ -1,0 +1,26 @@
+Disclosure 2-7 Employees
+
+The organization shall:
+REQUIREMENTS
+a. report the total number of employees, and a breakdown of this total by gender and by
+region;
+b. report the total number of:
+i. permanent employees, and a breakdown by gender and by region;
+ii. temporary employees, and a breakdown by gender and by region;
+iii. non-guaranteed hours employees, and a breakdown by gender and by region;
+iv. full-time employees, and a breakdown by gender and by region;
+v. part-time employees, and a breakdown by gender and by region;
+c. describe the methodologies and assumptions used to compile the data, including
+whether the numbers are reported:
+i. in head count, full-time equivalent (FTE), or using another methodology;
+ii. at the end of the reporting period, as an average across the reporting period, or
+using another methodology;
+d. report contextual information necessary to understand the data reported under 2-7-a
+and 2-7-b;
+e. describe significant fluctuations in the number of employees during the reporting period
+and between reporting periods.
+Together with Disclosure 2-8, this disclosure gives insight into the organization’s approach to
+GUIDANCE
+employment, including the scope and nature of impacts arising from its employment practices. It
+also provides contextual information that aids an understanding of the information reported in
+other disclosures, and serves as the basis for calculation in other disclosures, such as

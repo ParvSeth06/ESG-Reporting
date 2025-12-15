@@ -1,0 +1,42 @@
+Disclosure 403-3 Occupational health services
+
+The reporting organization shall report the following information for employees and for
+REQUIREMENTS
+workers who are not employees but whose work and/or workplace is controlled by the
+organization:
+a. A description of the occupational health services’ functions that contribute to the
+identification and elimination of hazards and minimization of risks, and an explanation
+of how the organization ensures the quality of these services and facilitates workers’
+access to them.
+1.3 The reporting organization should report the following additional information:
+RECOMMENDATIONS
+1.3.1 How the organization maintains the confidentiality of workers’ personal health-
+related information;
+1.3.2 How the organization ensures that workers’ personal health-related information
+and their participation in any occupational health services is not used for any
+favorable or unfavorable treatment of workers.
+Guidance for Disclosure 403-3
+GUIDANCE
+Occupational health services aim to protect the health of workers in relation to their work
+environment.
+When describing how the quality of occupational health services is ensured, the reporting
+organization can explain whether the services are provided by competent individuals with
+recognized qualifications and accreditations, and whether it complies with legal requirements
+and/or recognized standards/guidelines.
+When describing how it facilitates workers’ access to occupational health services, the
+organization can describe whether it provides these services at the workplace and during
+working hours; whether it arranges transport to health clinics or expedites service there; whether
+it provides information about the services, including in a language easily understood by workers;
+and whether it adjusts workloads to allow workers to make use of these services.
+The organization can also report the metrics used to evaluate the effectiveness of these
+services, and the approaches used to raise awareness about them and encourage
+participation.
+Guidance for clauses 1.3.1 and 1.3.2
+Occupational health services are expected to respect workers’ right to privacy. Organizations are
+expected not to use workers' participation in such services and programs, or the health data
+derived therefrom, as criteria for their decisions regarding the employment or engagement of
+workers, including termination, demotion, promotion or offering of prospects, compensation, or
+any other favorable or unfavorable treatment. See reference [6] in the Bibliography.
+References
+See references [3] and [9] in the Bibliography.
+13 GRI 403: Occupational Health and Safety 2018

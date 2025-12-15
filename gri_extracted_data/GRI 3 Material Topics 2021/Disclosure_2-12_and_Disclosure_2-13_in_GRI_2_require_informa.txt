@@ -1,0 +1,108 @@
+Disclosure 2-12 and Disclosure 2-13 in GRI 2 require information on the role of the highest
+
+governance body in overseeing the management of the organization’s impacts and on how it
+delegates responsibility for this.
+The organization should also report how it manages actual impacts identified in previous
+reporting periods and which it continues to manage during the current reporting period.
+Guidance to 3-3-d-i
+The organization should report:
+• examples of actions taken to prevent or mitigate potential negative impacts (e.g.,
+adaptation/modification measures, facility upgrading, training, red-flag systems);
+• approaches taken to prevent or mitigate systemic negative impacts;
+• how the organization applies the precautionary principle, including:
+- how the organization proactively informs the public about potential negative impacts of its
+activities, products, and services, and how it deals with related questions and
+complaints;
+- the organization’s support or contribution to scientific research related to evaluating
+potential negative impacts of its activities, products, and services;
+- the organization’s participation in collaborative efforts to share knowledge and to prevent
+negative impacts of its activities, products, and services;
+• how the organization uses or increases its leverage to motivate its business relationships to
+prevent or mitigate potential negative impacts. For example, whether the organization uses
+22 GRI 3: Material Topics 2021
+or increases its leverage by enforcing contractual requirements, implements incentives such
+as future orders, provides training and support, or actively collaborates with other actors to
+motivate its business relationships to prevent or mitigate potential negative impacts;
+• whether the organization has terminated a business relationship because it lacks the
+leverage to prevent or mitigate potential negative impacts and, if so, whether it has assessed
+if terminating the relationship could itself result in negative impacts.
+See Guidance to 2-23-a-iii in GRI 2 for more information on ‘precautionary principle’.
+Guidance to 3-3-d-ii
+The organization should report:
+• examples of actions taken to remediate actual negative impacts, including examples of
+specific remedies or types of remedy provided;
+• how grievance mechanisms or other remediation processes (reported under Disclosure 2-
+25 in GRI 2) have made it possible for actual negative impacts to be remediated.
+See Disclosure 2-25 in GRI 2 for more information on processes to remediate negative impacts.
+Guidance to 3-3-e
+Requirement 3-3-e enables the organization to report information about the effectiveness of its
+actions to manage its impacts. Tracking the effectiveness of its actions is necessary for an
+organization to learn if its policies and processes are being implemented optimally. It is also
+necessary for knowing if it has responded effectively to its impacts and to drive continuous
+improvement.
+The organization should also report information about the effectiveness of its actions to manage
+actual impacts from previous reporting periods. This applies in cases where the organization
+has assessed the effectiveness of these actions or derived lessons during the current reporting
+period.
+Guidance to 3-3-e-i
+Processes used to track the effectiveness of actions can include internal or external auditing or
+verification, impact assessments, measurement systems, stakeholder feedback, grievance
+mechanisms, external performance ratings, and benchmarking.
+Guidance to 3-3-e-ii
+When reporting on goals and targets, the organization should report:
+• how the goals and targets are set;
+• whether and how the goals and targets take into account the sustainability context in which
+the impacts take place (e.g., sustainable development goals and conditions, the limits and
+demands placed on environmental resources). See the Sustainability context principle in
+GRI 1 for more information;
+• whether the goals and targets are informed by expectations in authoritative
+intergovernmental instruments and, where relevant, by scientific consensus;
+• whether goals and targets are mandatory (based on legislation) or voluntary. If they are
+mandatory, the organization can list the relevant legislation;
+• the organization’s activities or business relationships to which the goals and targets apply;
+• the baseline for the goals and targets;
+• the timeline for achieving the goals and targets.
+Targets can be qualitative (e.g., implementing a management system by a certain date) or
+quantitative (e.g., reducing greenhouse gas [GHG] emissions by a certain percentage by a
+certain date).
+The indicators used to evaluate progress can also be qualitative or quantitative. Quantitative
+indicators can bring precision and enable comparisons. Qualitative information is often needed
+to put quantitative information into context, enable its interpretation, and determine which
+comparisons and conclusions are likely to be most valid. The Topic Standards and Sector
+Standards include qualitative and quantitative indicators.
+Guidance to 3-3-e-iii
+Requirement 3-3-e-iii enables the organization to show the extent to which the actions taken
+have been effective. Information on the effectiveness of the actions can be obtained, for example,
+23 GRI 3: Material Topics 2021
+from the outcomes of internal or external auditing or verification, data collected through
+measurement systems, and stakeholder feedback. The organization should show that there is a
+credible link between the specific action taken by the organization and the effective management
+of impacts.
+For example, to show the effectiveness of its actions to support its suppliers with improving their
+working conditions, the organization can report survey feedback from the suppliers’ workers
+showing that working conditions have improved. Additional information the organization can
+provide includes data showing a decrease in the number of incidents identified through
+independent audits.
+Similarly, to demonstrate the effectiveness of its actions to improve the quality of its water
+discharge, the organization can report data showing a decrease in the concentration of total
+dissolved solids (mg/L) in the water discharge.
+When reporting progress toward its goals and targets, the organization should report whether
+progress is satisfactory or not. If a goal or target has not been achieved, the organization should
+explain why.
+Guidance to 3-3-e-iv
+Managing impacts is typically an ongoing process requiring continuous improvement based on
+learning from practice.
+The organization is not required to provide a detailed description of lessons learned in relation
+to each material topic. Instead, the organization can provide examples to show how it
+incorporates lessons learned to manage impacts more successfully in the future.
+For example, the organization can briefly describe lessons learned that have led to changes in
+its policies or practices (e.g., training for workers, giving additional attention to the performance
+of suppliers), or that have led to plans for changes that will manage impacts more successfully
+in the future.
+Lessons learned may be derived from the organization’s own processes (e.g., root cause
+analysis), from its business relationships, or from stakeholder or expert feedback.
+Guidance to 3-3-f
+The organization can explain, for example, whether and how affected stakeholders have been
+involved in determining an appropriate remedy for a negative impact or how stakeholder
+feedback is used to assess the effectiveness of the actions taken.
+24 GRI 3: Material Topics 2021

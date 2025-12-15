@@ -1,0 +1,72 @@
+Disclosure 403-9-c-ii does not require reporting which work-related hazards have caused or
+
+contributed to which high-consequence injuries during the reporting period; it requires the
+aggregate analysis of all work-related hazards that resulted in high-consequence injuries.
+If a work-related incident resulting in a high-consequence injury is still under investigation at the
+end of the reporting period, the organization can state this in its reported information. The
+organization can report on actions taken during the reporting period to eliminate hazards and
+minimize risks that were identified, or to address work-related incidents that took place, in prior
+reporting periods.
+Guidance for Disclosure 403-9-d
+This disclosure covers any actions taken or underway to eliminate other work-related hazards
+and minimize risks (i.e., not covered in Disclosure 403-9-c) using the hierarchy of controls. This
+disclosure can include actions taken in response to non-high-consequence work-related
+injuries, and work-related incidents with low probability of causing high-consequence injuries.
+Guidance for Disclosure 403-9-f
+Types of worker can be based on criteria such as full-time, part-time, non-guaranteed hours,
+permanent or temporary basis, type or degree of control (e.g., control of work or workplace, sole
+or shared control), and location, among others.
+Guidance for Disclosure 403-9-g
+If the organization follows the ILO code of practice on Recording and notification of occupational
+accidents and diseases, it can state this in response to Disclosure 403-9-g.
+If the organization does not follow the ILO code of practice, it can indicate which system of rules
+it applies in recording and reporting work-related injuries and its relationship to the ILO code of
+practice.
+24 GRI 403: Occupational Health and Safety 2018
+If the organization cannot directly calculate the number of hours worked, it may estimate this on
+the basis of normal or standard hours of work, taking into account entitlements to periods of
+paid leave of absence from work (e.g., paid vacations, paid sick leave, public holidays) and
+explain this in its reported information.
+When the organization cannot directly calculate or estimate the number of hours worked (e.g.,
+because the workers performed non-routine work during an emergency situation, or because
+the performed work was not paid for by the hour), it is required to provide a reason for this
+omission as set out in GRI 1: Foundation 2021. See Requirement 6 in GRI 1 for requirements
+on reasons for omission.
+Guidance for clause 2.1.3
+Clause 2.1.3 requires the organization to include injuries as a result of commuting incidents in
+cases where the transport has been organized by the organization (e.g., company or contracted
+bus or vehicle). The organization can report other commuting incidents separately; for example if
+this information is to be reported under local law.
+Guidance for clause 2.1.4
+Clause 2.1.4 requires the organization to calculate the rates based on either 200,000 or
+1,000,000 hours worked.
+Standardized rates allow for meaningful comparisons of statistics, for example between
+different periods or organizations, or help account for differences in the number of workers in the
+reference group and the number of hours worked by them.
+A rate based on 200,000 hours worked indicates the number of work-related injuries per 100
+full-time workers over a one-year timeframe, based on the assumption that one full-time worker
+works 2,000 hours per year. For example, a rate of 1.0 means that, on average, there is one
+work-related injury for every group of 100 full-time workers over a one-year timeframe. A rate
+based on 1,000,000 hours worked indicates the number of work-related injuries per 500 full-
+time workers over a one-year timeframe.
+A rate based on 200,000 hours worked might be more suitable for small organizations.
+In addition to standardized rates, this disclosure requires the organization to report absolute
+data (i.e., numbers), to allow information users to calculate the rates themselves using other
+methodologies if needed.
+Guidance for clauses 2.2.1 and 2.2.2
+Target 8.8 of the UN Sustainable Development Goals aims to ‘protect labour rights and promote
+safe and secure working environments for all workers, including migrant workers, in particular
+women migrants, and those in precarious employment’. Some groups might be at increased
+risk of work-related injury due to demographic factors such as sex, gender, migrant status, or
+age; it can thus be beneficial to break down data on work-related injuries by these demographic
+criteria. See reference [14] in the Bibliography.
+ILO Convention 143 ‘Migrant Workers (Supplementary Provisions) Convention’ defines ‘migrant
+worker’ as ‘a person who migrates or who has migrated from one country to another with a view
+to being employed otherwise than on his own account and includes any person regularly
+admitted as a migrant worker’. See ILO Convention 143 for more guidance.
+If the data on work-related injuries are driven primarily by certain types of injury (e.g., amputation,
+paralysis) or incident (e.g., explosion, road accident), the organization can provide a breakdown
+of this information.
+References
+See reference [10] in the Bibliography.
+25 GRI 403: Occupational Health and Safety 2018

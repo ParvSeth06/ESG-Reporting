@@ -1,0 +1,134 @@
+Disclosure 403-9 Work-related injuries
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. For all employees:
+i. The number and rate of fatalities as a result of work-related injury;
+ii. The number and rate of high-consequence work-related injuries (excluding
+fatalities);
+iii. The number and rate of recordable work-related injuries;
+iv. The main types of work-related injury;
+v. The number of hours worked.
+b. For all workers who are not employees but whose work and/or workplace is controlled
+by the organization:
+i. The number and rate of fatalities as a result of work-related injury;
+ii. The number and rate of high-consequence work-related injuries (excluding
+fatalities);
+iii. The number and rate of recordable work-related injuries;
+iv. The main types of work-related injury;
+v. The number of hours worked.
+c. The work-related hazards that pose a risk of high-consequence injury, including:
+i. how these hazards have been determined;
+ii. which of these hazards have caused or contributed to high-consequence injuries
+during the reporting period;
+iii. actions taken or underway to eliminate these hazards and minimize risks using
+the hierarchy of controls.
+d. Any actions taken or underway to eliminate other work-related hazards and minimize
+risks using the hierarchy of controls.
+e. Whether the rates have been calculated based on 200,000 or 1,000,000 hours worked.
+f. Whether and, if so, why any workers have been excluded from this disclosure, including
+the types of worker excluded.
+g. Any contextual information necessary to understand how the data have been compiled,
+such as any standards, methodologies, and assumptions used.
+Compilation requirements
+2.1 When compiling the information specified in Disclosure 403-9, the reporting
+organization shall:
+2.1.1 exclude fatalities in the calculation of the number and rate of high-
+consequence work-related injuries;
+2.1.2 include fatalities as a result of work-related injury in the calculation of the
+number and rate of recordable work-related injuries;
+2.1.3 include injuries as a result of commuting incidents only where the transport
+has been organized by the organization;
+2.1.4 calculate the rates based on either 200,000 or 1,000,000 hours worked, using
+the following formulas:
+Number of fatalities as a result
+Rate of fatalities as a of work-related injury
+result of work-related = ______________________ x [200,000 or
+injury
+1,000,000]
+Number of hours worked
+22 GRI 403: Occupational Health and Safety 2018
+Number of high-consequence
+work-related injuries
+Rate of high-consequence
+(excluding fatalities)
+work-related injuries
+(excluding fatalities) = ______________________ x [200,000 or
+1,000,000]
+Number of hours worked
+Number of recordable work-
+related injuries
+Rate of recordable work-
+related injuries = ______________________ x [200,000 or
+1,000,000]
+Number of hours worked
+2.2 The reporting organization should report the following additional information:
+RECOMMENDATIONS
+2.2.1 If the numbers and rates reported are significantly higher for certain types of
+injury, countries, business lines, or workers’ demographics (e.g., sex, gender,
+migrant status, age, or worker type), a breakdown of these data;
+2.2.2 A breakdown of the number of recordable work-related injuries by type of incident;
+2.2.3 If chemical hazards have been identified in Disclosure 403-9-c, a list of the
+chemicals;
+2.2.4 The number of high-potential work-related incidents identified;
+2.2.5 The number of close calls identified.
+Guidance for Disclosure 403-9
+GUIDANCE
+This disclosure covers work-related injuries. Data on work-related injuries are a measure of the
+extent of harm suffered by workers; they are not a measure of safety.
+An increase in the number or rate of reported incidents does not necessarily mean that there
+have been a greater number of incidents than before; it can indicate an improvement in the
+recording and reporting of incidents.
+If an increase in the number or rate of reported incidents is the result of the organization’s
+actions to improve the reporting and recording of fatalities, injuries, and ill health, or its actions
+to expand the scope of its management system to cover more workers or workplaces, the
+reporting organization can explain this and report on these actions and their results.
+Types of work-related injury can include death, amputation of a limb, laceration, fracture, hernia,
+burns, loss of consciousness, and paralysis, among others.
+In the context of this Standard, work-related musculoskeletal disorders are covered under ill
+health (and not injuries) and are to be reported using Disclosure 403-10. If the organization
+operates in a jurisdiction where worker compensation systems classify musculoskeletal
+disorders as injuries, the organization can explain this and report these disorders using
+Disclosure 403-9. See references [5] and [16] in the Bibliography for a list of musculoskeletal
+disorders.
+Injuries involving members of the public as a result of a work-related incident are not included in
+this disclosure, but the organization can report this information separately. For example, the
+organization can report incidents where a vehicle driven by a worker causes the deaths of other
+road users or incidents where visitors are injured during their visit to the organization’s
+workplace.
+Guidance for reporting on high-consequence work-related injuries
+As per the definition of recordable work-related injury, the organization is required to report all
+work-related injuries as part of the ‘number and rate of recordable work-related injuries’. In
+addition, the organization is required to separately report high-consequence work- related
+injuries, with a breakdown by:
+• fatalities, to be reported using Disclosures 403-9-a-i and 403-9-b-i.
+• other injuries from which the worker cannot recover (e.g., amputation of a limb), or does not
+or is not expected to recover fully to pre-injury health status within 6 months (e.g., fracture
+23 GRI 403: Occupational Health and Safety 2018
+with complications), to be reported using Disclosures 403-9-a-ii and 403-9-b-ii.
+The definition of ‘high-consequence work-related injury’ uses ‘recovery time’, instead of ‘lost
+time’, as the criterion for determining the severity of an injury. Lost time is an indicator of the loss
+of productivity for an organization as a result of a work-related injury; it does not necessarily
+indicate the extent of harm suffered by a worker.
+‘Recovery time’, in contrast, refers to the time needed for a worker to recover fully to pre-injury
+health status; it does not refer to the time needed for a worker to return to work. In some cases,
+a worker might return to work before full recovery.
+In addition to reporting information on high-consequence work-related injuries based on
+recovery time as required by this disclosure, the organization can also report the number and
+rate of work-related injuries that resulted in lost-workday cases, the average number of lost days
+per lost-workday case, the number of lost workdays, and the absentee rate.
+Guidance for Disclosure 403-9-c
+This disclosure covers work-related hazards that pose a risk of high-consequence injury if not
+controlled, even when there are control measures in place. The hazards might have been
+identified proactively through risk assessment, or reactively as a result of either a high-potential
+incident or a high-consequence injury.
+Examples of work-related hazards causing or contributing to high-consequence injuries include
+excessive workload demands, tripping hazards, or exposure to flammable materials.
+If the identified work-related hazards vary significantly across different locations, the organization
+may group or disaggregate these by relevant categories, such as by geographical area or
+business line. Similarly, if there are a high number of hazards, the organization may group or
+categorize them to facilitate reporting.
+When reporting how it has determined which work-related hazards pose a risk of high-
+consequence injury using Disclosure 403-9-c-i, the organization can describe the criteria or
+threshold used to determine which hazards pose such a risk and which do not. The processes
+to identify hazards and assess risks, and to apply the hierarchy of controls, are reported using

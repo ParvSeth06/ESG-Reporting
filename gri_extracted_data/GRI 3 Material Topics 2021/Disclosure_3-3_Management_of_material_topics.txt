@@ -1,0 +1,122 @@
+Disclosure 3-3 Management of material topics
+
+For each material topic reported under Disclosure 3-2, the organization shall:
+REQUIREMENTS
+a. describe the actual and potential, negative and positive impacts on the economy,
+environment, and people, including impacts on their human rights;
+b. report whether the organization is involved with the negative impacts through its
+activities or as a result of its business relationships, and describe the activities or
+business relationships;
+c. describe its policies or commitments regarding the material topic;
+d. describe actions taken to manage the topic and related impacts, including:
+i. actions to prevent or mitigate potential negative impacts;
+ii. actions to address actual negative impacts, including actions to provide for or
+cooperate in their remediation;
+iii. actions to manage actual and potential positive impacts;
+e. report the following information about tracking the effectiveness of the actions taken:
+i. processes used to track the effectiveness of the actions;
+ii. goals, targets, and indicators used to evaluate progress;
+iii. the effectiveness of the actions, including progress toward the goals and targets;
+iv. lessons learned and how these have been incorporated into the organization’s
+operational policies and procedures;
+f. describe how engagement with stakeholders has informed the actions taken (3-3-d)
+and how it has informed whether the actions have been effective (3-3-e).
+This disclosure requires the organization to explain how it manages each of its material topics.
+GUIDANCE
+This means that the organization is required to report this disclosure for each of its material
+topics. The requirements in this disclosure apply to every material topic.
+In addition to this disclosure, there may also be disclosures and guidance in the Topic
+Standards and Sector Standards that address reporting information about how the organization
+manages a topic. For example, some Topic Standards contain disclosures about specific
+actions or methods to manage a topic. The organization does not need to repeat this
+information under Disclosure 3-3 if it is already reported under another disclosure. The
+organization can report the information once and provide a reference to this information to fulfill
+the corresponding requirements in Disclosure 3-3.
+If the organization’s approach to managing a material topic, such as its policies or actions
+taken, applies to other material topics, the organization does not need to repeat this information
+for each topic. The organization can report this information once, with a clear explanation of all
+the topics it covers.
+If the organization cannot report the required information about an item specified in this
+disclosure because the item (e.g., policy, action) does not exist, it can comply with the
+requirement by reporting this to be the case. The organization can explain the reasons for not
+having this item or describe any plans to develop it. The disclosure does not require the
+organization to implement the item (e.g., developing a policy), but to report that the item does not
+exist.
+If the organization does not manage a material topic, it can comply with the requirements under
+this disclosure by explaining the reasons for not managing the topic or describing any plans to
+manage it.
+Guidance to 3-3-a
+Requirement 3-3-a enables the organization to indicate if a topic is material because of negative
+impacts, positive impacts, or both. It does not require a list of all the impacts identified or a
+detailed description of the impacts. Instead, the organization can provide a high-level overview of
+the impacts it has identified.
+20 GRI 3: Material Topics 2021
+Describing negative impacts
+The organization can describe:
+• whether the negative impacts are actual or potential;
+• the time frame of the negative impacts (i.e., whether the negative effects are short-term or
+long-term and when they are likely to arise);
+• whether the negative impacts are systemic (e.g., child labor or forced labor in countries
+where the organization operates or sources materials from) or are related to individual
+incidents (e.g., an oil spill);
+• the economic resources, environmental resources, and stakeholders (without identifying
+specific individuals) that are negatively affected or could be negatively affected, including their
+geographic location.
+Reporting information about negative impacts can help the organization demonstrate that it
+recognizes these impacts and has taken action or intends to address them. The organization
+may have concerns about reporting information about negative impacts even if these impacts
+are publicly known. In cases where negative impacts are publicly known, failure to acknowledge
+these impacts and to explain how they are being addressed could have consequences for the
+organization financially, operationally, or reputationally. If the organization is unable to disclose
+specific information (e.g., because of stakeholders’ right to privacy), it can provide the
+information in aggregated or anonymized form, or it can make a reference to the impacts
+commonly associated with its sectors, its products, or geographic locations. [11]
+Describing positive impacts
+The organization can describe:
+• whether the positive impacts are actual or potential;
+• the time frame of the positive impacts (i.e., whether the positive effects are short-term or
+long-term and when they are likely to arise);
+• the activities that result in the positive impacts (e.g., products, services, investments,
+procurement practices);
+• the economic resources, environmental resources, and stakeholders (without identifying
+specific individuals) that are positively affected or could be positively affected, including their
+geographic location.
+Guidance to 3-3-b
+The way the organization is involved with negative impacts determines how it should address
+the impacts and whether it has a responsibility to provide for or cooperate in their remediation
+(see section 2.3 in GRI 1: Foundation 2021). Requirement 3-3-b provides contextual information
+that aids an understanding of the actions taken by the organization to manage its negative
+impacts. The actions taken are reported under 3-3-d-i and 3-3-d-ii.
+Under requirement 3-3-b, the organization is required to report whether it is involved with the
+negative impacts through its activities or as a result of its business relationships. Where
+possible, the organization should also report:
+• whether it is or could be causing or contributing to the negative impacts through its activities;
+or
+• whether the impacts are or could be directly linked to its operations, products, or services by
+its business relationships even if it has not contributed to them.
+See Box 3 in this Standard for more information on causing, contributing, or being directly linked
+to negative impacts.
+Under requirement 3-3-b, the organization is also required to describe the activities or business
+relationships. This enables the organization to indicate if the impacts related to a material topic
+are widespread in the organization’s activities or business relationships, or if the impacts
+concern specific activities or business relationships.
+If the impacts concern specific activities, the organization should describe the types of activities
+(e.g., manufacturing, retail) and their geographic location. If the impacts concern specific
+business relationships, the organization should describe the types of business relationships
+(e.g., suppliers of raw materials, franchisees), their position in the value chain, and their
+geographic location.
+21 GRI 3: Material Topics 2021
+For example, if the organization has identified that its activities at specific sites could cause
+water pollution, it should describe the types of activities carried out at these sites and the
+geographic location of these sites. Or, if the organization has identified that it is directly linked to
+child labor by the business relationships in its supply chain, it should specify the types of
+suppliers using child labor (e.g., sub-contractors doing embroidery work for the organization’s
+products) and the geographic location of these suppliers.
+The organization can provide additional contextual information for understanding the extent of its
+impacts. Adding to the previous examples, the organization can report how many of its sites
+could cause water pollution (e.g., 60% of sites, five out of 12 sites) or the proportion of
+production these sites represent, or it can report the estimated number of sub-contractors using
+child labor that do embroidery work for the organization.
+Guidance to 3-3-c
+Requirement 3-3-c entails describing the policies or commitments the organization has
+developed specifically for the topic, in addition to the policy commitments reported under

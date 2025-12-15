@@ -1,0 +1,22 @@
+=== Automated GRI Mapping Report ===
+
+GRI 205 Anti-corruption 2016.txt — Similarity: 0.4252
+GRI 402 Labor and Management Relations 2016.txt — Similarity: 0.4164
+GRI 302 Energy 2016.txt — Similarity: 0.4156
+GRI 405 Diversity and Equal Opportunity 2016.txt — Similarity: 0.4127
+GRI 202 Market Presence 2016.txt — Similarity: 0.4093
+GRI 305 Emissions 2016.txt — Similarity: 0.4086
+GRI 415 Public Policy 2016.txt — Similarity: 0.4034
+GRI 201  Economic Performance 2016.txt — Similarity: 0.4030
+GRI 407 Freedom of Association and Collective Bargaining 2016.txt — Similarity: 0.4010
+GRI 203 Indirect Economic Impacts 2016.txt — Similarity: 0.4007
+GRI 306 Waste 2020.txt — Similarity: 0.4000
+GRI 206 Anti-competitive Behavior 2016.txt — Similarity: 0.3981
+GRI 304 Biodiversity 2016.txt — Similarity: 0.3968
+GRI 410 Security Practices 2016.txt — Similarity: 0.3931
+GRI 411 Rights of Indigenous Peoples 2016.txt — Similarity: 0.3902
+GRI 414 Supplier Social Assessment 2016.txt — Similarity: 0.3892
+GRI 207 Tax 2019.txt — Similarity: 0.3889
+GRI 413 Local Communities 2016.txt — Similarity: 0.3879
+GRI 403 Occupational Health and Safety 2018.txt — Similarity: 0.3867
+GRI 1 Foundation 2021.txt — Similarity: 0.3865

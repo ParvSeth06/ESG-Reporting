@@ -1,0 +1,32 @@
+Disclosure 304-1 Operational sites owned, leased, managed in, or
+
+adjacent to, protected areas and areas of high biodiversity value
+outside protected areas
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. For each operational site owned, leased, managed in, or adjacent to, protected areas
+and areas of high biodiversity value outside protected areas, the following information:
+i. Geographic location;
+ii. Subsurface and underground land that may be owned, leased, or managed by the
+organization;
+iii. Position in relation to the protected area (in the area, adjacent to, or containing
+portions of the protected area) or the high biodiversity value area outside
+protected areas;
+iv. Type of operation (office, manufacturing or production, or extractive);
+v. Size of operational site in km2 (or another unit, if appropriate);
+vi. Biodiversity value characterized by the attribute of the protected area or area of
+high biodiversity value outside the protected area (terrestrial, freshwater, or
+maritime ecosystem);
+vii. Biodiversity value characterized by listing of protected status (such as IUCN
+Protected Area Management Categories, Ramsar Convention, national legislation).
+2.1 When compiling the information specified in Disclosure 304-1, the reporting organization
+RECOMMENDATIONS
+should include information about sites for which future operations have been formally
+announced.
+Background
+GUIDANCE
+Monitoring which activities are taking place in both protected areas and areas of high biodiversity
+value outside protected areas makes it possible for the organization to reduce the risks of
+impacts. It also makes it possible for the organization to manage impacts on biodiversity or to
+avoid mismanagement.
+9 GRI 304: Biodiversity 2016

@@ -1,0 +1,131 @@
+Disclosure 2-25 Processes to remediate negative impacts
+
+The organization shall:
+REQUIREMENTS
+a. describe its commitments to provide for or cooperate in the remediation of
+negative impacts that the organization identifies it has caused or contributed to;
+b. describe its approach to identify and address grievances, including the grievance
+mechanisms that the organization has established or participates in;
+c. describe other processes by which the organization provides for or cooperates in the
+remediation of negative impacts that it identifies it has caused or contributed to;
+d. describe how the stakeholders who are the intended users of the grievance
+mechanisms are involved in the design, review, operation, and improvement of these
+mechanisms;
+e. describe how the organization tracks the effectiveness of the grievance mechanisms
+and other remediation processes, and report examples of their effectiveness, including
+stakeholder feedback.
+This disclosure covers grievance mechanisms that the organization has established or
+GUIDANCE
+participates in. Grievance mechanisms enable stakeholders to raise concerns about, and
+seek remedy for, the organization’s potential and actual negative impacts on them. This
+includes impacts on their human rights. This disclosure also covers other processes by which
+the organization provides for or cooperates in the remediation of negative impacts that it
+identifies it has caused or contributed to.
+The United Nations (UN) Guiding Principles on Business and Human Rights [14] and
+the Organisation for Economic Co-operation and Development (OECD) Guidelines for
+Multinational Enterprises [12] set out expectations for organizations to provide for or cooperate in
+the remediation, through legitimate processes, of negative impacts that they identify they have
+caused or contributed to. The organization is not responsible for the remediation of negative
+impacts directly linked to its operations, products, or services by its business relationships,
+where the organization has not contributed to the impacts. It can, however, play a role in the
+remediation. See Box 3 in GRI 3: Material Topics 2021 for more information on causing,
+contributing, or being directly linked to negative impacts.
+These instruments also set out expectations for organizations to establish or participate in
+effective operational-level grievance mechanisms.
+Grievance mechanisms are distinct from whistleblowing mechanisms. Whistleblowing
+mechanisms enable individuals to raise concerns about wrongdoing or breaches of the law in
+the organization’s operations or business relationships, regardless of whether the individuals
+themselves are harmed or not. Whistleblowing mechanisms are reported under Disclosure 2-
+26 in this Standard.
+This disclosure covers the operation of grievance mechanisms and other remediation
+processes. The actions taken to provide for or cooperate in the remediation of actual negative
+impacts for material topics are reported under 3-3-d-ii in GRI 3.
+The disclosure is only relevant to environmental remediation processes (e.g., processes to
+remove contaminants from soil) when these are connected to impacts on stakeholders or
+grievances raised by stakeholders. However, the remedy provided to stakeholders through the
+mechanisms and processes covered by this disclosure may involve environmental remediation.
+The use of environmental remediation processes can be reported under 3-3-d-ii in GRI 3.
+Guidance to 2-25-b
+Grievance mechanisms refer to any routinized, state-based or non-state-based, judicial or non-
+judicial processes through which stakeholders can raise grievances and seek remedy.
+Examples of state-based judicial and non-judicial grievance mechanisms include courts (for
+both criminal and civil actions), labor tribunals, national human rights institutions, National
+Contact Points under the OECD Guidelines for Multinational Enterprises, ombudsperson offices,
+41 GRI 2: General Disclosures 2021
+consumer protection agencies, regulatory oversight bodies, and government-run complaints
+offices.
+Non-state-based grievance mechanisms include those administered by the organization, either
+alone or together with stakeholders, such as operational-level grievance mechanisms
+and collective bargaining, including the mechanisms established by collective bargaining. They
+also include mechanisms administered by industry associations, international organizations,
+civil society organizations, or multi-stakeholder groups.
+Operational-level grievance mechanisms are administered by the organization either alone or in
+collaboration with other parties and are directly accessible by the organization’s stakeholders.
+They allow for grievances to be identified and addressed early and directly, thereby preventing
+both harm and grievances from escalating. They also provide important feedback on the
+effectiveness of the organization’s due diligence from those who are directly affected.
+The organization can describe:
+• the intended purpose and users of the mechanisms (i.e., whether they are intended for a
+particular stakeholder category, topic, or region) and whether they enable users to raise
+human rights-related concerns. For example, the organization can explain that it has
+established a mechanism for community members to raise complaints about resettlement,
+as well as a separate hotline for workers to raise concerns about issues affecting their
+rights, such as health and safety conditions;
+• how the mechanisms operate and who administers them (the organization or another party);
+• whether operational-level grievance mechanisms are administered at the organizational
+level or whether they are administered at a lower level (at the site or project level) and, in
+such a case, how information from these mechanisms is centralized;
+• how the mechanisms have been designed and on which principles and guidelines they are
+based, including whether they are designed to meet the effectiveness criteria set out in UN
+Guiding Principle 31 [14];
+• the process through which grievances are investigated;
+• whether grievances are communicated to the highest governance body;
+• whether grievances are treated confidentially;
+• whether the mechanisms can be used by stakeholders anonymously through representation
+by a third party;
+• whether the organization requires or provides incentives for the creation or improvement of
+operational-level grievance mechanisms in workplaces of suppliers;
+• whether the organization provides a back-up process for workplaces of suppliers that do not
+have operational-level grievance mechanisms or where the existing grievance mechanisms
+in those workplaces result in unresolved issues.
+Guidance to 2-25-c
+Requirement 2-25-c covers remediation processes other than grievance mechanisms. Such
+processes lead to the remediation of an impact without mechanisms for filing a formal
+complaint.
+Examples include instances where the organization takes action to remediate an actual impact
+evidenced in an impact assessment or a report published by a civil society organization.
+Guidance to 2-25-d
+The organization can describe, for example, how it engages with stakeholders who are the
+intended users of the grievance mechanisms, to understand how they want to access the
+mechanisms to raise concerns, and their expectations about how the mechanisms will operate.
+Guidance to 2-25-e
+According to UN Guiding Principle 31 [14], effective grievance mechanisms are legitimate,
+accessible, predictable, equitable, transparent, rights-compatible, and a source of continuous
+learning. In addition to these criteria, effective operational-level grievance mechanisms are also
+based on engagement and dialogue. It can be more difficult for the organization to assess the
+effectiveness of grievance mechanisms that it participates in compared to those it has
+established itself.
+The organization can report:
+42 GRI 2: General Disclosures 2021
+• whether and how the intended users are informed about the grievance mechanisms and
+remediation processes;
+• whether and how the intended users are trained to use the grievance mechanisms and
+remediation processes;
+• the accessibility of the grievance mechanisms and remediation processes, such as the
+number of hours per day or days per week they are accessible, and their availability in
+different languages;
+• how the organization seeks to ensure it respects users’ human rights and protects them
+against reprisals (i.e., non-retaliation for raising complaints or concerns);
+• how satisfied users are with the grievance mechanisms and remediation processes, and
+with the resulting outcomes, as well as how the organization assesses user satisfaction;
+• the number and types of grievances filed during the reporting period, and the percentage of
+grievances that were addressed and resolved, including the percentage that were resolved
+through remediation;
+• the number of grievances filed during the reporting period that are repeated or recurring;
+• changes made to the grievance mechanisms and remediation processes in response to
+lessons learned about their effectiveness.
+Quantitative data, such as the number of grievances, is unlikely to be sufficient on its own. For
+example, a low number of grievances could indicate that few incidents have occurred, but it
+could also signal that their intended users do not trust the mechanisms. For this reason,
+contextual information should be provided to help information users interpret the data.
+43 GRI 2: General Disclosures 2021

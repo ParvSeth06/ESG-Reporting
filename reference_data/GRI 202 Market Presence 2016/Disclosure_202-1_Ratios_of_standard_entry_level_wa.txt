@@ -1,0 +1,42 @@
+Disclosure 202-1 Ratios of standard entry level wage by gender
+
+compared to local minimum wage
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. When a significant proportion of employees are compensated based on wages subject
+to minimum wage rules, report the relevant ratio of the entry level wage by gender at
+significant locations of operation to the minimum wage.
+b. When a significant proportion of other workers (excluding employees) performing the
+organization’s activities are compensated based on wages subject to minimum wage
+rules, describe the actions taken to determine whether these workers are paid above
+the minimum wage.
+c. Whether a local minimum wage is absent or variable at significant locations of
+operation, by gender. In circumstances in which different minimums can be used as a
+reference, report which minimum wage is being used.
+d. The definition used for ‘significant locations of operation’.
+2.1 When compiling the information specified in Disclosure 202-1-b, the reporting
+RECOMMENDATIONS
+organization should:
+2.1.1 use the data from Disclosure 2-8 in GRI 2: General Disclosures 2021 to identify
+the total number of workers who are not employees and whose work is controlled
+by the organization;
+2.1.2 if applicable, convert the entry level wage to the same units used in the minimum
+wage (e.g., hourly or monthly basis);
+2.1.3 when a significant proportion of other workers (excluding employees) performing
+the organization’s activities are compensated based on wages subject to
+minimum wage rules, report the relevant ratio of the entry level wage by gender at
+significant locations of operation to the minimum wage.
+Background
+GUIDANCE
+This disclosure applies to those organizations in which a substantial portion of their employees,
+and workers (excluding employees) performing the organization’s activities, are compensated in
+a manner or scale that is closely linked to laws or regulations on minimum wage.
+Providing wages above the minimum wage can help contribute to the economic well-being of
+workers performing the organization’s activities. The impacts of wage levels are immediate, and
+they directly affect individuals, organizations, countries and economies. The distribution of
+wages is crucial for eliminating inequalities, such as wage gap differences between women
+and men, or nationals and migrants.
+Also, entry level wages paid compared to local minimum wages show the competitiveness of an
+organization’s wages and provide information relevant for assessing the effect of wages on the
+local labor market. Comparing this information by gender can also be a measure of an
+organization’s approach to equal opportunity in the workplace.

@@ -48,4 +48,12 @@ data ingestion and mapping :
         https://docs.google.com/spreadsheets/d/1iFIzk3zb4QT9EZnPAn60PZmTQN0LLNOkh-gFJ6qhPHc/edit?gid=1817010029#gid=1817010029
     
 </pre>
+
+<pre>
+<h1>Pipeline</h1>
+<h2>Step 1</h2>
+Convert everything into text + structured blocks.
+
+
+</pre>
 </html>

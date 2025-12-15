@@ -1,0 +1,18 @@
+Disclosure 2-15 Conflicts of interest
+
+The organization shall:
+REQUIREMENTS
+a. describe the processes for the highest governance body to ensure that conflicts of
+interest are prevented and mitigated;
+b. report whether conflicts of interest are disclosed to stakeholders, including, at a
+minimum, conflicts of interest relating to:
+i. cross-board membership;
+ii. cross-shareholding with suppliers and other stakeholders;
+iii. existence of controlling shareholders;
+iv. related parties, their relationships, transactions, and outstanding balances.
+See reference [20] in the Bibliography.
+GUIDANCE
+Guidance to 2-15-b-iii
+The organization should use the definition of controlling shareholder applied in the
+organization’s consolidated financial statements or equivalent documents.
+27 GRI 2: General Disclosures 2021

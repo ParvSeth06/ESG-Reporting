@@ -1,0 +1,32 @@
+Disclosure 201-4 Financial assistance received from government
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Total monetary value of financial assistance received by the organization from any
+government during the reporting period, including:
+i. tax relief and tax credits;
+ii. subsidies;
+iii. investment grants, research and development grants, and other relevant types of
+grant;
+iv. awards;
+v. royalty holidays;
+vi. financial assistance from Export Credit Agencies (ECAs);
+vii. financial incentives;
+viii. other financial benefits received or receivable from any government for any
+operation.
+b. The information in 201-4-a by country.
+c. Whether, and the extent to which, any government is present in the shareholding
+structure.
+Compilation requirements
+2.5 When compiling the information specified in Disclosure 201-4, the reporting
+organization shall identify the monetary value of financial assistance received from
+government through consistent application of generally accepted accounting
+principles.
+Background
+GUIDANCE
+This disclosure provides a measure of governments’ contributions to an organization.
+The significant financial assistance received from a government, in comparison with taxes paid,
+can be useful for developing a balanced picture of the transactions between the organization
+and government.
+See reference [8] in the Bibliography.
+15 GRI 201: Economic Performance 2016

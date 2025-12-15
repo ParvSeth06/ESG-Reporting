@@ -1,0 +1,23 @@
+Disclosure 415-1 Political contributions
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Total monetary value of financial and in-kind political contributions made directly and
+indirectly by the organization by country and recipient/beneficiary.
+b. If applicable, how the monetary value of in-kind contributions was estimated.
+Compilation requirements
+2.1 When compiling the information specified in Disclosure 415-1, the reporting
+organization shall calculate financial political contributions in compliance with
+national accounting rules, where these exist.
+Background
+GUIDANCE
+The purpose of this disclosure is to identify an organization’s support for political causes.
+This disclosure can provide an indication of the extent to which an organization’s political
+contributions are in line with its stated policies, goals, or other public positions.
+Direct or indirect contributions to political causes can also present corruption risks, because
+they can be used to exert undue influence on the political process. Many countries have
+legislation that limits the amount an organization can spend on political parties and candidates
+for campaigning purposes. If an organization channels contributions indirectly through
+intermediaries, such as lobbyists or organizations linked to political causes, it can improperly
+circumvent such legislation.
+9 GRI 415: Public Policy 2016

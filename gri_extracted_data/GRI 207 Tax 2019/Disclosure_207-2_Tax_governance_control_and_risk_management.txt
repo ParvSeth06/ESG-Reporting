@@ -1,0 +1,73 @@
+Disclosure 207-2 Tax governance, control, and risk management
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. A description of the tax governance and control framework, including:
+i. the governance body or executive-level position within the organization
+accountable for compliance with the tax strategy;
+ii. how the approach to tax is embedded within the organization;
+iii. the approach to tax risks, including how risks are identified, managed, and
+monitored;
+iv. how compliance with the tax governance and control framework is evaluated.
+b. A description of the mechanisms to raise concerns about the organization’s business
+conduct and the organization’s integrity in relation to tax.
+c. A description of the assurance process for disclosures on tax including, if applicable, a
+link or reference to the external assurance report(s) or assurance statement(s).
+Background
+GUIDANCE
+Having robust governance, control, and risk management systems in place for tax can be an
+indication that the reported approach to tax and tax strategy are well embedded in an
+organization and that the organization is effectively monitoring its compliance obligations.
+Reporting this information reassures stakeholders that the organization’s practices reflect the
+statements it has made about its approach to tax in its tax strategy or equivalent documents.
+Guidance for Disclosure 207-2-a
+When describing the tax governance and control framework, the reporting organization can
+provide examples of effective implementation of its tax governance, control, and risk
+management systems.
+Guidance for Disclosure 207-2-a-i
+If the highest governance body in an organization is accountable for compliance with the tax
+strategy, the organization can specify the degree to which the highest governance body has
+oversight of compliance. The organization can also specify any accountability for compliance
+delegated to executive-level positions within the organization.
+Guidance for Disclosure 207-2-a-ii
+When reporting how the approach to tax is embedded within the organization, the organization
+can describe processes, projects, programs, and initiatives that support adherence to the
+approach to tax and tax strategy.
+Examples of such initiatives can include:
+• training and guidance provided to relevant employees on the link between tax strategy,
+business strategy, and sustainable development;
+• remuneration or incentive schemes for the person(s) responsible for implementing the tax
+strategy;
+• succession-planning for positions within the organization that are responsible for tax;
+• participation in tax transparency initiatives or representative associations that seek to
+develop best practice around disclosures on tax or educate stakeholders on tax-related
+issues.
+Guidance for Disclosure 207-2-a-iii
+Tax risks are risks associated with the organization’s tax practices that might lead to a negative
+effect on the goals of the organization, or to financial or reputational damage. These include
+compliance risks or risks such as those related to uncertain tax positions, changes in
+legislation, or a perception of aggressive tax practices.
+When reporting on the approach to tax risks, the organization can describe its risk appetite and
+tolerance and provide examples of tax practices it has avoided because they are misaligned
+with its approach to tax and tax strategy. Risk appetite and tolerance indicate the degree of risk
+the organization is willing to accept in determining its tax positions.
+10 GRI 207: Tax 2019
+When reporting how tax risks are identified, managed, and monitored, the organization can:
+• describe the role of the highest governance body in the tax risk management process;
+• describe how the tax risk management process is communicated and embedded across
+the organization;
+• refer to any internal control frameworks or generally accepted risk management principles
+that are applied to tax.
+Guidance for Disclosure 207-2-a-iv
+When reporting how compliance with the tax governance and control framework is evaluated, the
+organization can describe the process through which the tax governance and control framework
+is monitored, tested, and maintained. An example of this is giving an internal auditor
+accountability for undertaking annual reviews of the tax department’s compliance with the tax
+governance and control framework.
+The organization can also specify the degree to which the highest governance body has
+oversight of the design, implementation, and effectiveness of the tax governance and control
+framework.
+Guidance for Disclosure 207-2-b
+One example of a mechanism for individuals to raise concerns about the organization’s
+business conduct, or about activities that compromise the organization’s integrity in relation to
+tax, is whistleblowing.

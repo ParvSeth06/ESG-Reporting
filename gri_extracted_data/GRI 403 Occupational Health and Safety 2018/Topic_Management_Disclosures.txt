@@ -1,0 +1,20 @@
+Topic Management Disclosures
+
+group the topic management disclosures across countries or sites by relevant categories. For
+example, the organization may group information required in Disclosure 403-4-b on formal joint
+management-worker health and safety committees across sites with similar characteristics
+together; it does not have to report on each committee separately.
+Guidance for clause 1.2
+Leading indicators measure an organization’s performance in relation to the actions it takes to
+prevent work-related injuries and ill health. They are important because organizations cannot
+rely solely on lagging indicators, which might not give a true picture of their occupational health
+and safety performance due to issues such as long-latency ill health and underreporting.
+Leading indicators are often unique or tailored to a specific organization. Examples of such
+indicators include the number of workers trained in hazard identification and incident reporting,
+the increase in reporting of hazards and incidents after implementation of reporting policy and
+processes and worker training, the frequency of health and safety inspections or audits, the
+average time it takes to implement the recommendations of an inspection or audit, and
+response times for the investigation and elimination of hazards.
+References
+See references [2], [4], [7], [8], [11], and [12] in the Bibliography.
+10 GRI 403: Occupational Health and Safety 2018

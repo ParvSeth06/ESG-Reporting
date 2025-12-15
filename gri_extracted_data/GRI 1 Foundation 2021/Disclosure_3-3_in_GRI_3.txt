@@ -1,0 +1,437 @@
+Disclosure 3-3 in GRI 3.
+
+Guidance to 5-b
+14 GRI 1: Foundation 2021
+The organization is required to comply with Requirement 5-b only if GRI Sector Standards that apply to its sectors are
+available. The Sector Standards provide information for organizations about their likely material topics.
+The organization is required to review each topic described in the applicable Sector Standards and determine
+whether it is a material topic for the organization.
+If the organization determines a topic in an applicable Sector Standard to be material, the Sector Standard helps the
+organization identify disclosures to report information about its impacts in relation to that topic. For each likely material
+topic, the Sector Standards list disclosures from the GRI Topic Standards for organizations to report. If any of the Topic
+Standards disclosures listed in the Sector Standards are not relevant to the organization’s impacts, the organization
+is not required to report these. However, the organization is required to list these disclosures in the GRI content index
+and provide ‘not applicable’ as the reason for omission for not reporting the disclosures. The organization is also
+required to explain in brief why the disclosures are not relevant to its impacts in relation to the material topic. See
+Requirement 6 in this Standard for more information on reasons for omission.
+Note that when reporting the Topic Standards disclosures listed in the Sector Standards, the organization can still use
+any of the four reasons for omission included in Table 1 of this Standard if it cannot comply with the disclosure or with
+a requirement in the disclosure.
+Besides the disclosures from the Topic Standards, the Sector Standards may list additional sector disclosures for
+organizations to report. Reporting these additional sector disclosures is a recommendation. The organization is not
+required to provide a reason for omission for the additional sector disclosures it does not report.
+Requirement 6: Provide reasons for omission for disclosures
+and requirements that the organization cannot comply with
+a. If the organization cannot comply with a disclosure or with a requirement in a disclosure for which reasons
+for omission are permitted, the organization shall in the GRI content index:
+i. specify the disclosure or the requirement it cannot comply with;
+ii. provide one of the four reasons for omission included in Table 1 and the required explanation for that
+reason.
+Table 1. Permitted reasons for omission and required explanations
+REASON FOR OMISSION REQUIRED EXPLANATION
+Not applicable Explain why the disclosure or the requirement is considered not
+applicable.
+Legal prohibitions Describe the specific legal prohibitions.
+Confidentiality constraints Describe the specific confidentiality constraints.
+Information unavailable / Specify which information is unavailable or incomplete. When
+incomplete the information is incomplete, specify which part is missing (e.g.,
+specify the entities for which the information is missing).
+Explain why the required information is unavailable or
+incomplete.
+Describe the steps being taken and the expected time frame to
+obtain the information.
+Guidance
+Reasons for omission are permitted for all disclosures from the GRI Standards except for:
+• Disclosure 2-1 Organizational details
+• Disclosure 2-2 Entities included in the organization’s sustainability reporting
+• Disclosure 2-3 Reporting period, frequency and contact point
+• Disclosure 2-4 Restatements of information
+• Disclosure 2-5 External assurance
+• Disclosure 3-1 Process to determine material topics
+15 GRI 1: Foundation 2021
+• Disclosure 3-2 List of material topics
+The organization is only permitted to provide one of the four reasons for omission included in Table 1 of this Standard:
+Not applicable
+The organization provides ‘not applicable’ as the reason for omission in the following situations:
+• When a disclosure or a requirement in a disclosure does not apply to the organization based on its characteristics
+(e.g., size, type). For example, 2-15-b-iii in GRI 2: General Disclosures 2021 requires the organization to report
+whether conflicts of interest relating to the existence of controlling shareholders are disclosed to stakeholders.
+This requirement does not apply to organizations that do not have shareholders (e.g., foundations).
+In such cases, the organization is required to explain why the disclosure or the requirement does not apply to the
+organization.
+However, there may be cases where a disclosure or a requirement in a disclosure applies to the organization, but
+the organization does not have in place the item specified in the disclosure or in the requirement (e.g., committee,
+policy, practice, process). For example, 2-23-b in GRI 2 requires the organization to describe its policy
+commitment to respect human rights. This expectation applies to every organization. All organizations are
+expected to have a policy commitment to respect human rights, but not every organization may have developed
+such a policy commitment yet.
+If the organization cannot report the required information about an item specified in a disclosure because the item
+(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be
+the case. It does not need to provide the ‘not applicable’ reason for omission.
+In such cases, the organization can explain the reasons for not having this item or describe any plans to develop it.
+The disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that
+the item does not exist.
+• When a disclosure from the GRI Topic Standards that is listed in the applicable GRI Sector Standards is not
+relevant to the organization’s impacts in relation to a material topic. In such cases, the organization is required to
+explain why the disclosure is not relevant to its impacts in relation to the material topic.
+Legal prohibitions
+The organization provides ‘legal prohibitions’ as the reason for omission when the law forbids collecting the required
+information or reporting it publicly.
+Confidentiality constraints
+There may be cases where the law does not forbid collecting or reporting the required information, but the
+organization considers the information confidential and cannot report it publicly. In such cases, the organization
+provides ‘confidentiality constraints’ as the reason for omission.
+Information unavailable / incomplete
+There may be cases where the organization has the item specified in a disclosure or in a requirement in a disclosure,
+but the information about the item is unavailable or incomplete. In such cases, the organization provides ‘information
+unavailable / incomplete’ as the reason for omission. For example, information is unavailable for Disclosure 305-3 in
+GRI 305: Emissions 2016 when the organization has other indirect (Scope 3) greenhouse gas (GHG) emissions, but it
+has not collected data on its other indirect (Scope 3) GHG emissions yet.
+When the organization cannot report part of the required information it means the information is incomplete. When the
+reported information does not cover the complete scope required by a disclosure (e.g., the information is missing for
+certain entities, sites, geographic locations), then the organization is required to provide ‘information unavailable /
+incomplete’ as the reason for omission. The organization must specify the entities, sites, geographic locations, etc.,
+for which the required information is missing and cannot be reported.
+The required information, or part of the required information, can be unavailable when, for example, it cannot be
+obtained or is not of adequate quality to report. This may be the case when the information is collected from another
+organization, such as a supplier.
+16 GRI 1: Foundation 2021
+The reasons ‘confidentiality constraints’ and ‘information unavailable / incomplete’ should only be used in exceptional
+cases. Using ‘confidentiality constraints’ and ‘information unavailable / incomplete’ frequently as reasons for omitting
+information reduces the credibility and usefulness of the organization’s sustainability reporting. It does not align with
+the aim of reporting in accordance with the GRI Standards, which is to provide a comprehensive picture of the
+organization’s most significant impacts.
+The organization is not allowed to use other reasons for omission than those included in Table 1 of this Standard.
+The organization is required to report reasons for omission in the GRI content index. See Requirement 7 in this
+Standard for more information on the content index.
+Requirement 7: Publish a GRI content index
+The organization shall:
+a. publish a GRI content index that includes:
+i. the title: GRI content index;
+ii. the statement of use;
+iii. the title of GRI 1 used;
+iv. the title(s) of the GRI Sector Standard(s) that apply to the organization’s sector(s);
+v. a list of the organization’s material topics;
+vi. a list of the topics in the applicable GRI Sector Standard(s) determined as not material and an
+explanation for why they are not material;
+vii. a list of the reported disclosures, including the disclosure titles;
+viii. the titles of the GRI Standards and other sources that the reported disclosures come from;
+ix. when the organization does not report GRI Topic Standard disclosures for a material topic from the
+applicable GRI Sector Standard(s), a list of the disclosures and the required reason for omission;
+x. the GRI Sector Standard reference numbers for the disclosures from the applicable Sector Standard(s);
+xi. the location where the information reported for each disclosure can be found;
+xii. any reasons for omission used;
+b. if it publishes a standalone sustainability report and the GRI content index is not included in the report itself,
+provide a link or reference to the GRI content index in the report.
+Guidance
+The information reported using the GRI Standards can be published or made accessible in a range of formats (e.g.,
+electronic, paper-based) across one or more locations (e.g., a standalone sustainability report, web pages, an annual
+report). The GRI content index provides an overview of the organization’s reported information, shows where the
+reported information can be found, and helps information users access this information. The content index also
+shows which GRI Standards and disclosures the organization has used.
+Appendix 1 of this Standard provides guidance on how to prepare the GRI content index when reporting in accordance
+with the GRI Standards. It includes an example that the organization can use to prepare the content index. The
+organization can use a different format for the content index than the one provided in Appendix 1, as long as it
+complies with the requirements for the content index.
+Requirement 8: Provide a statement of use
+a. The organization shall include the following statement in its GRI content index:
+[Name of organization] has reported in accordance with the GRI Standards for the period [reporting period
+start and end dates].
+Guidance
+To state that the organization has reported in accordance with the GRI Standards, the organization must have
+complied with all nine requirements in this section.
+The organization is required to insert the name of the organization and the start and end dates of its reporting period
+in the statement, for example:
+17 GRI 1: Foundation 2021
+‘ABC Limited has reported in accordance with the GRI Standards for the period from 1 January 2022 to 31 December
+2022.’
+The organization is required to report whether the highest governance body is responsible for reviewing and
+approving the reported information, including the organization’s material topics, under Disclosure 2-14 in GRI 2:
+General Disclosures 2021.
+Requirement 9: Notify GRI
+a. The organization shall notify GRI of the use of the GRI Standards and the statement of use by sending an
+email to reportregistration@globalreporting.org.
+Guidance
+The organization should include the following information in the email:
+• The legal name of the organization.
+• The link to the GRI content index.
+• The link to the report, if publishing a standalone sustainability report.
+• The statement of use.
+• A contact person in the organization and their contact details.
+There is no cost associated with notifying GRI of the use of the GRI Standards.
+18 GRI 1: Foundation 2021
+Reporting with reference to the GRI Standards
+An organization can report with reference to the GRI Standards if it cannot comply with all the requirements for
+reporting in accordance with the GRI Standards. The organization should transition to reporting in accordance with the
+GRI Standards in time as it will provide a comprehensive picture of the organization’s most significant impacts on the
+economy, environment, and people, including impacts on their human rights.
+The organization can also report with reference to the GRI Standards if it uses selected GRI Standards, or parts of
+their content, to report information about specific topics for specific purposes, such as complying with a reporting
+regulation on climate change.
+The organization must comply with all three requirements in this section to report with reference to the GRI Standards.
+The organization should also apply the reporting principles specified in section 4 of this Standard to ensure high-
+quality reporting. Additionally, the organization should explain how it manages its impacts for the topics it reports on
+using Disclosure 3-3 in GRI 3: Material Topics 2021.
+Overview of requirements for reporting with reference to the GRI Standards
+Publish a GRI content index
+Provide a statement of use
+Notify GRI
+Publish a GRI content index
+The organization shall:
+a. publish a GRI content index that includes:
+i. the title: GRI content index;
+ii. the statement of use;
+iii. the title of GRI 1 used;
+iv. a list of the reported disclosures from the GRI Standards, including the disclosure titles;
+v. the titles of the GRI Standards that the reported disclosures come from;
+vi. the location where the information reported for each disclosure can be found;
+b. if it publishes a standalone sustainability report and the GRI content index is not included in the report itself,
+provide a link or reference to the GRI content index in the report.
+Guidance
+The information reported using the GRI Standards can be published or made accessible in a range of formats (e.g.,
+electronic, paper-based) across one or more locations (e.g., a standalone sustainability report, web pages, an annual
+report). The GRI content index provides an overview of the organization’s reported information, shows where the
+reported information can be found, and helps information users access this information. The content index also
+shows which GRI Standards and disclosures the organization has used.
+Appendix 2 of this Standard provides guidance on how to prepare the GRI content index when reporting with reference
+to the GRI Standards. It includes an example that the organization can use to prepare the content index. The
+organization can use a different format for the content index than the one provided in Appendix 2, as long as it
+complies with the requirements for the content index. The organization can also use the content index specified for
+reporting in accordance with the GRI Standards in Appendix 1 of this Standard, if suitable. In such a case, the
+statement of use in Appendix 1, which is for reporting in accordance with the GRI Standards, must be replaced by the
+statement of use for reporting with reference to the GRI Standards.
+19 GRI 1: Foundation 2021
+Provide a statement of use
+a. The organization shall include the following statement in its GRI content index:
+[Name of organization] has reported the information cited in this GRI content index for the period [reporting
+period start and end dates] with reference to the GRI Standards.
+Guidance
+To state that the organization has reported with reference to the GRI Standards, the organization must have complied
+with all three requirements in this section.
+The organization is required to insert the name of the organization and the start and end dates of its reporting period
+in the statement, for example:
+‘ABC Limited has reported the information cited in this GRI content index for the period from 1 January 2022 to 31
+December 2022 with reference to the GRI Standards.’
+Notify GRI
+a. The organization shall notify GRI of the use of the GRI Standards and the statement of use by sending an
+email to reportregistration@globalreporting.org.
+Guidance
+The organization should include the following information in the email:
+• The legal name of the organization.
+• The link to the GRI content index.
+• The link to the report, if publishing a standalone sustainability report.
+• The statement of use.
+• A contact person in the organization and their contact details.
+There is no cost associated with notifying GRI of the use of the GRI Standards.
+20 GRI 1: Foundation 2021
+4. Reporting principles
+The reporting principles are fundamental to achieving high-quality sustainability reporting. Therefore, an organization
+is required to apply the reporting principles to be able to claim that it has prepared the reported information in
+accordance with the GRI Standards (see section 3 in this Standard).
+The reporting principles guide the organization in ensuring the quality and proper presentation of the reported
+information. High-quality information allows information users to make informed assessments and decisions about
+the organization’s impacts and its contribution to sustainable development.
+Each reporting principle consists of a requirement and guidance on how to apply it.
+Overview of principles
+• Accuracy
+• Balance
+• Clarity
+• Comparability
+• Completeness
+• Sustainability context
+• Timeliness
+• Verifiability
+Accuracy
+Requirement
+a. The organization shall report information that is correct and sufficiently detailed to allow an assessment of
+the organization’s impacts.
+Guidance
+The characteristics that determine accuracy vary depending on the nature of the information (qualitative or quantitative)
+and the intended use of the information. The accuracy of quantitative information depends on the specific methods
+used to gather, compile, and analyze data. The accuracy of qualitative information depends on the level of detail and
+consistency with the available evidence. Information users require sufficient detail to make assessments about the
+organization’s impacts.
+To apply the Accuracy principle, the organization should:
+• report qualitative information that is consistent with available evidence and other reported information;
+• indicate which data has been measured;
+• adequately describe data measurements and bases for calculations, and ensure it is possible to replicate
+measurements and calculations with similar results;
+• ensure that the margin of error for data measurements does not inappropriately influence the conclusions or
+assessments of information users;
+• indicate which data has been estimated, and explain the underlying assumptions and techniques used for the
+estimation as well as any limitations of the estimates.
+21 GRI 1: Foundation 2021
+Balance
+Requirement
+a. The organization shall report information in an unbiased way and provide a fair representation of the
+organization’s negative and positive impacts.
+Guidance
+To apply the Balance principle, the organization should:
+• present information in a way that allows information users to see negative and positive year-on-year trends in
+impacts;
+• distinguish clearly between facts and the organization’s interpretation of the facts;
+• not omit relevant information concerning its negative impacts;
+• not overemphasize positive news or impacts;
+• not present information in a way that is likely to inappropriately influence the conclusions or assessments of
+information users.
+Clarity
+Requirement
+a. The organization shall present information in a way that is accessible and understandable.
+Guidance
+To apply the Clarity principle, the organization should:
+• consider specific accessibility needs of information users, associated with abilities, language, and technology;
+• present information in a way that users can find the information they want without unreasonable effort, for example,
+through a table of contents, maps, or links;
+• present information in a way that it can be understood by users who have reasonable knowledge of the
+organization and its activities;
+• avoid abbreviations, technical terms, or other jargon likely to be unfamiliar to users or, if these are used, include
+relevant explanations in the appropriate sections or in a glossary;
+• report information in a concise way and aggregate information where useful without omitting necessary details;
+• use graphics and consolidated data tables to make information accessible and understandable.
+Comparability
+Requirement
+a. The organization shall select, compile, and report information consistently to enable an analysis of changes
+in the organization’s impacts over time and an analysis of these impacts relative to those of other
+organizations.
+Guidance
+Information reported in a comparable way enables the organization and other information users to assess the
+organization’s current impacts against its past impacts and its goals and targets. It also enables external parties to
+assess and benchmark the organization’s impacts against impacts of other organizations as part of rating activities,
+investment decisions, and advocacy programs.
+To apply the Comparability principle, the organization should:
+• present information for the current reporting period and at least two previous periods, as well as any goals and
+targets that have been set;
+• use accepted international metrics (e.g., kilograms, liters), and standard conversion factors and protocols, where
+applicable, for compiling and reporting information;
+• maintain consistency in the methods used to measure and calculate data and in explaining the methods and
+assumptions used;
+• maintain consistency in the manner of presenting the information;
+• report total numbers or absolute data (e.g., metric tons of CO equivalent) as well as ratios or normalized data
+2
+(e.g., CO emissions per unit produced) to enable comparisons, and provide explanatory notes when using ratios;
+2
+22 GRI 1: Foundation 2021
+• provide contextual information (e.g., the organization’s size, geographic location) to help information users
+understand the factors that contribute to differences between the organization’s impacts and the impacts of other
+organizations;
+• present the current disclosures alongside restatements of historical data to enable comparisons if there have
+been changes from the information reported previously. This can include changes in the length of the reporting
+period, in the measurement methodologies, in the definitions used, or in other elements of reporting. The
+organization is required to report restatements of information under Disclosure 2-4 in GRI 2: General Disclosures
+2021;
+• if restatements of historical data are not provided, explain the changes to provide contextual information for
+interpreting the current disclosures.
+Completeness
+Requirement
+a. The organization shall provide sufficient information to enable an assessment of the organization’s impacts
+during the reporting period.
+Guidance
+To apply the Completeness principle, the organization should:
+• present activities, events, and impacts for the reporting period in which they occur. This includes reporting
+information about activities that have a minimal impact in the short-term, but a reasonably foreseeable cumulative
+impact that can become unavoidable or irreversible in the long-term (e.g., activities that generate bio-accumulative
+or persistent pollutants);
+• not omit information that is necessary for understanding the organization’s impacts.
+If the organization consists of multiple entities (i.e., a parent entity and its subordinate entities), the organization is
+required to explain the approach used for consolidating the information under 2-2-c in GRI 2: General Disclosures
+2021.
+If the information for a disclosure or a requirement in a disclosure for which reasons for omission are permitted is
+unavailable or incomplete, then the organization is required to provide a reason for omission. When information is
+incomplete, the organization is required to specify which part is missing (e.g., specify the entities for which the
+information is missing). See Requirement 6 in this Standard for more information.
+Sustainability context
+Requirement
+a. The organization shall report information about its impacts in the wider context of sustainable development.
+Guidance
+Sustainable development has been defined as ‘development which meets the needs of the present without
+compromising the ability of future generations to meet their own needs’ [8]. The objective of sustainability reporting
+using the GRI Standards is to provide transparency on how an organization contributes or aims to contribute to
+sustainable development. For this purpose, the organization needs to assess and report information about its
+impacts in the wider context of sustainable development.
+To apply the Sustainability context principle, the organization should:
+• draw on objective information and authoritative measures on sustainable development to report information about
+its impacts (e.g., scientific research or consensus on the limits and demands placed on environmental
+resources);
+• report information about its impacts in relation to sustainable development goals and conditions (e.g., reporting
+total greenhouse gas [GHG] emissions as well as reductions in GHG emissions in relation to the goals set out in
+the United Nations [UN] Framework Convention on Climate Change [FCCC] Paris Agreement [4]);
+• report information about its impacts in relation to societal expectations and expectations of responsible business
+conduct set out in authoritative intergovernmental instruments with which the organization is expected to comply
+(e.g., Organisation for Economic Co-operation and Development [OECD] Guidelines for Multinational Enterprises
+[3], UN Guiding Principles on Business and Human Rights [5]) and in other recognized sector-specific, local,
+regional, or global instruments;
+• if operating in a range of locations, report information about its impacts in relation to appropriate local contexts
+(e.g., reporting total water use, as well as water use relative to the sustainable thresholds and the social context of
+given catchments).
+23 GRI 1: Foundation 2021
+Understanding the sustainability context provides the organization with critical information to determine and report on
+its material topics (see GRI 3: Material Topics 2021). The GRI Sector Standards describe the sectors’ context and can
+help the organization understand its sustainability context.
+Timeliness
+Requirement
+a. The organization shall report information on a regular schedule and make it available in time for information
+users to make decisions.
+Guidance
+The usefulness of information is closely tied to whether it is available in time for information users to integrate it into
+their decision-making. Thus, the Timeliness principle refers to how regularly and how soon after the reporting period
+the information is published.
+To apply the Timeliness principle, the organization should:
+• find a balance between the need to make information available in a timely manner and ensuring that the
+information is of high quality and meets the requirements under the other reporting principles;
+• ensure consistency in the length of reporting periods;
+• indicate the time period covered by the reported information.
+See section 5.1 in this Standard for information on aligning the reporting periods and publishing schedules of
+sustainability reporting and other types of reporting.
+Verifiability
+Requirement
+a. The organization shall gather, record, compile, and analyze information in such a way that the information
+can be examined to establish its quality.
+Guidance
+It is important that the reported information can be examined to establish its veracity and to determine the extent to
+which the reporting principles have been applied.
+To apply the Verifiability principle, the organization should:
+• set up internal controls and organize documentation in such a way that individuals other than those preparing the
+reported information (e.g., internal auditors, external assurance providers) can review them;
+• document the decision-making processes underlying the organization’s sustainability reporting in a way that
+allows for the examination of the key decisions and processes, such as the process of determining material
+topics;
+• if the organization designs information systems for its sustainability reporting, design these systems in a way that
+they can be examined as part of an external assurance process;
+• be able to identify the original sources of the reported information and provide reliable evidence to support
+assumptions or calculations;
+• be able to provide representation from the original sources of the reported information attesting to the accuracy of
+the information within acceptable margins of error;
+• avoid including information that is not substantiated by evidence unless it is relevant for understanding the
+organization’s impacts;
+• provide clear explanations of any uncertainties associated with the reported information.
+See section 5.2 in this Standard for more information on enhancing the credibility of the organization’s sustainability
+reporting.
+24 GRI 1: Foundation 2021
+5. Additional recommendations for reporting
+This section presents recommendations for an organization to align its sustainability reporting with other types of
+reporting and to enhance the credibility of its sustainability reporting.
+5.1 Aligning sustainability reporting with other reporting
+An organization should align its sustainability reporting with other statutory and regulatory reporting, in particular its
+financial reporting. This means that the organization should report the information for the same reporting period and
+for the same group of entities as covered in its financial reporting. The organization should also publish the
+information at the same time as its financial reporting, where this is possible.
+5.2 Enhancing the credibility of sustainability reporting
+There are several ways in which an organization can enhance the credibility of its sustainability reporting. These
+include the use of internal controls, external assurance, and stakeholder or expert panels. The organization is not
+required to apply these methods when reporting in accordance with the GRI Standards but is encouraged to do so.
+Internal controls
+The organization should set up internal controls to strengthen the integrity and credibility of its sustainability reporting.
+Internal controls are processes designed and implemented by the organization, generally its management, to provide
+reasonable assurance regarding the achievement of its objectives.
+Internal controls can be implemented in day-to-day operations and through compliance functions. The organization
+can also establish and maintain an internal audit function as part of its processes for risk management to further
+improve the credibility of its sustainability reporting.
+In some jurisdictions, corporate governance codes require the highest governance body to inquire and, if it is
+satisfied, to confirm the adequacy of an organization’s internal controls in the annual report. This confirmation may
+only relate to the adequacy of the internal controls for financial reporting. It may not provide information about whether
+the same internal controls are also adequate to assess the credibility of the organization’s sustainability reporting. If
+the organization relies on internal controls set up for financial reporting, it should assess the relevance of these
+controls for its sustainability reporting. In cases where these controls are inadequate, the organization should identify
+and use additional internal controls to assess the credibility of its sustainability reporting.
+External assurance
+In addition to internal controls, the organization should seek external assurance for its sustainability reporting.

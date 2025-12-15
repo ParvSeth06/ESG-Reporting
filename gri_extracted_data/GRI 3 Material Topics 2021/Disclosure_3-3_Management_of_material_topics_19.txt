@@ -1,0 +1,436 @@
+Disclosure 3-3 Management of material topics 19
+
+Glossary 24
+Bibliography 29
+4 GRI 3: Material Topics 2021
+Introduction
+GRI 3: Material Topics 2021 provides step-by-step guidance for organizations on how to determine material topics. It
+also explains how the Sector Standards are used in this process. Material topics are topics that represent an
+organization’s most significant impacts on the economy, environment, and people, including impacts on their human
+rights.
+GRI 3 also contains disclosures for organizations to report information about their process of determining material
+topics, their list of material topics, and how they manage each of their material topics.
+The Standard is structured as follows:
+• Section 1 provides step-by-step guidance on how to determine material topics.
+• Section 2 contains three disclosures, which provide information about the organization’s process of determining
+material topics, its list of material topics, and how it manages each topic.
+• The Glossary contains defined terms with a specific meaning when used in the GRI Standards. The terms are
+underlined in the text of the GRI Standards and linked to the definitions.
+• The Bibliography lists authoritative intergovernmental instruments and additional references used in developing
+this Standard, as well as resources that the organization can consult.
+The rest of the Introduction section provides an overview of the system of GRI Standards and further information on
+using this Standard.
+System of GRI Standards
+This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an
+organization to report information about its most significant impacts on the economy, environment, and people,
+including impacts on their human rights, and how it manages these impacts.
+The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI
+Universal Standards, GRI Sector Standards, and GRI Topic Standards (see Figure 1 in this Standard).
+Universal Standards: GRI 1, GRI 2 and GRI 3
+GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance
+with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.
+GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its
+reporting practices and other organizational details, such as its activities, governance, and policies.
+GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that
+the organization uses to report information about its process of determining material topics, its list of material topics,
+and how it manages each topic.
+Sector Standards
+The Sector Standards provide information for organizations about their likely material topics. The organization uses
+the Sector Standards that apply to its sectors when determining its material topics and when determining what to
+report for each material topic.
+Topic Standards
+The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation
+to particular topics. The organization uses the Topic Standards according to the list of material topics it has
+determined using GRI 3.
+5 GRI 3: Material Topics 2021
+Figure 1. GRI Standards: Universal, Sector and Topic Standards
+GRI Standards
+Universal Standards Sector Standards Topic Standards
+Requirements and
+principles for using the
+GRI Standards
+Disclosures about the
+reporting organization
+Disclosures and
+guidance about the
+organization's material
+topics
+Apply all three Universal Use the Sector Standards that Select Topic Standards to report
+Standards to your reporting apply to your sectors specific information on your
+material topics
+Using this Standard
+An organization reporting in accordance with the GRI Standards is required to determine its material topics and report
+all disclosures in this Standard. The organization is required to report Disclosure 3-3 Management of material topics
+for each material topic.
+Reasons for omission are only permitted for Disclosure 3-3.
+If the organization cannot comply with Disclosure 3-3 or with a requirement in Disclosure 3-3 (e.g., because the
+required information is confidential or subject to legal prohibitions), then the organization is required to specify this in
+the GRI content index, and provide a reason for omission with an explanation. See Requirement 6 in GRI 1:
+Foundation 2021 for more information on reasons for omission.
+If the organization cannot report the required information about an item specified in a disclosure because the item
+(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the
+case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The
+disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the
+item does not exist.
+If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it
+has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the
+organization can report a required disclosure by providing a reference in the GRI content index as to where this
+information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the
+information has been published).
+Requirements, guidance and defined terms
+The following apply throughout the GRI Standards:
+Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with
+requirements to report in accordance with the GRI Standards.
+Requirements may be accompanied by guidance.
+6 GRI 3: Material Topics 2021
+Guidance includes background information, explanations, and examples to help the organization better understand
+the requirements. The organization is not required to comply with guidance.
+The Standards may also include recommendations. These are cases where a particular course of action is
+encouraged but not required.
+The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.
+Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The
+organization is required to apply the definitions in the Glossary.
+7 GRI 3: Material Topics 2021
+1. Guidance to determine material topics
+An organization reporting in accordance with the GRI Standards is required to determine its material topics. When
+doing this, the organization is also required to use the applicable GRI Sector Standards (see Requirement 3 in GRI 1:
+Foundation 2021 and Box 5 in this Standard).
+This section describes the four steps that the organization should follow in determining its material topics (see Figure
+2). Following the steps in this section helps the organization determine its material topics and report the disclosures
+in section 2 of this Standard. The steps provide guidance and are not requirements on their own.
+Figure 2. Process to determine material topics
+Identify and assess impacts on an ongoing basis Determine material topics for reporting
+Test the material
+topics with experts
+and information users
+Material topics
+1 2 3 4
+Prioritize the
+Understand the Identify actual Assess the
+most significant
+organization’s and potential significance of
+impacts for
+context impacts the impacts
+reporting
+Use the Sector Consider the Test the material
+Standards to topics and topics against the
+understand the impacts described topics in the
+sectors’ context in the Sector Sector Standards
+Standards
+The first three steps in the process to determine material topics relate to the organization’s ongoing identification and
+assessment of impacts. During these steps, the organization identifies and assesses its impacts regularly, as part of
+its day-to-day activities, and while engaging with relevant stakeholders and experts. These ongoing steps allow the
+organization to actively identify and manage its impacts as they evolve and as new ones arise. The first three steps
+are conducted independently of the sustainability reporting process, but they inform the last step. In Step 4, the
+organization prioritizes its most significant impacts for reporting and, in this way, determines its material topics.
+In each reporting period, the organization should review its material topics from the previous reporting period to
+account for changes in the impacts. Changes in impacts can result from changes in the organization’s activities and
+business relationships. This review helps ensure the material topics represent the organization’s most significant
+impacts in each new reporting period.
+The organization should document its process of determining material topics. This includes documenting the
+approach taken, decisions, assumptions, and subjective judgments made, sources analyzed, and evidence
+gathered. Accurate records help the organization explain its chosen approach and report the disclosures in section 2
+of this Standard. The records facilitate analysis and assurance. See the Verifiability principle in GRI 1 for more
+information.
+The approach for each step will vary according to the specific circumstances of the organization, such as its business
+model; sectors; geographic, cultural, and legal operating context; ownership structure; and the nature of its impacts.
+Given these specific circumstances, the steps should be systematic, documented, replicable, and used consistently
+in each reporting period. The organization should document any changes in its approach together with the rationale
+for those changes and their implications.
+8 GRI 3: Material Topics 2021
+The organization’s highest governance body should oversee the process and review and approve the material topics.
+If the organization does not have a highest governance body, a senior executive or group of senior executives should
+oversee the process and review and approve the material topics.
+Box 1. Input to financial and value creation reporting
+The material topics and impacts that have been determined through this process inform financial and value
+creation reporting. They provide crucial input for identifying financial risks and opportunities related to the
+organization’s impacts, and for financial valuation. This in turn helps in making financial materiality judgments
+about what to recognize in financial statements.
+While most, if not all, of the impacts that have been identified through this process will eventually become
+financially material, sustainability reporting is also highly relevant in its own right as a public interest activity
+and is independent of the consideration of financial implications. It is therefore important for the organization to
+report on all the material topics that it has determined using the GRI Standards. These material topics cannot
+be deprioritized on the basis of not being considered financially material by the organization.
+See Box 1 in GRI 1: Foundation 2021 for more information on sustainability reporting and financial and value
+creation reporting.
+The following sections describe the four steps to determine material topics in more detail.
+Step 1. Understand the organization’s context
+In this step, the organization creates an initial high-level overview of its activities and business relationships, the
+sustainability context in which these occur, and an overview of its stakeholders. this provides the organization with
+critical information for identifying its actual and potential impacts.
+The organization should consider the activities, business relationships, stakeholders, and sustainability context of all
+the entities it controls or has an interest in (e.g., subsidiaries, joint ventures, affiliates), including minority interests.
+Relevant departments and functions within the organization that can assist in this step include communications,
+human resources, investor relations, legal and compliance departments or functions, marketing and sales,
+procurement, and product development. The GRI Sector Standards describe the sectors’ context and they can also
+assist in this step.
+Activities
+The organization should consider the following in relation to its activities:
+• The organization’s purpose, value or mission statements, business model, and strategies.
+• The types of activities it carries out (e.g., sales, marketing, manufacturing, distribution) and the geographic
+locations of these activities.
+• The types of products and services it offers and the markets it serves (i.e., the types of customers and
+beneficiaries targeted, and the geographic locations where products and services are offered).
+• The sectors in which the organization is active and their characteristics (e.g., whether they involve informal work,
+whether they are labor or resource intensive).
+• The number of employees, including whether they are full-time, part-time, non-guaranteed hours, permanent or
+temporary, and their demographic characteristics (e.g., age, gender, geographic location).
+• The number of workers who are not employees and whose work is controlled by the organization, including the
+types of worker (e.g., agency workers, contractors, self-employed persons, volunteers), their contractual
+relationship with the organization (i.e., whether the organization engages these workers directly or indirectly
+through a third party), and the work they perform.
+Business relationships
+The organization’s business relationships include relationships with business partners, entities in its value chain
+(including entities beyond the first tier), and any other entities directly linked to its operations, products, or services.
+The organization should consider the following in relation to its business relationships:
+• The types of business relationships it has (e.g., joint ventures, suppliers, franchisees).
+• The types of activities undertaken by those with which it has business relationships (e.g., manufacturing the
+9 GRI 3: Material Topics 2021
+organization’s products, providing security services to the organization).
+• The nature of the business relationships (e.g., whether they are based on a long-term or short-term contract,
+whether they are based on a specific project or event).
+• The geographic locations where the activities of the business relationships take place.
+Sustainability context
+The organization should consider the following to understand the sustainability context of its activities and business
+relationships:
+• Economic, environmental, human rights, and other societal challenges at local, regional, and global levels related
+to the organization’s sectors and the geographic location of its activities and business relationships (e.g., climate
+change, lack of law enforcement, poverty, political conflict, water stress).
+• The organization’s responsibility regarding the authoritative intergovernmental instruments with which it is
+expected to comply.
+Examples include the International Labour Organization (ILO) Tripartite Declaration of Principles concerning
+Multinational Enterprises and Social Policy [1]; the Organisation for Economic Co-operation and Development
+(OECD) Guidelines for Multinational Enterprises [3]; the United Nations (UN) Framework Convention on Climate
+Change (FCCC) Paris Agreement [4]; the UN Guiding Principles on Business and Human Rights [5]; and the UN
+International Bill of Human Rights [6].
+• The organization’s responsibility regarding the laws and regulations with which it is expected to comply.
+See the Sustainability context principle in GRI 1: Foundation 2021 for more information.
+Stakeholders
+The organization should identify who its stakeholders are across its activities and business relationships and engage
+with them to help identify its impacts.
+The organization should draw a full list of individuals and groups whose interests are affected or could be affected by
+the organization’s activities. Common categories of stakeholders for organizations are business partners, civil society
+organizations, consumers, customers, employees and other workers, governments, local communities, non-
+governmental organizations, shareholders and other investors, suppliers, trade unions, and vulnerable groups. The
+organization can further distinguish between individuals and groups whose human rights are affected or could be
+affected, and individuals and groups with other interests.
+When identifying its stakeholders, the organization should ensure it identifies any individuals or groups it does not
+have a direct relationship with (e.g., workers in the supply chain or local communities that live at a distance from the
+organization’s operations) and those who are unable to articulate their views (e.g., future generations) but whose
+interests are affected or could be affected by the organization’s activities.
+Different lists of stakeholders can be drawn per activity, project, product or service, or other classification that is
+relevant for the organization.
+See Box 2 in this Standard for information on engaging with stakeholders.
+Step 2. Identify actual and potential impacts
+In this step, the organization identifies its actual and potential impacts on the economy, environment, and people,
+including impacts on their human rights, across the organization’s activities and business relationships. Actual
+impacts are those that have already occurred, and potential impacts are those that could occur but have not yet
+occurred. These impacts include negative and positive impacts, short-term and long-term impacts, intended and
+unintended impacts, and reversible and irreversible impacts.
+To identify its impacts, the organization can use information from diverse sources. It can use information from its own
+or third-party assessments of impacts on the economy, environment, and people, including impacts on their human
+rights. It can also use information from legal reviews, anti-corruption compliance management systems, financial
+audits, occupational health and safety inspections, and shareholder filings. It can also use information from any other
+relevant assessments of business relationships carried out by the organization or by industry or multi-stakeholder
+initiatives.
+Further information can be gathered through grievance mechanisms that the organization has established itself, or
+that have been established by other organizations. The organization can also use information from broader enterprise
+risk management systems, provided that these systems identify the organization’s impacts on the economy, the
+10 GRI 3: Material Topics 2021
+environment, and people, in addition to identifying risks for the organization itself. It can also use information from
+external sources, such as news organizations and civil society organizations.
+In addition, the organization should seek to understand the concerns of its stakeholders (see Box 2 in this Standard)
+and consult internal and external experts, such as civil society organizations or academics.
+Box 2. Engaging with relevant stakeholders and experts
+The organization should seek to understand the concerns of its stakeholders by consulting them directly in a
+way that takes into account language and other potential barriers (e.g., cultural differences, gender and power
+imbalances, divisions within the community). Identifying and removing potential barriers is necessary to
+ensure that stakeholder engagement is effective.
+Engagement with at-risk or vulnerable groups may necessitate specific approaches and call for special
+attention. Such approaches include removing social barriers that limit the participation of women in public
+forums and removing physical barriers that prevent remotely located communities from attending a meeting.
+The organization should respect the human rights of all stakeholders and other individuals with whom it
+engages (e.g., their rights to privacy, freedom of expression, and peaceful assembly and protest) and it should
+protect them against reprisals (i.e., non-retaliation for raising complaints or concerns).
+Broad engagement with stakeholders may not be possible in cases that involve many stakeholders or in
+cases that involve impacts resulting in collective harm. For example, broad engagement may not be possible
+in the case of corruption, which collectively harms the population of the jurisdiction in which it takes place or
+greenhouse gas (GHG) emissions, which contribute to collective transboundary harm.
+In such cases, the organization may engage with credible stakeholder representatives or proxy organizations
+(e.g., non-governmental organizations, trade unions). This is also relevant in cases where engaging with
+individuals could undermine certain rights or collective interests. For example, when considering a decision to
+restructure or shut down a factory, it may be important for an organization to engage with trade unions to
+mitigate the employment impacts of the decision. In such a case, engaging with individual workers could
+undermine the right of workers to form or join trade unions and to bargain collectively.
+The degree of impact on stakeholders may inform the degree of engagement. The organization should
+prioritize the most severely affected or potentially affected stakeholders for engagement.
+Where direct consultation is not possible, the organization should consider reasonable alternatives, such as
+consulting credible independent experts, such as national human rights institutions, human rights and
+environmental defenders, trade unions, and other members of civil society.
+See references [2] and [5] in the Bibliography.
+In this step, the organization needs to consider the impacts described in the applicable GRI Sector Standards and
+determine whether these impacts apply to it.
+Impacts may change over time as the organization’s activities, business relationships, and context evolve. New
+activities, new business relationships, and major changes in operations or the operating context (e.g., new market
+entry, product launch, policy change, wider changes to the organization) could lead to changes in the organization’s
+impacts. For this reason, the organization should assess its context and identify its impacts on an ongoing basis.
+In cases where the organization has limited resources available for identifying its impacts, it should first identify its
+negative impacts, before identifying positive impacts, to ensure it complies with applicable laws, regulations, and
+authoritative intergovernmental instruments.
+Identifying negative impacts
+Identifying actual and potential negative impacts with which the organization is involved or could be involved is the first
+step of due diligence. The organization should consider actual and potential impacts that it causes or contributes to
+through its activities, as well as actual and potential impacts that are directly linked to its operations, products, or
+services by its business relationships(see Box 3 in this Standard).
+In some cases, the organization might be unable to identify actual and potential negative impacts across all its
+activities and business relationships. This could be, for example, because the organization has diverse or multiple
+11 GRI 3: Material Topics 2021
+global operations or because its value chain comprises many entities. In such cases, the organization may carry out
+an initial assessment or scoping exercise to identify general areas across its activities and business relationships
+(e.g., product lines, suppliers located in specific geographic locations) where negative impacts are most likely to be
+present and significant. Once the organization has conducted the initial assessment or scoping exercise, it can
+identify and assess actual and potential negative impacts for these general areas.
+As part of the initial assessment or scoping exercise, the organization should consider impacts commonly
+associated with its sectors, its products, geographic locations, or with specific organizations (i.e., impacts associated
+with a specific entity of the organization, or with an entity it has a business relationship with, such as a poor history of
+conduct in relation to respecting human rights). It should also consider impacts it has been involved with or knows it
+is likely to be involved with. In addition to the GRI Sector Standards, the organization can use the Organisation for
+Economic Co-operation and Development (OECD) Due Diligence Guidance for Responsible Business Conduct [2]
+and the OECD sectoral guidance on due diligence [13] for information on impacts commonly associated with sectors,
+products, geographic locations, and specific organizations. It can also use reports from governments, environmental
+agencies, international organizations, civil society organizations, workers’ representatives and trade unions, national
+human rights institutions, media, or other experts.
+See references [2], [3], [5] and [13] in the Bibliography.
+Box 3. Causing, contributing, or being directly linked to negative impacts
+An organization ‘causes’ a negative impact if its activities on their own result in the impact, for example, if the
+organization pays a bribe to a foreign public official, or if it withdraws water from a water-stressed aquifer
+without replenishing the water level.
+An organization ‘contributes to’ a negative impact if its activities lead, facilitate, or incentivize another entity to
+cause the impact. The organization can also contribute to a negative impact if its activities in combination with
+the activities of other entities cause the impact. For example, if the organization sets a short lead time for a
+supplier to deliver a product, despite knowing from experience that this production time is not feasible, this
+could result in excessive overtime for the supplier’s workers. In such a case, the organization may contribute to
+negative impacts on the health and safety of these workers.
+An organization can cause or contribute to a negative impact through its actions as well as by failure to take
+action (e.g., failure to prevent or mitigate a potential negative impact).
+Even if an organization does not cause or contribute to a negative impact, its operations, products, or services
+may be ‘directly linked to’ a negative impact by its business relationships. For example, if the organization
+uses cobalt in its products that is mined using child labor, the negative impact (i.e., child labor) is directly
+linked to the organization’s products through the tiers of business relationships in its supply chain (i.e.,
+through the smelter and minerals trader, to the mining enterprise that uses child labor), even though the
+organization has not caused or contributed to the negative impact itself. ‘Direct linkage’ is not defined by the
+link between the organization and the other entity, and is therefore not limited to direct contractual
+relationships, such as ‘direct sourcing’.
+The way the organization is involved with negative impacts determines how it should address the impacts and
+whether it has a responsibility to provide for or cooperate in their remediation (see section 2.3 in GRI 1:
+Foundation 2021).
+See references [2] and [5] in the Bibliography. For additional guidance and examples, see the Organisation for
+Economic Co-operation and Development (OECD) Due Diligence Guidance for Responsible Business Conduct
+[2], pages 70-72, and the United Nations’ (UN) The Corporate Responsibility to Respect Human Rights: An
+Interpretive Guide [15], pages 15-18.
+Identifying positive impacts
+To identify its actual and potential positive impacts, the organization should assess the manner in which it contributes
+or could contribute to sustainable development through its activities, for example, through its products, services,
+investments, procurement practices, employment practices, or tax payments. This also includes assessing how the
+organization can shape its purpose, business model, and strategies to deliver positive impacts that contribute to the
+goal of sustainable development.
+An example of a positive impact is an organization adopting measures that lower the cost of renewable energy for
+12 GRI 3: Material Topics 2021
+customers, thereby allowing more customers to switch from using non-renewable energy to renewable energy, and
+thus contributing to mitigating climate change. Another example is an organization choosing an area with high
+unemployment to open a new facility so that it can hire and train unemployed members of the local community, and in
+this way, contribute to job creation and community development.
+The organization should consider any negative impacts that could result from activities that aim for a positive
+contribution to sustainable development. Negative impacts cannot be offset by positive impacts. For example, a
+renewable energy installation may reduce a region’s dependence on fossil fuels and bring energy to underserved
+communities. However, if it displaces local indigenous communities from their lands or territories without their
+consent, this negative impact should be addressed and remediated, and it cannot be compensated by the positive
+impacts.
+Step 3. Assess the significance of the impacts
+The organization may identify many actual and potential impacts. In this step, the organization assesses the
+significance of its identified impacts to prioritize them. Prioritization enables the organization to take action to address
+the impacts and also to determine its material topics for reporting. Prioritizing impacts for action is relevant where it is
+not feasible to address all impacts at once.
+Assessing the significance of the impacts involves quantitative and qualitative analysis. How significant an impact is
+will be specific to the organization and will be influenced by the sectors in which it operates, and its business
+relationships, among other factors. In some instances, this may need a subjective decision. The organization should
+consult with relevant stakeholders (see Box 2 in this Standard) and business relationships to assess the significance
+of its impacts. The organization should also consult relevant internal or external experts.
+Assessing the significance of negative impacts
+The significance of an actual negative impact is determined by the severity of the impact. The significance of a
+potential negative impact is determined by the severity and likelihood of the impact.
+The combination of the severity and the likelihood of a negative impact can be referred to as ‘risk’. The assessment of
+the significance of the impacts can be included within broader enterprise risk management systems, provided that
+these systems assess the impacts the organization has on the economy, the environment, and people, in addition to
+assessing risks for the organization itself.
+Severity
+The severity of an actual or potential negative impact is determined by the following characteristics:
+• Scale: how grave the impact is.
+• Scope: how widespread the impact is, for example, the number of individuals affected or the extent of
+environmental damage.
+• Irremediable character: how hard it is to counteract or make good the resulting harm.
+The scale of a negative impact (i.e., how grave the impact is) can depend on whether the impact leads to non-
+compliance with laws and regulations or with authoritative intergovernmental instruments with which the organization
+is expected to comply. For example, if a negative impact leads to a violation of human rights or fundamental rights at
+work or to non-compliance with the reductions in greenhouse gas (GHG) emissions to be achieved under the United
+Nations (UN) Framework Convention on Climate Change (FCCC) Paris Agreement [4], the scale of this impact can be
+considered greater.
+The scale of a negative impact can also depend on the context in which the impact takes place. For example, the
+scale of the impact of an organization’s water withdrawal can depend on the area from which water is withdrawn. The
+scale will be greater if water is withdrawn from an area affected by water stress, compared to an area with abundant
+water resources to meet the demands of water users and ecosystems.
+Any of the three characteristics (scale, scope, and irremediable character) can make an impact severe. But it is often
+the case that these characteristics are interdependent: the greater the scale or the scope of an impact, the less
+remediable it is.
+The severity – and therefore the significance – of an impact are not absolute concepts. The severity of an impact
+should be assessed in relation to the other impacts of the organization. For example, an organization should
+compare the severity of the impacts of its GHG emissions against the severity of its other impacts. The organization
+should not assess the significance of its GHG emissions in relation to global GHG emissions, as that comparison
+13 GRI 3: Material Topics 2021
+could lead to the misleading conclusion that the organization’s emissions are not significant.
+See references [2], [3], [4] and [5] in the Bibliography.
+Likelihood
+The likelihood of a potential negative impact refers to the chance of the impact happening. The likelihood of an impact
+can be measured or determined qualitatively or quantitatively. It can be described using general terms (e.g., very likely,
+likely) or mathematically using probability (e.g., 10 in 100, 10%) or frequency over a given time period (e.g., once every
+three years).1
+Human rights
+In the case of potential negative human rights impacts, the severity of the impact takes precedence over its likelihood.
+For example, an organization operating a nuclear power facility may prioritize the potential impact related to loss of life
+in cases of natural disasters affecting the power facility, even though natural disasters are less likely to occur than
+other incidents.
+The severity of a negative human rights impact is not limited to physical harm. Highly severe impacts can occur in
+relation to any human right. For example, interfering with, damaging, or destroying a sacred space without
+consultation or agreement with the people for whom the space has spiritual importance can have a highly severe
+impact on their cultural rights.
+When prioritizing other types of impacts, such as potential negative environmental impacts, the organization may also
+choose to prioritize highly severe negative impacts even though they may be less likely to occur.
+Assessing the significance of positive impacts
+The significance of an actual positive impact is determined by the scale and scope of the impact. The significance of a
+potential positive impact is determined by the scale and scope as well as the likelihood of the impact.
+Scale and scope
+In the case of positive impacts, the scale of an impact refers to how beneficial the impact is or could be, and the
+scope refers to how widespread the impact is or could be (e.g., the number of individuals or the extent of
+environmental resources that are or could be positively affected).
+Likelihood
+The likelihood of a potential positive impact refers to the chance of the impact happening. The likelihood of an impact
+can be measured or determined qualitatively or quantitatively. It can be described using general terms (e.g., very likely,
+likely) or mathematically using probability (e.g., 10 in 100, 10%) or frequency over a given time period (e.g., once every
+three years).2
+Step 4. Prioritize the most significant impacts for reporting
+In this step, to determine its material topics for reporting, the organization prioritizes its impacts based on their
+significance.
+Setting a threshold to determine which topics are material
+The significance of an impact is assessed in relation to the other impacts the organization has identified. The
+organization should arrange its impacts from most to least significant and define a cut-off point or threshold to
+determine which of the impacts it will focus its reporting on. The organization should document this threshold. To
+facilitate prioritization, the organization should group the impacts into topics (see Box 4 in this Standard).
+For example, when setting a threshold, the organization first groups its impacts into a number of topics and ranks
+them, based on their significance, from highest to lowest priority. The organization then needs to determine how many
+of the topics it will report on, starting with those that have the highest priority. Where to set the threshold is up to the
+organization. For transparency, the organization can provide a visual representation of the prioritization that shows the
+initial list of topics it has identified and the threshold it has set for reporting.
+The significance of an impact is the sole criterion to determine whether a topic is material for reporting. The
+organization cannot use difficulty in reporting on a topic or the fact that it does not yet manage the topic as criteria to
+determine whether or not to report on the topic. In cases where the organization does not manage a material topic, it
+can report the reasons for not doing so or any plans to manage the topic to comply with the requirements in

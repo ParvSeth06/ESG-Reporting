@@ -1,0 +1,47 @@
+Disclosure 306-2 Waste by type and disposal method
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Total weight of hazardous waste, with a breakdown by the following disposal methods
+where applicable:
+i. Reuse
+ii. Recycling
+iii. Composting
+iv. Recovery, including energy recovery
+v. Incineration (mass burn)
+vi. Deep well injection
+vii. Landfill
+viii. On-site storage
+ix. Other (to be specified by the organization)
+b. Total weight of non-hazardous waste, with a breakdown by the following disposal methods
+where applicable:
+i. Reuse
+ii. Recycling
+iii. Composting
+iv. Recovery, including energy recovery
+v. Incineration (mass burn)
+vi. Deep well injection
+vii. Landfill
+viii. On-site storage
+ix. Other (to be specified by the organization)
+c. How the waste disposal method has been determined:
+i. Disposed of directly by the organization, or otherwise directly confirmed
+ii. Information provided by the waste disposal contractor
+iii. Organizational defaults of the waste disposal contractor
+Compilation requirements
+2.3 When compiling the information specified in Disclosure 306-2, the reporting organization
+shall:
+2.3.1 identify hazardous waste as defined by national legislation at the point of
+generation;
+2.3.2 exclude non-hazardous wastewater from the calculation of non-hazardous waste;
+2.3.3 if no weight data are available, estimate the weight using available information on
+waste
+density and volume collected, mass balances, or similar information.
+Background
+GUIDANCE
+Information about waste disposal methods reveals the extent to which an organization has
+managed the balance between disposal options and uneven environmental impacts. For
+example, land filling and recycling create very different types of environmental impacts and
+residual effects. Most waste minimization strategies emphasize prioritizing options for reuse,
+recycling, and then recovery over other disposal options to minimize ecological impacts.
+10 GRI 306: Effluents and Waste 2016

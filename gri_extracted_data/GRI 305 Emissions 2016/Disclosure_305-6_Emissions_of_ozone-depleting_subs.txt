@@ -1,0 +1,49 @@
+Disclosure 305-6 Emissions of ozone-depleting substances (ODS)
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Production, imports, and exports of ODS in metric tons of CFC-11
+(trichlorofluoromethane) equivalent.
+b. Substances included in the calculation.
+c. Source of the emission factors used.
+d. Standards, methodologies, assumptions, and/or calculation tools used.
+Compilation requirements
+2.11 When compiling the information specified in Disclosure 305-6, the reporting
+organization shall:
+2.11.1 calculate the production of ODS as the amount of ODS produced, minus the
+amount destroyed by approved technologies, and minus the amount entirely
+used as feedstock in the manufacture of other chemicals;
+Production of ODS
+=
+ODS produced
+-
+ODS destroyed by approved technologies
+-
+ODS entirely used as feedstock in the manufacture of other chemicals
+2.11.2 exclude ODS recycled and reused.
+2.12 When compiling the information specified in Disclosure 305-6, the reporting organization
+RECOMMENDATIONS
+should:
+2.12.1 if subject to different standards and methodologies, describe the approach to
+selecting them;
+2.12.2 where it aids transparency or comparability over time, provide a breakdown of the
+ODS data by:
+2.12.2.1 business unit or facility;
+2.12.2.2 country;
+2.12.2.3 type of source;
+2.12.2.4 type of activity.
+Guidance for Disclosure 305-6
+GUIDANCE
+The reporting organization can report separate or combined data for the substances included in
+the calculation.
+Background
+Measuring ODS production, imports, and exports helps to indicate how an organization
+complies with legislation. This is particularly relevant if the organization produces or uses ODS
+in its processes, products and services and is subject to phase-out commitments. Results on
+ODS phase-out help to indicate the organization’s position in any markets affected by regulation
+on ODS.
+20 GRI 305: Emissions 2016
+This disclosure covers the substances included in Annexes A, B, C, and E of the ‘Montreal
+Protocol’ as well as any other ODS produced, imported, or exported by an organization.
+See references [1], [2], [8] and [9] in the Bibliography.
+21 GRI 305: Emissions 2016

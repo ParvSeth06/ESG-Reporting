@@ -1,0 +1,1008 @@
+GRI 302: Energy 2016
+302
+EFFECTIVE DATE: 1 JULY 2018
+TOPIC STANDARD
+
+GRI 302: Energy 2016
+Topic Standard
+Effective Date
+This Standard is effective for reports or other materials published on or after 1 July 2018
+Responsibility
+This Standard is issued by the Global Sustainability Standards Board (GSSB). Any feedback on the GRI Standards
+can be submitted to gssbsecretariat@globalreporting.org for the consideration of the GSSB.
+Due Process
+This Standard was developed in the public interest and in accordance with the requirements of the GSSB Due
+Process Protocol. It has been developed using multi-stakeholder expertise, and with regard to authoritative
+intergovernmental instruments and widely held expectations of organizations relating to social, environmental, and
+economic responsibilities.
+Legal Liability
+This document, designed to promote sustainability reporting, has been developed by the Global Sustainability
+Standards Board (GSSB) through a unique multi-stakeholder consultative process involving representatives from
+organizations and report information users from around the world. While the GRI Supervisory Board, Management
+Board, and GSSB encourage the use of the GRI Sustainability Reporting Standards (GRI Standards) and related
+Interpretations by all organizations, the preparation and publication of reports based fully or partially on the GRI
+Standards and related Interpretations are the full responsibility of those producing them. Neither the GRI Supervisory
+Board, Management Board, GSSB, nor Stichting Global Reporting Initiative (GRI) can assume responsibility for any
+consequences or damages resulting directly or indirectly from the use of the GRI Standards and related
+Interpretations in the preparation of reports, or the use of reports based on the GRI Standards and related
+Interpretations.
+Copyright and trademark notice
+This document is copyright-protected by Stichting Global Reporting Initiative (GRI). The reproduction and distribution
+of this document for information and/or use in preparing a sustainability report is permitted without prior permission
+from GRI. However, neither this document nor any extract from it may be reproduced, stored, translated, or transferred
+in any form or by any means (electronic, mechanical, photocopied, recorded, or otherwise) for any other purpose
+without prior written permission from GRI.
+Global Reporting Initiative, GRI and logo, GSSB and logo, and GRI Sustainability Reporting Standards (GRI
+Standards) and logo are trademarks of Stichting Global Reporting Initiative.
+© 2025 GRI. All rights reserved.
+ISBN 978-90-8866-105-1
+
+3 GRI 302: Energy 2016
+Content
+Introduction 4
+1. Topic management disclosures 7
+2. Topic disclosures 8
+Disclosure 302-1 Energy consumption within the organization 8
+Disclosure 302-2 Energy consumption outside of the organization 11
+Disclosure 302-3 Energy intensity 13
+Disclosure 302-5 Reductions in energy requirements of products and services 15
+Glossary 16
+Bibliography 18
+
+4 GRI 302: Energy 2016
+Introduction
+GRI 302: Energy 2016 contains disclosures for organizations to report information about their energy-related impacts,
+and how they manage these impacts.
+The Standard is structured as follows:
+• Section 1 contains a requirement, which provides information about how the organization manages its energy-
+related impacts.
+• Section 2 contains five disclosures, which provide information about the organization’s energy-related impacts.
+• The Glossary contains defined terms with a specific meaning when used in the GRI Standards. The terms are
+underlined in the text of the GRI Standards and linked to the definitions.
+• The Bibliography lists references used in developing this Standard.
+The rest of the Introduction section provides a background on the topic, an overview of the system of GRI Standards
+and further information on using this Standard.
+Background on the topic
+This Standard addresses the topic of energy.
+An organization can consume energy in various forms, such as fuel, electricity, heating, cooling or steam. Energy can
+be self-generated or purchased from external sources and it can come from renewable sources (such as wind, hydro
+or solar) or from non-renewable sources such as coal, petroleum or natural gas).
+Using energy more efficiently and opting for renewable energy sources is essential for combating climate change and
+for lowering an organization’s overall environmental footprint.
+Energy consumption can also occur throughout the upstream and downstream activities connected with an
+organization’s operations. This can include consumers’ use of products the organization sells, and the end-of-life
+treatment of these products.
+System of GRI Standards
+This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an
+organization to report information about its most significant impacts on the economy, environment, and people,
+including impacts on their human rights, and how it manages these impacts.
+The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI
+Universal Standards, GRI Sector Standards, and GRI Topic Standards (see Figure 1 in this Standard).
+Universal Standards: GRI 1, GRI 2 and GRI 3
+GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance
+with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.
+GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its
+reporting practices and other organizational details, such as its activities, governance, and policies.
+GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that
+the organization uses to report information about its process of determining material topics, its list of material topics,
+and how it manages each topic.
+Sector Standards
+The Sector Standards provide information for organizations about their likely material topics. The organization uses
+the Sector Standards that apply to its sectors when determining its material topics and when determining what to
+report for each material topic.
+Topic Standards
+The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation
+to particular topics. The organization uses the Topic Standards according to the list of material topics it has
+determined using GRI 3.
+
+5 GRI 302: Energy 2016
+Figure 1. GRI Standards: Universal, Sector and Topic Standards
+GRI Standards
+Universal Standards Sector Standards Topic Standards
+Requirements and
+principles for using the
+GRI Standards
+Disclosures about the
+reporting organization
+Disclosures and
+guidance about the
+organization's material
+topics
+Apply all three Universal Use the Sector Standards that Select Topic Standards to report
+Standards to your reporting apply to your sectors specifc information on your
+material topics
+Using this Standard
+This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting
+experience – to report information about its energy-related impacts.
+An organization reporting in accordance with the GRI Standards is required to report the following disclosures if it has
+determined energy to be a material topic:
+• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);
+• Any disclosures from this Topic Standard that are relevant to the organization’s energy-related impacts
+(Disclosure 302-1 through Disclosure 302-5).
+See Requirements 4 and 5 in GRI 1: Foundation 2021.
+Reasons for omission are permitted for these disclosures.
+If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required
+information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the
+requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content
+index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.
+If the organization cannot report the required information about an item specified in a disclosure because the item
+(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the
+case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The
+disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the
+item does not exist.
+If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it
+has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the
+organization can report a required disclosure by providing a reference in the GRI content index as to where this
+information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the
+information has been published).
+
+6 GRI 302: Energy 2016
+Requirements, guidance and defined terms
+The following apply throughout this Standard:
+Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with
+requirements to report in accordance with the GRI Standards.
+Requirements may be accompanied by guidance.
+Guidance includes background information, explanations, and examples to help the organization better understand
+the requirements. The organization is not required to comply with guidance.
+The Standards may also include recommendations. These are cases where a particular course of action is
+encouraged but not required.
+The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.
+Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The
+organization is required to apply the definitions in the Glossary.
+
+7 GRI 302: Energy 2016
+1. Topic management disclosures
+An organization reporting in accordance with the GRI Standards is required to report how it manages each of its
+material topics.
+An organization that has determined energy to be a material topic is required to report how it manages the topic using
+Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).
+This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.
+
+8 GRI 302: Energy 2016
+2. Topic disclosures
+Disclosure 302-1 Energy consumption within the organization
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Total fuel consumption within the organization from non-renewable sources, in joules or
+multiples, and including fuel types used.
+b. Total fuel consumption within the organization from renewable sources, in joules or
+multiples, and including fuel types used.
+c. In joules, watt-hours or multiples, the total:
+i. electricity consumption
+ii. heating consumption
+iii. cooling consumption
+iv. steam consumption
+d. In joules, watt-hours or multiples, the total:
+i. electricity sold
+ii. heating sold
+iii. cooling sold
+iv. steam sold
+e. Total energy consumption within the organization, in joules or multiples.
+f. Standards, methodologies, assumptions, and/or calculation tools used.
+g. Source of the conversion factors used.
+Compilation requirements
+2.1 When compiling the information specified in Disclosure 302-1, the reporting
+organization shall:
+2.1.1 avoid the double-counting of fuel consumption, when reporting self-generated
+energy consumption. If the organization generates electricity from a non-
+renewable or renewable fuel source and then consumes the generated
+electricity, the energy consumption shall be counted once under fuel
+consumption;
+2.1.2 report fuel consumption separately for non-renewable and renewable fuel
+sources;
+2.1.3 only report energy consumed by entities owned or controlled by the
+organization;
+2.1.4 calculate the total energy consumption within the organization in joules or
+multiples using the following formula:
+
+9 GRI 302: Energy 2016
+Total energy consumption within the organization
+=
+Non-renewable fuel consumed
++
+Renewable fuel consumed
++
+Electricity, heating, cooling, and steam purchased for consumption
++
+Self-generated electricity, heating, cooling, and steam, which are not consumed (see
+clause 2.1.1)
+-
+Electricity, heating, cooling, and steam sold
+2.2 When compiling the information specified in Disclosure 302-1, the reporting
+RECOMMENDATIONS
+organization should:
+2.2.1 apply conversion factors consistently for the data disclosed;
+2.2.2 use local conversion factors to convert fuel to joules, or multiples, when
+possible;
+2.2.3 use the generic conversion factors, when local conversion factors are
+unavailable;
+2.2.4 if subject to different standards and methodologies, describe the
+approach to selecting them;
+2.2.5 report energy consumption for a consistent group of entities. When
+possible, the group of entities should also be consistent with the group of
+entities used in Disclosures 305-1 and 305-2 of GRI 305: Emissions 2016;
+2.2.6 where it aids transparency or comparability over time, provide a
+breakdown of energy consumption data by:
+2.2.6.1business unit or facility;
+2.2.6.2country;
+2.2.6.3type of source (see definitions for the listing of non-renewable
+sources and renewable sources);
+2.2.6.4type of activity.
+Background
+GUIDANCE
+For some organizations, electricity is the only significant form of energy they consume. For
+others, energy sources such as steam or water provided from a district heating plant or chilled
+water plant can also be important.
+Energy can be purchased from sources external to the organization or produced by the
+organization itself (self-generated).
+Non-renewable fuel sources can include fuel for combustion in boilers, furnaces, heaters,
+turbines, flares, incinerators, generators and vehicles that are owned or controlled by the
+organization. Non-renewable fuel sources cover fuels purchased by the organization. They also
+include fuel generated by the organization’s activities – such as mined coal, or gas from oil and
+gas extraction.
+Renewable fuel sources can include biofuels, when purchased for direct use, and biomass in
+sources owned or controlled by the organization.
+Consuming non-renewable fuels is usually the main contributor to direct (Scope 1) GHG
+emissions, which are reported in Disclosure 305-1 of GRI 305: Emissions 2016. Consuming
+
+10 GRI 302: Energy 2016
+purchased electricity, heating, cooling, and steam contributes to the organization’s energy
+indirect (Scope 2) GHG emissions, which are reported in Disclosure 305-2 of GRI 305:
+Emissions 2016.
+
+11 GRI 302: Energy 2016
+Disclosure 302-2 Energy consumption outside of the organization
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Energy consumption outside of the organization, in joules or multiples.
+b. Standards, methodologies, assumptions, and/or calculation tools used.
+c. Source of the conversion factors used.
+Compilation requirements
+2.3 When compiling the information specified in Disclosure 302-2, the reporting
+organization shall exclude energy consumption reported in Disclosure 302-1.
+2.4 When compiling the information specified in Disclosure 302-2, the reporting organization
+RECOMMENDATIONS
+should:
+2.4.1 if subject to different standards and methodologies, describe the approach to
+selecting them;
+2.4.2 list energy consumption outside of the organization, with a breakdown by
+upstream and downstream categories and activities.
+Guidance for Disclosure 302-2
+GUIDANCE
+The reporting organization can identify energy consumption outside of the organization by
+assessing whether an activity’s energy consumption:
+• contributes significantly to the organization’s total anticipated energy consumption outside of
+the organization;
+• offers potential for reductions the organization can undertake or influence;
+• contributes to climate change-related risks, such as financial, regulatory, supply chain,
+product and customer, litigation, and reputational risks;
+• is deemed material by stakeholders, such as customers, suppliers, investors, or civil
+society;
+• results from outsourced activities previously performed in-house, or that are typically
+performed in-house by other organizations in the same sector;
+• has been identified as significant for the organization’s sector;
+• meets any additional criteria for determining relevance, developed by the organization or by
+organizations in its sector.
+The organization can use the following upstream and downstream categories and activities
+from the ‘GHG Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard’
+for identifying relevant energy consumption outside of the organization (see reference [2] in the
+Bibliography):
+Upstream categories
+1. Purchased goods and services
+2. Capital goods
+3. Fuel- and energy-related activities (not included in Disclosure 302-1)
+4. Upstream transportation and distribution
+5. Waste generated in operations
+6. Business travel
+7. Employee commuting
+8. Upstream leased assets
+Other upstream
+Downstream categories
+1. Downstream transportation and distribution
+2. Processing of sold products
+3. Use of sold products
+4. End-of-life treatment of sold products
+5. Downstream leased assets
+
+12 GRI 302: Energy 2016
+6. Franchises
+7. Investments
+Other downstream
+For each of these categories and activities, the organization can calculate or estimate the
+amount of energy consumed.
+The organization can report energy consumption separately for non-renewable sources and
+renewable sources.
+Background
+Energy consumption can occur outside an organization, i.e., throughout the organization’s
+upstream and downstream activities associated with its operations.
+This can include consumers’ use of products the organization sells, and the end-of-life
+treatment of products.
+Quantifying energy consumption outside of the organization can provide a basis for calculating
+some of the relevant other indirect (Scope 3) GHG emissions in Disclosure 305-3 of GRI 305:
+Emissions 2016.
+
+13 GRI 302: Energy 2016
+Disclosure 302-3 Energy intensity
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Energy intensity ratio for the organization.
+b. Organization-specific metric (the denominator) chosen to calculate the ratio.
+c. Types of energy included in the intensity ratio; whether fuel, electricity, heating, cooling,
+steam, or all.
+d. Whether the ratio uses energy consumption within the organization, outside of it, or
+both.
+Compilation requirements
+2.5 When compiling the information specified in Disclosure 302-3, the reporting
+organization shall:
+2.5.1 calculate the ratio by dividing the absolute energy consumption (the
+numerator) by the organization-specific metric (the denominator);
+2.5.2 if reporting an intensity ratio both for the energy consumed within the
+organization and outside of it, report these intensity ratios separately.
+2.6 When compiling the information specified in Disclosure 302-3, the reporting organization
+RECOMMENDATIONS
+should, where it aids transparency or comparability over time, provide a breakdown of the
+energy intensity ratio by:
+2.6.1 business unit or facility;
+2.6.2 country;
+2.6.3 type of source (see definitions for the listing of non-renewable sources and
+renewable sources);
+2.6.4 type of activity.
+Guidance for Disclosure 302-3
+GUIDANCE
+Intensity ratios can be provided for, among others:
+• products (such as energy consumed per unit produced);
+• services (such as energy consumed per function or per service);
+• sales (such as energy consumed per monetary unit of sales).
+Organization-specific metrics (denominators) can include:
+• units of product;
+• production volume (such as metric tons, liters, or MWh);
+m2
+• size (such as floor space);
+• number of full-time employees;
+• monetary units (such as revenue or sales).
+Background
+Energy intensity ratios define energy consumption in the context of an organization-specific
+metric.
+These ratios express the energy required per unit of activity, output, or any other organization-
+specific metric. Intensity ratios are often called normalized environmental impact data.
+In combination with the organization’s total energy consumption, reported in Disclosures 302-1
+and 302-2, energy intensity helps to contextualize the organization’s efficiency, including in
+relation to other organizations.
+See references [1] and [3] in the Bibliography.
+
+14 GRI 302: Energy 2016
+Disclosure 302-4Reduction of energy consumption
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Amount of reductions in energy consumption achieved as a direct result of
+conservation and efficiency initiatives, in joules or multiples.
+b. Types of energy included in the reductions; whether fuel, electricity, heating, cooling,
+steam, or all.
+c. Basis for calculating reductions in energy consumption, such as base year or baseline,
+including the rationale for choosing it.
+d. Standards, methodologies, assumptions, and/or calculation tools used.
+Compilation requirements
+2.7 When compiling the information specified in Disclosure 302-4, the reporting
+organization shall:
+2.7.1 exclude reductions resulting from reduced production capacity or
+outsourcing;
+2.7.2 describe whether energy reduction is estimated, modeled, or sourced from
+direct measurements. If estimation or modeling is used, the organization shall
+disclose the methods used.
+2.8 When compiling the information specified in Disclosure 302-4, the reporting organization
+RECOMMENDATIONS
+should, if subject to different standards and methodologies, describe the approach to
+selecting them.
+Guidance for Disclosure 302-4
+GUIDANCE
+The reporting organization can prioritize disclosing reduction initiatives that were implemented
+in the reporting period, and that have the potential to contribute significantly to reductions. The
+organization can describe reduction initiatives and their targets when reporting how it manages
+this topic.
+Reduction initiatives can include:
+• process redesign;
+• conversion and retrofitting of equipment;
+• changes in behavior;
+• operational changes.
+The organization can report reductions in energy consumption by combining energy types, or
+separately for fuel, electricity, heating, cooling, and steam.
+The organization can also provide a breakdown of reductions in energy consumption by
+individual initiatives or groups of initiatives.
+
+15 GRI 302: Energy 2016
+Disclosure 302-5 Reductions in energy requirements of products
+and services
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Reductions in energy requirements of sold products and services achieved during the
+reporting period, in joules or multiples.
+b. Basis for calculating reductions in energy consumption, such as base year or baseline,
+including the rationale for choosing it.
+c. Standards, methodologies, assumptions, and/or calculation tools used.
+2.9 When compiling the information specified in Disclosure 302-5, the reporting organization
+RECOMMENDATIONS
+should:
+2.9.1 if subject to different standards and methodologies, describe the approach to
+selecting them;
+2.9.2 refer to industry use standards to obtain this information, where available (such
+as fuel consumption of cars for 100 km at 90 km/h).
+Guidance for Disclosure 302-5
+GUIDANCE
+Use-oriented figures can include, for example, the energy requirements of a car or a computer.
+Consumption patterns can include, for example, 10 percent less energy use per 100 km
+travelled or per time unit (hour, average working day).
+
+16 GRI 302: Energy 2016
+Glossary
+This glossary provides definitions for terms used in this Standard. The organization is required to apply these
+definitions when using the GRI Standards.
+The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards
+Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards
+Glossary, definitions that are commonly used and understood apply.
+base year *
+historical datum (such as year) against which a measurement is tracked over time
+* Please note this term will be updated following the effective date of GRI 102: Climate Change
+2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated
+term.
+baseline *
+starting point used for comparisons
+Note: In the context of energy reporting, the baseline is the projected energy consumption
+or emissions in the absence of any reduction activity.
+* Please note this term will be updated following the effective date of GRI 102: Climate Change
+2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated
+term.
+conservation and efficiency initiative
+organizational or technological modification that allows a defined process or task to be carried
+out using less energy
+Examples: conversion and retrofitting of equipment such as energy-efficient lighting,
+elimination of unnecessary energy use due to changes in behavior, process
+redesign
+energy reduction *
+amount of energy no longer used or needed to carry out the same processes or tasks
+Note: Energy reduction does not include overall reduction in energy consumption from
+reducing production capacity or outsourcing organizational activities.
+* Please note this term will be updated following the effective date of GRI 102: Climate Change
+2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated
+term.
+human rights
+rights inherent to all human beings, which include, at a minimum, the rights set out in the United
+Nations (UN) International Bill of Human Rights and the principles concerning fundamental
+rights set out in the International Labour Organization (ILO) Declaration on Fundamental
+Principles and Rights at Work
+Source: United Nations (UN), Guiding Principles on Business and Human Rights:
+Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;
+modified
+Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information
+on ‘human rights’.
+impact
+effect the organization has or could have on the economy, environment, and people, including on
+their human rights, which in turn can indicate its contribution (negative or positive) to sustainable
+development
+
+17 GRI 302: Energy 2016
+Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,
+intended or unintended, and reversible or irreversible.
+Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.
+material topics
+topics that represent the organization’s most significant impacts on the economy, environment,
+and people, including impacts on their human rights
+Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics
+2021 for more information on ‘material topics’.
+non-renewable energy source
+energy source that cannot be replenished, reproduced, grown or generated in a short time
+period through ecological cycles or agricultural processes
+Examples: coal; fuels distilled from petroleum or crude oil, such as gasoline, diesel fuel, jet
+fuel, and heating oil; fuels extracted from natural gas processing and petroleum
+refining, such as butane, propane, and liquefied petroleum gas (LPG); natural gas,
+such as compressed natural gas (CNG), and liquefied natural gas (LNG); nuclear
+power
+renewable energy source
+energy source that is capable of being replenished in a short time through ecological cycles or
+agricultural processes
+Examples: biomass, geothermal, hydro, solar, wind
+sustainable development / sustainability
+development that meets the needs of the present without compromising the ability of future
+generations to meet their own needs
+Source: World Commission on Environment and Development, Our Common Future, 1987
+Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably
+in the GRI Standards.
+Bibliography
+
+18 GRI 302: Energy 2016
+Bibliography
+This section lists references used in developing this Standard.
+References:
+1. World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), ‘GHG
+Protocol Corporate Accounting and Reporting Standard’, Revised Edition, 2004.
+2. World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), ‘GHG
+Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard’, 2011.
+3. World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD),
+‘Greenhouse Gas Protocol Accounting Notes, No. 1, Accounting and Reporting Standard Amendment’, 2012.
+
+PO Box 10039
+1001 EA Amsterdam
+The Netherlands
+www.globalreporting.org
+
+=== EXTRACTED TABLES ===
+
+
+Table 1:
+| 0                              |
+|:-------------------------------|
+| GRI 302: Energy 2016           |
+| EFFECTIVE DATE: 1 JULY 2018302 |
+|                                |
+| TOPIC STANDARD                 |
+
+
+Table 2:
+| 0                                                                                                                      |
+|:-----------------------------------------------------------------------------------------------------------------------|
+| GRI 302: Energy 2016                                                                                                   |
+| Topic Standard                                                                                                         |
+| Effective Date                                                                                                         |
+| This Standard is effective for reports or other materials published on or after 1 July 2018                            |
+| Responsibility                                                                                                         |
+| This Standard is issued by the Global Sustainability Standards Board (GSSB). Any feedback on the GRI Standards         |
+| can be submitted to gssbsecretariat@globalreporting.org for the consideration of the GSSB.                             |
+| Due Process                                                                                                            |
+| This Standard was developed in the public interest and in accordance with the requirements of the GSSB Due             |
+| Process Protocol. It has been developed using multi-stakeholder expertise, and with regard to authoritative            |
+| intergovernmental instruments and widely held expectations of organizations relating to social, environmental, and     |
+| economic responsibilities.                                                                                             |
+| Legal Liability                                                                                                        |
+| This document, designed to promote sustainability reporting, has been developed by the Global Sustainability           |
+| Standards Board (GSSB) through a unique multi-stakeholder consultative process involving representatives from          |
+| organizations and report information users from around the world. While the GRI Supervisory Board, Management          |
+| Board, and GSSB encourage the use of the GRI Sustainability Reporting Standards (GRI Standards) and related            |
+| Interpretations by all organizations, the preparation and publication of reports based fully or partially on the GRI   |
+| Standards and related Interpretations are the full responsibility of those producing them. Neither the GRI Supervisory |
+| Board, Management Board, GSSB, nor Stichting Global Reporting Initiative (GRI) can assume responsibility for any       |
+| consequences or damages resulting directly or indirectly from the use of the GRI Standards and related                 |
+| Interpretations in the preparation of reports, or the use of reports based on the GRI Standards and related            |
+| Interpretations.                                                                                                       |
+| Copyright and trademark notice                                                                                         |
+| This document is copyright-protected by Stichting Global Reporting Initiative (GRI). The reproduction and distribution |
+| of this document for information and/or use in preparing a sustainability report is permitted without prior permission |
+| from GRI. However, neither this document nor any extract from it may be reproduced, stored, translated, or transferred |
+| in any form or by any means (electronic, mechanical, photocopied, recorded, or otherwise) for any other purpose        |
+| without prior written permission from GRI.                                                                             |
+| Global Reporting Initiative, GRI and logo, GSSB and logo, and GRI Sustainability Reporting Standards (GRI              |
+| Standards) and logo are trademarks of Stichting Global Reporting Initiative.                                           |
+| © 2025 GRI. All rights reserved.                                                                                       |
+| ISBN 978-90-8866-105-1                                                                                                 |
+
+
+Table 3:
+| 0                                                                           |   1 |
+|:----------------------------------------------------------------------------|----:|
+| 1. Topic management disclosures                                             |   7 |
+| 2. Topic disclosures                                                        |   8 |
+| Disclosure 302-1 Energy consumption within the organization                 |   8 |
+| Disclosure 302-2 Energy consumption outside of the organization             |  11 |
+| Disclosure 302-3 Energy intensity                                           |  13 |
+| Disclosure 302-5 Reductions in energy requirements of products and services |  15 |
+| Glossary                                                                    |  16 |
+| Bibliography                                                                |  18 |
+
+
+Table 4:
+| 0                                                                                                                     | 1                                                                                                               |
+|:----------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------|
+| GRI 302: Energy 2016 contains disclosures for organizations to report information about their energy-related impacts, |                                                                                                                 |
+| and how they manage these impacts.                                                                                    |                                                                                                                 |
+| The Standard is structured as follows:                                                                                |                                                                                                                 |
+| •                                                                                                                     | Section 1 contains a requirement, which provides information about how the organization manages its energy-     |
+|                                                                                                                       | related impacts.                                                                                                |
+| •                                                                                                                     | Section 2 contains five disclosures, which provide information about the organization’s energy-related impacts. |
+| •                                                                                                                     | The Glossary contains defined terms with a specific meaning when used in the GRI Standards. The terms are       |
+|                                                                                                                       | underlined in the text of the GRI Standards and linked to the definitions.                                      |
+| •                                                                                                                     | The Bibliography lists references used in developing this Standard.                                             |
+
+
+Table 5:
+| 0                        |
+|:-------------------------|
+| Universal Standards      |
+| Requirements and         |
+| principles for using the |
+| GRI Standards            |
+| Disclosures about the    |
+| reporting organization   |
+
+
+Table 6:
+| 0                                                                                                                  |
+|:-------------------------------------------------------------------------------------------------------------------|
+| Requirements, guidance and defined terms                                                                           |
+| The following apply throughout this Standard:                                                                      |
+| Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with        |
+| requirements to report in accordance with the GRI Standards.                                                       |
+| Requirements may be accompanied by guidance.                                                                       |
+| Guidance includes background information, explanations, and examples to help the organization better understand    |
+| the requirements. The organization is not required to comply with guidance.                                        |
+| The Standards may also include recommendations. These are cases where a particular course of action is             |
+| encouraged but not required.                                                                                       |
+| The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.                |
+| Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The |
+| organization is required to apply the definitions in the Glossary.                                                 |
+
+
+Table 7:
+| 0                                                                                                                      |
+|:-----------------------------------------------------------------------------------------------------------------------|
+| GRI 302: Energy 2016                                                                                                   |
+| 1. Topic management disclosures                                                                                        |
+| An organization reporting in accordance with the GRI Standards is required to report how it manages each of its        |
+| material topics.                                                                                                       |
+| An organization that has determined energy to be a material topic is required to report how it manages the topic using |
+| Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).                                        |
+| This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.                          |
+
+
+Table 8:
+| 0                                                           | 1                                                                                       |
+|:------------------------------------------------------------|:----------------------------------------------------------------------------------------|
+| Disclosure 302-1 Energy consumption within the organization |                                                                                         |
+|                                                             | The reporting organization shall report the following information:                      |
+| a.                                                          | Total fuel consumption within the organization from non-renewable sources, in joules or |
+|                                                             | multiples, and including fuel types used.                                               |
+| b.                                                          | Total fuel consumption within the organization from renewable sources, in joules or     |
+|                                                             | multiples, and including fuel types used.                                               |
+| c.                                                          | In joules, watt-hours or multiples, the total:                                          |
+|                                                             | i.electricity consumption                                                               |
+|                                                             | ii.heating consumption                                                                  |
+|                                                             | iii.cooling consumption                                                                 |
+|                                                             | iv.steam consumption                                                                    |
+| d.                                                          | In joules, watt-hours or multiples, the total:                                          |
+|                                                             | i.electricity sold                                                                      |
+|                                                             | ii.heating sold                                                                         |
+|                                                             | iii.cooling sold                                                                        |
+|                                                             | iv.steam sold                                                                           |
+| e.                                                          | Total energy consumption within the organization, in joules or multiples.               |
+| f.                                                          | Standards, methodologies, assumptions, and/or calculation tools used.                   |
+| g.                                                          | Source of the conversion factors used.                                                  |
+
+
+Table 9:
+| 0                                                                           | 1                                                                            |
+|:----------------------------------------------------------------------------|:-----------------------------------------------------------------------------|
+| When compiling the information specified in Disclosure 302-1, the reporting |                                                                              |
+| organization shall:                                                         |                                                                              |
+| 2.1.1                                                                       | avoid the double-counting of fuel consumption, when reporting self-generated |
+|                                                                             | energy consumption. If the organization generates electricity from a non-    |
+|                                                                             | renewable or renewable fuel source and then consumes the generated           |
+|                                                                             | electricity, the energy consumption shall be counted once under fuel         |
+|                                                                             | consumption;                                                                 |
+| 2.1.2                                                                       | report fuel consumption separately for non-renewable and renewable fuel      |
+|                                                                             | sources;                                                                     |
+| 2.1.3                                                                       | only report energy consumed by entities owned or controlled by the           |
+|                                                                             | organization;                                                                |
+| 2.1.4                                                                       | calculate the total energy consumption within the organization in joules or  |
+|                                                                             | multiples using the following formula:                                       |
+
+
+Table 10:
+| 0               | 1   | 2                                                                               |
+|:----------------|:----|:--------------------------------------------------------------------------------|
+|                 |     | Electricity, heating, cooling, and steam sold                                   |
+|                 | 2.2 | When compiling the information specified in Disclosure 302-1, the reporting     |
+| RECOMMENDATIONS |     |                                                                                 |
+|                 |     | organization should:                                                            |
+|                 |     | 2.2.1apply conversion factors consistently for the data disclosed;              |
+|                 |     | 2.2.2use local conversion factors to convert fuel to joules, or multiples, when |
+|                 |     | possible;                                                                       |
+|                 |     | 2.2.3use the generic conversion factors, when local conversion factors are      |
+|                 |     | unavailable;                                                                    |
+|                 |     | 2.2.4if subject to different standards and methodologies, describe the          |
+|                 |     | approach to selecting them;                                                     |
+|                 |     | 2.2.5report energy consumption for a consistent group of entities. When         |
+|                 |     | possible, the group of entities should also be consistent with the group of     |
+|                 |     | entities used in Disclosures 305-1 and 305-2 of GRI 305: Emissions 2016;        |
+|                 |     | 2.2.6where it aids transparency or comparability over time, provide a           |
+|                 |     | breakdown of energy consumption data by:                                        |
+|                 |     | 2.2.6.1business unit or facility;                                               |
+|                 |     | 2.2.6.2country;                                                                 |
+|                 |     | 2.2.6.3type of source (see definitions for the listing of non-renewable         |
+|                 |     | sources and renewable sources);                                                 |
+|                 |     | 2.2.6.4type of activity.                                                        |
+
+
+Table 11:
+| 0        | 1               | 2                                                                                                 | 3                                                                |
+|:---------|:----------------|:--------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------|
+|          |                 | 2.2.6.3                                                                                           | type of source (see definitions for the listing of non-renewable |
+|          |                 |                                                                                                   | sources and renewable sources);                                  |
+|          |                 | 2.2.6.4                                                                                           | type of activity.                                                |
+|          | Background      |                                                                                                   |                                                                  |
+| GUIDANCE |                 |                                                                                                   |                                                                  |
+|          |                 | For some organizations, electricity is the only significant form of energy they consume. For      |                                                                  |
+|          |                 | others, energy sources such as steam or water provided from a district heating plant or chilled   |                                                                  |
+|          |                 | water plant can also be important.                                                                |                                                                  |
+|          |                 | Energy can be purchased from sources external to the organization or produced by the              |                                                                  |
+|          |                 | organization itself (self-generated).                                                             |                                                                  |
+|          |                 | Non-renewable fuel sources can include fuel for combustion in boilers, furnaces, heaters,         |                                                                  |
+|          |                 | turbines, flares, incinerators, generators and vehicles that are owned or controlled by the       |                                                                  |
+|          |                 | organization. Non-renewable fuel sources cover fuels purchased by the organization. They also     |                                                                  |
+|          |                 | include fuel generated by the organization’s activities – such as mined coal, or gas from oil and |                                                                  |
+|          | gas extraction. |                                                                                                   |                                                                  |
+|          |                 | Renewable fuel sources can include biofuels, when purchased for direct use, and biomass in        |                                                                  |
+|          |                 | sources owned or controlled by the organization.                                                  |                                                                  |
+|          |                 | Consuming non-renewable fuels is usually the main contributor to direct (Scope 1) GHG             |                                                                  |
+|          |                 | emissions, which are reported in Disclosure 305-1 of GRI 305: Emissions 2016. Consuming           |                                                                  |
+
+
+Table 12:
+| 0   | 1                                                                                           |
+|:----|:--------------------------------------------------------------------------------------------|
+| 10  | GRI 302: Energy 2016                                                                        |
+|     | purchased electricity, heating, cooling, and steam contributes to the organization’s energy |
+|     | indirect (Scope 2) GHG emissions, which are reported in Disclosure 305-2 of GRI 305:        |
+|     | Emissions 2016.                                                                             |
+
+
+Table 13:
+| 0                                                               | 1                                                                  | 2                                                                                        |
+|:----------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
+| Disclosure 302-2 Energy consumption outside of the organization |                                                                    |                                                                                          |
+|                                                                 | The reporting organization shall report the following information: |                                                                                          |
+| REQUIREMENTS                                                    |                                                                    |                                                                                          |
+|                                                                 | a.                                                                 | Energy consumption outside of the organization, in joules or multiples.                  |
+|                                                                 | b.                                                                 | Standards, methodologies, assumptions, and/or calculation tools used.                    |
+|                                                                 | c.                                                                 | Source of the conversion factors used.                                                   |
+|                                                                 | Compilation requirements                                           |                                                                                          |
+|                                                                 | 2.3                                                                | When compiling the information specified in Disclosure 302-2, the reporting              |
+|                                                                 |                                                                    | organization shall exclude energy consumption reported in Disclosure 302-1.              |
+|                                                                 | 2.4                                                                | When compiling the information specified in Disclosure 302-2, the reporting organization |
+| RECOMMENDATIONS                                                 |                                                                    |                                                                                          |
+|                                                                 |                                                                    | should:                                                                                  |
+|                                                                 |                                                                    | 2.4.1if subject to different standards and methodologies, describe the approach to       |
+|                                                                 |                                                                    | selecting them;                                                                          |
+|                                                                 |                                                                    | 2.4.2list energy consumption outside of the organization, with a breakdown by            |
+|                                                                 |                                                                    | upstream and downstream categories and activities.                                       |
+
+
+Table 14:
+| 0                                                                                         | 1                                                                                               |
+|:------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------|
+| Guidance for Disclosure 302-2                                                             |                                                                                                 |
+| The reporting organization can identify energy consumption outside of the organization by |                                                                                                 |
+| assessing whether an activity’s energy consumption:                                       |                                                                                                 |
+| •                                                                                         | contributes significantly to the organization’s total anticipated energy consumption outside of |
+|                                                                                           | the organization;                                                                               |
+| •                                                                                         | offers potential for reductions the organization can undertake or influence;                    |
+| •                                                                                         | contributes to climate change-related risks, such as financial, regulatory, supply chain,       |
+|                                                                                           | product and customer, litigation, and reputational risks;                                       |
+| •                                                                                         | is deemed material by stakeholders, such as customers, suppliers, investors, or civil           |
+|                                                                                           | society;                                                                                        |
+| •                                                                                         | results from outsourced activities previously performed in-house, or that are typically         |
+|                                                                                           | performed in-house by other organizations in the same sector;                                   |
+| •                                                                                         | has been identified as significant for the organization’s sector;                               |
+| •                                                                                         | meets any additional criteria for determining relevance, developed by the organization or by    |
+|                                                                                           | organizations in its sector.                                                                    |
+
+
+Table 15:
+| 0                                                                                              |
+|:-----------------------------------------------------------------------------------------------|
+| 6. Franchises                                                                                  |
+| 7. Investments                                                                                 |
+| Other downstream                                                                               |
+| For each of these categories and activities, the organization can calculate or estimate the    |
+| amount of energy consumed.                                                                     |
+| The organization can report energy consumption separately for non-renewable sources and        |
+| renewable sources.                                                                             |
+| Background                                                                                     |
+| Energy consumption can occur outside an organization, i.e., throughout the organization’s      |
+| upstream and downstream activities associated with its operations.                             |
+| This can include consumers’ use of products the organization sells, and the end-of-life        |
+| treatment of products.                                                                         |
+| Quantifying energy consumption outside of the organization can provide a basis for calculating |
+| some of the relevant other indirect (Scope 3) GHG emissions in Disclosure 305-3 of GRI 305:    |
+| Emissions 2016.                                                                                |
+
+
+Table 16:
+| 0                                 | 1                                                                  | 2                                                                                             |
+|:----------------------------------|:-------------------------------------------------------------------|:----------------------------------------------------------------------------------------------|
+| Disclosure 302-3 Energy intensity |                                                                    |                                                                                               |
+|                                   | The reporting organization shall report the following information: |                                                                                               |
+| REQUIREMENTS                      |                                                                    |                                                                                               |
+|                                   | a.                                                                 | Energy intensity ratio for the organization.                                                  |
+|                                   | b.                                                                 | Organization-specific metric (the denominator) chosen to calculate the ratio.                 |
+|                                   | c.                                                                 | Types of energy included in the intensity ratio; whether fuel, electricity, heating, cooling, |
+|                                   |                                                                    | steam, or all.                                                                                |
+|                                   | d.                                                                 | Whether the ratio uses energy consumption within the organization, outside of it, or          |
+|                                   |                                                                    | both.                                                                                         |
+|                                   | Compilation requirements                                           |                                                                                               |
+|                                   | 2.5                                                                | When compiling the information specified in Disclosure 302-3, the reporting                   |
+|                                   |                                                                    | organization shall:                                                                           |
+|                                   |                                                                    | 2.5.1calculate the ratio by dividing the absolute energy consumption (the                     |
+|                                   |                                                                    | numerator) by the organization-specific metric (the denominator);                             |
+|                                   |                                                                    | 2.5.2if reporting an intensity ratio both for the energy consumed within the                  |
+|                                   |                                                                    | organization and outside of it, report these intensity ratios separately.                     |
+|                                   | 2.6                                                                | When compiling the information specified in Disclosure 302-3, the reporting organization      |
+| RECOMMENDATIONS                   |                                                                    |                                                                                               |
+|                                   |                                                                    | should, where it aids transparency or comparability over time, provide a breakdown of the     |
+|                                   |                                                                    | energy intensity ratio by:                                                                    |
+|                                   |                                                                    | 2.6.1business unit or facility;                                                               |
+|                                   |                                                                    | 2.6.2country;                                                                                 |
+|                                   |                                                                    | 2.6.3type of source (see definitions for the listing of non-renewable sources and             |
+|                                   |                                                                    | renewable sources);                                                                           |
+|                                   |                                                                    | 2.6.4type of activity.                                                                        |
+
+
+Table 17:
+| 0                                                         | 1                                                               |
+|:----------------------------------------------------------|:----------------------------------------------------------------|
+|                                                           | 2.6.4type of activity.                                          |
+| Guidance for Disclosure 302-3                             |                                                                 |
+| Intensity ratios can be provided for, among others:       |                                                                 |
+| •                                                         | products (such as energy consumed per unit produced);           |
+| •                                                         | services (such as energy consumed per function or per service); |
+| •                                                         | sales (such as energy consumed per monetary unit of sales).     |
+| Organization-specific metrics (denominators) can include: |                                                                 |
+| •                                                         | units of product;                                               |
+| •                                                         | production volume (such as metric tons, liters, or MWh);        |
+|                                                           | 2                                                               |
+| •                                                         | size (such as m  floor space);                                  |
+| •                                                         | number of full-time employees;                                  |
+| •                                                         | monetary units (such as revenue or sales).                      |
+
+
+Table 18:
+| 0                                                                           | 1                                                                              |
+|:----------------------------------------------------------------------------|:-------------------------------------------------------------------------------|
+| When compiling the information specified in Disclosure 302-4, the reporting |                                                                                |
+| organization shall:                                                         |                                                                                |
+| 2.7.1                                                                       | exclude reductions resulting from reduced production capacity or               |
+|                                                                             | outsourcing;                                                                   |
+| 2.7.2                                                                       | describe whether energy reduction is estimated, modeled, or sourced from       |
+|                                                                             | direct measurements. If estimation or modeling is used, the organization shall |
+|                                                                             | disclose the methods used.                                                     |
+
+
+Table 19:
+| 0                                                | 1                                                                  | 2                                                                                        |
+|:-------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
+| Disclosure 302-4 Reduction of energy consumption |                                                                    |                                                                                          |
+|                                                  | The reporting organization shall report the following information: |                                                                                          |
+| REQUIREMENTS                                     |                                                                    |                                                                                          |
+|                                                  | a.                                                                 | Amount of reductions in energy consumption achieved as a direct result of                |
+|                                                  |                                                                    | conservation and efficiency initiatives, in joules or multiples.                         |
+|                                                  | b.                                                                 | Types of energy included in the reductions; whether fuel, electricity, heating, cooling, |
+|                                                  |                                                                    | steam, or all.                                                                           |
+|                                                  | c.                                                                 | Basis for calculating reductions in energy consumption, such as base year or baseline,   |
+|                                                  |                                                                    | including the rationale for choosing it.                                                 |
+|                                                  | d.                                                                 | Standards, methodologies, assumptions, and/or calculation tools used.                    |
+|                                                  | Compilation requirements                                           |                                                                                          |
+|                                                  | 2.7                                                                | When compiling the information specified in Disclosure 302-4, the reporting              |
+|                                                  |                                                                    | organization shall:                                                                      |
+|                                                  |                                                                    | 2.7.1exclude reductions resulting from reduced production capacity or                    |
+|                                                  |                                                                    | outsourcing;                                                                             |
+|                                                  |                                                                    | 2.7.2describe whether energy reduction is estimated, modeled, or sourced from            |
+|                                                  |                                                                    | direct measurements. If estimation or modeling is used, the organization shall           |
+|                                                  |                                                                    | disclose the methods used.                                                               |
+|                                                  | 2.8                                                                | When compiling the information specified in Disclosure 302-4, the reporting organization |
+| RECOMMENDATIONS                                  |                                                                    |                                                                                          |
+|                                                  |                                                                    | should, if subject to different standards and methodologies, describe the approach to    |
+|                                                  |                                                                    | selecting them.                                                                          |
+
+
+Table 20:
+| 0                                                              | 1                                                                  | 2                                                                                        |
+|:---------------------------------------------------------------|:-------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|
+| Disclosure 302-5 Reductions in energy requirements of products |                                                                    |                                                                                          |
+| and services                                                   |                                                                    |                                                                                          |
+|                                                                | The reporting organization shall report the following information: |                                                                                          |
+| REQUIREMENTS                                                   |                                                                    |                                                                                          |
+|                                                                | a.                                                                 | Reductions in energy requirements of sold products and services achieved during the      |
+|                                                                |                                                                    | reporting period, in joules or multiples.                                                |
+|                                                                | b.                                                                 | Basis for calculating reductions in energy consumption, such as base year or baseline,   |
+|                                                                |                                                                    | including the rationale for choosing it.                                                 |
+|                                                                | c.                                                                 | Standards, methodologies, assumptions, and/or calculation tools used.                    |
+|                                                                | 2.9                                                                | When compiling the information specified in Disclosure 302-5, the reporting organization |
+| RECOMMENDATIONS                                                |                                                                    |                                                                                          |
+|                                                                |                                                                    | should:                                                                                  |
+
+
+Table 21:
+| 0                                                                                                                      |
+|:-----------------------------------------------------------------------------------------------------------------------|
+| GRI 302: Energy 2016                                                                                                   |
+| Glossary                                                                                                               |
+| This glossary provides definitions for terms used in this Standard. The organization is required to apply these        |
+| definitions when using the GRI Standards.                                                                              |
+| The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards     |
+| Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards |
+| Glossary, definitions that are commonly used and understood apply.                                                     |
+
+
+Table 22:
+| 0                                                                                                                      | 1                                                                                                     |
+|:-----------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------|
+| The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards     |                                                                                                       |
+| Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards |                                                                                                       |
+| Glossary, definitions that are commonly used and understood apply.                                                     |                                                                                                       |
+| base year *                                                                                                            |                                                                                                       |
+|                                                                                                                        | historical datum (such as year) against which a measurement is tracked over time                      |
+|                                                                                                                        | * Please note this term will be updated following the effective date of GRI 102: Climate Change       |
+|                                                                                                                        | 2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated           |
+| term.                                                                                                                  |                                                                                                       |
+| baseline *                                                                                                             |                                                                                                       |
+| starting point used for comparisons                                                                                    |                                                                                                       |
+| Note:                                                                                                                  | In the context of energy reporting, the baseline is the projected energy consumption                  |
+|                                                                                                                        | or emissions in the absence of any reduction activity.                                                |
+|                                                                                                                        | * Please note this term will be updated following the effective date of GRI 102: Climate Change       |
+|                                                                                                                        | 2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated           |
+| term.                                                                                                                  |                                                                                                       |
+| conservation and efficiency initiative                                                                                 |                                                                                                       |
+|                                                                                                                        | organizational or technological modification that allows a defined process or task to be carried      |
+| out using less energy                                                                                                  |                                                                                                       |
+| Examples:                                                                                                              | conversion and retrofitting of equipment such as energy-efficient lighting,                           |
+|                                                                                                                        | elimination of unnecessary energy use due to changes in behavior, process                             |
+|                                                                                                                        | redesign                                                                                              |
+| energy reduction *                                                                                                     |                                                                                                       |
+|                                                                                                                        | amount of energy no longer used or needed to carry out the same processes or tasks                    |
+| Note:                                                                                                                  | Energy reduction does not include overall reduction in energy consumption from                        |
+|                                                                                                                        | reducing production capacity or outsourcing organizational activities.                                |
+|                                                                                                                        | * Please note this term will be updated following the effective date of GRI 102: Climate Change       |
+|                                                                                                                        | 2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated           |
+| term.                                                                                                                  |                                                                                                       |
+| human rights                                                                                                           |                                                                                                       |
+|                                                                                                                        | rights inherent to all human beings, which include, at a minimum, the rights set out in the United    |
+|                                                                                                                        | Nations (UN) International Bill of Human Rights and the principles concerning fundamental             |
+|                                                                                                                        | rights set out in the International Labour Organization (ILO) Declaration on Fundamental              |
+| Principles and Rights at Work                                                                                          |                                                                                                       |
+| Source:                                                                                                                | United Nations (UN), Guiding Principles on Business and Human Rights:                                 |
+|                                                                                                                        | Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;                        |
+|                                                                                                                        | modified                                                                                              |
+| Note:                                                                                                                  | See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information                      |
+|                                                                                                                        | on ‘human rights’.                                                                                    |
+| impact                                                                                                                 |                                                                                                       |
+|                                                                                                                        | effect the organization has or could have on the economy, environment, and people, including on       |
+|                                                                                                                        | their human rights, which in turn can indicate its contribution (negative or positive) to sustainable |
+| development                                                                                                            |                                                                                                       |
+
+
+Table 23:
+| 0                                                                                              | 1                                                                                     |
+|:-----------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------|
+| Note 1:                                                                                        | Impacts can be actual or potential, negative or positive, short-term or long-term,    |
+|                                                                                                | intended or unintended, and reversible or irreversible.                               |
+| Note 2:                                                                                        | See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.           |
+| material topics                                                                                |                                                                                       |
+| topics that represent the organization’s most significant impacts on the economy, environment, |                                                                                       |
+| and people, including impacts on their human rights                                            |                                                                                       |
+| Note:                                                                                          | See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics     |
+|                                                                                                | 2021 for more information on ‘material topics’.                                       |
+| non-renewable energy source                                                                    |                                                                                       |
+| energy source that cannot be replenished, reproduced, grown or generated in a short time       |                                                                                       |
+| period through ecological cycles or agricultural processes                                     |                                                                                       |
+| Examples:                                                                                      | coal; fuels distilled from petroleum or crude oil, such as gasoline, diesel fuel, jet |
+|                                                                                                | fuel, and heating oil; fuels extracted from natural gas processing and petroleum      |
+
+
+Table 24:
+| 0                                                               | 1                                                                                                     |
+|:----------------------------------------------------------------|:------------------------------------------------------------------------------------------------------|
+| GRI 302: Energy 2016                                            |                                                                                                       |
+| Bibliography                                                    |                                                                                                       |
+| This section lists references used in developing this Standard. |                                                                                                       |
+| References:                                                     |                                                                                                       |
+| 1.                                                              | World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), ‘GHG  |
+|                                                                 | Protocol Corporate Accounting and Reporting Standard’, Revised Edition, 2004.                         |
+| 2.                                                              | World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), ‘GHG  |
+|                                                                 | Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard’, 2011.                    |
+| 3.                                                              | World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD),       |
+|                                                                 | ‘Greenhouse Gas Protocol Accounting Notes, No. 1, Accounting and Reporting Standard Amendment’, 2012. |
+
+
+Table 25:
+| 0                 | 1                       |
+|:------------------|:------------------------|
+| PO Box 10039      |                         |
+| 1001 EA Amsterdam |                         |
+| The Netherlands   |                         |
+|                   | www.globalreporting.org |

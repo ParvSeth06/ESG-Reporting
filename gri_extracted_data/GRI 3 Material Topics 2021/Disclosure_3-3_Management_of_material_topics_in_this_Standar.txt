@@ -1,0 +1,80 @@
+Disclosure 3-3 Management of material topics in this Standard.
+
+1 International Organization for Standardization (ISO), ISO 31000:2018 Risk management – Guidelines, 2018.
+2 Ibidem.
+14 GRI 3: Material Topics 2021
+While some topics can cover both negative and positive impacts, it may not always be possible to compare the two.
+Additionally, negative impacts cannot be offset by positive impacts. The organization should therefore prioritize
+negative impacts separately from positive impacts.
+Even if the organization has not prioritized an actual or potential negative impact for reporting, it may still be
+responsible for addressing the impact in line with applicable laws, regulations, or authoritative intergovernmental
+instruments. See section 2.3 in GRI 1: Foundation 2021 for more information.
+Box 4. Grouping impacts into topics
+Grouping impacts into topics, like ‘water and effluents’, helps the organization report in a cohesive way about
+multiple impacts related to the same topic.
+The organization can group impacts into topics according to general categories that relate to a business
+activity, stakeholder category, type of business relationship, or an economic or environmental resource. For
+example, an organization’s activities result in water pollution, which causes negative impacts on both
+ecosystems and local communities’ access to safe drinking water. The organization can group these impacts
+into the topic of ‘water and effluents’ as both impacts relate to its use of water.
+The organization can refer to the topics in the GRI Topic Standards and the GRI Sector Standards. These
+topics provide a useful reference for understanding the range of impacts that can be covered in each topic. For
+impacts or topics that the GRI Standards do not cover, the organization can refer to other sources, such as
+authoritative intergovernmental instruments or industry standards.
+Testing the material topics
+The organization should test its selection of material topics against the topics in the applicable GRI Sector Standards.
+This helps the organization ensure that it has not overlooked any topics that are likely to be material for its sectors.
+The organization should also test its selection of material topics with potential information users and experts who
+understand the organization or its sectors and have insight into one or more of the material topics. This can help the
+organization validate the threshold it has set to determine which topics are material to report. Examples of experts the
+organization can consult are academics, consultants, investors, lawyers, national institutions, and non-governmental
+organizations.
+The organization should seek external assurance to assess the quality and credibility of its process of determining
+material topics. See section 5.2 in GRI 1 for more information on seeking external assurance.
+This testing process results in a list of the organization’s material topics.
+Approval of the material topics
+The organization’s highest governance body should review and approve the list of material topics. If such a body does
+not exist, the list should be approved by a senior executive or group of senior executives in the organization.
+Determining what to report for each material topic
+Once the organization has determined its material topics, it needs to determine what to report for each material topic.
+See Requirement 4 and Requirement 5 in GRI 1 for information about how to report on material topics.
+15 GRI 3: Material Topics 2021
+Box 5. Using GRI Sector Standards to determine material topics
+The GRI Sector Standards provide information for organizations about their likely material topics. The topics
+have been identified on the basis of the sectors’ most significant impacts, using multi-stakeholder expertise,
+authoritative intergovernmental instruments, and other relevant evidence.
+The organization is required to use the applicable Sector Standards when determining its material topics (see
+Requirement 3-b in GRI 1: Foundation 2021). Using the Sector Standards is not a substitute for the process of
+determining material topics, but an aid. The organization still needs to consider its own specific circumstances
+when determining its material topics.
+The organization is required to review each topic described in the applicable Sector Standards and determine
+whether it is a material topic for the organization.
+There can be cases where a topic included in the applicable Sector Standards is not material for the
+organization. This may be because the organization assesses the specific impacts the topic covers to be
+absent. It may also be because, compared to other impacts of the organization, the ones that the topic covers
+are not among the most significant.
+For example, an organization in the oil and gas sector is required to use GRI 11: Oil and Gas Sector 2021
+when determining its material topics. One of the topics included in this Sector Standard is land and resource
+rights. Oil and gas projects often require land for operations, access routes, and distribution. This can lead to
+impacts such as involuntary resettlement of local communities, which can involve their physical displacement
+and economic displacement through lost access to resources. However, if the organization’s oil and gas
+projects do not result in these impacts and will not result in these impacts in the future, the organization may
+determine that the topic of land and resource rights is not a material topic for the organization. In such a case,
+the reporting organization is required to explain why it has determined that this topic, which is likely to be
+material for organizations in the oil and gas sector, is not a material topic for the organization.
+If any of the topics that are included in the applicable Sector Standards have been determined by the
+organization as not material, the organization is required to list them in the GRI content index and explain why
+they are not material (see Requirement 3-b-ii in GRI 1). This explanation helps information users understand
+why the organization has determined that topics that are likely to be material for the organization’s sectors are
+not material in its specific circumstances.
+A brief explanation in the GRI content index of why the topic is not material is sufficient to comply with
+Requirement 3-b-ii in GRI 1. In the previous example, the organization could explain that land and resource
+rights is not a material topic because its existing oil and gas projects are located in uninhabited areas, and
+there are no plans to start projects in new areas.
+16 GRI 3: Material Topics 2021
+2. Disclosures on material topics
+The disclosures in this section provide information about the organization’s material topics, how the organization has
+determined these topics, and how it manages each material topic. Material topics are topics that represent the
+organization’s most significant impacts on the economy, environment, and people, including impacts on their human
+rights. Section 1 of this Standard provides guidance on how to determine material topics and helps in understanding
+and reporting the disclosures in this section.

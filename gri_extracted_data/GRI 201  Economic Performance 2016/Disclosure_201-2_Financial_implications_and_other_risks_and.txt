@@ -1,0 +1,70 @@
+Disclosure 201-2 Financial implications and other risks and
+
+opportunities due to climate change
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Risks and opportunities posed by climate change that have the potential to generate
+substantive changes in operations, revenue, or expenditure, including:
+i. a description of the risk or opportunity and its classification as either physical,
+regulatory, or other;
+ii. a description of the impact associated with the risk or opportunity;
+iii. the financial implications of the risk or opportunity before action is taken;
+iv. the methods used to manage the risk or opportunity;
+v. the costs of actions taken to manage the risk or opportunity.
+Compilation requirements
+2.2 When compiling the information specified in Disclosure 201-2, if the reporting
+organization does not have a system in place to calculate the financial implications or
+costs, or to make revenue projections, it shall report its plans and timeline to develop
+the necessary systems.
+2.3 When compiling the information specified in Disclosure 201-2, the reporting organization
+RECOMMENDATIONS
+should report the following additional characteristics for the identified risks and
+opportunities:
+2.3.1 A description of the risk or opportunity driver, such as a particular piece of
+legislation, or a physical driver, such as water scarcity;
+2.3.2 The projected time frame in which the risk or opportunity is expected to have
+substantive financial implications;
+2.3.3 Direct and indirect impacts (whether the impact directly affects the organization, or
+indirectly affects the organization via its supply chain or entities downstream from
+it);
+2.3.4 The potential impacts generally, including increased or decreased:
+2.3.4.1capital and operational costs;
+2.3.4.2demand for products and services;
+2.3.4.3capital availability and investment opportunities;
+2.3.5 Likelihood (the probability of the impact on the organization);
+2.3.6 Magnitude of impact (if occurring, the extent to which the impact affects the
+organization financially).
+Guidance for Disclosure 201-2
+GUIDANCE
+Risk and opportunities due to climate change can be classified as:
+• physical
+• regulatory
+• other
+Physical risks and opportunities can include:
+• the impact of more frequent and intense storms;
+• changes in sea level, ambient temperature, and water availability;
+• impacts on workers – such as health effects, including heat-related illness or disease, and
+the need to relocate operations.
+Other risks and opportunities can include the availability of new technologies, products, or
+services to address challenges related to climate change, as well as changes in customer
+behavior.
+Methods used to manage the risk or opportunity can include:
+• carbon capture and storage;
+• fuel switching;
+• use of renewable and lower carbon footprint energy;
+12 GRI 201: Economic Performance 2016
+• improving energy efficiency;
+• flaring, venting, and fugitive emission reduction;
+• renewable energy certificates;
+• use of carbon offsets.
+Background
+Climate change presents risks and opportunities to organizations, their investors, and their
+other stakeholders.
+As governments move to regulate activities that contribute to climate change, organizations that
+are directly or indirectly responsible for emissions face regulatory risks and opportunities. Risks
+can include increased costs or other factors impacting competitiveness. However, limits on
+greenhouse gas (GHG) emissions can also create opportunities for organizations as new
+technologies and markets are created. This is especially the case for organizations that can use
+or produce energy and energy-efficient products more effectively.
+See references [2], [3] and [4] in the Bibliography.
+13 GRI 201: Economic Performance 2016

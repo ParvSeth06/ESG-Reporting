@@ -1,0 +1,50 @@
+Disclosure 306-4 Transport of hazardous waste
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Total weight for each of the following:
+i. Hazardous waste transported
+ii. Hazardous waste imported
+iii. Hazardous waste exported
+iv. Hazardous waste treated
+b. Percentage of hazardous waste shipped internationally.
+c. Standards, methodologies, and assumptions used.
+Compilation requirements
+2.4 When compiling the information specified in Disclosure 306-4, the reporting organization
+shall:
+2.4.1 convert volumes to an estimate of weight;
+2.4.2 in response to Disclosure 306-4-c, provide a brief explanation of the methodology
+used
+for making these conversions.
+Guidance for Disclosure 306-4
+GUIDANCE
+This disclosure covers waste deemed hazardous under the terms of the Basel Convention
+Annex I, II, III, and VIII (see reference 1 in the References section). It covers hazardous waste
+transported by or on behalf of the reporting organization within the reporting period by
+destination, including transport across operational boundaries and within operations.
+The organization can calculate the total weight of transported hazardous waste using the
+following equation:
+Total weight of hazardous waste
+transported by destination
+=
+Weight of hazardous waste transported to the organization by destination from external
+sources/suppliers not owned by the organization
++
+Weight of hazardous waste transported from the organization by destination to external
+sources/suppliers not owned by the organization
++
+Weight of hazardous waste transported nationally and internationally by destination between
+locations owned, leased, or managed by the organization
+Imported hazardous waste can be calculated as the total weight of hazardous waste transported
+across international borders and which enters the boundaries of the organization, by
+destination, excluding waste transported between different locations of the organization.
+Exported hazardous waste can be calculated as the proportion of the total amount of transported
+hazardous waste by destination that is transported from the organization to locations abroad,
+including all waste that leaves the boundaries of the organization to cross international borders
+and excluding transportation between different locations of the organization.
+For treated waste, the organization can identify:
+• the portion of the total amount of transported
+and exported waste that the organization has treated, by destination;
+• the portion of the total amount of waste, by destination, that is treated by external
+sources/suppliers, that has been transported, exported, or imported by the organization.
+12 GRI 306: Effluents and Waste 2016

@@ -1,0 +1,35 @@
+Disclosure 2-12 in GRI 2: General Disclosures 2021 requires information on the role of the
+
+highest governance body in overseeing the organization’s due diligence and other processes to
+identify its impacts on the economy, environment, and people.
+Guidance to 3-1-a-ii
+The organization should describe how it has assessed the significance of the impacts,
+including any assumptions and subjective judgments it has made.
+The significance of an actual negative impact is determined by the severity of the impact (scale,
+scope, and irremediable character), while the significance of a potential negative impact is
+determined by the severity and likelihood of the impact. In the case of potential negative human
+17 GRI 3: Material Topics 2021
+rights impacts, the severity of the impact takes precedence over its likelihood.
+The significance of an actual positive impact is determined by the scale and scope of the
+impact, while the significance of a potential positive impact is determined by its scale and scope
+as well as its likelihood.
+See section 1 in this Standard for more guidance on assessing the significance of impacts.
+The organization should explain if it has used a different approach to prioritize its impacts, for
+example, if it has prioritized potential negative environmental impacts based on severity only.
+The organization should also describe how it has defined the threshold to determine which
+topics are material for reporting, and whether it has tested its selection of material topics with
+potential information users and experts. The organization is required to report whether the
+highest governance body is responsible for reviewing and approving the reported information,
+including the organization’s material topics, under Disclosure 2-14 in GRI 2. The organization
+should explain any changes to its initial selection of material topics following internal approval
+and testing with potential information users and experts.
+For transparency, the organization can provide a visual representation of the prioritization that
+shows the initial list of topics it has identified and the threshold it has set for reporting.
+Guidance to 3-1-b
+Requirement 3-1-b enables the organization to explain how engagement with stakeholders and
+experts informs the ongoing identification and assessment of its impacts.
+The organization can report whether and how it has prioritized stakeholders for engagement and
+the methods used to engage with them. It can also report any conflicting interests that have
+arisen among different stakeholders and how the organization has resolved these conflicting
+interests.
+18 GRI 3: Material Topics 2021

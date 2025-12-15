@@ -1,0 +1,19 @@
+Disclosure 414-1 New suppliers that were screened using social
+
+criteria
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Percentage of new suppliers that were screened using social criteria.
+Guidance for Disclosure 414-1
+GUIDANCE
+Social criteria can include the topics covered in other GRI Topic Standards (e.g., GRI 401:
+Employment 2016, GRI 403: Occupational Health and Safety 2018, GRI 408: Child Labor 2016,
+GRI 409: Forced or Compulsory Labor 2016).
+Background
+This disclosure informs stakeholders about the percentage of suppliers selected or contracted
+subject to due diligence processes for social impacts.
+An organization is expected to initiate due diligence as early as possible in the development of a
+new relationship with a supplier.
+Impacts may be prevented or mitigated at the stage of structuring contracts or other agreements,
+as well as via ongoing collaboration with suppliers.
+9 GRI 414: Supplier Social Assessment 2016

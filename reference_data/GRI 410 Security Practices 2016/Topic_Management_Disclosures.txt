@@ -1,0 +1,12 @@
+Topic Management Disclosures
+
+1. Topic management disclosures
+An organization reporting in accordance with the GRI Standards is required to report how it manages each of its
+material topics.
+An organization that has determined security practices to be a material topic is required to report how it manages the
+topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).
+This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.
+1.1 The reporting organization shall report how it manages security practices using
+REQUIREMENTS
+Disclosure 3-3 in GRI 3: Material Topics 2021.
+8 GRI 410: Security Practices 2016

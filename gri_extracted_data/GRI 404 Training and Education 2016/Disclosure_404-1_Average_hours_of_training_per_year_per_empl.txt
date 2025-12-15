@@ -1,0 +1,54 @@
+Disclosure 404-1 Average hours of training per year per employee
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Average hours of training that the organization’s employees have undertaken during the
+reporting period, by:
+i. gender;
+ii. employee category.
+2.1 When compiling the information specified in Disclosure 404-1, the reporting organization
+RECOMMENDATIONS
+should:
+2.1.1 express employee numbers as either head count or full-time equivalent (FTE),
+and disclose and apply the approach consistently in the period, and between
+periods;
+2.1.2 use data from Disclosure 2-7 in GRI 2: General Disclosures 2021 to identify the
+total number of employees;
+2.1.3 draw from the information used for Disclosure 405-1 in GRI 405: Diversity and
+Equal Opportunity 2016 to identify the total number of employees by employee
+category.
+Guidance for Disclosure 404-1
+GUIDANCE
+This disclosure provides insight into the scale of an organization’s investment in training, and
+the degree to which the investment is made across the entire employee base.
+In the context of this Standard, ‘training’ refers to:
+• all types of vocational training and instruction;
+• paid educational leave provided by an organization for its employees;
+• training or education pursued externally and paid for in whole or in part by an organization;
+• training on specific topics.
+Training does not include on-site coaching by supervisors.
+To calculate the information in Disclosure 404-1, the reporting organization can use the
+following formulas:
+Total number of training hours provided to
+employees
+Average training hours per
+employee = ___________________________
+Total number of employees
+Total number of training hours provided to female
+employees
+Average training hours per
+female = ___________________________
+Total number of female employees
+Total number of training hours provided to male
+employees
+Average training hours per male = ___________________________
+Total number of male employees
+9 GRI 404: Training and Education 2016
+Total number of training hours provided to each
+category of employees
+Average training hours per
+employee category = ___________________________
+Total number of employees in category
+A number of calculations can be undertaken to report on employee categories. These
+calculations are specific to each organization.
+10 GRI 404: Training and Education 2016

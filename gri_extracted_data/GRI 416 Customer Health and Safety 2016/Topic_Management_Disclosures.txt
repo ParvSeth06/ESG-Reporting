@@ -1,0 +1,23 @@
+Topic Management Disclosures
+
+1. Topic management disclosures
+An organization reporting in accordance with the GRI Standards is required to report how it manages each of its
+material topics.
+An organization that has determined customer health and safety to be a material topic is required to report how it
+manages the topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).
+This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.
+1.1 The reporting organization shall report how it manages customer health and safety
+REQUIREMENTS
+using Disclosure 3-3 in GRI 3: Material Topics 2021.
+The reporting organization can also disclose whether the health and safety impacts of products
+GUIDANCE
+and services are assessed for improvement in each of the following life cycle stages:
+• Development of product concept
+• Research and development
+• Certification
+• Manufacturing and production
+• Marketing and promotion
+• Storage, distribution, and supply
+• Use and service
+• Disposal, reuse, or recycling
+8 GRI 416: Customer Health and Safety 2016

@@ -1,0 +1,44 @@
+Disclosure 403-9. See references [5] and [16] in the Bibliography for a list of musculoskeletal
+
+disorders.
+Injuries involving members of the public as a result of a work-related incident are not included in
+this disclosure, but the organization can report this information separately. For example, the
+organization can report incidents where a vehicle driven by a worker causes the deaths of other
+road users or incidents where visitors are injured during their visit to the organization’s
+workplace.
+Guidance for reporting on high-consequence work-related injuries
+As per the definition of recordable work-related injury, the organization is required to report all
+work-related injuries as part of the ‘number and rate of recordable work-related injuries’. In
+addition, the organization is required to separately report high-consequence work- related
+injuries, with a breakdown by:
+• fatalities, to be reported using Disclosures 403-9-a-i and 403-9-b-i.
+• other injuries from which the worker cannot recover (e.g., amputation of a limb), or does not
+or is not expected to recover fully to pre-injury health status within 6 months (e.g., fracture
+23 GRI 403: Occupational Health and Safety 2018
+with complications), to be reported using Disclosures 403-9-a-ii and 403-9-b-ii.
+The definition of ‘high-consequence work-related injury’ uses ‘recovery time’, instead of ‘lost
+time’, as the criterion for determining the severity of an injury. Lost time is an indicator of the loss
+of productivity for an organization as a result of a work-related injury; it does not necessarily
+indicate the extent of harm suffered by a worker.
+‘Recovery time’, in contrast, refers to the time needed for a worker to recover fully to pre-injury
+health status; it does not refer to the time needed for a worker to return to work. In some cases,
+a worker might return to work before full recovery.
+In addition to reporting information on high-consequence work-related injuries based on
+recovery time as required by this disclosure, the organization can also report the number and
+rate of work-related injuries that resulted in lost-workday cases, the average number of lost days
+per lost-workday case, the number of lost workdays, and the absentee rate.
+Guidance for Disclosure 403-9-c
+This disclosure covers work-related hazards that pose a risk of high-consequence injury if not
+controlled, even when there are control measures in place. The hazards might have been
+identified proactively through risk assessment, or reactively as a result of either a high-potential
+incident or a high-consequence injury.
+Examples of work-related hazards causing or contributing to high-consequence injuries include
+excessive workload demands, tripping hazards, or exposure to flammable materials.
+If the identified work-related hazards vary significantly across different locations, the organization
+may group or disaggregate these by relevant categories, such as by geographical area or
+business line. Similarly, if there are a high number of hazards, the organization may group or
+categorize them to facilitate reporting.
+When reporting how it has determined which work-related hazards pose a risk of high-
+consequence injury using Disclosure 403-9-c-i, the organization can describe the criteria or
+threshold used to determine which hazards pose such a risk and which do not. The processes
+to identify hazards and assess risks, and to apply the hierarchy of controls, are reported using

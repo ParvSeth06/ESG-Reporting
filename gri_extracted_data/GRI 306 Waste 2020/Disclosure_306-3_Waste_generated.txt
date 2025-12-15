@@ -1,0 +1,47 @@
+Disclosure 306-3 Waste generated
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Total weight of waste generated in metric tons, and a breakdown of this total by
+composition of the waste.
+b. Contextual information necessary to understand the data and how the data has been
+compiled.
+Compilation requirements
+2.1 When compiling the information specified in Disclosure 306-3-a, the reporting
+organization shall:
+2.1.1 exclude effluent, unless required by national legislation to be reported under
+total waste;
+2.1.2 use 1000 kilograms as the measure for a metric ton.
+Background
+GUIDANCE
+The total weight of waste generated, when contrasted with the weight of waste that the
+organization directs to recovery and disposal, can show the extent to which the organization
+manages its waste-related impacts.
+The composition of the waste generated can help identify recovery or disposal operations
+appropriate to the type of waste and to the specific materials present in the waste.
+Guidance for Disclosure 306-3
+This disclosure covers waste generated in the organization’s own activities. The organization
+can separately report waste generated upstream and downstream in its value chain, if this
+information is available.
+Guidance for Disclosure 306-3-a
+When reporting composition of the waste, the organization can describe:
+• the type of waste, such as hazardous waste or non-hazardous waste;
+• the waste streams, relevant to its sector or activities (e.g., tailings for an organization in the
+mining sector, electronic waste for an organization in the consumer electronics sector, or
+food waste for an organization in the agriculture or in the hospitality sector);
+• the materials that are present in the waste (e.g., biomass, metals, non-metallic minerals,
+plastics, textiles).
+Templates for how to present information under this disclosure can be found in the Appendix
+Tables.
+Guidance for Disclosure 306-3-b
+To help understand the data, the organization can explain the reasons for the difference
+between the weight of waste generated and the weight of waste directed to recovery or disposal.
+This difference can be a result of precipitation or evaporation, leaks or losses, or other
+modifications to the waste. In the context of this Standard, leaks result from physical or technical
+failures (e.g., a trail of waste from a waste collection truck), while losses result from inadequate
+security measures or administrative failures (e.g., theft or lost records).
+To help understand how the data has been compiled, the organization can specify whether the
+data has been modeled or sourced from direct measurements, such as waste transfer notes
+from contracted waste collectors, external assurance, or audits of waste-related data.
+See references [1], [4], [10], and [11] in the Bibliography.
+13 GRI 306: Waste 2020

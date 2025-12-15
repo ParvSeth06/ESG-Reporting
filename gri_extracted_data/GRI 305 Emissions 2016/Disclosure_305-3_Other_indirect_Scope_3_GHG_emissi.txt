@@ -1,0 +1,119 @@
+Disclosure 305-3 Other indirect (Scope 3) GHG emissions
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Gross other indirect (Scope 3) GHG emissions in metric tons of CO2 equivalent.
+b. If available, the gases included in the calculation; whether CO , CH , N O, HFCs, PFCs,
+2 4 2
+SF , NF , or all.
+6 3
+c. Biogenic CO2 emissions in metric tons of CO equivalent.
+d. Other indirect (Scope 3) GHG emissions categories and activities included in the
+calculation.
+e. Base year for the calculation, if applicable, including:
+i. the rationale for choosing it;
+ii. emissions in the base year;
+iii. the context for any significant changes in emissions that triggered recalculations
+of base year emissions.
+f. Source of the emission factors and the global warming potential (GWP) rates used, or a
+reference to the GWP source.
+g. Standards, methodologies, assumptions, and/or calculation tools used.
+Compilation requirements
+2.5 When compiling the information specified in Disclosure 305-3, the reporting
+organization shall:
+2.5.1 exclude any GHG trades from the calculation of gross other indirect (Scope 3)
+GHG emissions;
+2.5.2 exclude energy indirect (Scope 2) GHG emissions from this disclosure. Energy
+indirect (Scope 2) GHG emissions are disclosed as specified in Disclosure
+305-2;
+2.5.3 report biogenic emissions of CO from the combustion or biodegradation of
+biomass that occur in its value chain separately from the gross other indirect
+(Scope 3) GHG emissions. Exclude biogenic emissions of other types of GHG
+(such as CH and N O), and biogenic emissions of CO that occur in the life
+4 2 2
+cycle of biomass other than from combustion or biodegradation (such as GHG
+emissions from processing or transporting biomass).
+2.6 When compiling the information specified in Disclosure 305-3, the reporting organization
+RECOMMENDATIONS
+should:
+2.6.1 apply emission factors and GWP rates consistently for the data disclosed;
+2.6.2 use the GWP rates from the IPCC assessment reports based on a 100-year
+timeframe;
+2.6.3 if subject to different standards and methodologies, describe the approach to
+selecting them;
+2.6.4 list other indirect (Scope 3) GHG emissions, with a breakdown by upstream and
+downstream categories and activities;
+2.6.5 where it aids transparency
+or comparability over time, provide a breakdown of the other indirect (Scope 3)
+GHG emissions by:
+2.6.5.1 business unit or facility;
+2.6.5.2 country;
+2.6.5.3 type of source;
+2.6.5.4 type of activity.
+Guidance for Disclosure 305-3
+GUIDANCE
+Other indirect (Scope 3) GHG emissions are a consequence of an organization’s activities, but
+occur from sources not owned or controlled by the organization. Other indirect (Scope 3) GHG
+14 GRI 305: Emissions 2016
+emissions include both upstream and downstream emissions. Some examples of Scope 3
+activities include extracting and producing purchased materials; transporting purchased fuels in
+vehicles not owned or controlled by the organization; and the end use of products and services.
+Other indirect emissions can also come from the decomposing of the organization’s waste.
+Process-related emissions during the manufacture of purchased goods and fugitive emissions
+in facilities not owned by the organization can also produce indirect emissions.
+For some organizations, GHG emissions that result from energy consumption outside of the
+organization can be much greater than their direct (Scope 1) or energy indirect (Scope 2) GHG
+emissions.
+The reporting organization can identify other indirect (Scope 3) GHG emissions by assessing
+which of its activities’ emissions:
+• contribute significantly to the organization’s total anticipated other indirect (Scope 3) GHG
+emissions;
+• offer potential for reductions the organization can undertake or influence;
+• contribute to climate change-related risks, such as financial, regulatory, supply chain,
+product and customer, litigation, and reputational risks;
+• are deemed material by stakeholders, such as customers, suppliers, investors, or civil
+society;
+• result from outsourced activities previously performed in-house, or that are typically
+performed in-house by other organizations in the same sector;
+• have been identified as significant for the organization’s sector;
+• meet any additional criteria for determining relevance, developed by the organization or by
+organizations in its sector.
+The organization can use the following upstream and downstream categories and activities
+from the ‘GHG Protocol Corporate Value Chain Standard’ (see reference [15] in the
+Bibliography).
+Upstream categories
+1. Purchased goods and services
+2. Capital goods
+3. Fuel- and energy-related activities (not included in Scope 1 or Scope 2)
+4. Upstream transportation and distribution
+5. Waste generated in operations
+6. Business travel
+7. Employee commuting
+8. Upstream leased assets
+Other upstream
+Downstream categories
+9. Downstream transportation and distribution
+10. Processing of sold products
+11. Use of sold products
+12. End-of-life treatment of sold products
+13. Downstream leased assets
+14. Franchises
+15. Investments
+Other downstream
+For each of these categories and activities, the organization can provide a figure in CO
+equivalent or explain why certain data are not included.
+For recalculations of prior year emissions, the organization can follow the approach in the ‘GHG
+Protocol Corporate Value Chain Standard’.
+The chosen emission factors can originate from mandatory reporting requirements, voluntary
+reporting frameworks, or industry groups.
+15 GRI 305: Emissions 2016
+Estimates of GWP rates change over time as scientific research develops. GWP rates from the
+Second Assessment Report of the IPCC are used as the basis for international negotiations
+under the ‘Kyoto Protocol’. Thus, such rates can be used for disclosing GHG emissions where it
+does not conflict with national or regional reporting requirements. The organization can also use
+the latest GWP rates from the most recent IPCC assessment report.
+The organization can combine Disclosure 305-3 with Disclosures 305-1 (direct/Scope 1 GHG
+emissions) and 305-2 (energy indirect/Scope 2 GHG emissions) to disclose total GHG
+emissions.
+See references [1], [2], [12], [13], [15], [17] and [19] in the Bibliography.
+16 GRI 305: Emissions 2016

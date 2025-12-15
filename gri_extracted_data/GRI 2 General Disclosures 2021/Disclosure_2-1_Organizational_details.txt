@@ -1,0 +1,26 @@
+Disclosure 2-1 Organizational details
+
+The organization shall:
+REQUIREMENTS
+a. report its legal name;
+b. report its nature of ownership and legal form;
+c. report the location of its headquarters;
+d. report its countries of operation.
+Guidance to 2-1-a
+GUIDANCE
+If the organization uses a commonly known trading name or business name that is different
+from its legal name, it should report this in addition to its legal name.
+Guidance to 2-1-b
+The nature of ownership and the legal form of the organization refers to whether it is publicly or
+privately owned, and whether it is an incorporated entity, a partnership, a sole proprietorship, or
+another type of entity such as a nonprofit, an association, or a charity.
+Guidance to 2-1-c
+Headquarters are an organization’s global administrative center, the place from which it is
+controlled or directed.
+Guidance to 2-1-d
+If the organization has reported its countries of operation elsewhere, such as in its audited
+consolidated financial statements or financial information filed on public record, the organization
+can provide a link or reference to this information. The organization can also report the regions
+or specific locations within countries (e.g., states, cities) where it has operations, if this provides
+contextual information for understanding the organization’s impacts.
+9 GRI 2: General Disclosures 2021

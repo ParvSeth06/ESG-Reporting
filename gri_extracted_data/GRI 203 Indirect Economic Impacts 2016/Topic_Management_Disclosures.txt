@@ -1,0 +1,19 @@
+Topic Management Disclosures
+
+1. Topic management disclosures
+An organization reporting in accordance with the GRI Standards is required to report how it manages each of its
+material topics.
+An organization that has determined indirect economic impacts to be a material topic is required to report how it
+manages the topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).
+This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.
+1.1 The reporting organization shall report how it manages indirect economic impacts
+REQUIREMENTS
+using Disclosure 3-3 in GRI 3: Material Topics 2021.
+1.2 The reporting organization should:
+RECOMMENDATIONS
+1.2.1 describe work undertaken to understand indirect economic impacts at the
+national, regional, or local level;
+1.2.2 explain whether it conducted a community needs assessment to determine the
+need for infrastructure and other services, and describe the results of the
+assessment.
+8 GRI 203: Indirect Economic Impacts 2016

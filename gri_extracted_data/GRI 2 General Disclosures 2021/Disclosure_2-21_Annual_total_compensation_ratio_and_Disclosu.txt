@@ -1,0 +1,96 @@
+Disclosure 2-21 Annual total compensation ratio and Disclosure 2-30 Collective bargaining
+
+agreements in this Standard.
+This disclosure covers all employees who perform work for any of the organization’s entities
+included in its sustainability reporting as reported under Disclosure 2-2 in this Standard.
+See references [7], [19], [22], [23], [24], [26], and [30] in the Bibliography.
+Guidance to 2-7-a
+An employee is an individual who is in an employment relationship with the organization
+according to national law or practice.
+Providing a breakdown of employees by gender gives insight into gender representation across
+the organization. Providing a breakdown of employees by region gives insight into regional
+variations. A region can refer to a country or other geographic locations, such as a city or a world
+region.
+See Table 1 and Table 2 of this Standard for examples of how to present this information.
+Guidance to 2-7-b
+The definitions of permanent, temporary, non-guaranteed hours, full-time, and part-time
+employees differ between countries. If the organization has employees in more than one
+country, it should use the definitions as per the national laws of the countries where the
+employees are based to calculate country-level data. The country-level data should then be
+added up to calculate total numbers, disregarding differences in national legal definitions.
+Non-guaranteed hours employees are employed by the organization without a guarantee of a
+minimum or fixed number of working hours. The employee may need to make themselves
+available for work as required, but the organization is not contractually obligated to offer the
+employee a minimum or fixed number of working hours per day, week, or month. Casual
+employees, employees with zero-hour contracts, and on-call employees are examples that fall
+under this category.
+16 GRI 2: General Disclosures 2021
+If the organization is unable to report exact figures, it can report estimates of the number of
+employees to the nearest ten or, where the number of employees is greater than 1,000, to the
+nearest 100, and explain this under 2-7-c.
+See Table 1 and Table 2 of this Standard for examples of how to present this information.
+Guidance to 2-7-c
+The organization can report the total number of employees and the number of permanent,
+temporary, non-guaranteed hours, full-time, and part-time employees in head count or full-time
+equivalent (FTE). Reporting these numbers in head count gives insight into the number of
+individual employees, whether full-time or part-time employed. Reporting these numbers in FTE
+gives insight into the hours worked.
+The organization can use another methodology for reporting these numbers.
+Reporting the number of employees at the end of the reporting period provides information for
+that point in time, without capturing fluctuations during the reporting period. Reporting these
+numbers in averages across the reporting period takes into account fluctuations during the
+reporting period.
+Guidance to 2-7-d
+Quantitative data, such as the number of temporary or part-time employees, is unlikely to be
+sufficient on its own. For example, a high proportion of temporary or part-time employees could
+indicate lack of employment security for employees, but it could equally signal workplace
+flexibility when offered as a voluntary choice. For this reason, the organization is required to
+report contextual information to help information users interpret the data.
+The organization can explain the reasons for temporary employment. An example of such a
+reason is the recruitment of employees to undertake work on a temporary or seasonal project or
+event. Another example is the standard practice to offer a temporary contract (e.g., six months) to
+new employees before an offer of permanent employment is made. The organization can also
+explain the reasons for non-guaranteed hours employment.
+The organization can explain how it defines full-time employment. If the organization has
+employees in more than one country, it can report the definitions of full-time employment it uses
+for the regions that cover these countries. The organization can also explain the reasons for
+part-time employment. Examples of such reasons are to accommodate employees’ requests to
+work reduced hours, or because the organization is unable to provide full-time employment to all
+employees.
+If there are differences in permanent, temporary, non-guaranteed hours, full-time, and part-time
+employment between genders or between regions, the organization can explain the reasons for
+these differences.
+Guidance to 2-7-e
+Requirement 2-7-e enables the organization to explain how the numbers of employees vary
+during the reporting period compared to the previous reporting periods (i.e., whether the
+numbers have increased or decreased). It can also include the reasons for the fluctuations. For
+example, an increase in the number of employees during the reporting period could be due to a
+seasonal event. Conversely, a decrease in the number of employees compared to the previous
+reporting period could be due to the completion of a temporary project.
+It is up to the organization to determine which fluctuations in the number of employees it
+considers significant to report under 2-7-e. The organization should report its threshold for
+determining significant fluctuations.
+If there are no significant fluctuations in the number of employees during the reporting period or
+between reporting periods, a brief statement of this fact is sufficient to comply with the
+requirement.
+17 GRI 2: General Disclosures 2021
+Table 1. Example template for presenting information on employees by gender
+[Reporting period]
+FEMALE MALE OTHER* NOT DISCLOSED TOTAL
+Number of employees (head count / FTE)
+Number of permanent employees (head count / FTE)
+Number of temporary employees (head count / FTE)
+Number of non-guaranteed hours employees (head count / FTE)
+Number of full-time employees (head count / FTE)
+Number of part-time employees (head count / FTE)
+* Gender as specified by the employees themselves.
+Table 2. Example template for presenting information on employees by region
+[Reporting period]
+REGION A REGION B TOTAL
+Number of employees (head count / FTE)
+Number of permanent employees (head count / FTE)
+Number of temporary employees (head count / FTE)
+Number of non-guaranteed hours employees (head count / FTE)
+Number of full-time employees (head count / FTE)
+Number of part-time employees (head count / FTE)
+18 GRI 2: General Disclosures 2021

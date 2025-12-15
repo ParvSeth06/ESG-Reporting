@@ -1,0 +1,22 @@
+Disclosure 204-1 Proportion of spending on local suppliers
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Percentage of the procurement budget used for significant locations of operation that is
+spent on suppliers local to that operation (such as percentage of products and services
+purchased locally).
+b. The organization’s geographical definition of ‘local’.
+c. The definition used for ‘significant locations of operation’.
+2.1 When compiling the information specified in Disclosure 204-1, the reporting organization
+RECOMMENDATIONS
+should calculate the percentages based on invoices or commitments made during the
+reporting period, e.g, using accruals accounting.
+Guidance for Disclosure 204-1
+GUIDANCE
+Local purchases can be made either from a budget managed at the location of operation or at
+an organization’s headquarters.
+Background
+By supporting local suppliers, an organization can indirectly attract additional investment to the
+local economy. Local sourcing can be a strategy to help ensure supply, support a stable local
+economy, and maintain community relations.
+9 GRI 204: Procurement Practices 2016

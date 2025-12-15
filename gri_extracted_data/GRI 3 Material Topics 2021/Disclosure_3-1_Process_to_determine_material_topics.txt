@@ -1,0 +1,35 @@
+Disclosure 3-1 Process to determine material topics
+
+The organization shall:
+REQUIREMENTS
+a. describe the process it has followed to determine its material topics, including:
+i. how it has identified actual and potential, negative and positive impacts on the
+economy, environment, and people, including impacts on their human rights,
+across its activities and business relationships;
+ii. how it has prioritized the impacts for reporting based on their significance;
+b. specify the stakeholders and experts whose views have informed the process of
+determining its material topics.
+This disclosure requires information on how the organization has determined its material
+GUIDANCE
+topics. The list of material topics is reported under Disclosure 3-2 in this Standard.
+The organization is required to use the applicable GRI Sector Standards when determining its
+material topics. If any of the topics that are included in the applicable Sector Standards have
+been determined by the organization as not material, the organization is required to list them in
+the GRI content index and explain why they are not material. See Requirement 5 and
+Requirement 7 in GRI 1: Foundation 2021 and Box 5 in this Standard for more information.
+In the absence of applicable Sector Standards, the organization should explain how it has
+considered impacts commonly associated with its sectors, and whether any of these impacts
+have been determined as not material, together with an explanation for why this is the case. The
+organization should also explain how it has considered impacts commonly associated with its
+products and geographic locations. See section 1 in this Standard and the Sector Standards for
+guidance on impacts commonly associated with sectors, products, and geographic locations.
+Guidance to 3-1-a-i
+The organization should describe the methods used to identify its impacts, for example,
+economic, environmental, social, and human rights impact assessments, grievance
+mechanisms, or using information from external sources, such as civil society organizations.
+The organization should describe the sources and the evidence it has used to identify the
+impacts.
+The organization should also describe the scope it has defined when identifying the impacts, for
+example, whether it has identified short-term as well as long-term impacts. The organization
+should also describe any limitations or exclusions, for example, whether it has excluded
+business relationships from certain parts of its value chain when identifying the impacts.

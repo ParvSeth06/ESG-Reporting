@@ -1,0 +1,42 @@
+Disclosure 410-1 Security personnel trained in human rights policies
+
+or procedures
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Percentage of security personnel who have received formal training in the
+organization’s human rights policies or specific procedures and their application to
+security.
+b. Whether training requirements also apply to third-party organizations providing security
+personnel.
+2.1 When compiling the information specified in Disclosure 410-1-a, the reporting
+RECOMMENDATIONS
+organization should:
+2.1.1 calculate the percentage using the total number of security personnel, whether
+they are employees of the organization or employees of third-party organizations;
+2.1.2 state whether employees of third-party organizations are also included in the
+calculation.
+Guidance for Disclosure 410-1
+GUIDANCE
+The training can refer either to training dedicated to the subject of human rights or to a human
+rights module within a general training program. Training can cover issues such as the use of
+force, inhuman or degrading treatment or discrimination, or identification and registering.
+Background
+The use of security personnel can play an essential role in allowing an organization to operate
+in a safe and productive manner, and can contribute to the security of local communities and
+populations.
+However, as set out in the International Code of Conduct for Private Security Service Providers,
+the use of security personnel can also have negative impacts on local populations and on the
+upholding of human rights and the rule of law.
+According to the UN Human Rights Office of the High Commissioner, ‘human rights education
+constitutes an essential contribution to the long-term prevention of human rights abuses and
+represents an important investment in the endeavor to achieve a just society in which all human
+rights of all persons are valued and respected.1
+Training security personnel in human rights can therefore help to ensure their appropriate
+conduct towards third parties, particularly regarding the use of force. This disclosure indicates
+the proportion of the security force that can reasonably be assumed to be aware of an
+organization’s expectations of human rights performance. Information provided under this
+disclosure can demonstrate the extent to which management systems pertaining to human
+rights are implemented.
+1 United Nations Human Rights Office of the High Commissioner (OHCHR),
+http://www.ohchr.org/EN/Issues/Education/Training/Pages/HREducationTrainingIndex.aspx, accessed on 1 September 2016.
+9 GRI 410: Security Practices 2016

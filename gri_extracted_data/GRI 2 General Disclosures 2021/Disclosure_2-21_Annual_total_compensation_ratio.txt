@@ -1,0 +1,74 @@
+Disclosure 2-21 Annual total compensation ratio
+
+The organization shall:
+REQUIREMENTS
+a. report the ratio of the annual total compensation for the organization’s highest-paid
+individual to the median annual total compensation for all employees(excluding the
+highest-paid individual);
+b. report the ratio of the percentage increase in annual total compensation for the
+organization’s highest-paid individual to the median percentage increase in annual total
+compensation for all employees (excluding the highest-paid individual);
+c. report contextual information necessary to understand the data and how the data has
+been compiled.
+Guidance to 2-21-a and 2-21-b
+GUIDANCE
+This disclosure covers all employees as reported under Disclosure 2-7 in this Standard.
+Annual total compensation includes salary, bonus, stock awards, option awards, non-equity
+incentive plan compensation, change in pension value, and nonqualified deferred
+compensation earnings provided over the course of a year. When calculating the ratio, the
+organization should, depending on the organization’s remuneration policies and availability of
+data, consider all of the following:
+• Base salary, which is the sum of guaranteed, short-term, and non-variable cash
+compensation.
+• Total cash compensation, which is the sum of the base salary and cash allowances,
+bonuses, commissions, cash profit-sharing, and other forms of variable cash payments.
+• Direct compensation, which is the sum of total cash compensation and total fair value of all
+annual long-term incentives (e.g., stock option awards, restricted stock shares or units,
+performance stock shares or units, phantom stock shares, stock appreciation rights, and
+long-term cash awards).
+The annual total compensation ratio can be calculated using the following formula:
+Annual total compensation for the organization's highest paid-individual
+_____________________________________________________________
+Median annual total compensation for all of the organization's employees excluding the
+highest-paid individual
+The change in the annual total compensation ratio can be calculated using the following
+formula:
+Percentage increase in annual total compensation for the organization's highest-paid
+individual
+_____________________________________________________________
+Median percentage increase in annual total compensation for all of the organization's
+employees excluding the highest-paid individual
+Guidance to 2-21-c
+Quantitative data, such as the annual total compensation ratio, may not be sufficient on its own
+to understand pay disparity and its drivers. For example, pay ratios can be influenced by the size
+of the organization (e.g., revenue, number of employees), its sector, its employment strategy
+(e.g., reliance on outsourced workers or part-time employees, a high degree of automation), or
+currency volatility.
+33 GRI 2: General Disclosures 2021
+The difference in pay disparity reported over the years may be the result of a change in the
+organization’s compensation policy or the level of compensation for its highest-paid individual or
+employees, a change in calculation methodology (e.g., selection of the median annual total
+compensation, inclusions or exclusions) or an improvement in data collection processes. For
+this reason, the organization is required to report contextual information to help information
+users interpret the data and understand how it has been compiled.
+The organization should provide the following contextual information:
+• Whether any employees reported under Disclosure 2-7 in this Standard have been excluded.
+• Whether full-time equivalent (FTE) pay rates are used for each part-time employee.
+• A list of the types of compensation included.
+• The title of the highest-paid individual.
+34 GRI 2: General Disclosures 2021
+4. Strategy, policies and practices
+The disclosures in this section provide information about the organization’s sustainable development strategy and its
+policies and practices for responsible business conduct. The disclosures are based on expectations for businesses
+contained in authoritative intergovernmental instruments.1
+Expectations for responsible business conduct include complying with laws and regulations, respecting all
+internationally recognized human rights, including workers' rights, and protecting the environment and public health
+and safety. The expectations also cover combating bribery, bribe solicitation, extortion, and other forms of corruption;
+adhering to good tax practices; and conducting due diligence to identify, prevent, mitigate, and account for how the
+organization addresses its negative impacts on the economy, environment, and people, including impacts on their
+human rights.
+In the disclosures in this section, the organization is required to report information about its overall policies and
+practices for responsible business conduct, rather than information for specific material topics. Disclosure 3-3 in GRI
+3: Material Topics 2021 requires information about how the organization manages each material topic. If the
+organization has described its policies and practices for a material topic under the disclosures in this section, it can
+provide a reference to this information under Disclosure 3-3 in GRI 3 and does not need to repeat the information.

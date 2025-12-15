@@ -1,0 +1,89 @@
+Disclosure 2-8, together with Disclosure 2-7, gives insight into the organization’s approach to
+
+employment, as well as the scope and nature of impacts arising from its employment practices.
+It also provides contextual information that aids an understanding of the information reported in
+other disclosures.
+This disclosure covers all workers who are not employees and whose work is controlled by any
+of the organization’s entities included in its sustainability reporting as reported under Disclosure
+2-2 in this Standard.
+If all the workers performing work for the organization are employees and the organization does
+not have any workers who are not employees, a brief statement of this fact is sufficient to comply
+with the requirements under this disclosure.
+See references [7], [19], [22], [23], [24], [26], and [30] in the Bibliography.
+Guidance to 2-8-a
+Workers who are not employees are those who perform work for the organization but are not in
+an employment relationship with the organization.
+This disclosure requires the organization to report the number of workers who are not
+employees and whose work is controlled by the organization. Control of work implies that the
+organization directs the work performed or has control over the means or methods for
+performing the work.
+The organization might have sole control of the work or share control with one or more
+organizations (e.g., suppliers, customers, or other business partners, such as in joint ventures).
+Types of workers who are not employees and whose work is controlled by the organization
+include agency workers, apprentices, contractors, home workers, interns, self-employed
+persons, sub-contractors, and volunteers. The organization should report how it has determined
+when it has control of the work for workers who are not employees.
+The following are examples of workers who are not employees and whose work is controlled by
+the organization. The following workers are included under this disclosure:
+• Contractors hired by the organization to perform work at the organization’s workplace, in a
+public area (e.g., on a road), or directly at the workplace of the organization’s client.
+• Workers of one of the organization’s suppliers, where the organization instructs the supplier
+to use particular materials or work methods to manufacture the products or deliver the
+19 GRI 2: General Disclosures 2021
+services.
+• Volunteers or interns performing work for the organization.
+The following are examples of workers who are not employees and whose work is not
+controlled by the organization. The following workers are not included under this disclosure:
+• Workers of an equipment supplier to the organization who perform regular maintenance on
+the supplier’s equipment (e.g., photocopy machines at the organization’s workplace) as
+stipulated in the contract between the equipment supplier and the organization.
+• Workers of one of the organization’s suppliers, if the organization sources standard products
+manufactured using the supplier’s production methods (e.g., purchasing stationery that is a
+standard product of the supplier).
+If the organization cannot report exact figures, it can report estimates of the number of workers
+who are not employees to the nearest ten or, where the number of workers who are not
+employees is greater than 1,000, to the nearest 100, and explain this under 2-8-b.
+Guidance to 2-8-a-i and 2-8-a-ii
+When reporting its contractual relationship with the most common types of workers, the
+organization should report whether it engages them directly or indirectly through a third party,
+and in the latter case, who this third party is (e.g., employment agency, contractor).
+It is sufficient that the organization provides a general description. The organization is not
+required to report the type of worker, contractual relationship, and work performed for every
+worker who is not an employee.
+Guidance to 2-8-b
+The organization can report the number of workers who are not employees in head count or full-
+time equivalent (FTE). The head count gives insight into the number of individual workers,
+whether on a full-time or part-time basis. The FTE gives insight into the hours worked. The
+organization can use another methodology for reporting this number.
+Reporting the number of workers who are not employees at the end of the reporting period
+provides information for that point in time without capturing fluctuations during the reporting
+period. Reporting this number as an average across the reporting period takes into account
+fluctuations during the reporting period.
+Guidance to 2-8-c
+Requirement 2-8-c enables the organization to explain how the number of workers who are not
+employees varies during the reporting period or compared to previous reporting periods (i.e.,
+whether the numbers have increased or decreased). It can also include the reasons for the
+fluctuations. For example, an increase in the number of workers who are not employees during
+the reporting period could be due to a seasonal event. Conversely, a decrease in the number of
+workers who are not employees compared to the previous reporting period could be due to the
+completion of a temporary project.
+It is up to the organization to determine which fluctuations in the number of workers it considers
+significant to report under 2-8-c. The organization should report its threshold for determining
+significant fluctuations.
+If there are no significant fluctuations in the number of workers who are not employees during
+the reporting period or between reporting periods, a brief statement of this fact is sufficient to
+comply with the requirement.
+20 GRI 2: General Disclosures 2021
+3. Governance
+The disclosures in this section provide information about the organization’s governance structure, composition,
+knowledge, roles, and remuneration.
+The information reported under these disclosures is important for understanding how the management of the
+organization’s impacts on the economy, environment, and people, including impacts on their human rights, is
+integrated into the organization’s strategy and operations. It addresses how the governance bodies are set up and
+how well equipped they are to oversee the management of the organization’s impacts. It also facilitates an
+understanding of the role and the responsibilities of governance bodies with respect to these impacts.
+If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it
+has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the
+organization can report a required disclosure by providing a reference in the GRI content index as to where this
+information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the
+information has been published).

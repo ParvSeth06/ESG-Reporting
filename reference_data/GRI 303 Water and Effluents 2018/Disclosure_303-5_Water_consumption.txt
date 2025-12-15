@@ -1,0 +1,137 @@
+Disclosure 303-5 Water consumption
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Total water consumption from all areas in megaliters.
+b. Total water consumption from all areas with water stress in megaliters.
+c. Change in water storage in megaliters, if water storage has been identified as having a
+significant water-related impact.
+d. Any contextual information necessary to understand how the data have been compiled,
+such as any standards, methodologies, and assumptions used, including whether the
+information is calculated, estimated, modeled, or sourced from direct measurements,
+and the approach taken for this, such as the use of any sector-specific factors.
+2.5 The reporting organization should report the following additional information:
+RECOMMENDATIONS
+2.5.1 Total water consumption in megaliters at each facility in areas with water stress;
+2.5.2 Total water consumption in megaliters by suppliers with significant water-related
+impacts in areas with water stress.
+Background
+GUIDANCE
+Water consumption measures water used by an organization such that it is no longer available
+for use by the ecosystem or local community in the reporting period. Reporting the volume of
+water consumption can help the organization understand the overall scale of its impact due to
+water withdrawal on downstream water availability.
+Guidance for Disclosure 303-5
+For an example how to present information on requirements in Disclosure 303-5, see Table 1.
+See Guidance for Disclosure 303-3-b for how to assess areas with water stress.
+If the reporting organization cannot directly measure water consumption, it may calculate this
+using the following formula:
+Water consumption
+=
+Total water withdrawal
+-
+Total water discharge
+Guidance for Disclosure 303-5-c
+If the water in storage has been identified as having a significant water-related impact, the
+organization is required to report change in water storage. The organization may calculate
+change in water storage using the following formula:
+Change in water storage
+=
+Total water storage at the end of the reporting period
+-
+Total water storage at the beginning of the reporting period
+17 GRI 303: Water and Effluents 2018
+Guidance for clause 2.5.1
+To compile this information, the organization can use the following approach: (a) determine
+which facilities are located in areas with water stress, (b) for each of these facilities, report the
+total water consumption. For an example of how to present this information, see Table 2.
+Guidance for clause 2.5.2
+To compile this information, the organization can use the following approach: (a) determine
+which suppliers are located in areas with water stress, (b) determine which of these suppliers
+cause significant water-related impacts, (c) add up the total water consumption of each of these
+suppliers, (d) report the sum. For an example of how to present this information, see Table 3.
+18 GRI 303: Water and Effluents 2018
+Table 1. Example templates for presenting information for Disclosures 303-3, 303-4,
+and 303-5
+Table 1 offers examples of how to present information for Disclosures 303-3, 303-4, and 303-5. The reporting
+organization can amend the table according to its practices, for example by reporting additional information.
+Water withdrawal [Disclosure 303-3] ALL AREAS AREAS WITH WATER
+STRESS
+Water withdrawal by source
+Surface water (total) ML (303-3-a-i) ML (303-3-b-i)
+Freshwater (≤1,000 mg/L Total Dissolved Solids) ML (303-3-c-i) ML (303-3-c-i)
+Other water (>1,000 mg/L Total Dissolved Solids) ML (303-3-c-ii) ML (303-3-c-ii)
+Groundwater (total) ML (303-3-a-ii) ML (303-3-b-ii)
+Freshwater (≤1,000 mg/L Total Dissolved Solids) ML (303-3-c-i) ML (303-3-c-i)
+Other water (>1,000 mg/L Total Dissolved Solids) ML (303-3-c-ii) ML (303-3-c-ii)
+Seawater (total) ML (303-3-a-iii) ML (303-3-b-iii)
+Freshwater (≤1,000 mg/L Total Dissolved Solids) ML (303-3-c-i) ML (303-3-c-i)
+Other water (>1,000 mg/L Total Dissolved Solids) ML (303-3-c-ii) ML (303-3-c-ii)
+Produced water (total) ML (303-3-a-iv) ML (303-3-b-iv)
+Freshwater (≤1,000 mg/L Total Dissolved Solids) ML (303-3-c-i) ML (303-3-c-i)
+Other water (>1,000 mg/L Total Dissolved Solids) ML (303-3-c-ii) ML (303-3-c-ii)
+Third-party water (total) ML (303-3-a-v) ML (303-3-b-v)
+Freshwater (≤1,000 mg/L Total Dissolved Solids) ML (303-3-c-i) ML (303-3-c-i)
+Other water (>1,000 mg/L Total Dissolved Solids) ML (303-3-c-ii) ML (303-3-c-ii)
+Total third-party water withdrawal by withdrawal source
+Surface water X ML (303-3-b-v)
+Groundwater X ML (303-3-b-v)
+Seawater X ML (303-3-b-v)
+Produced water X ML (303-3-b-v)
+Total water withdrawal
+Surface water (total) + groundwater (total) + seawater (total) + ML (303-3-a) ML (303-3-b)
+produced water (total) + third-party water (total)
+19 GRI 303: Water and Effluents 2018
+Water discharge [Disclosure 303-4] ALL AREAS AREAS WITH WATER
+STRESS
+Water discharge by destination
+Surface water ML (303-4-a-i) X
+Groundwater ML (303-4-a-ii) X
+Seawater ML (303-4-a-iii) X
+Third-party water (total) ML (303-4-a-iv) X
+Third-party water sent for use to other organizations ML (303-4-a-iv) X
+Total water discharge
+Surface water + groundwater + seawater + third-party water (total) ML (303-4-a) ML (303-4-c)
+Water discharge by freshwater and other water
+Freshwater (≤1,000 mg/L Total Dissolved Solids) ML (303-4-b-i) ML (303-4-c-i)
+Other water (>1,000 mg/L Total Dissolved Solids) ML (303-4-b-ii) ML (303-4-c-ii)
+Water discharge by level of treatment Note that this is recommended, but not required
+No treatment ML (clause 2.4.2) X
+Treatment level [Provide the title for treatment level] ML (clause 2.4.2) X
+Treatment level [Provide the title for treatment level] ML (clause 2.4.2) X
+Treatment level [Provide the title for treatment level] ML (clause 2.4.2) X
+Water consumption [Disclosure 303-5] ALL AREAS AREAS WITH WATER
+STRESS
+Total water consumption ML (303-5-a) ML (303-5-b)
+Change in water storage, if water storage has been identified as ML (303-5-c) X
+having a significant water-related impact
+20 GRI 303: Water and Effluents 2018
+Table 2. Example template for presenting facility-level information
+Table 2 offers an example of how to present information on facilities located in areas with water stress as per the
+recommendations specified in Disclosures 303-3 (clause 2.2.1) and 303-5 (clause 2.5.1). The reporting organization
+can amend the table according to its practices, for example by reporting water discharge information.
+FACILITIES IN AREAS WITH FACILITY A FACILITY B [FACILITY X]
+WATER STRESS
+Water withdrawal (clause 2.2.1)
+Surface water ML ML ML
+Groundwater ML ML ML
+Seawater ML ML ML
+Produced water ML ML ML
+Third-party water ML ML ML
+Water consumption (clause 2.5.1)
+Total water consumption ML ML ML
+21 GRI 303: Water and Effluents 2018
+Table 3. Example template for presenting supply chain information
+Table 3 offers an example of how to present information on the organization’s suppliers as per the recommendations
+specified in Disclosures 303-3 (clause 2.2.2), 303-4 (clause 2.4.3), and 303-5 (clause 2.5.2). The reporting
+organization can amend the table according to its practices, for example by reporting the location of suppliers.
+Water withdrawal (clause 2.2.2)
+Total water withdrawal in megaliters by suppliers with significant water-related impacts in areas ML
+with water stress
+Water discharge (clause 2.4.3)
+Percentage of suppliers with significant water-related impacts from water discharge that have set %
+minimum standards for the quality of their effluent discharge
+Water consumption (clause 2.5.2)
+Total water consumption in megaliters by suppliers with significant water-related impacts in areas ML
+with water stress
+22 GRI 303: Water and Effluents 2018

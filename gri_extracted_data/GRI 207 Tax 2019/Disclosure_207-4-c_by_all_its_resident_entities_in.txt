@@ -1,0 +1,71 @@
+Disclosure 207-4-c by all its resident entities in the jurisdiction. This includes cash taxes paid by
+
+entities to the jurisdiction of residence and to all other jurisdictions (e.g., withholding taxes
+incurred in other tax jurisdictions).
+If the tax paid includes a significant amount of withholding tax, the organization can explain this.
+If taxes are incurred in other tax jurisdictions, the organization can report the amount of tax paid
+to the other tax jurisdictions separately and identify the jurisdictions where the tax was paid.
+Guidance for Disclosure 207-4-b-x
+When reporting the reasons for the difference between corporate income tax accrued on
+profit/loss and the tax due if the statutory tax rate is applied to profit/loss before tax, the
+organization can describe items that explain the difference, such as tax reliefs, allowances,
+incentives, or any special tax provisions where an entity benefits from preferential tax treatment.
+The organization can group explanatory items into a generic category, such as ‘other’, if these
+items together do not exceed 10% of the difference.
+The organization can also report the expiration date, investment requirements, and likely long-
+term continuity of tax reliefs or incentives for a jurisdiction.
+In addition to providing a qualitative explanation as required by this disclosure, the organization
+can also report a quantitative corporate tax reconciliation.
+Guidance for Disclosure 207-4-c and clause 2.1
+The organization is required to report information on a regular schedule and make it available in
+time for information users to make decisions (see the Timeliness principle in GRI 1: Foundation
+2021 for more information). The organization is also recommended to report the information for
+the same reporting period and publish the information at the same time as its financial
+reporting, where this is possible (see section 5.1 in GRI 1 for more information). However, the
+15 GRI 207: Tax 2019
+information required in Disclosure 207-4 might not be available for reporting until a later point in
+time.
+If the information required in Disclosure 207-4 is not available for the time period covered by the
+most recent audited consolidated financial statements or financial information filed on public
+record, the organization may report information for the time period covered by the audited
+consolidated financial statements, or the financial information filed on public record,
+immediately preceding the most recent ones.
+Where this time period differs from the reporting period, the organization can specify the reason
+why.
+Guidance for clause 2.2.1
+For each of the disclosures specified in clause 2.2.1, the data is considered to be reconciled
+when the sum of this data for all tax jurisdictions equals the amount reported in the
+organization’s audited consolidated financial statements or in the financial information filed on
+public record.
+Guidance for clause 2.2.3
+When providing information for stateless entities, the organization can also include their
+jurisdiction of incorporation.
+Guidance for clause 2.3.1
+Total employee remuneration in a tax jurisdiction can reflect the business value provided by the
+entities in that jurisdiction to the organization as a whole.
+Total employee remuneration also represents the basis for calculating taxes withheld and paid
+on behalf of employees, covered under clause 2.3.2.
+Guidance for clause 2.3.2
+Taxes withheld and paid on behalf of employees refer to taxes withheld by the organization from
+employee remuneration to be paid to the tax authorities. These can include income taxes,
+payroll taxes, and social security contributions.
+Guidance for clause 2.3.3
+Taxes collected from customers refer to taxes and duties charged on and collected on the sales
+of certain products and services. These are paid by the organization to the tax authorities on
+behalf of customers.
+Guidance for clause 2.3.4
+Examples of industry-related and other taxes or payments to governments include:
+• industry taxes (e.g., energy tax, airline tax);
+• property taxes (e.g., land tax);
+• product taxes (e.g., customs duties, alcohol and tobacco duties);
+• taxes and duties levied on the supply, use, or consumption of goods and services
+considered to be harmful to the environment (e.g., vehicle excise duties).
+Guidance for clause 2.3.5
+When reporting significant uncertain tax positions for a tax jurisdiction, the organization can
+report the value of the tax positions in line with its audited consolidated financial statements or
+the financial information filed on public record.
+The organization can provide a description of tax positions that have not been agreed with the
+relevant tax authorities at the end of the time period reported in Disclosure 207-4-c. The
+description can include the nature of the disagreement and the reasons for any change in tax
+positions that occurred during the time period, where relevant.
+16 GRI 207: Tax 2019

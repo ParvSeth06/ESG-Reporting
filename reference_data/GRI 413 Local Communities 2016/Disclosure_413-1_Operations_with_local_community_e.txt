@@ -1,0 +1,59 @@
+Disclosure 413-1 Operations with local community engagement,
+
+impact assessments, and development programs
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Percentage of operations with implemented local community engagement, impact
+assessments, and/or development programs, including the use of:
+i. social impact assessments, including gender impact assessments, based on
+participatory processes;
+ii. environmental impact assessments and ongoing monitoring;
+iii. public disclosure of results of environmental and social impact assessments;
+iv. local community development programs based on local communities’ needs;
+v. stakeholder engagement plans based on stakeholder mapping;
+vi. broad based local community consultation committees and processes that include
+vulnerable groups;
+vii. works councils, occupational health and safety committees and other worker
+representation bodies to deal with impacts;
+viii. formal local community grievance processes.
+2.1 When compiling the information specified in Disclosure 413-1, the reporting organization
+RECOMMENDATIONS
+should use the data from Disclosure 2-6 in GRI 2: General Disclosures 2021 to identify
+the total number of operations, if the organization has reported its total number of
+operations when describing its activities.
+Background
+GUIDANCE
+A key element in managing impacts on people in local communities is assessment and
+planning in order to understand the actual and potential impacts, and strong engagement with
+local communities to understand their expectations and needs. There are many elements that
+can be incorporated into local community engagement, impact assessments, and development
+programs. This disclosure seeks to identify which elements have been consistently applied,
+organization-wide.
+Where possible, organizations are expected to anticipate and avoid negative impacts on local
+communities. Where this is not possible, or where residual impacts remain, organizations are
+expected to manage those impacts appropriately, including grievances, and to compensate
+local communities for negative impacts.
+Establishing a timely and effective stakeholder identification and engagement process is
+important to help organizations understand the vulnerability of local communities and how these
+might be affected by the organization’s activities. A stakeholder engagement process both in
+early planning stages as well as during operations, can help establish lines of communication
+between an organization’s various departments (planning, finance, environment, production,
+etc.) and key stakeholder interest groups in the community. This enables an organization to
+consider the views of community stakeholders in its decisions, and to address its potential
+impacts on local communities in a timely manner.
+Organizations can utilize a number of useful tools to engage communities, including social and
+human rights impact assessments, which include a diverse set of approaches for proper
+identification of stakeholders and community characteristics. These can be based on issues
+such as ethnic background, indigenous descent, gender, age, migrant status, socioeconomic
+status, literacy levels, disabilities, income level, infrastructure availability or specific human
+health vulnerabilities which may exist within stakeholder communities.
+An organization is expected to consider the differentiated nature of local communities and to
+take specific action to identify and engage vulnerable groups. This might require adopting
+differentiated measures to allow the effective participation of vulnerable groups, such as making
+information available in alternate languages or format for those who are not literate or who do
+9 GRI 413: Local Communities 2016
+not have access to printed materials. Where necessary, organizations are expected to establish
+additional or separate processes so that negative impacts on vulnerable or disadvantaged
+groups are avoided, minimized, mitigated or compensated.1
+1 International Finance Corporation (IFC), Guidance Notes: Performance Standards on Environmental and Social Sustainability, 2012.
+10 GRI 413: Local Communities 2016

@@ -1,0 +1,61 @@
+Disclosure 302-4 Reduction of energy consumption
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Amount of reductions in energy consumption achieved as a direct result of
+conservation and efficiency initiatives, in joules or multiples.
+b. Types of energy included in the reductions; whether fuel, electricity, heating, cooling,
+steam, or all.
+c. Basis for calculating reductions in energy consumption, such as base year or baseline,
+including the rationale for choosing it.
+d. Standards, methodologies, assumptions, and/or calculation tools used.
+Compilation requirements
+2.7 When compiling the information specified in Disclosure 302-4, the reporting
+organization shall:
+2.7.1 exclude reductions resulting from reduced production capacity or
+outsourcing;
+2.7.2 describe whether energy reduction is estimated, modeled, or sourced from
+direct measurements. If estimation or modeling is used, the organization shall
+disclose the methods used.
+2.8 When compiling the information specified in Disclosure 302-4, the reporting organization
+RECOMMENDATIONS
+should, if subject to different standards and methodologies, describe the approach to
+selecting them.
+Guidance for Disclosure 302-4
+GUIDANCE
+The reporting organization can prioritize disclosing reduction initiatives that were implemented
+in the reporting period, and that have the potential to contribute significantly to reductions. The
+organization can describe reduction initiatives and their targets when reporting how it manages
+this topic.
+Reduction initiatives can include:
+• process redesign;
+• conversion and retrofitting of equipment;
+• changes in behavior;
+• operational changes.
+The organization can report reductions in energy consumption by combining energy types, or
+separately for fuel, electricity, heating, cooling, and steam.
+The organization can also provide a breakdown of reductions in energy consumption by
+individual initiatives or groups of initiatives.
+15 GRI 302: Energy 2016
+Disclosure 302-5 Reductions in energy requirements of products
+and services
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Reductions in energy requirements of sold products and services achieved during the
+reporting period, in joules or multiples.
+b. Basis for calculating reductions in energy consumption, such as base year or baseline,
+including the rationale for choosing it.
+c. Standards, methodologies, assumptions, and/or calculation tools used.
+2.9 When compiling the information specified in Disclosure 302-5, the reporting organization
+RECOMMENDATIONS
+should:
+2.9.1 if subject to different standards and methodologies, describe the approach to
+selecting them;
+2.9.2 refer to industry use standards to obtain this information, where available (such
+as fuel consumption of cars for 100 km at 90 km/h).
+Guidance for Disclosure 302-5
+GUIDANCE
+Use-oriented figures can include, for example, the energy requirements of a car or a computer.
+Consumption patterns can include, for example, 10 percent less energy use per 100 km
+travelled or per time unit (hour, average working day).
+16 GRI 302: Energy 2016

@@ -1,0 +1,47 @@
+Topic Management Disclosures
+
+1. Topic management disclosures
+An organization reporting in accordance with the GRI Standards is required to report how it manages each of its
+material topics.
+An organization that has determined supplier social assessment to be a material topic is required to report how it
+manages the topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).
+This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.
+1.1 The reporting organization shall report how it manages supplier social assessment
+REQUIREMENTS
+using Disclosure 3-3 in GRI 3: Material Topics 2021.
+The reporting organization can also disclose:
+GUIDANCE
+• the systems used to screen new suppliers using social criteria, and a list of the social
+criteria used to screen new suppliers;
+• processes used, such as due diligence, to identify and assess significant actual and
+potential negative social impacts in the supply chain;
+• how the organization identifies and prioritizes suppliers for assessment of social impacts;
+• actions taken to address the significant actual and potential negative social impacts
+identified in the supply chain and whether the actions are intended to prevent, mitigate, or
+remediate the impacts;
+• how expectations are established and defined in contracts with suppliers to promote the
+prevention, mitigation, and remediation of significant actual and potential negative social
+impacts, including targets and objectives;
+• whether suppliers are incentivized and rewarded for the prevention, mitigation, and
+remediation of significant actual and potential negative social impacts;
+• practices for assessing and auditing suppliers and their products and services using social
+criteria;
+• a list of the type, system, scope, frequency, current implementation of assessment and audit,
+and which parts of the supply chain have been certified and audited;
+• the systems in place to assess the potential negative impacts of terminating a relationship
+with a supplier as a result of assessing the supplier for social impacts, and the
+organization’s strategy to mitigate those impacts.
+Social criteria or assessments of suppliers for social impacts can include the topics covered in
+other GRI Topic Standards (e.g., GRI 401: Employment 2016, GRI 403: Occupational Health and
+Safety 2018, GRI 408: Child Labor 2016, GRI 409: Forced or Compulsory Labor 2016).
+Negative impacts can include those that are either caused or contributed to by an organization,
+or that are directly linked to its operations, products, or services by its relationship with a
+supplier.
+Assessments can be informed by audits, contractual reviews, two-way engagement, and
+complaint and grievance mechanisms.
+Actions taken to address social impacts can include changing an organization’s procurement
+practices, adjusting performance expectations, capacity building, training, changes to
+processes, as well as terminating supplier relationships.
+Assessments and audits of suppliers and their products and services using social criteria can
+be undertaken by an organization, by a second party, or by a third party.
+8 GRI 414: Supplier Social Assessment 2016

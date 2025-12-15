@@ -1,0 +1,33 @@
+Disclosure 2-5 External assurance
+
+The organization shall:
+REQUIREMENTS
+a. describe its policy and practice for seeking external assurance, including whether and
+how the highest governance body and senior executives are involved;
+b. if the organization’s sustainability reporting has been externally assured:
+i. provide a link or reference to the external assurance report(s) or assurance
+statement(s);
+ii. describe what has been assured and on what basis, including the assurance
+standards used, the level of assurance obtained, and any limitations of the
+assurance process;
+iii. describe the relationship between the organization and the assurance provider.
+See section 5.2 in GRI 1: Foundation 2021 for information on external assurance.
+GUIDANCE
+Guidance to 2-5-b-ii
+If this information is covered in the external assurance reports or statements that the
+organization has provided a link or a reference to under 2-5-b-i, then a brief statement of this fact
+is sufficient to comply with the requirement.
+The organization can also describe, in accessible language:
+• the scope of information and processes covered;
+• the responsibilities of the organization relative to the assurance provider;
+• the opinion or conclusions formally signed off by the assurance provider;
+• a summary of the work performed;
+• information on the experience and qualifications of the assurance provider, e.g., profile and
+level of subject matter expertise of the individuals involved.
+Guidance to 2-5-b-iii
+An assurance provider conducting external assurance needs to demonstrate independence
+from the organization to reach and publish objective and impartial conclusions about the
+organization’s sustainability reporting.
+13 GRI 2: General Disclosures 2021
+2. Activities and workers
+The disclosures in this section provide an overview of the organization’s activities, employees, and other workers.

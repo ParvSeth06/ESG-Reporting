@@ -1,0 +1,146 @@
+Disclosure 403-10 Work-related ill health 25
+
+Glossary 27
+Bibliography 34
+4 GRI 403: Occupational Health and Safety 2018
+Introduction
+GRI 403: Occupational Health and Safety 2018 contains disclosures for organizations to report information about their
+occupational health and safety-related impacts, and how they manage these impacts.
+The Standard is structured as follows:
+• Section 1 contains seven disclosures, which provide information about how the organization manages its
+occupational health and safety-related impacts.
+• Section 2 contains three disclosures, which provide information about the organization’s occupational health and
+safety-related impacts.
+• The Glossary contains defined terms with a specific meaning when used in the GRI Standards. The terms are
+underlined in the text of the GRI Standards and linked to the definitions.
+• The Bibliography lists authoritative intergovernmental instruments and additional references used in developing
+this Standard.
+The rest of the Introduction section provides a background on the topic, an overview of the system of GRI Standards
+and further information on using this Standard.
+Background on the topic
+This Standard addresses the topic of occupational health and safety.
+Healthy and safe work conditions are recognized as a human right and addressed in authoritative intergovernmental
+instruments, including those of the International Labour Organization (ILO), the Organisation for Economic Co-
+operation and Development (OECD), and the World Health Organization (WHO): see the Bibliography.
+Healthy and safe work conditions are also a target of the Sustainable Development Goals, adopted by the United
+Nations (UN) as part of the 2030 Agenda for Sustainable Development.1
+Healthy and safe work conditions involve both prevention of physical and mental harm, and promotion of workers’
+health.
+Prevention of harm and promotion of health require an organization to demonstrate commitment to workers' health
+and safety. They also require the organization to engage workers in the development, implementation, and
+performance evaluation of an occupational health and safety policy, management system and programs that are
+appropriate to the organization’s size and activities.
+It is essential that workers are consulted in the development of an organization’s occupational health and safety
+policy, and participate in the processes necessary to plan, support, operate, and continually evaluate the effectiveness
+of the occupational health and safety management system and programs.
+Hazard identification and risk assessment, worker training, and incident identification and investigation are also key to
+planning, supporting, operating, and evaluating the occupational health and safety management system.
+In addition to preventing harm, an organization can promote workers’ health by offering healthcare services or
+voluntary health promotion services and programs, which, for example, help workers improve their diet or quit
+smoking. These additional services and programs cannot serve as a substitute for occupational health and safety
+programs, services and systems that prevent harm and protect workers from work-related injuries and ill health.
+All services and programs that aim to prevent harm and promote workers’ health are expected to respect workers’
+right to privacy. Organizations are expected not to use workers' participation in such services and programs, or the
+health data derived therefrom, as criteria for their decisions regarding employment or engagement of workers,
+including termination, demotion, promotion or offering of prospects, compensation, or any other favorable or
+unfavorable treatment.
+System of GRI Standards
+This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an
+organization to report information about its most significant impacts on the economy, environment, and people,
+including impacts on their human rights, and how it manages these impacts.
+1 See Target 8.8: ‘Protect labour rights and promote safe and secure working environments for all workers, including migrant workers, in particular
+women migrants, and those in precarious employment’, within Goal 8: ‘Promote sustained, inclusive and sustainable economic growth, full and
+productive employment and decent work for all’. Other Sustainable Development Goals are also relevant to the topic of occupational health and
+safety, for example Goal 3: ‘Ensure healthy lives and promote well-being for all at all ages’.
+5 GRI 403: Occupational Health and Safety 2018
+The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI
+Universal Standards, GRI Sector Standards, and GRI Topic Standards (see Figure 1 in this Standard).
+Universal Standards: GRI 1, GRI 2 and GRI 3
+GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance
+with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.
+GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its
+reporting practices and other organizational details, such as its activities, governance, and policies.
+GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that
+the organization uses to report information about its process of determining material topics, its list of material topics,
+and how it manages each topic.
+Sector Standards
+The Sector Standards provide information for organizations about their likely material topics. The organization uses
+the Sector Standards that apply to its sectors when determining its material topics and when determining what to
+report for each material topic.
+Topic Standards
+The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation
+to particular topics. The organization uses the Topic Standards according to the list of material topics it has
+determined using GRI 3.
+Figure 1. GRI Standards: Universal, Sector and Topic Standards
+GRI Standards
+Universal Standards Sector Standards Topic Standards
+Requirements and
+principles for using the
+GRI Standards
+Disclosures about the
+reporting organization
+Disclosures and
+guidance about the
+organization's material
+topics
+Apply all three Universal Use the Sector Standards that Select Topic Standards to report
+Standards to your reporting apply to your sectors specific information on your
+material topics
+Using this Standard
+This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting
+experience – to report information about its occupational health and safety-related impacts.
+An organization reporting in accordance with the GRI Standards is required to report the following disclosures if it has
+determined occupational health and safety to be a material topic:
+6 GRI 403: Occupational Health and Safety 2018
+• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);
+• Any disclosures from this Topic Standard that are relevant to the organization’s occupational health and safety-
+related impacts (Disclosure 403-1 through Disclosure 403-10).
+See Requirements 4 and 5 in GRI 1: Foundation 2021.
+Reasons for omission are permitted for these disclosures.
+If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required
+information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the
+requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content
+index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.
+If the organization cannot report the required information about an item specified in a disclosure because the item
+(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the
+case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The
+disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the
+item does not exist.
+If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it
+has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the
+organization can report a required disclosure by providing a reference in the GRI content index as to where this
+information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the
+information has been published).
+Requirements, guidance and defined terms
+The following apply throughout this Standard:
+Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with
+requirements to report in accordance with the GRI Standards.
+Requirements may be accompanied by guidance.
+Guidance includes background information, explanations, and examples to help the organization better understand
+the requirements. The organization is not required to comply with guidance.
+The Standards may also include recommendations. These are cases where a particular course of action is
+encouraged but not required.
+The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.
+Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The
+organization is required to apply the definitions in the Glossary.
+Scope of ‘workers’ in this Standard
+7 GRI 403: Occupational Health and Safety 2018
+Scope of ‘workers’ in this Standard
+In the context of the GRI Standards, the term ‘worker’ is defined as a person that performs work. Some GRI Standards
+specify the use of a particular subset of workers.
+This Standard covers the following subset of workers, for whose occupational health and safety an organization is
+expected to be responsible:
+• All workers who are employees (i.e., those workers who are in an employment relationship with the organization
+according to national law or practice);
+• All workers who are not employees but whose work and/or workplace is controlled by the organization;
+• All workers who are not employees and whose work and workplace are not controlled by the organization, but the
+organization’s operations, products, or services are directly linked to significant occupational health and safety
+impacts on those workers by its business relationships.
+See Table 1 for examples of employees and workers who are not employees according to the criteria of ‘control of
+work’ and ‘control of workplace’.
+When the reporting organization does not have data available for all the workers specified in a disclosure, the
+organization is required to identify the types of worker excluded from the disclosures and explain why they have been
+excluded. See also Requirement 6 in GRI 1: Foundation 2021 for requirements on reasons for omission.
+Workers who are employees
+All employees are to be included by the organization in its reported data, regardless of whether the organization
+controls their work and/or workplace.

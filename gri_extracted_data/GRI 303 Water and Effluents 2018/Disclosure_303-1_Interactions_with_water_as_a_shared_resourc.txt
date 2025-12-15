@@ -1,0 +1,104 @@
+Disclosure 303-1 Interactions with water as a shared resource
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. A description of how the organization interacts with water, including how and where
+water is withdrawn, consumed, and discharged, and the water-related impacts the
+organization has caused or contributed to, or that are directly linked to its operations,
+products, or services by its business relationships (e.g., impacts caused by runoff).
+b. A description of the approach used to identify water-related impacts, including the
+scope of assessments, their timeframe, and any tools or methodologies used.
+c. A description of how water-related impacts are addressed, including how the
+organization works with stakeholders to steward water as a shared resource, and how
+it engages with suppliers or customers with significant water-related impacts.
+d. An explanation of the process for setting any water-related goals and targets that are
+part of the organization’s approach to managing water and effluents, and how they
+relate to public policy and the local context of each area with water stress.
+1.2 The reporting organization should report the following additional information:
+RECOMMENDATIONS
+1.2.1 An overview of water use across the organization’s value chain;
+1.2.2 A list of specific catchments where the organization causes significant water-
+related impacts.
+Guidance for Disclosure 303-1
+GUIDANCE
+Through its value chain, an organization can affect both the quality as well as the availability of
+water. If the reporting organization has identified significant water-related impacts in the value
+chain, which includes activities carried out by the organization, and by entities upstream and
+downstream from the organization, it is required to report information about these impacts. See
+Guidance to 3-3-b in GRI 3: Material Topics 2021 for more information about reporting an
+organization’s involvement with negative impacts.
+The description of how the organization interacts with water can include information on specific
+catchments where water is withdrawn, consumed, and discharged, and information on what the
+water is used for in activities carried out by the organization and by entities upstream and
+downstream from the organization (e.g., for cooling, storage, incorporating in products, growing
+crops).
+In the context of this Standard, suppliers with significant water-related impacts may include
+suppliers of water-intensive commodities or services, suppliers located in areas with water
+stress, and/or suppliers with significant impacts on the local water environment and the related
+local communities.
+If applicable, the organization can describe its environmental impacts caused by runoff, and how
+they are addressed. For example, runoff can carry high-nutrient and pollution loads due to the
+organization’s activities, leading to eutrophication and other negative impacts on local
+waterbodies.
+Guidance for Disclosure 303-1-b
+When assessing impacts, it is important that the organization consider its future impacts on
+water quality and availability, as these factors can change over time.
+Tools and methodologies for identifying impacts can include life cycle assessments,
+environmental impact assessments, water footprint assessments, scenario analysis, and
+stakeholder engagement. If information is estimated or modeled, rather than sourced from
+direct measurements, the organization can explain its estimation or modeling methods.
+Guidance for Disclosure 303-1-c
+Working with stakeholders is critical for an organization to steward water as a shared resource
+and account for the needs of other water users of the catchment. An organization’s stakeholders
+can include:
+• suppliers with significant water-related impacts;
+9 GRI 303: Water and Effluents 2018
+• users of its products and services;
+• local communities and action groups;
+• employees and other workers;
+• other water users in its sector or industry;
+• governments, regulators, and civil society organizations;
+• global initiatives, trade associations, and partnerships.
+The organization can describe how it participates in discussions with stakeholders, the
+frequency of this engagement, and its role in these discussions. Outcomes of working with
+stakeholders can include, for example, collective target-setting for water use, increased
+investment in infrastructure, policy advocacy, and capacity building and awareness raising.
+When reporting on its engagement with suppliers, the organization can describe:
+• how the organization engages with its suppliers to help them improve their water
+management practices;
+• the number of suppliers engaged;
+• the outcomes of this engagement;
+• the amount of procurement that the proportion of engaged suppliers represents;
+• why information is not requested from suppliers with significant water-related impacts;
+• future plans and goals for working with suppliers to reduce water-related impacts.
+Water impacts related to products and services might be addressed by, for example, improving
+product design, providing information and advice on the responsible use of products and
+services, and holding regular consultations with users.
+Guidance for Disclosure 303-1-d
+Meaningful targets for managing water-related impacts:
+• account for the local context where water is withdrawn and discharged;
+• are scientifically informed by sustainable thresholds and the social context of a given
+catchment;
+• align with public sector efforts, such as the water- related targets of the UN Sustainable
+Development Goals, in particular Goal 6, or targets set by national and local government
+institutions;
+• are informed by the advocacy of other stakeholders, such as civil society organizations, trade
+associations, and action groups.
+See references [2] and [4] in the Bibliography.
+The organization can report its progress toward the goals and targets using 3-3-e-iii in GRI 3:
+Material Topics 2021.
+Guidance for clause 1.2.1
+The organization can present the overview of water use across its value chain as a breakdown,
+in graphic or written form, showing, for example, parts of the value chain where water
+consumption is significant and the commodities to which it is related, or the percentage of
+commodity sourcing that comes from catchments located in areas with water stress. The
+organization is encouraged to include information about upstream as well as downstream water
+use (e.g., use of water for consumer products, such as soaps, shampoos, and cleaning
+solutions).
+Guidance for clause 1.2.2
+To identify catchments where it causes water-related impacts, the organization can use global
+catchment data sets. These include the CEO Water Mandate 'Interactive Database of the World's
+River Basins'1, and the WWF 'HydroSHEDS'2.
+1 CEO Water Mandate, Interactive Database of the World’s River Basins, riverbasins.wateractionhub.org/, accessed on 1 June 2018.
+2 WWF, HydroSHEDS, http://www.hydrosheds.org/, accessed on 1 June 2018.
+10 GRI 303: Water and Effluents 2018

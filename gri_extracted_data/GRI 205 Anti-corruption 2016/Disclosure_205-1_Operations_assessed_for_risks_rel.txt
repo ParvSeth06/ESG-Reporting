@@ -1,0 +1,22 @@
+Disclosure 205-1 Operations assessed for risks related to
+
+corruption
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. Total number and percentage of operations assessed for risks related to corruption.
+b. Significant risks related to corruption identified through the risk assessment.
+Guidance for Disclosure 205-1
+GUIDANCE
+This disclosure can include a risk assessment focused on corruption or the inclusion of
+corruption as a risk factor in overall risk assessments.
+The term ‘operation’ refers to a single location used by the organization for the production,
+storage and/or distribution of its goods and services, or for administrative purposes. Within a
+single operation, there can be multiple production lines, warehouses, or other activities. For
+example, a single factory can be used for multiple products or a single retail outlet can contain
+several different retail operations that are owned or managed by the organization.
+Background
+This disclosure measures the extent of the risk assessment’s implementation across an
+organization. Risk assessments can help to assess the potential for incidents of corruption
+within and related to the organization, and help the organization to design policies and
+procedures to combat corruption.
+9 GRI 205: Anti-corruption 2016

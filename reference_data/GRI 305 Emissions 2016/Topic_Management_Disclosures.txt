@@ -1,0 +1,22 @@
+Topic Management Disclosures
+
+1. Topic management disclosures
+An organization reporting in accordance with the GRI Standards is required to report how it manages each of its
+material topics.
+An organization that has determined emissions to be a material topic is required to report how it manages the topic
+using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section). The organization is also required
+to report clause 1.2 in this section, if it is relevant to its emissions-related impacts.
+This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.
+1.1 The reporting organization shall report how it manages emissions using Disclosure 3-
+REQUIREMENTS
+3 in GRI 3: Material Topics 2021.
+1.2 When reporting on GHG emissions targets, the reporting organization shall explain
+whether offsets were used to meet the targets, including the type, amount, criteria or
+scheme of which the offsets are part.
+The reporting organization can also:
+GUIDANCE
+• explain whether it is subject to any country, regional, or industry-level emissions regulations
+and policies; and provide examples of these regulations and policies;
+• disclose expenditures on treatment of emissions (such as expenditures for filters, agents)
+and for the purchase and use of emissions certificates.
+9 GRI 305: Emissions 2016

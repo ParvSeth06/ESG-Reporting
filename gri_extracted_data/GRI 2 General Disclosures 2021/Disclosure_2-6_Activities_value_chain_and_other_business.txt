@@ -1,0 +1,87 @@
+Disclosure 2-6 Activities, value chain and other business
+
+relationships
+The organization shall:
+REQUIREMENTS
+a. report the sector(s) in which it is active;
+b. describe its value chain, including:
+i. the organization’s activities, products, services, and markets served;
+ii. the organization’s supply chain;
+iii. the entities downstream from the organization and their activities;
+c. report other relevant business relationships;
+d. describe significant changes in 2-6-a, 2-6-b, and 2-6-c compared to the previous
+reporting period.
+Guidance to 2-6-a
+GUIDANCE
+Sectors can be identified according to categories, such as the public or private sector; or
+industry-specific categories, such as the education sector or the financial sector.
+Depending on the organization’s activities, sectors can be identified using the GRI Sector
+Standards or classification systems such as the Global Industry Classification Standard
+(GICS®), the Industry Classification Benchmark (ICB), the International Standard Industrial
+Classification of All Economic Activities (ISIC), and the Sustainable Industry Classification
+System (SICS®).
+Guidance to 2-6-b
+The organization’s value chain includes the range of activities carried out by the organization,
+and by entities upstream and downstream from the organization, to bring the organization’s
+products or services from their conception to their end use. Entities upstream from the
+organization provide products or services used in the development of the organization’s own
+products or services. Entities downstream from the organization are those that receive products
+or services from the organization. Entities in the value chain include entities beyond the first tier,
+both upstream and downstream.
+The information reported under 2-6-b provides a context for understanding the
+organization’s impacts across its value chain, including through the use of its products and
+services. Describing the markets served provides further information on the groups of
+customers targeted by the organization’s products and services.
+The organization is not required to provide a detailed description of each activity in its value
+chain. Instead, it can provide a high-level overview of its value chain.
+Guidance to 2-6-b-i
+When describing its activities, the organization should report its total number of operations and
+explain how it defines ‘operation’.
+When describing its products and services, the organization should report:
+• the quantity of products or services provided during the reporting period (e.g., number of
+products or services provided, net sales of products or services provided);
+• whether it sells products or services that are banned in certain markets or are the subject of
+stakeholder concerns or public debate, including the reason for the ban or concerns and
+how the organization has responded to these concerns.
+14 GRI 2: General Disclosures 2021
+When describing the markets served, the organization can report:
+• the geographic locations where products and services are offered;
+• the demographic or other characteristics of the markets;
+• information on the size and relative importance of the markets (e.g., net sales, net revenues).
+Guidance to 2-6-b-ii
+The organization can describe:
+• the types of suppliers (e.g., brokers, contractors, wholesalers);
+• the estimated number of suppliers throughout its supply chain and in each tier (e.g., first tier,
+second tier);
+• the types of activities related to the organization’s products and services carried out by its
+suppliers (e.g., manufacturing, providing consulting services);
+• the nature of its business relationships with its suppliers (e.g., long-term or short-term,
+contractual or non-contractual, project-based or event-based);
+• the sector-specific characteristics of its supply chain (e.g., labor-intensive);
+• the estimated monetary value of payments made to its suppliers;
+• the geographic location of its suppliers.
+Guidance to 2-6-b-iii
+The organization can describe:
+• the types of downstream entities (e.g., customers, beneficiaries);
+• the estimated number of downstream entities;
+• the types of activities related to the organization’s products and services carried out by the
+downstream entities (e.g., manufacturing, wholesale, retail);
+• the nature of its business relationships with the downstream entities (e.g., long-term or
+short-term, contractual or non-contractual, project-based or event-based);
+• the geographic location of the downstream entities.
+Guidance to 2-6-c
+Other relevant business relationships include relationships that the organization has with
+entities that are not described as part of its value chain under 2-6-b. These may
+include business partners (e.g., joint ventures) and other entities directly linked to the
+organization’s operations, products, or services (for examples, see the note in the definition of
+‘business relationships’).
+The organization can report the types of entities, their activities, and their geographic location.
+Guidance to 2-6-d
+Requirement 2-6-d entails describing significant changes in the organization’s sectors, value
+chain, and other business relationships compared to the previous reporting period. This
+information can help explain changes to the organization’s impacts. Examples of significant
+changes that can be reported under this disclosure are changes in activities such as the
+opening, closing, or expansion of facilities; changes in the structure of the organization’s supply
+chain or in its relationships with suppliers, including selection and termination; or changes in
+the location of its suppliers.
+15 GRI 2: General Disclosures 2021

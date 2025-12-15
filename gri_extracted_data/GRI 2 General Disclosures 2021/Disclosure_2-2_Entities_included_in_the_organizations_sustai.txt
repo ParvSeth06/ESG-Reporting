@@ -1,0 +1,37 @@
+Disclosure 2-2 Entities included in the organization’s sustainability
+
+reporting
+The organization shall:
+REQUIREMENTS
+a. list all its entities included in its sustainability reporting;
+b. if the organization has audited consolidated financial statements or financial
+information filed on public record, specify the differences between the list of entities
+included in its financial reporting and the list included in its sustainability reporting;
+c. if the organization consists of multiple entities, explain the approach used for
+consolidating the information, including:
+i. whether the approach involves adjustments to information for minority interests;
+ii. how the approach takes into account mergers, acquisitions, and disposal of
+entities or parts of entities;
+iii. whether and how the approach differs across the disclosures in this Standard and
+across material topics.
+Guidance to 2-2-a
+GUIDANCE
+The entities reported under 2-2-a form the basis for reporting the disclosures in this Standard
+and for determining the organization’s material topics.
+Requirement 2-2-a includes those entities that the organization controls or has an interest in
+and are included in its sustainability reporting, such as subsidiaries, joint ventures, and
+affiliates, including minority interests. The organization should report information for the same
+group of entities as covered in its financial reporting.
+When determining its material topics, the organization should consider the impacts of additional
+entities with which it has business relationships that are not included in the list reported under
+2-2-a. See section 1 in GRI 3: Material Topics 2021 for more information.
+Guidance to 2-2-a and 2-2-b
+If all the entities in the organization’s financial reporting are also included in its sustainability
+reporting, a brief statement of this fact, including a link or reference to the list of entities included
+in its audited consolidated financial statements or financial information filed on public record, is
+sufficient to comply with 2-2-a and 2-2-b.
+The organization should separately specify any additional entities included in the sustainability
+reporting that are not included in its financial reporting.
+Guidance to 2-2-c
+A minority interest is an ownership interest in an entity that is not controlled by the parent entity.
+10 GRI 2: General Disclosures 2021

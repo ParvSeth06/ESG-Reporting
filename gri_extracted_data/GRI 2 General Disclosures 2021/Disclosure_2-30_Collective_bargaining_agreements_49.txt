@@ -1,0 +1,67 @@
+Disclosure 2-30 Collective bargaining agreements 49
+
+Glossary 51
+Bibliography 56
+5 GRI 2: General Disclosures 2021
+Introduction
+GRI 2: General Disclosures 2021 contains disclosures for organizations to provide information about their reporting
+practices; activities and workers; governance; strategy, policies, and practices; and stakeholder engagement. This
+information gives insight into the profile and scale of organizations and provides a context for understanding their
+impacts.
+The Standard is structured as follows:
+• Section 1 contains five disclosures, which provide information about the organization, its sustainability reporting
+practices, and the entities included in its sustainability reporting.
+• Section 2 contains three disclosures, which provide information about the organization’s activities, employees,
+and other workers.
+• Section 3 contains thirteen disclosures, which provide information about the organization’s governance structure,
+composition, roles, and remuneration.
+• Section 4 contains seven disclosures, which provide information about the organization’s sustainable
+development strategy and its policies and practices for responsible business conduct.
+• Section 5 contains two disclosures, which provide information about the organization’s stakeholder engagement
+practices and how it engages in collective bargaining with employees.
+• The Glossary contains defined terms with a specific meaning when used in the GRI Standards. The terms are
+underlined in the text of the GRI Standards and linked to the definitions.
+• The Bibliography lists authoritative intergovernmental instruments and additional references used in developing
+this Standard, as well as resources that the organization can consult.
+The rest of the Introduction section provides an overview of the system of GRI Standards and further information on
+using this Standard.
+System of GRI Standards
+This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an
+organization to report information about its most significant impacts on the economy, environment, and people,
+including impacts on their human rights, and how it manages these impacts.
+The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI
+Universal Standards, GRI Sector Standards, and GRI Topic Standards (see Figure 1 in this Standard).
+Universal Standards: GRI 1, GRI 2 and GRI 3
+GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance
+with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.
+GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its
+reporting practices and other organizational details, such as its activities, governance, and policies.
+GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that
+the organization uses to report information about its process of determining material topics, its list of material topics,
+and how it manages each topic.
+Sector Standards
+The Sector Standards provide information for organizations about their likely material topics. The organization uses
+the Sector Standards that apply to its sectors when determining its material topics and when determining what to
+report for each material topic.
+Topic Standards
+The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation
+to particular topics. The organization uses the Topic Standards according to the list of material topics it has
+determined using GRI 3.
+6 GRI 2: General Disclosures 2021
+Figure 1. GRI Standards: Universal, Sector and Topic Standards
+GRI Standards
+Universal Standards Sector Standards Topic Standards
+Requirements and
+principles for using the
+GRI Standards
+Disclosures about the
+reporting organization
+Disclosures and
+guidance about the
+organization's material
+topics
+Apply all three Universal Use the Sector Standards that Select Topic Standards to report
+Standards to your reporting apply to your sectors specific information on your
+material topics
+Using this Standard
+An organization reporting in accordance with the GRI Standards is required to report all disclosures in this Standard.

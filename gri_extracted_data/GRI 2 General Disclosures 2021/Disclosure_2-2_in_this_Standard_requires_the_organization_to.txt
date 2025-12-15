@@ -1,0 +1,41 @@
+Disclosure 2-2 in this Standard requires the organization to list its entities included in its sustainability reporting.
+
+These entities define the scope for reporting all other disclosures in this Standard.
+Reasons for omission are permitted for all disclosures in this Standard except for:
+• Disclosure 2-1 Organizational details
+• Disclosure 2-2 Entities included in the organization’s sustainability reporting
+• Disclosure 2-3 Reporting period, frequency and contact point
+• Disclosure 2-4 Restatements of information
+• Disclosure 2-5 External assurance
+If the organization cannot comply with a disclosure or with a requirement in a disclosure for which reasons for
+omission are permitted (e.g., because the required information is confidential or subject to legal prohibitions), the
+organization is required to specify the disclosure or the requirement it cannot comply with, and provide a reason for
+omission together with an explanation in the GRI content index. See Requirement 6 in GRI 1: Foundation 2021 for
+more information on reasons for omission.
+If the organization cannot report the required information about an item specified in a disclosure because the item
+(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the
+case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The
+disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the
+item does not exist.
+If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it
+has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the
+organization can report a required disclosure by providing a reference in the GRI content index as to where this
+information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the
+information has been published).
+7 GRI 2: General Disclosures 2021
+Requirements, guidance and defined terms
+The following apply throughout the GRI Standards:
+Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with
+requirements to report in accordance with the GRI Standards.
+Requirements may be accompanied by guidance.
+Guidance includes background information, explanations, and examples to help the organization better understand
+the requirements. The organization is not required to comply with guidance.
+The Standards may also include recommendations. These are cases where a particular course of action is
+encouraged but not required.
+The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.
+Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The
+organization is required to apply the definitions in the Glossary.
+8 GRI 2: General Disclosures 2021
+1. The organization and its reporting practices
+The disclosures in this section provide an overview of the organization, its sustainability reporting practices, and the
+entities included in its sustainability reporting.

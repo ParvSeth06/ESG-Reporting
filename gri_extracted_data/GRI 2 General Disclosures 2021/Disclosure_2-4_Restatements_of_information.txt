@@ -1,0 +1,41 @@
+Disclosure 2-4 Restatements of information
+
+The organization shall:
+REQUIREMENTS
+a. report restatements of information made from previous reporting periods and explain:
+i. the reasons for the restatements;
+ii. the effect of the restatements.
+The organization should provide a restatement of information when it has learned that the
+GUIDANCE
+previously reported information needs to be revised. Restatements of information from previous
+reporting periods can correct an error, or account for changes in measurement methodology or
+to the nature of the business. Restatements of information ensure consistency and enable
+comparability of information between reporting periods. See the Comparability principle in GRI
+1: Foundation 2021 for more information.
+The organization should report the criteria used to determine when a change or error in
+previously reported information is considered significant enough to provide a restatement. A
+change or error could be significant when it influences information users’ decision-making (e.g.,
+it influences the analysis of the changes in the organization’s impacts over time).
+For example, if an organization adopts a new, more accurate method for measuring greenhouse
+gas (GHG) emissions, it may subsequently experience a reduction in its previously reported
+GHG emissions that meets the organization’s restatement criteria. The organization then
+restates its previously reported GHG emissions. In such a case, the organization is required to
+explain that it has restated its previously reported GHG emissions due to the new measurement
+methodology and that this has resulted in lower GHG emissions than previously reported. The
+organization should also report the quantitative change observed (e.g., GHG emissions are 10%
+lower than the emissions previously reported).
+If the organization has not made any restatement in the reporting period, a brief statement of this
+fact is sufficient to comply with the requirement.
+Guidance to 2-4-a-i
+Examples of reasons for restatements of information include:
+• change of base period or length of the reporting period;
+• change in the nature of the business;
+• change in the measurement methodologies or in the definitions used;
+• disposals, mergers, or acquisitions;
+• error made in previous reporting periods.
+Guidance to 2-4-a-ii
+The effect of the restatement refers to the consequences of the change or correction made to
+previously reported information. If the restatement relates to quantitative information, the
+organization should specify the quantitative change in the restated information (e.g., GHG
+emissions are 10% lower compared to the level of emissions previously reported).
+12 GRI 2: General Disclosures 2021

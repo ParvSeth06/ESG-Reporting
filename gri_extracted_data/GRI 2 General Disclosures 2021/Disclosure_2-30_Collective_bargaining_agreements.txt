@@ -1,0 +1,63 @@
+Disclosure 2-30 Collective bargaining agreements
+
+The organization shall:
+REQUIREMENTS
+a. report the percentage of total employees covered by collective bargaining agreements;
+b. for employees not covered by collective bargaining agreements, report whether the
+organization determines their working conditions and terms of employment based on
+collective bargaining agreements that cover its other employees or based on collective
+bargaining agreements from other organizations.
+This disclosure provides insights into how the organization engages in collective bargaining
+GUIDANCE
+with its employees. Collective bargaining is a fundamental right at work covered in the
+International Labour Organization (ILO) Right to Organise and Collective Bargaining
+Convention [8].
+Collective bargaining refers to negotiations that take place between one or more employers or
+employers' organizations and one or more workers' organizations (e.g., trade unions). The
+objective of these negotiations is to reach a collective agreement on working conditions and
+terms of employment (e.g., wages, working time) and to regulate relations between employers
+and workers. [3] These negotiations are an important means through which employers’
+organizations and workers’ organizations can improve working conditions and labor relations.
+Collective agreements can be made at the level of the organization, at the level of a particular
+site, at the industry level, and at the national level in countries where this is the practice.
+Collective agreements can cover specific groups of workers, for example, those performing a
+specific activity or working at a specific location.
+If the organization has a statement or policy commitment on freedom of association and
+collective bargaining, this is reported under 2-23-b-i in this Standard or 3-3-c in GRI 3: Material
+Topics 2021.
+See references [2], [3], [4], [5], [6], [8], [10], [21], [25], and [26] in the Bibliography.
+Guidance to 2-30-a
+The organization is required to report the percentage of its employees whose working
+conditions and terms of employment are regulated by one or more collective bargaining
+agreements.
+The percentage of employees covered by collective bargaining agreements is calculated using
+the following formula:
+Number of employees covered by collective bargaining agreements
+___________________________________________________
+x 100
+Total number of employees reported under 2-7-a
+The employees covered by collective bargaining agreements are those employees to whom the
+organization is obligated to apply the agreement. This means that if none of the employees are
+covered by a collective bargaining agreement, the percentage reported is zero. An employee
+covered by more than one collective bargaining agreement only needs to be counted once.
+This requirement does not ask for the percentage of employees represented by a works council
+or belonging to trade unions, which can be different. The percentage of employees covered by
+collective bargaining agreements can be higher than the percentage of unionized employees
+when the collective bargaining agreements apply to both union and non-union members.
+Alternatively, the percentage of employees covered by collective bargaining agreements can be
+lower than the percentage of unionized employees. This may be the case when there are no
+collective bargaining agreements available or when the collective bargaining agreements do not
+cover all unionized employees.
+50 GRI 2: General Disclosures 2021
+The organization can also provide a breakdown of the percentage of employees covered by
+collective bargaining agreements by region, or provide comparisons with industry benchmarks.
+Guidance to 2-30-b
+There may be instances where collective bargaining agreements cover some or none of the
+organization’s employees. However, the working conditions and terms of employment of these
+employees may be influenced or determined by the organization based on other collective
+bargaining agreements, such as agreements that cover other employees or agreements from
+other organizations. If this is the case, the organization is required to report it under 2-30-b. If this
+is not the case, and the working conditions and terms of employment of these employees are
+not influenced or determined based on other collective bargaining agreements, a brief
+statement of this fact is sufficient to comply with this requirement.
+51 GRI 2: General Disclosures 2021

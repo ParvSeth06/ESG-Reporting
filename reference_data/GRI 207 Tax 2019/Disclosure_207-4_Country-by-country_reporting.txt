@@ -1,0 +1,82 @@
+Disclosure 207-4 Country-by-country reporting
+
+The reporting organization shall report the following information:
+REQUIREMENTS
+a. All tax jurisdictions where the entities included in the organization’s audited
+consolidated financial statements, or in the financial information filed on public record,
+are resident for tax purposes.
+b. For each tax jurisdiction reported in Disclosure 207-4-a:
+i. Names of the resident entities;
+ii. Primary activities of the organization;
+iii. Number of employees, and the basis of calculation of this number;
+iv. Revenues from third-party sales;
+v. Revenues from intra-group transactions with other tax jurisdictions;
+vi. Profit/loss before tax;
+vii. Tangible assets other than cash and cash equivalents;
+viii. Corporate income tax paid on a cash basis;
+ix. Corporate income tax accrued on profit/loss;
+x. Reasons for the difference between corporate income tax accrued on profit/loss
+and the tax due if the statutory tax rate is applied to profit/loss before tax.
+c. The time period covered by the information reported in Disclosure 207-4.
+Compilation requirements
+2.1 When compiling the information specified in Disclosure 207-4, the reporting
+organization shall report information for the time period covered by the most recent
+audited consolidated financial statements or financial information filed on public
+record. If information is not available for this time period, the organization may report
+information for the time period covered by the audited consolidated financial
+statements, or the financial information filed on public record, immediately preceding
+the most recent ones.
+2.2 When compiling the information specified in Disclosure 207-4-b, the reporting
+organization shall:
+2.2.1 reconcile the data reported for Disclosures 207-4-b-iv, vi, vii, and viii with the
+data stated in its audited consolidated financial statements, or the financial
+information filed on public record, for the time period reported in Disclosure
+207-4-c. Where the data reported does not reconcile with the audited
+consolidated financial statements, or the financial information filed on public
+record, the organization shall provide an explanation for this difference;
+2.2.2 for Disclosure 207-4-b-ix, include corporate income tax accrued in the time
+period reported in Disclosure 207-4-c and exclude deferred corporate income
+tax and provisions for uncertain tax positions;
+2.2.3 in cases where an entity is deemed not to be resident in any tax jurisdiction,
+provide the information for this stateless entity separately.
+2.3 The reporting organization should report the following additional information for each tax
+RECOMMENDATIONS
+jurisdiction reported in Disclosure 207-4-a:
+2.3.1 Total employee remuneration;
+2.3.2 Taxes withheld and paid on behalf of employees;
+2.3.3 Taxes collected from customers on behalf of a tax authority;
+2.3.4 Industry-related and other taxes or payments to governments;
+2.3.5 Significant uncertain tax positions;
+2.3.6 Balance of intra-company debt held by entities in the tax jurisdiction, and the
+basis of calculation of the interest rate paid on the debt.
+13 GRI 207: Tax 2019
+Background
+GUIDANCE
+Country-by-country reporting is the reporting of financial, economic, and tax-related information
+for each jurisdiction in which the organization operates.
+Guidance for Disclosure 207-4-a
+In the context of this Standard, tax jurisdictions are identified according to where the entities
+included in the organization’s audited consolidated financial statements, or in the financial
+information filed on public record, are resident for tax purposes. These entities include
+permanent establishments and dormant entities.
+Guidance for Disclosure 207-4-b
+Unless otherwise stated, country-by-country information is to be reported at the level of tax
+jurisdictions and not at the level of individual entities.
+Number of employees, revenues, profit/loss before tax, and tangible assets other than cash and
+cash equivalents are indicators of the organization’s scale of activity within a tax jurisdiction.
+When considered in conjunction with the other required and recommended information, they
+can inform assessments about the level of taxes being paid in a jurisdiction.
+In addition to this information, the organization can report any other information relevant for
+understanding the scale of its activity within a jurisdiction.
+If the reporting organization cannot report all required information for all the tax jurisdictions
+reported in Disclosure 207-4-a, it may use reasons for omission as set out in GRI 1: Foundation
+2021. The organization is required to specify the requirement it cannot comply with, and to
+provide a reason for omission and required explanation, as set out in GRI 1. See Requirement 6
+in GRI 1 for more information on reasons for omission.
+If complete reporting for a tax jurisdiction is not possible because the organization holds a
+minority shareholding or is the non-operating joint venture partner in an entity, the organization
+may provide ‘information unavailable / incomplete’ as the reason for omission and specify the
+majority shareholder or operating partner.
+The organization can also report any contextual information necessary to understand how data
+has been compiled, such as any standards, methodologies, and assumptions used.
+Guidance for Disclosure 207-4-b-i
