@@ -1,0 +1,52 @@
+{
+  "standard": "GRI 201",
+  "disclosure_id": "201-3",
+  "title": "Disclosure 201-3 Defined benefit plan obligations and other",
+  "topic": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+  "requirements": [
+    "a. If the plan’s liabilities are met by the organization’s general resources, the estimated",
+    "value of those liabilities.",
+    "b. If a separate fund exists to pay the plan’s pension liabilities:",
+    "i. the extent to which the scheme’s liabilities are estimated to be covered by the",
+    "assets that have been set aside to meet them;",
+    "ii. the basis on which that estimate has been arrived at;",
+    "iii. when that estimate was made.",
+    "c. If a fund set up to pay the plan’s pension liabilities is not fully covered, explain the",
+    "strategy, if any, adopted by the employer to work towards full coverage, and the",
+    "timescale, if any, by which the employer hopes to achieve full coverage.",
+    "d. Percentage of salary contributed by employee or employer.",
+    "e. Level of participation in retirement plans, such as participation in mandatory or",
+    "voluntary schemes, regional, or country-based schemes, or those with financial impact.",
+    "2.4 When compiling the information specified in Disclosure 201-3, the reporting organization"
+  ],
+  "background": [
+    "When an organization provides a retirement plan for its employees, these benefits can become",
+    "a commitment that members of the schemes plan on for their long-term economic well-being.",
+    "Defined benefit plans have potential implications for employers in terms of the obligations that",
+    "need to be met. Other types of plans, such as defined contribution plans, do not guarantee",
+    "access to a retirement plan or the quality of the benefits. Thus, the type of plan chosen has",
+    "implications for both employees and employers. Conversely, a properly funded pension plan",
+    "can help to attract and maintain employees and support long-term financial and strategic",
+    "planning on the part of the employer.",
+    "14 GRI 201: Economic Performance 2016"
+  ],
+  "guidance": [
+    "The structure of retirement plans offered to employees can be based on:",
+    "• defined benefit plans;",
+    "• defined contribution plans;",
+    "• other types of retirement benefits.",
+    "Different jurisdictions, such as countries, have varying interpretations and guidance regarding",
+    "calculations used to determine plan coverage.",
+    "Note that benefit pension plans are part of the International Accounting Standards Board (IASB)",
+    "IAS 19 Employee Benefits, however IAS 19 covers additional topics.",
+    "See reference [7] in the Bibliography."
+  ],
+  "recommendations": [
+    "should:",
+    "2.4.1 calculate the information in accordance with the regulations and methods for",
+    "relevant jurisdictions, and report aggregated totals;",
+    "2.4.2 use the same consolidation techniques as those applied in preparing the",
+    "financial accounts of the organization.",
+    "Guidance for Disclosure 201-3"
+  ]
+}

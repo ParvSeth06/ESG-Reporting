@@ -1,0 +1,42 @@
+{
+  "standard": "GRI 416",
+  "disclosure_id": "416-2",
+  "title": "Disclosure 416-2 Incidents of non-compliance concerning the health",
+  "topic": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+  "requirements": [
+    "a. Total number of incidents of non-compliance with regulations and/or voluntary codes",
+    "concerning the health and safety impacts of products and services within the reporting",
+    "period, by:",
+    "i. incidents of non-compliance with regulations resulting in a fine or penalty;",
+    "ii. incidents of non-compliance with regulations resulting in a warning;",
+    "iii. incidents of non-compliance with voluntary codes.",
+    "b. If the organization has not identified any non-compliance with regulations and/or",
+    "voluntary codes, a brief statement of this fact is sufficient.",
+    "2.1 When compiling the information specified in Disclosure 416-2, the reporting",
+    "organization shall:",
+    "2.1.1 exclude incidents of non-compliance in which the organization was",
+    "determined not to be at fault;",
+    "2.1.2 exclude incidents of non-compliance related to Incidents related to labeling",
+    "are reported in Disclosure 417-2 of GRI 417: Marketing and Labelling 2016;",
+    "2.1.3 if applicable, identify any incidents of non-compliance that relate to events in",
+    "periods prior to the reporting period.",
+    "Guidance for Disclosure 416-2"
+  ],
+  "background": [
+    "Protection of health and safety is a recognized goal of many national and international",
+    "regulations. Customers expect products and services to perform their intended functions",
+    "satisfactorily, and not pose a risk to health and safety. Customers have a right to non-hazardous",
+    "products. Where their health and safety is affected, customers also have the right to seek",
+    "redress.",
+    "This disclosure addresses the life cycle of the product or service once it is available for use, and",
+    "therefore subject to regulations and voluntary codes concerning the health and safety of",
+    "products and services.",
+    "10 GRI 416: Customer Health and Safety 2016"
+  ],
+  "guidance": [
+    "The incidents of non-compliance that occur within the reporting period can relate to incidents",
+    "formally resolved during the reporting period, whether they occurred in periods prior to the",
+    "reporting period or not."
+  ],
+  "recommendations": []
+}

@@ -1,0 +1,17 @@
+{
+  "standard": "GRI 403 Occupational Health and Safety 2018",
+  "type": "universal_or_sector",
+  "mandatory_requirements": [
+    {
+      "text": "organization shall: 2.1.1 exclude fatalities in the calculation of the number and rate of high- consequence work-related injuries; 2.1.2 include fatalities as a result of work-related injury in the calculation of the number and rate of recordable work-related injuries; 2.1.3 include injuries as a result of commuting incidents only where the transport has been organized by the organization; 2.1.4 calculate the rates based on either 200,000 or 1,000,000 hours worked, using the following formulas: Number of fatalities as a result Rate of fatalities as a of work-related injury result of work-related = ______________________ x [200,000 or injury 1,000,000] Number of hours worked 22 GRI 403: Occupational Health and Safety 2018 Number of high-consequence work-related injuries Rate of high-consequence (excluding fatalities) work-related injuries (excluding fatalities) = ______________________ x [200,000 or 1,000,000] Number of hours worked Number of recordable work- related injuries Rate of recordable work- related injuries = ______________________ x [200,000 or 1,000,000] Number of hours worked 2.2 The reporting organization should report the following additional information:",
+      "page": 22
+    },
+    {
+      "text": "organization shall include fatalities as a result of work-related ill health in the calculation of the number of cases of recordable work-related ill health. 2.4 The reporting organization should report the following additional information:",
+      "page": 25
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [],
+  "sector_specific_rules": []
+}

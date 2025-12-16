@@ -1,0 +1,25 @@
+{
+  "standard": "GRI 302 Energy 2016",
+  "type": "universal_or_sector",
+  "mandatory_requirements": [
+    {
+      "text": "electricity, the energy consumption shall be counted once under fuel consumption; 2.1.2 report fuel consumption separately for non-renewable and renewable fuel sources; 2.1.3 only report energy consumed by entities owned or controlled by the organization; 2.1.4 calculate the total energy consumption within the organization in joules or multiples using the following formula: 9 GRI 302: Energy 2016 Total energy consumption within the organization = Non-renewable fuel consumed + Renewable fuel consumed + Electricity, heating, cooling, and steam purchased for consumption + Self-generated electricity, heating, cooling, and steam, which are not consumed (see clause 2.1.1) - Electricity, heating, cooling, and steam sold 2.2 When compiling the information specified in Disclosure 302-1, the reporting",
+      "page": 9
+    },
+    {
+      "text": "organization shall exclude energy consumption reported in Disclosure 302-1. 2.4 When compiling the information specified in Disclosure 302-2, the reporting organization",
+      "page": 11
+    },
+    {
+      "text": "organization shall: 2.5.1 calculate the ratio by dividing the absolute energy consumption (the numerator) by the organization-specific metric (the denominator); 2.5.2 if reporting an intensity ratio both for the energy consumed within the organization and outside of it, report these intensity ratios separately. 2.6 When compiling the information specified in Disclosure 302-3, the reporting organization",
+      "page": 13
+    },
+    {
+      "text": "direct measurements. If estimation or modeling is used, the organization shall disclose the methods used. 2.8 When compiling the information specified in Disclosure 302-4, the reporting organization",
+      "page": 14
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [],
+  "sector_specific_rules": []
+}

@@ -1,0 +1,2722 @@
+{
+  "standard": "GRI 207 Tax 2019",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 5
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages tax using",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. A description of the approach to tax, including:",
+        "i. whether the organization has a tax strategy and, if so, a link to this strategy if",
+        "ii. the governance body or executive-level position within the organization that",
+        "iii. the approach to regulatory compliance;",
+        "iv. how the approach to tax is linked to the business and sustainable development"
+      ],
+      "page": 8
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. A description of the tax governance and control framework, including:",
+        "i. the governance body or executive-level position within the organization",
+        "ii. how the approach to tax is embedded within the organization;",
+        "iii. the approach to tax risks, including how risks are identified, managed, and",
+        "iv. how compliance with the tax governance and control framework is evaluated.",
+        "b. A description of the mechanisms to raise concerns about the organization’s business",
+        "c. A description of the assurance process for disclosures on tax including, if applicable, a"
+      ],
+      "page": 9
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. A description of the approach to stakeholder engagement and management of",
+        "i. the approach to engagement with tax authorities;",
+        "ii. the approach to public policy advocacy on tax;",
+        "iii. the processes for collecting and considering the views and concerns of"
+      ],
+      "page": 11
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. All tax jurisdictions where the entities included in the organization’s audited",
+        "b. For each tax jurisdiction reported in Disclosure 207-4-a:",
+        "i. Names of the resident entities;",
+        "ii. Primary activities of the organization;",
+        "iii. Number of employees, and the basis of calculation of this number;",
+        "iv. Revenues from third-party sales;",
+        "v. Revenues from intra-group transactions with other tax jurisdictions;",
+        "vi. Profit/loss before tax;",
+        "vii. Tangible assets other than cash and cash equivalents;",
+        "viii. Corporate income tax paid on a cash basis;",
+        "ix. Corporate income tax accrued on profit/loss;",
+        "x. Reasons for the difference between corporate income tax accrued on profit/loss",
+        "c. The time period covered by the information reported in Disclosure 207-4."
+      ],
+      "page": 12
+    },
+    {
+      "text": "organization shall report information for the time period covered by the most recent",
+      "sub_requirements": [],
+      "page": 12
+    },
+    {
+      "text": "organization shall:",
+      "sub_requirements": [],
+      "page": 12
+    },
+    {
+      "text": "record, the organization shall provide an explanation for this difference;",
+      "sub_requirements": [],
+      "page": 12
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses the topic of tax.",
+      "page": 4
+    },
+    {
+      "text": "Taxes are important sources of government revenue and are central to the fiscal policy and macroeconomic stability",
+      "page": 4
+    },
+    {
+      "text": "of countries.",
+      "page": 4
+    },
+    {
+      "text": "They are acknowledged by the United Nations to play a vital role in achieving the Sustainable Development Goals.1",
+      "page": 4
+    },
+    {
+      "text": "They are also a key mechanism by which organizations contribute to the economies of the countries in which they",
+      "page": 4
+    },
+    {
+      "text": "operate.",
+      "page": 4
+    },
+    {
+      "text": "Taxes paid by an organization reflect that profitability depends on many factors external to the organization, including",
+      "page": 4
+    },
+    {
+      "text": "access to workers, markets, public infrastructure and services, natural resources, and a public administration.",
+      "page": 4
+    },
+    {
+      "text": "Organizations have an obligation to comply with tax legislation, and a responsibility to their stakeholders to meet",
+      "page": 4
+    },
+    {
+      "text": "expectations of good tax practices. If organizations seek to minimize their tax obligation in a jurisdiction, they might",
+      "page": 4
+    },
+    {
+      "text": "deprive the government of revenue. This could lead to reduced investment in public infrastructure and services,",
+      "page": 4
+    },
+    {
+      "text": "increase in government debt, or shifting of the tax obligation onto other tax payers.",
+      "page": 4
+    },
+    {
+      "text": "Perceptions of tax avoidance by an organization could also undermine tax compliance more broadly, by driving other",
+      "page": 4
+    },
+    {
+      "text": "organizations to engage in aggressive tax planning based on the view that they might otherwise be at a competitive",
+      "page": 4
+    },
+    {
+      "text": "disadvantage. This can lead to increasing costs associated with tax regulation and enforcement.",
+      "page": 4
+    },
+    {
+      "text": "Public reporting on tax increases transparency and promotes trust and credibility in the tax practices of organizations",
+      "page": 4
+    },
+    {
+      "text": "and in the tax systems. It enables stakeholders to make informed judgments about an organization’s tax positions.",
+      "page": 4
+    },
+    {
+      "text": "Tax transparency also informs public debate and supports the development of socially desirable tax policy.",
+      "page": 4
+    },
+    {
+      "text": "Country-by-country reporting",
+      "page": 4
+    },
+    {
+      "text": "Country-by-country reporting involves the reporting of financial, economic, and tax-related information for each",
+      "page": 4
+    },
+    {
+      "text": "jurisdiction in which an organization operates. This indicates the organization’s scale of activity and the contribution it",
+      "page": 4
+    },
+    {
+      "text": "makes through tax in these jurisdictions.",
+      "page": 4
+    },
+    {
+      "text": "In combination with the topic management disclosures, country-by-country reporting gives insight into the",
+      "page": 4
+    },
+    {
+      "text": "organization’s tax practices in different jurisdictions. It can also signal to stakeholders any potential reputational and",
+      "page": 4
+    },
+    {
+      "text": "financial risks in the organization’s tax practices.",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "1 United Nations (UN) Resolution, Transforming our world: the 2030 Agenda for Sustainable Development, 2015. (See in particular Target 17.1: ‘Strengthen",
+      "page": 4
+    },
+    {
+      "text": "domestic resource mobilization, including through international support to developing countries, to improve domestic capacity for tax and other",
+      "page": 4
+    },
+    {
+      "text": "revenue collection,’ under Goal 17: ‘Strengthen the means of implementation and revitalize the global partnership for sustainable development.’)",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 207: Tax 2019",
+      "page": 5
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 5
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its tax-related impacts.",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 207: Tax 2019",
+      "page": 6
+    },
+    {
+      "text": "determined tax to be a material topic:",
+      "page": 6
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 6
+    },
+    {
+      "text": "• Any disclosures from this Topic Standard that are relevant to the organization’s tax-related impacts (Disclosure",
+      "page": 6
+    },
+    {
+      "text": "207-1 through Disclosure 207-4).",
+      "page": 6
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 6
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 6
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 6
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 6
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 6
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 6
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 6
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 6
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 6
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 6
+    },
+    {
+      "text": "item does not exist.",
+      "page": 6
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 6
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 6
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 6
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 6
+    },
+    {
+      "text": "information has been published).",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 207: Tax 2019",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined tax to be a material topic is required to report how it manages the topic using",
+      "page": 7
+    },
+    {
+      "text": "Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section). The organization is also required to",
+      "page": 7
+    },
+    {
+      "text": "report any disclosures from this section (Disclosure 207-1 through Disclosure 207-3) that are relevant to its tax-",
+      "page": 7
+    },
+    {
+      "text": "related impacts.",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 7
+    },
+    {
+      "text": "Disclosure 3-3 in GRI 3: Material Topics 2021.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 207: Tax 2019",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 207-1 Approach to tax",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "publicly available;",
+      "page": 8
+    },
+    {
+      "text": "formally reviews and approves the tax strategy, and the frequency of this review;",
+      "page": 8
+    },
+    {
+      "text": "strategies of the organization.",
+      "page": 8
+    },
+    {
+      "text": "Background",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "An organization’s approach to tax defines how the organization balances tax compliance with",
+      "page": 8
+    },
+    {
+      "text": "business activities and ethical, societal, and sustainable development-related expectations. It",
+      "page": 8
+    },
+    {
+      "text": "can include the organization’s tax principles, its attitude to tax planning, the degree of risk the",
+      "page": 8
+    },
+    {
+      "text": "organization is willing to accept, and the organization’s approach to engaging with tax",
+      "page": 8
+    },
+    {
+      "text": "authorities.",
+      "page": 8
+    },
+    {
+      "text": "An organization’s approach to tax is often described in a tax strategy, but it could also be",
+      "page": 8
+    },
+    {
+      "text": "described in equivalent documents, such as policies, standards, principles, or codes of",
+      "page": 8
+    },
+    {
+      "text": "conduct.",
+      "page": 8
+    },
+    {
+      "text": "Guidance for Disclosure 207-1-a",
+      "page": 8
+    },
+    {
+      "text": "The reporting organization can illustrate its approach to tax by providing examples drawn from its",
+      "page": 8
+    },
+    {
+      "text": "tax practices. For example, the organization can provide an overview of its use of tax havens, the",
+      "page": 8
+    },
+    {
+      "text": "types of tax incentive it uses, or its approach to transfer pricing. These examples help",
+      "page": 8
+    },
+    {
+      "text": "demonstrate the organization’s risk appetite and the tax practices deemed acceptable and",
+      "page": 8
+    },
+    {
+      "text": "unacceptable by the organization and its highest governance body.",
+      "page": 8
+    },
+    {
+      "text": "Guidance for Disclosure 207-1-a-i",
+      "page": 8
+    },
+    {
+      "text": "If the organization has a tax strategy but the strategy is not publicly available, the organization",
+      "page": 8
+    },
+    {
+      "text": "can provide an abstract or summary of the strategy.",
+      "page": 8
+    },
+    {
+      "text": "If the organization has a tax strategy that applies to a smaller number of entities or tax",
+      "page": 8
+    },
+    {
+      "text": "jurisdictions than reported in Disclosure 207-4, the organization may report this strategy and list",
+      "page": 8
+    },
+    {
+      "text": "the entities or tax jurisdictions to which the strategy applies.",
+      "page": 8
+    },
+    {
+      "text": "In addition to the overall strategy, if the organization has tax strategies that apply to individual",
+      "page": 8
+    },
+    {
+      "text": "entities or tax jurisdictions, the organization can explain any relevant differences between these",
+      "page": 8
+    },
+    {
+      "text": "strategies.",
+      "page": 8
+    },
+    {
+      "text": "Guidance for Disclosure 207-1-a-iii",
+      "page": 8
+    },
+    {
+      "text": "When describing its approach to regulatory compliance, the organization can describe any",
+      "page": 8
+    },
+    {
+      "text": "statements in its tax strategy or equivalent documents regarding its intention with respect to the",
+      "page": 8
+    },
+    {
+      "text": "tax laws in the jurisdictions in which it operates. For example, the organization can describe",
+      "page": 8
+    },
+    {
+      "text": "whether it seeks to comply with the letter and the spirit of the law. That is, whether the",
+      "page": 8
+    },
+    {
+      "text": "organization takes reasonable steps to determine and follow the intention of the legislature.2",
+      "page": 8
+    },
+    {
+      "text": "Guidance for Disclosure 207-1-a-iv",
+      "page": 8
+    },
+    {
+      "text": "When describing how its approach to tax is linked to its business strategy, the organization can",
+      "page": 8
+    },
+    {
+      "text": "explain how its tax planning is aligned with its commercial activities. The description can include",
+      "page": 8
+    },
+    {
+      "text": "any relevant statements from its tax strategy or equivalent documents.",
+      "page": 8
+    },
+    {
+      "text": "When describing how its approach to tax is linked to its sustainable development strategy, the",
+      "page": 8
+    },
+    {
+      "text": "organization can explain the following:",
+      "page": 8
+    },
+    {
+      "text": "• Whether it considered the economic and social impacts of its approach to tax when",
+      "page": 8
+    },
+    {
+      "text": "developing its tax strategy.",
+      "page": 8
+    },
+    {
+      "text": "• Any organizational commitments to sustainable development in the jurisdictions in which it",
+      "page": 8
+    },
+    {
+      "text": "operates and whether its approach to tax is aligned with these commitments.",
+      "page": 8
+    },
+    {
+      "text": "2 Organisation for Economic Co-operation and Development (OECD), ‘Taxation’, OECD Guidelines for Multinational Enterprises, pp. 60-63, 2011.",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 207: Tax 2019",
+      "page": 9
+    },
+    {
+      "text": "Disclosure 207-2 Tax governance, control, and risk management",
+      "page": 9
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 9
+    },
+    {
+      "text": "accountable for compliance with the tax strategy;",
+      "page": 9
+    },
+    {
+      "text": "monitored;",
+      "page": 9
+    },
+    {
+      "text": "conduct and the organization’s integrity in relation to tax.",
+      "page": 9
+    },
+    {
+      "text": "link or reference to the external assurance report(s) or assurance statement(s).",
+      "page": 9
+    },
+    {
+      "text": "Background",
+      "page": 9
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 9
+    },
+    {
+      "text": "Having robust governance, control, and risk management systems in place for tax can be an",
+      "page": 9
+    },
+    {
+      "text": "indication that the reported approach to tax and tax strategy are well embedded in an",
+      "page": 9
+    },
+    {
+      "text": "organization and that the organization is effectively monitoring its compliance obligations.",
+      "page": 9
+    },
+    {
+      "text": "Reporting this information reassures stakeholders that the organization’s practices reflect the",
+      "page": 9
+    },
+    {
+      "text": "statements it has made about its approach to tax in its tax strategy or equivalent documents.",
+      "page": 9
+    },
+    {
+      "text": "Guidance for Disclosure 207-2-a",
+      "page": 9
+    },
+    {
+      "text": "When describing the tax governance and control framework, the reporting organization can",
+      "page": 9
+    },
+    {
+      "text": "provide examples of effective implementation of its tax governance, control, and risk",
+      "page": 9
+    },
+    {
+      "text": "management systems.",
+      "page": 9
+    },
+    {
+      "text": "Guidance for Disclosure 207-2-a-i",
+      "page": 9
+    },
+    {
+      "text": "If the highest governance body in an organization is accountable for compliance with the tax",
+      "page": 9
+    },
+    {
+      "text": "strategy, the organization can specify the degree to which the highest governance body has",
+      "page": 9
+    },
+    {
+      "text": "oversight of compliance. The organization can also specify any accountability for compliance",
+      "page": 9
+    },
+    {
+      "text": "delegated to executive-level positions within the organization.",
+      "page": 9
+    },
+    {
+      "text": "Guidance for Disclosure 207-2-a-ii",
+      "page": 9
+    },
+    {
+      "text": "When reporting how the approach to tax is embedded within the organization, the organization",
+      "page": 9
+    },
+    {
+      "text": "can describe processes, projects, programs, and initiatives that support adherence to the",
+      "page": 9
+    },
+    {
+      "text": "approach to tax and tax strategy.",
+      "page": 9
+    },
+    {
+      "text": "Examples of such initiatives can include:",
+      "page": 9
+    },
+    {
+      "text": "• training and guidance provided to relevant employees on the link between tax strategy,",
+      "page": 9
+    },
+    {
+      "text": "business strategy, and sustainable development;",
+      "page": 9
+    },
+    {
+      "text": "• remuneration or incentive schemes for the person(s) responsible for implementing the tax",
+      "page": 9
+    },
+    {
+      "text": "strategy;",
+      "page": 9
+    },
+    {
+      "text": "• succession-planning for positions within the organization that are responsible for tax;",
+      "page": 9
+    },
+    {
+      "text": "• participation in tax transparency initiatives or representative associations that seek to",
+      "page": 9
+    },
+    {
+      "text": "develop best practice around disclosures on tax or educate stakeholders on tax-related",
+      "page": 9
+    },
+    {
+      "text": "issues.",
+      "page": 9
+    },
+    {
+      "text": "Guidance for Disclosure 207-2-a-iii",
+      "page": 9
+    },
+    {
+      "text": "Tax risks are risks associated with the organization’s tax practices that might lead to a negative",
+      "page": 9
+    },
+    {
+      "text": "effect on the goals of the organization, or to financial or reputational damage. These include",
+      "page": 9
+    },
+    {
+      "text": "compliance risks or risks such as those related to uncertain tax positions, changes in",
+      "page": 9
+    },
+    {
+      "text": "legislation, or a perception of aggressive tax practices.",
+      "page": 9
+    },
+    {
+      "text": "When reporting on the approach to tax risks, the organization can describe its risk appetite and",
+      "page": 9
+    },
+    {
+      "text": "tolerance and provide examples of tax practices it has avoided because they are misaligned",
+      "page": 9
+    },
+    {
+      "text": "with its approach to tax and tax strategy. Risk appetite and tolerance indicate the degree of risk",
+      "page": 9
+    },
+    {
+      "text": "the organization is willing to accept in determining its tax positions.",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 207: Tax 2019",
+      "page": 10
+    },
+    {
+      "text": "When reporting how tax risks are identified, managed, and monitored, the organization can:",
+      "page": 10
+    },
+    {
+      "text": "• describe the role of the highest governance body in the tax risk management process;",
+      "page": 10
+    },
+    {
+      "text": "• describe how the tax risk management process is communicated and embedded across",
+      "page": 10
+    },
+    {
+      "text": "the organization;",
+      "page": 10
+    },
+    {
+      "text": "• refer to any internal control frameworks or generally accepted risk management principles",
+      "page": 10
+    },
+    {
+      "text": "that are applied to tax.",
+      "page": 10
+    },
+    {
+      "text": "Guidance for Disclosure 207-2-a-iv",
+      "page": 10
+    },
+    {
+      "text": "When reporting how compliance with the tax governance and control framework is evaluated, the",
+      "page": 10
+    },
+    {
+      "text": "organization can describe the process through which the tax governance and control framework",
+      "page": 10
+    },
+    {
+      "text": "is monitored, tested, and maintained. An example of this is giving an internal auditor",
+      "page": 10
+    },
+    {
+      "text": "accountability for undertaking annual reviews of the tax department’s compliance with the tax",
+      "page": 10
+    },
+    {
+      "text": "governance and control framework.",
+      "page": 10
+    },
+    {
+      "text": "The organization can also specify the degree to which the highest governance body has",
+      "page": 10
+    },
+    {
+      "text": "oversight of the design, implementation, and effectiveness of the tax governance and control",
+      "page": 10
+    },
+    {
+      "text": "framework.",
+      "page": 10
+    },
+    {
+      "text": "Guidance for Disclosure 207-2-b",
+      "page": 10
+    },
+    {
+      "text": "One example of a mechanism for individuals to raise concerns about the organization’s",
+      "page": 10
+    },
+    {
+      "text": "business conduct, or about activities that compromise the organization’s integrity in relation to",
+      "page": 10
+    },
+    {
+      "text": "tax, is whistleblowing.",
+      "page": 10
+    },
+    {
+      "text": "Disclosure 207-2-b is related to Disclosure 2-26 in GRI 2: General Disclosures 2021. If the",
+      "page": 10
+    },
+    {
+      "text": "information reported by the organization in Disclosure 2-26 covers mechanisms used to raise",
+      "page": 10
+    },
+    {
+      "text": "concerns about the organization’s business conduct in relation to tax, the organization can",
+      "page": 10
+    },
+    {
+      "text": "provide a reference to this information.",
+      "page": 10
+    },
+    {
+      "text": "Guidance for Disclosure 207-2-c",
+      "page": 10
+    },
+    {
+      "text": "Disclosure 207-2-c is related to Disclosure 2-5 in GRI 2: General Disclosures 2021. If the",
+      "page": 10
+    },
+    {
+      "text": "assurance process for disclosures on tax has been completed as part of another assurance",
+      "page": 10
+    },
+    {
+      "text": "process, the organization can provide a reference to this information reported in Disclosure 2-5",
+      "page": 10
+    },
+    {
+      "text": "or elsewhere.",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 207: Tax 2019",
+      "page": 11
+    },
+    {
+      "text": "Disclosure 207-3 Stakeholder engagement and management of",
+      "page": 11
+    },
+    {
+      "text": "concerns related to tax",
+      "page": 11
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 11
+    },
+    {
+      "text": "stakeholder concerns related to tax, including:",
+      "page": 11
+    },
+    {
+      "text": "stakeholders, including external stakeholders.",
+      "page": 11
+    },
+    {
+      "text": "Background",
+      "page": 11
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 11
+    },
+    {
+      "text": "Organizations’ tax practices are of interest to various stakeholders. The approach an",
+      "page": 11
+    },
+    {
+      "text": "organization takes to engaging with stakeholders has the potential to influence its reputation",
+      "page": 11
+    },
+    {
+      "text": "and position of trust. This includes how the organization engages with tax authorities in the",
+      "page": 11
+    },
+    {
+      "text": "development of tax systems, legislation, and administration.",
+      "page": 11
+    },
+    {
+      "text": "Stakeholder engagement can enable the organization to understand evolving expectations",
+      "page": 11
+    },
+    {
+      "text": "related to tax. It can give the organization insight into potential future regulatory changes and",
+      "page": 11
+    },
+    {
+      "text": "enable the organization to better manage its risks and impacts.",
+      "page": 11
+    },
+    {
+      "text": "Guidance for Disclosure 207-3-a-i",
+      "page": 11
+    },
+    {
+      "text": "The approach to engagement with tax authorities can include participating in cooperative",
+      "page": 11
+    },
+    {
+      "text": "compliance agreements, seeking active real-time audit, seeking clearance for all significant",
+      "page": 11
+    },
+    {
+      "text": "transactions, engaging on tax risks, and seeking advance pricing agreements.",
+      "page": 11
+    },
+    {
+      "text": "Guidance for Disclosure 207-3-a-ii",
+      "page": 11
+    },
+    {
+      "text": "When reporting the approach to public policy advocacy on tax, the reporting organization can",
+      "page": 11
+    },
+    {
+      "text": "describe:",
+      "page": 11
+    },
+    {
+      "text": "• its lobbying activities related to tax;",
+      "page": 11
+    },
+    {
+      "text": "• its stance on significant issues related to tax that it addresses in its public policy advocacy,",
+      "page": 11
+    },
+    {
+      "text": "and any differences between its advocacy positions and its stated policies, goals, or other",
+      "page": 11
+    },
+    {
+      "text": "public positions;",
+      "page": 11
+    },
+    {
+      "text": "• whether it is a member of, or contributes to, any representative associations or committees",
+      "page": 11
+    },
+    {
+      "text": "that participate in public policy advocacy on tax, including:",
+      "page": 11
+    },
+    {
+      "text": "- the nature of this contribution;",
+      "page": 11
+    },
+    {
+      "text": "- any differences between the organization’s stated policies, goals, or other public",
+      "page": 11
+    },
+    {
+      "text": "positions on significant issues related to tax, and the positions of the representative",
+      "page": 11
+    },
+    {
+      "text": "associations or committees.",
+      "page": 11
+    },
+    {
+      "text": "Disclosure 207-3-a-ii is related to the requirements in GRI 415: Public Policy 2016. If the",
+      "page": 11
+    },
+    {
+      "text": "organization has determined public policy to be a material topic and has reported information in",
+      "page": 11
+    },
+    {
+      "text": "GRI 415 that covers the organization’s public policy advocacy on tax, the organization can provide",
+      "page": 11
+    },
+    {
+      "text": "a reference to this information.",
+      "page": 11
+    },
+    {
+      "text": "Guidance for Disclosure 207-3-a-iii",
+      "page": 11
+    },
+    {
+      "text": "When reporting the processes for collecting and considering the views and concerns of",
+      "page": 11
+    },
+    {
+      "text": "stakeholders, the organization can describe how the processes enable stakeholders to",
+      "page": 11
+    },
+    {
+      "text": "participate in this engagement. The organization can also provide examples of how stakeholder",
+      "page": 11
+    },
+    {
+      "text": "feedback has influenced the approach to tax, the tax strategy, or the tax practices of the",
+      "page": 11
+    },
+    {
+      "text": "organization.",
+      "page": 11
+    },
+    {
+      "text": "12 GRI 207: Tax 2019",
+      "page": 12
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 12
+    },
+    {
+      "text": "Disclosure 207-4 Country-by-country reporting",
+      "page": 12
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 12
+    },
+    {
+      "text": "consolidated financial statements, or in the financial information filed on public record,",
+      "page": 12
+    },
+    {
+      "text": "are resident for tax purposes.",
+      "page": 12
+    },
+    {
+      "text": "and the tax due if the statutory tax rate is applied to profit/loss before tax.",
+      "page": 12
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 12
+    },
+    {
+      "text": "2.1 When compiling the information specified in Disclosure 207-4, the reporting",
+      "page": 12
+    },
+    {
+      "text": "audited consolidated financial statements or financial information filed on public",
+      "page": 12
+    },
+    {
+      "text": "record. If information is not available for this time period, the organization may report",
+      "page": 12
+    },
+    {
+      "text": "information for the time period covered by the audited consolidated financial",
+      "page": 12
+    },
+    {
+      "text": "statements, or the financial information filed on public record, immediately preceding",
+      "page": 12
+    },
+    {
+      "text": "the most recent ones.",
+      "page": 12
+    },
+    {
+      "text": "2.2 When compiling the information specified in Disclosure 207-4-b, the reporting",
+      "page": 12
+    },
+    {
+      "text": "2.2.1 reconcile the data reported for Disclosures 207-4-b-iv, vi, vii, and viii with the",
+      "page": 12
+    },
+    {
+      "text": "data stated in its audited consolidated financial statements, or the financial",
+      "page": 12
+    },
+    {
+      "text": "information filed on public record, for the time period reported in Disclosure",
+      "page": 12
+    },
+    {
+      "text": "207-4-c. Where the data reported does not reconcile with the audited",
+      "page": 12
+    },
+    {
+      "text": "consolidated financial statements, or the financial information filed on public",
+      "page": 12
+    },
+    {
+      "text": "2.2.2 for Disclosure 207-4-b-ix, include corporate income tax accrued in the time",
+      "page": 12
+    },
+    {
+      "text": "period reported in Disclosure 207-4-c and exclude deferred corporate income",
+      "page": 12
+    },
+    {
+      "text": "tax and provisions for uncertain tax positions;",
+      "page": 12
+    },
+    {
+      "text": "2.2.3 in cases where an entity is deemed not to be resident in any tax jurisdiction,",
+      "page": 12
+    },
+    {
+      "text": "provide the information for this stateless entity separately.",
+      "page": 12
+    },
+    {
+      "text": "2.3 The reporting organization should report the following additional information for each tax",
+      "page": 12
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 12
+    },
+    {
+      "text": "jurisdiction reported in Disclosure 207-4-a:",
+      "page": 12
+    },
+    {
+      "text": "2.3.1 Total employee remuneration;",
+      "page": 12
+    },
+    {
+      "text": "2.3.2 Taxes withheld and paid on behalf of employees;",
+      "page": 12
+    },
+    {
+      "text": "2.3.3 Taxes collected from customers on behalf of a tax authority;",
+      "page": 12
+    },
+    {
+      "text": "2.3.4 Industry-related and other taxes or payments to governments;",
+      "page": 12
+    },
+    {
+      "text": "2.3.5 Significant uncertain tax positions;",
+      "page": 12
+    },
+    {
+      "text": "2.3.6 Balance of intra-company debt held by entities in the tax jurisdiction, and the",
+      "page": 12
+    },
+    {
+      "text": "basis of calculation of the interest rate paid on the debt.",
+      "page": 12
+    },
+    {
+      "text": "13 GRI 207: Tax 2019",
+      "page": 13
+    },
+    {
+      "text": "Background",
+      "page": 13
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 13
+    },
+    {
+      "text": "Country-by-country reporting is the reporting of financial, economic, and tax-related information",
+      "page": 13
+    },
+    {
+      "text": "for each jurisdiction in which the organization operates.",
+      "page": 13
+    },
+    {
+      "text": "Guidance for Disclosure 207-4-a",
+      "page": 13
+    },
+    {
+      "text": "In the context of this Standard, tax jurisdictions are identified according to where the entities",
+      "page": 13
+    },
+    {
+      "text": "included in the organization’s audited consolidated financial statements, or in the financial",
+      "page": 13
+    },
+    {
+      "text": "information filed on public record, are resident for tax purposes. These entities include",
+      "page": 13
+    },
+    {
+      "text": "permanent establishments and dormant entities.",
+      "page": 13
+    },
+    {
+      "text": "Guidance for Disclosure 207-4-b",
+      "page": 13
+    },
+    {
+      "text": "Unless otherwise stated, country-by-country information is to be reported at the level of tax",
+      "page": 13
+    },
+    {
+      "text": "jurisdictions and not at the level of individual entities.",
+      "page": 13
+    },
+    {
+      "text": "Number of employees, revenues, profit/loss before tax, and tangible assets other than cash and",
+      "page": 13
+    },
+    {
+      "text": "cash equivalents are indicators of the organization’s scale of activity within a tax jurisdiction.",
+      "page": 13
+    },
+    {
+      "text": "When considered in conjunction with the other required and recommended information, they",
+      "page": 13
+    },
+    {
+      "text": "can inform assessments about the level of taxes being paid in a jurisdiction.",
+      "page": 13
+    },
+    {
+      "text": "In addition to this information, the organization can report any other information relevant for",
+      "page": 13
+    },
+    {
+      "text": "understanding the scale of its activity within a jurisdiction.",
+      "page": 13
+    },
+    {
+      "text": "If the reporting organization cannot report all required information for all the tax jurisdictions",
+      "page": 13
+    },
+    {
+      "text": "reported in Disclosure 207-4-a, it may use reasons for omission as set out in GRI 1: Foundation",
+      "page": 13
+    },
+    {
+      "text": "2021. The organization is required to specify the requirement it cannot comply with, and to",
+      "page": 13
+    },
+    {
+      "text": "provide a reason for omission and required explanation, as set out in GRI 1. See Requirement 6",
+      "page": 13
+    },
+    {
+      "text": "in GRI 1 for more information on reasons for omission.",
+      "page": 13
+    },
+    {
+      "text": "If complete reporting for a tax jurisdiction is not possible because the organization holds a",
+      "page": 13
+    },
+    {
+      "text": "minority shareholding or is the non-operating joint venture partner in an entity, the organization",
+      "page": 13
+    },
+    {
+      "text": "may provide ‘information unavailable / incomplete’ as the reason for omission and specify the",
+      "page": 13
+    },
+    {
+      "text": "majority shareholder or operating partner.",
+      "page": 13
+    },
+    {
+      "text": "The organization can also report any contextual information necessary to understand how data",
+      "page": 13
+    },
+    {
+      "text": "has been compiled, such as any standards, methodologies, and assumptions used.",
+      "page": 13
+    },
+    {
+      "text": "Guidance for Disclosure 207-4-b-i",
+      "page": 13
+    },
+    {
+      "text": "Disclosure 207-4-b-i requires the organization to report a list of entities by tax jurisdiction.",
+      "page": 13
+    },
+    {
+      "text": "If the organization’s publicly available audited consolidated financial statements, or the financial",
+      "page": 13
+    },
+    {
+      "text": "information filed on public record, include a list of all its entities by tax jurisdiction, the",
+      "page": 13
+    },
+    {
+      "text": "organization can provide a reference to this information.",
+      "page": 13
+    },
+    {
+      "text": "When reporting the names of the resident entities for a tax jurisdiction, the organization can",
+      "page": 13
+    },
+    {
+      "text": "specify if any of the entities are dormant.",
+      "page": 13
+    },
+    {
+      "text": "Guidance for Disclosure 207-4-b-ii",
+      "page": 13
+    },
+    {
+      "text": "When reporting its primary activities in a tax jurisdiction, the organization can provide a general",
+      "page": 13
+    },
+    {
+      "text": "description such that a report reader can clearly identify the organization’s main activities in the",
+      "page": 13
+    },
+    {
+      "text": "jurisdiction, for example, sales, marketing, manufacturing, or distribution. The organization is not",
+      "page": 13
+    },
+    {
+      "text": "required to list the activities of each entity in the jurisdiction.",
+      "page": 13
+    },
+    {
+      "text": "Guidance for Disclosure 207-4-b-iii",
+      "page": 13
+    },
+    {
+      "text": "Employee numbers can be reported using an appropriate calculation, such as head count at the",
+      "page": 13
+    },
+    {
+      "text": "end of the time period reported in Disclosure 207-4-c or a full-time equivalent (FTE) calculation.",
+      "page": 13
+    },
+    {
+      "text": "To enable comparability, it is important that the organization applies the approach consistently",
+      "page": 13
+    },
+    {
+      "text": "across all tax jurisdictions and between time periods.",
+      "page": 13
+    },
+    {
+      "text": "If the organization is unable to report exact figures, it can report the number of employees to the",
+      "page": 13
+    },
+    {
+      "text": "nearest ten or, where the number of employees is greater than 1000, to the nearest 100.",
+      "page": 13
+    },
+    {
+      "text": "The number of employees is one indicator of the organization’s scale of activity in a tax",
+      "page": 13
+    },
+    {
+      "text": "jurisdiction. In addition to the number of employees, the organization may report the number of",
+      "page": 13
+    },
+    {
+      "text": "workers (excluding employees) performing the organization’s activities, if this helps explain the",
+      "page": 13
+    },
+    {
+      "text": "14 GRI 207: Tax 2019",
+      "page": 14
+    },
+    {
+      "text": "organization’s scale of activity in the jurisdiction. It is important that the organization reports the",
+      "page": 14
+    },
+    {
+      "text": "number of employees and/or the number of workers consistently across all jurisdictions and",
+      "page": 14
+    },
+    {
+      "text": "between time periods.",
+      "page": 14
+    },
+    {
+      "text": "Guidance for Disclosures 207-4-b-iv and 207-4-b-v",
+      "page": 14
+    },
+    {
+      "text": "These disclosures require the organization to report revenues from third-party sales for each tax",
+      "page": 14
+    },
+    {
+      "text": "jurisdiction and from intra-group transactions between that jurisdiction and other tax",
+      "page": 14
+    },
+    {
+      "text": "jurisdictions. Intra-group transactions within the same tax jurisdiction are not required, but the",
+      "page": 14
+    },
+    {
+      "text": "organization can report this information separately.",
+      "page": 14
+    },
+    {
+      "text": "Intra-group transactions between jurisdictions can influence the tax bases of the organization in",
+      "page": 14
+    },
+    {
+      "text": "the jurisdictions involved in these transactions. Intra-group transactions within the same tax",
+      "page": 14
+    },
+    {
+      "text": "jurisdiction do not affect the tax base of the organization within that jurisdiction.",
+      "page": 14
+    },
+    {
+      "text": "For this reason, revenues from third-party sales and intra-group transactions with other",
+      "page": 14
+    },
+    {
+      "text": "jurisdictions are a more appropriate indicator of an organization’s scale of activity in a tax",
+      "page": 14
+    },
+    {
+      "text": "jurisdiction than aggregated revenues. Aggregated revenues could result in local revenues",
+      "page": 14
+    },
+    {
+      "text": "being double-counted, which might create a misleading impression about the organization's",
+      "page": 14
+    },
+    {
+      "text": "scale of activity in a jurisdiction.",
+      "page": 14
+    },
+    {
+      "text": "The organization can also report other sources of revenue, for example, dividends, interest, and",
+      "page": 14
+    },
+    {
+      "text": "royalties, where this is standard practice in the sector of the organization.",
+      "page": 14
+    },
+    {
+      "text": "Guidance for Disclosure 207-4-b-vi",
+      "page": 14
+    },
+    {
+      "text": "When reporting profit/loss before tax for a tax jurisdiction, the organization can calculate the",
+      "page": 14
+    },
+    {
+      "text": "consolidated profit/loss before tax for all its resident entities in the jurisdiction.",
+      "page": 14
+    },
+    {
+      "text": "Guidance for Disclosure 207-4-b-vii",
+      "page": 14
+    },
+    {
+      "text": "When reporting tangible assets for a tax jurisdiction, the organization can calculate the",
+      "page": 14
+    },
+    {
+      "text": "consolidated total of the net book values of tangible assets for all its resident entities in the",
+      "page": 14
+    },
+    {
+      "text": "jurisdiction.",
+      "page": 14
+    },
+    {
+      "text": "Guidance for Disclosure 207-4-b-viii",
+      "page": 14
+    },
+    {
+      "text": "When reporting corporate income tax paid on a cash basis for a tax jurisdiction, the organization",
+      "page": 14
+    },
+    {
+      "text": "can calculate the total actual corporate income tax paid during the time period reported in",
+      "page": 14
+    },
+    {
+      "text": "Disclosure 207-4-c by all its resident entities in the jurisdiction. This includes cash taxes paid by",
+      "page": 14
+    },
+    {
+      "text": "entities to the jurisdiction of residence and to all other jurisdictions (e.g., withholding taxes",
+      "page": 14
+    },
+    {
+      "text": "incurred in other tax jurisdictions).",
+      "page": 14
+    },
+    {
+      "text": "If the tax paid includes a significant amount of withholding tax, the organization can explain this.",
+      "page": 14
+    },
+    {
+      "text": "If taxes are incurred in other tax jurisdictions, the organization can report the amount of tax paid",
+      "page": 14
+    },
+    {
+      "text": "to the other tax jurisdictions separately and identify the jurisdictions where the tax was paid.",
+      "page": 14
+    },
+    {
+      "text": "Guidance for Disclosure 207-4-b-x",
+      "page": 14
+    },
+    {
+      "text": "When reporting the reasons for the difference between corporate income tax accrued on",
+      "page": 14
+    },
+    {
+      "text": "profit/loss and the tax due if the statutory tax rate is applied to profit/loss before tax, the",
+      "page": 14
+    },
+    {
+      "text": "organization can describe items that explain the difference, such as tax reliefs, allowances,",
+      "page": 14
+    },
+    {
+      "text": "incentives, or any special tax provisions where an entity benefits from preferential tax treatment.",
+      "page": 14
+    },
+    {
+      "text": "The organization can group explanatory items into a generic category, such as ‘other’, if these",
+      "page": 14
+    },
+    {
+      "text": "items together do not exceed 10% of the difference.",
+      "page": 14
+    },
+    {
+      "text": "The organization can also report the expiration date, investment requirements, and likely long-",
+      "page": 14
+    },
+    {
+      "text": "term continuity of tax reliefs or incentives for a jurisdiction.",
+      "page": 14
+    },
+    {
+      "text": "In addition to providing a qualitative explanation as required by this disclosure, the organization",
+      "page": 14
+    },
+    {
+      "text": "can also report a quantitative corporate tax reconciliation.",
+      "page": 14
+    },
+    {
+      "text": "Guidance for Disclosure 207-4-c and clause 2.1",
+      "page": 14
+    },
+    {
+      "text": "The organization is required to report information on a regular schedule and make it available in",
+      "page": 14
+    },
+    {
+      "text": "time for information users to make decisions (see the Timeliness principle in GRI 1: Foundation",
+      "page": 14
+    },
+    {
+      "text": "2021 for more information). The organization is also recommended to report the information for",
+      "page": 14
+    },
+    {
+      "text": "the same reporting period and publish the information at the same time as its financial",
+      "page": 14
+    },
+    {
+      "text": "reporting, where this is possible (see section 5.1 in GRI 1 for more information). However, the",
+      "page": 14
+    },
+    {
+      "text": "15 GRI 207: Tax 2019",
+      "page": 15
+    },
+    {
+      "text": "information required in Disclosure 207-4 might not be available for reporting until a later point in",
+      "page": 15
+    },
+    {
+      "text": "time.",
+      "page": 15
+    },
+    {
+      "text": "If the information required in Disclosure 207-4 is not available for the time period covered by the",
+      "page": 15
+    },
+    {
+      "text": "most recent audited consolidated financial statements or financial information filed on public",
+      "page": 15
+    },
+    {
+      "text": "record, the organization may report information for the time period covered by the audited",
+      "page": 15
+    },
+    {
+      "text": "consolidated financial statements, or the financial information filed on public record,",
+      "page": 15
+    },
+    {
+      "text": "immediately preceding the most recent ones.",
+      "page": 15
+    },
+    {
+      "text": "Where this time period differs from the reporting period, the organization can specify the reason",
+      "page": 15
+    },
+    {
+      "text": "why.",
+      "page": 15
+    },
+    {
+      "text": "Guidance for clause 2.2.1",
+      "page": 15
+    },
+    {
+      "text": "For each of the disclosures specified in clause 2.2.1, the data is considered to be reconciled",
+      "page": 15
+    },
+    {
+      "text": "when the sum of this data for all tax jurisdictions equals the amount reported in the",
+      "page": 15
+    },
+    {
+      "text": "organization’s audited consolidated financial statements or in the financial information filed on",
+      "page": 15
+    },
+    {
+      "text": "public record.",
+      "page": 15
+    },
+    {
+      "text": "Guidance for clause 2.2.3",
+      "page": 15
+    },
+    {
+      "text": "When providing information for stateless entities, the organization can also include their",
+      "page": 15
+    },
+    {
+      "text": "jurisdiction of incorporation.",
+      "page": 15
+    },
+    {
+      "text": "Guidance for clause 2.3.1",
+      "page": 15
+    },
+    {
+      "text": "Total employee remuneration in a tax jurisdiction can reflect the business value provided by the",
+      "page": 15
+    },
+    {
+      "text": "entities in that jurisdiction to the organization as a whole.",
+      "page": 15
+    },
+    {
+      "text": "Total employee remuneration also represents the basis for calculating taxes withheld and paid",
+      "page": 15
+    },
+    {
+      "text": "on behalf of employees, covered under clause 2.3.2.",
+      "page": 15
+    },
+    {
+      "text": "Guidance for clause 2.3.2",
+      "page": 15
+    },
+    {
+      "text": "Taxes withheld and paid on behalf of employees refer to taxes withheld by the organization from",
+      "page": 15
+    },
+    {
+      "text": "employee remuneration to be paid to the tax authorities. These can include income taxes,",
+      "page": 15
+    },
+    {
+      "text": "payroll taxes, and social security contributions.",
+      "page": 15
+    },
+    {
+      "text": "Guidance for clause 2.3.3",
+      "page": 15
+    },
+    {
+      "text": "Taxes collected from customers refer to taxes and duties charged on and collected on the sales",
+      "page": 15
+    },
+    {
+      "text": "of certain products and services. These are paid by the organization to the tax authorities on",
+      "page": 15
+    },
+    {
+      "text": "behalf of customers.",
+      "page": 15
+    },
+    {
+      "text": "Guidance for clause 2.3.4",
+      "page": 15
+    },
+    {
+      "text": "Examples of industry-related and other taxes or payments to governments include:",
+      "page": 15
+    },
+    {
+      "text": "• industry taxes (e.g., energy tax, airline tax);",
+      "page": 15
+    },
+    {
+      "text": "• property taxes (e.g., land tax);",
+      "page": 15
+    },
+    {
+      "text": "• product taxes (e.g., customs duties, alcohol and tobacco duties);",
+      "page": 15
+    },
+    {
+      "text": "• taxes and duties levied on the supply, use, or consumption of goods and services",
+      "page": 15
+    },
+    {
+      "text": "considered to be harmful to the environment (e.g., vehicle excise duties).",
+      "page": 15
+    },
+    {
+      "text": "Guidance for clause 2.3.5",
+      "page": 15
+    },
+    {
+      "text": "When reporting significant uncertain tax positions for a tax jurisdiction, the organization can",
+      "page": 15
+    },
+    {
+      "text": "report the value of the tax positions in line with its audited consolidated financial statements or",
+      "page": 15
+    },
+    {
+      "text": "the financial information filed on public record.",
+      "page": 15
+    },
+    {
+      "text": "The organization can provide a description of tax positions that have not been agreed with the",
+      "page": 15
+    },
+    {
+      "text": "relevant tax authorities at the end of the time period reported in Disclosure 207-4-c. The",
+      "page": 15
+    },
+    {
+      "text": "description can include the nature of the disagreement and the reasons for any change in tax",
+      "page": 15
+    },
+    {
+      "text": "positions that occurred during the time period, where relevant.",
+      "page": 15
+    },
+    {
+      "text": "16 GRI 207: Tax 2019",
+      "page": 16
+    },
+    {
+      "text": "Glossary",
+      "page": 16
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 16
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 16
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 16
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 16
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 16
+    },
+    {
+      "text": "basic salary",
+      "page": 16
+    },
+    {
+      "text": "fixed, minimum amount paid to an employee for performing his or her duties",
+      "page": 16
+    },
+    {
+      "text": "Note: Basic salary excludes any additional remuneration, such as payments for overtime",
+      "page": 16
+    },
+    {
+      "text": "working or bonuses.",
+      "page": 16
+    },
+    {
+      "text": "business partner",
+      "page": 16
+    },
+    {
+      "text": "entity with which the organization has some form of direct and formal engagement for the",
+      "page": 16
+    },
+    {
+      "text": "purpose of meeting its business objectives",
+      "page": 16
+    },
+    {
+      "text": "Source: Shift and Mazars LLP, UN Guiding Principles Reporting Framework, 2015; modified",
+      "page": 16
+    },
+    {
+      "text": "Examples: affiliates, business-to-business customers, clients, first-tier suppliers, franchisees,",
+      "page": 16
+    },
+    {
+      "text": "joint venture partners, investee companies in which the organization has a",
+      "page": 16
+    },
+    {
+      "text": "shareholding position",
+      "page": 16
+    },
+    {
+      "text": "Note: Business partners do not include subsidiaries and affiliates that the organization",
+      "page": 16
+    },
+    {
+      "text": "controls.",
+      "page": 16
+    },
+    {
+      "text": "business relationships",
+      "page": 16
+    },
+    {
+      "text": "relationships that the organization has with business partners, with entities in its value chain",
+      "page": 16
+    },
+    {
+      "text": "including those beyond the first tier, and with any other entities directly linked to its operations,",
+      "page": 16
+    },
+    {
+      "text": "products, or services",
+      "page": 16
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 16
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 16
+    },
+    {
+      "text": "modified",
+      "page": 16
+    },
+    {
+      "text": "Note: Examples of other entities directly linked to the organization’s operations, products,",
+      "page": 16
+    },
+    {
+      "text": "or services are a non-governmental organization with which the organization",
+      "page": 16
+    },
+    {
+      "text": "delivers support to a local community or state security forces that protect the",
+      "page": 16
+    },
+    {
+      "text": "organization’s facilities.",
+      "page": 16
+    },
+    {
+      "text": "child",
+      "page": 16
+    },
+    {
+      "text": "person under the age of 15 years, or under the age of completion of compulsory schooling,",
+      "page": 16
+    },
+    {
+      "text": "whichever is higher",
+      "page": 16
+    },
+    {
+      "text": "Note 1: Exceptions can occur in certain countries where economies and educational",
+      "page": 16
+    },
+    {
+      "text": "facilities are insufficiently developed, and a minimum age of 14 years applies.",
+      "page": 16
+    },
+    {
+      "text": "These countries of exception are specified by the International Labour Organization",
+      "page": 16
+    },
+    {
+      "text": "(ILO) in response to a special application by the country concerned and in",
+      "page": 16
+    },
+    {
+      "text": "consultation with representative organizations of employers and workers.",
+      "page": 16
+    },
+    {
+      "text": "Note 2: The ILO Minimum Age Convention, 1973, (No. 138), refers to both child labor and",
+      "page": 16
+    },
+    {
+      "text": "young workers.",
+      "page": 16
+    },
+    {
+      "text": "employee",
+      "page": 16
+    },
+    {
+      "text": "individual who is in an employment relationship with the organization according to national law",
+      "page": 16
+    },
+    {
+      "text": "or practice",
+      "page": 16
+    },
+    {
+      "text": "governance body",
+      "page": 16
+    },
+    {
+      "text": "formalized group of individuals responsible for the strategic guidance of the organization, the",
+      "page": 16
+    },
+    {
+      "text": "effective monitoring of management, and the accountability of management to the broader",
+      "page": 16
+    },
+    {
+      "text": "organization and its stakeholders",
+      "page": 16
+    },
+    {
+      "text": "17 GRI 207: Tax 2019",
+      "page": 17
+    },
+    {
+      "text": "highest governance body",
+      "page": 17
+    },
+    {
+      "text": "governance body with the highest authority in the organization",
+      "page": 17
+    },
+    {
+      "text": "Note: In some jurisdictions, governance systems consist of two tiers, where supervision",
+      "page": 17
+    },
+    {
+      "text": "and management are separated or where local law provides for a supervisory",
+      "page": 17
+    },
+    {
+      "text": "board drawn from non-executives to oversee an executive management board. In",
+      "page": 17
+    },
+    {
+      "text": "such cases, both tiers are included under the definition of highest governance",
+      "page": 17
+    },
+    {
+      "text": "body.",
+      "page": 17
+    },
+    {
+      "text": "human rights",
+      "page": 17
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 17
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 17
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 17
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 17
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 17
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 17
+    },
+    {
+      "text": "modified",
+      "page": 17
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 17
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 17
+    },
+    {
+      "text": "impact",
+      "page": 17
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 17
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 17
+    },
+    {
+      "text": "development",
+      "page": 17
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 17
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 17
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 17
+    },
+    {
+      "text": "Indigenous Peoples",
+      "page": 17
+    },
+    {
+      "text": "Indigenous Peoples are generally identified as:",
+      "page": 17
+    },
+    {
+      "text": "• tribal peoples in independent countries whose social, cultural and economic conditions",
+      "page": 17
+    },
+    {
+      "text": "distinguish them from other sections of the national community, and whose status is",
+      "page": 17
+    },
+    {
+      "text": "regulated wholly or partially by their own customs or traditions or by special laws or",
+      "page": 17
+    },
+    {
+      "text": "regulations;",
+      "page": 17
+    },
+    {
+      "text": "• peoples in independent countries who are regarded as indigenous on account of their",
+      "page": 17
+    },
+    {
+      "text": "descent from the populations which inhabited the country, or a geographical region to which",
+      "page": 17
+    },
+    {
+      "text": "the country belongs, at the time of conquest or colonization or the establishment of present",
+      "page": 17
+    },
+    {
+      "text": "state boundaries and who, irrespective of their legal status, retain some or all of their own",
+      "page": 17
+    },
+    {
+      "text": "social, economic, cultural and political institutions.",
+      "page": 17
+    },
+    {
+      "text": "Source: International Labour Organization (ILO), Indigenous and Tribal Peoples Convention,",
+      "page": 17
+    },
+    {
+      "text": "1989 (No. 169)",
+      "page": 17
+    },
+    {
+      "text": "local community",
+      "page": 17
+    },
+    {
+      "text": "individuals or groups of individuals living or working in areas that are affected or that could be",
+      "page": 17
+    },
+    {
+      "text": "affected by the organization’s activities",
+      "page": 17
+    },
+    {
+      "text": "Note: The local community can range from those living adjacent to the organization’s",
+      "page": 17
+    },
+    {
+      "text": "operations to those living at a distance.",
+      "page": 17
+    },
+    {
+      "text": "material topics",
+      "page": 17
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 17
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 17
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 17
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 17
+    },
+    {
+      "text": "remuneration",
+      "page": 17
+    },
+    {
+      "text": "basic salary plus additional amounts paid to a worker",
+      "page": 17
+    },
+    {
+      "text": "18 GRI 207: Tax 2019",
+      "page": 18
+    },
+    {
+      "text": "Note: Examples of additional amounts paid to a worker can include those based on years",
+      "page": 18
+    },
+    {
+      "text": "of service, bonuses including cash and equity such as stocks and shares, benefit",
+      "page": 18
+    },
+    {
+      "text": "payments, overtime, time owed, and any additional allowances, such as",
+      "page": 18
+    },
+    {
+      "text": "transportation, living and childcare allowances.",
+      "page": 18
+    },
+    {
+      "text": "reporting period",
+      "page": 18
+    },
+    {
+      "text": "specific time period covered by the reported information",
+      "page": 18
+    },
+    {
+      "text": "Examples: fiscal year, calendar year",
+      "page": 18
+    },
+    {
+      "text": "severity (of an impact)",
+      "page": 18
+    },
+    {
+      "text": "The severity of an actual or potential negative impact is determined by its scale (i.e., how grave",
+      "page": 18
+    },
+    {
+      "text": "the impact is), scope (i.e., how widespread the impact is), and irremediable character (how hard",
+      "page": 18
+    },
+    {
+      "text": "it is to counteract or make good the resulting harm).",
+      "page": 18
+    },
+    {
+      "text": "Source: Organisation for Economic Co-operation and Development (OECD), OECD Due",
+      "page": 18
+    },
+    {
+      "text": "Diligence Guidance for Responsible Business Conduct, 2018; modified",
+      "page": 18
+    },
+    {
+      "text": "United Nations (UN), The Corporate Responsibility to Respect Human Rights: An",
+      "page": 18
+    },
+    {
+      "text": "Interpretive Guide, 2012; modified",
+      "page": 18
+    },
+    {
+      "text": "Note: See section 1 in GRI 3: Material Topics 2021 for more information on ‘severity’.",
+      "page": 18
+    },
+    {
+      "text": "stakeholder",
+      "page": 18
+    },
+    {
+      "text": "individual or group that has an interest that is affected or could be affected by the organization’s",
+      "page": 18
+    },
+    {
+      "text": "activities",
+      "page": 18
+    },
+    {
+      "text": "Source: Organisation for Economic Co-operation and Development (OECD), OECD Due",
+      "page": 18
+    },
+    {
+      "text": "Diligence Guidance for Responsible Business Conduct, 2018; modified",
+      "page": 18
+    },
+    {
+      "text": "Examples: business partners, civil society organizations, consumers, customers, employees",
+      "page": 18
+    },
+    {
+      "text": "and other workers, governments, local communities, non-governmental",
+      "page": 18
+    },
+    {
+      "text": "organizations, shareholders and other investors, suppliers, trade unions,",
+      "page": 18
+    },
+    {
+      "text": "vulnerable groups",
+      "page": 18
+    },
+    {
+      "text": "Note: See section 2.4 in GRI 1: Foundation 2021 for more information on ‘stakeholder’.",
+      "page": 18
+    },
+    {
+      "text": "supplier",
+      "page": 18
+    },
+    {
+      "text": "entity upstream from the organization (i.e., in the organization’s supply chain), which provides a",
+      "page": 18
+    },
+    {
+      "text": "product or service that is used in the development of the organization’s own products or services",
+      "page": 18
+    },
+    {
+      "text": "Examples: brokers, consultants, contractors, distributors, franchisees, home workers,",
+      "page": 18
+    },
+    {
+      "text": "independent contractors, licensees, manufacturers, primary producers, sub-",
+      "page": 18
+    },
+    {
+      "text": "contractors, wholesalers",
+      "page": 18
+    },
+    {
+      "text": "Note: A supplier can have a direct business relationship with the organization (often",
+      "page": 18
+    },
+    {
+      "text": "referred to as a first-tier supplier) or an indirect business relationship.",
+      "page": 18
+    },
+    {
+      "text": "supply chain",
+      "page": 18
+    },
+    {
+      "text": "range of activities carried out by entities upstream from the organization, which provide products",
+      "page": 18
+    },
+    {
+      "text": "or services that are used in the development of the organization’s own products or services",
+      "page": 18
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 18
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 18
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 18
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 18
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 18
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 18
+    },
+    {
+      "text": "tax jurisdiction",
+      "page": 18
+    },
+    {
+      "text": "country or territory with autonomous taxing powers similar to a country",
+      "page": 18
+    },
+    {
+      "text": "19 GRI 207: Tax 2019",
+      "page": 19
+    },
+    {
+      "text": "Note 1: Territories with autonomous taxing powers similar to a country are those that have a",
+      "page": 19
+    },
+    {
+      "text": "level of autonomy such that they can participate in the Organisation for Economic",
+      "page": 19
+    },
+    {
+      "text": "Co-operation and Development (OECD) and Council of Europe’s The Multilateral",
+      "page": 19
+    },
+    {
+      "text": "Convention on Mutual Administrative Assistance in Tax Matters. Examples of such",
+      "page": 19
+    },
+    {
+      "text": "territories include Bermuda, Hong Kong, and Jersey.",
+      "page": 19
+    },
+    {
+      "text": "Note 2: The definition for tax jurisdiction includes those countries or territories that choose",
+      "page": 19
+    },
+    {
+      "text": "not to exercise their fiscal autonomy to charge taxes.",
+      "page": 19
+    },
+    {
+      "text": "value chain",
+      "page": 19
+    },
+    {
+      "text": "range of activities carried out by the organization, and by entities upstream and downstream",
+      "page": 19
+    },
+    {
+      "text": "from the organization, to bring the organization’s products or services from their conception to",
+      "page": 19
+    },
+    {
+      "text": "their end use",
+      "page": 19
+    },
+    {
+      "text": "Note 1: Entities upstream from the organization (e.g., suppliers) provide products or",
+      "page": 19
+    },
+    {
+      "text": "services that are used in the development of the organization’s own products or",
+      "page": 19
+    },
+    {
+      "text": "services. Entities downstream from the organization (e.g., distributors, customers)",
+      "page": 19
+    },
+    {
+      "text": "receive products or services from the organization.",
+      "page": 19
+    },
+    {
+      "text": "Note 2: The value chain includes the supply chain.",
+      "page": 19
+    },
+    {
+      "text": "vulnerable group",
+      "page": 19
+    },
+    {
+      "text": "group of individuals with a specific condition or characteristic (e.g., economic, physical, political,",
+      "page": 19
+    },
+    {
+      "text": "social) that could experience negative impacts as a result of the organization’s activities more",
+      "page": 19
+    },
+    {
+      "text": "severely than the general population",
+      "page": 19
+    },
+    {
+      "text": "Examples: children and youth; elderly persons; ex-combatants; HIV/AIDS-affected households;",
+      "page": 19
+    },
+    {
+      "text": "human rights defenders; Indigenous Peoples; internally displaced persons;",
+      "page": 19
+    },
+    {
+      "text": "migrant workers and their families; national or ethnic, religious and linguistic",
+      "page": 19
+    },
+    {
+      "text": "minorities; persons who might be discriminated against based on their sexual",
+      "page": 19
+    },
+    {
+      "text": "orientation, gender identity, gender expression, or sex characteristics (e.g., lesbian,",
+      "page": 19
+    },
+    {
+      "text": "gay, bisexual, transgender, intersex); persons with disabilities; refugees or",
+      "page": 19
+    },
+    {
+      "text": "returning refugees; women",
+      "page": 19
+    },
+    {
+      "text": "Note: Vulnerabilities and impacts can differ by gender.",
+      "page": 19
+    },
+    {
+      "text": "worker",
+      "page": 19
+    },
+    {
+      "text": "person that performs work for the organization",
+      "page": 19
+    },
+    {
+      "text": "Examples: employees, agency workers, apprentices, contractors, home workers, interns, self-",
+      "page": 19
+    },
+    {
+      "text": "employed persons, sub-contractors, volunteers, and persons working for",
+      "page": 19
+    },
+    {
+      "text": "organizations other than the reporting organization, such as for suppliers",
+      "page": 19
+    },
+    {
+      "text": "Note: In the GRI Standards, in some cases, it is specified whether a particular subset of",
+      "page": 19
+    },
+    {
+      "text": "workers is required to be used.",
+      "page": 19
+    },
+    {
+      "text": "Bibliography",
+      "page": 19
+    },
+    {
+      "text": "20 GRI 207: Tax 2019",
+      "page": 20
+    },
+    {
+      "text": "Bibliography",
+      "page": 20
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments and additional references used in developing this",
+      "page": 20
+    },
+    {
+      "text": "Standard.",
+      "page": 20
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 20
+    },
+    {
+      "text": "1. Organisation for Economic Co-operation and Development (OECD), Co-operative Tax Compliance: Building",
+      "page": 20
+    },
+    {
+      "text": "Better Tax Control Frameworks, 2016.",
+      "page": 20
+    },
+    {
+      "text": "2. Organisation for Economic Co-operation and Development (OECD), OECD Guidelines for Multinational",
+      "page": 20
+    },
+    {
+      "text": "Enterprises, 2011.",
+      "page": 20
+    },
+    {
+      "text": "3. Organisation for Economic Co-operation and Development (OECD), Transfer Pricing Documentation and",
+      "page": 20
+    },
+    {
+      "text": "Country-by-Country Reporting, Action 13 - 2015 Final Report, OECD/G20 Base Erosion and Profit Shifting",
+      "page": 20
+    },
+    {
+      "text": "Project, 2015.",
+      "page": 20
+    },
+    {
+      "text": "4. Organisation for Economic Co-operation and Development (OECD) and Council of Europe, The Multilateral",
+      "page": 20
+    },
+    {
+      "text": "Convention on Mutual Administrative Assistance in Tax Matters: Amended by the 2010 Protocol, 2011.",
+      "page": 20
+    },
+    {
+      "text": "5. United Nations (UN) Resolution, Transforming our world: the 2030 Agenda for Sustainable Development, 2015.",
+      "page": 20
+    },
+    {
+      "text": "Additional references:",
+      "page": 20
+    },
+    {
+      "text": "6. International Financial Reporting Standards (IFRS) Foundation, IAS 12 Income Taxes, 2016.",
+      "page": 20
+    },
+    {
+      "text": "7. International Financial Reporting Standards (IFRS) Foundation, IFRS 12 Disclosure of Interests in Other Entities,",
+      "page": 20
+    },
+    {
+      "text": "2019.",
+      "page": 20
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 21
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 21
+    },
+    {
+      "text": "The Netherlands",
+      "page": 21
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 21
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 5
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 5
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 5
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 5
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 5
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 5
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 5
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 5
+    },
+    {
+      "text": "Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 5
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 5
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}

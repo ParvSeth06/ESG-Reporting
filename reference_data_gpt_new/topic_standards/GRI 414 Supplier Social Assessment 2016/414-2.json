@@ -1,0 +1,43 @@
+{
+  "standard": "GRI 414",
+  "disclosure_id": "414-2",
+  "title": "Disclosure 414-2 Negative social impacts in the supply chain and",
+  "topic": "GRI 409: Forced or Compulsory Labor 2016).",
+  "requirements": [
+    "a. Number of suppliers assessed for social impacts.",
+    "b. Number of suppliers identified as having significant actual and potential negative social",
+    "impacts.",
+    "c. Significant actual and potential negative social impacts identified in the supply chain.",
+    "d. Percentage of suppliers identified as having significant actual and potential negative",
+    "social impacts with which improvements were agreed upon as a result of assessment.",
+    "e. Percentage of suppliers identified as having significant actual and potential negative",
+    "social impacts with which relationships were terminated as a result of assessment,",
+    "and why.",
+    "2.1 When compiling the information specified in Disclosure 414-2, the reporting organization"
+  ],
+  "background": [
+    "This disclosure informs stakeholders about an organization’s awareness of significant actual",
+    "and potential negative social impacts in the supply chain.",
+    "10 GRI 414: Supplier Social Assessment 2016"
+  ],
+  "guidance": [
+    "Negative impacts include those that are either caused or contributed to by an organization, or",
+    "that are directly linked to its operations, products, or services by its relationship with a supplier.",
+    "Assessments for social impacts can include the topics covered in other GRI Topic Standards",
+    "(e.g., GRI 401: Employment 2016, GRI 403: Occupational Health and Safety 2018, GRI 408:",
+    "Child Labor 2016, GRI 409: Forced or Compulsory Labor 2016).",
+    "Assessments can be made against agreed performance expectations that are set and",
+    "communicated to the suppliers prior to the assessment.",
+    "Assessments can be informed by audits, contractual reviews, two-way engagement, and",
+    "complaint and grievance mechanisms.",
+    "Improvements can include changing an organization’s procurement practices, the adjustment of",
+    "performance expectations, capacity building, training, and changes to processes."
+  ],
+  "recommendations": [
+    "should, where it provides appropriate context on significant impacts, provide a",
+    "breakdown of the information by:",
+    "2.1.1 the location of the supplier;",
+    "2.1.2 the significant actual and potential negative social impact.",
+    "Guidance for Disclosure 414-2"
+  ]
+}

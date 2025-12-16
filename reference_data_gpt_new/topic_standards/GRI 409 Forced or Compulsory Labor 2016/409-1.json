@@ -1,0 +1,43 @@
+{
+  "standard": "GRI 409",
+  "disclosure_id": "409-1",
+  "title": "Disclosure 409-1 Operations and suppliers at significant risk for",
+  "topic": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+  "requirements": [
+    "a. Operations and suppliers considered to have significant risk for incidents of forced or",
+    "compulsory labor either in terms of:",
+    "i. type of operation (such as manufacturing plant) and supplier;",
+    "ii. countries or geographic areas with operations and suppliers considered at risk.",
+    "b. Measures taken by the organization in the reporting period intended to contribute to the",
+    "elimination of all forms of forced or compulsory labor.",
+    "Guidance for Disclosure 409-1"
+  ],
+  "background": [
+    "Forced or compulsory labor exists globally in a variety of forms. The most extreme examples are",
+    "slave labor and bonded labor, but debts can also be used as a means of maintaining workers",
+    "in a state of forced labor. Indicators of forced labor can also include withholding identity papers,",
+    "requiring compulsory deposits, and compelling workers, under threat of firing, to work extra",
+    "hours to which they have not previously agreed.",
+    "Eliminating forced labor remains an important challenge. Forced labor is not only a serious",
+    "violation of a fundamental human right, it also perpetuates poverty and is a hindrance to",
+    "economic and human development.5",
+    "The presence and effective implementation of policies for eliminating all forms of forced or",
+    "compulsory labor are a basic expectation of responsible business conduct. Organizations with",
+    "multinational operations are required by law in some countries to provide information on their",
+    "efforts to eradicate forced labor in their supply chains.",
+    "5 International Labour Organization (ILO), International Labour Standards on Forced labour http://www.ilo.org/global/standards/subjects-covered-by-",
+    "international-labour-standards/forced-labour/lang--en/index.htm#P23_4987, accessed on 1 September 2016.",
+    "9 GRI 409: Forced or Compulsory Labor 2016"
+  ],
+  "guidance": [
+    "The process for identifying operations and suppliers, as specified in Disclosure 409-1, can",
+    "reflect the reporting organization’s approach to risk assessment on this issue. It can also draw",
+    "from recognized international data sources, such as the ILO Information and reports on the",
+    "application of Conventions and Recommendations (see reference [1] in the Bibliography).",
+    "When reporting the measures taken, the organization can refer to the ILO ‘Tripartite Declaration",
+    "of Principles Concerning Multinational Enterprises and Social Policy’ and Organisation for",
+    "Economic Co-operation and Development (OECD) OECD Guidelines for Multinational",
+    "Enterprises for further guidance."
+  ],
+  "recommendations": []
+}

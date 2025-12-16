@@ -1,0 +1,13 @@
+{
+  "standard": "GRI 416 Customer Health and Safety 2016",
+  "type": "universal_or_sector",
+  "mandatory_requirements": [
+    {
+      "text": "organization shall: 2.1.1 exclude incidents of non-compliance in which the organization was determined not to be at fault; 2.1.2 exclude incidents of non-compliance related to Incidents related to labeling are reported in Disclosure 417-2 of GRI 417: Marketing and Labelling 2016; 2.1.3 if applicable, identify any incidents of non-compliance that relate to events in periods prior to the reporting period. Guidance for Disclosure 416-2",
+      "page": 9
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [],
+  "sector_specific_rules": []
+}

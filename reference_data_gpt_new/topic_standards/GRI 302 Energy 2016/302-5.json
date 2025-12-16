@@ -1,0 +1,29 @@
+{
+  "standard": "GRI 302",
+  "disclosure_id": "302-5",
+  "title": "Disclosure 302-5 Reductions in energy requirements of products",
+  "topic": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+  "requirements": [
+    "a. Reductions in energy requirements of sold products and services achieved during the",
+    "reporting period, in joules or multiples.",
+    "b. Basis for calculating reductions in energy consumption, such as base year or baseline,",
+    "including the rationale for choosing it.",
+    "c. Standards, methodologies, assumptions, and/or calculation tools used.",
+    "2.9 When compiling the information specified in Disclosure 302-5, the reporting organization"
+  ],
+  "background": [],
+  "guidance": [
+    "Use-oriented figures can include, for example, the energy requirements of a car or a computer.",
+    "Consumption patterns can include, for example, 10 percent less energy use per 100 km",
+    "travelled or per time unit (hour, average working day).",
+    "16 GRI 302: Energy 2016"
+  ],
+  "recommendations": [
+    "should:",
+    "2.9.1 if subject to different standards and methodologies, describe the approach to",
+    "selecting them;",
+    "2.9.2 refer to industry use standards to obtain this information, where available (such",
+    "as fuel consumption of cars for 100 km at 90 km/h).",
+    "Guidance for Disclosure 302-5"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "standard": "GRI 305",
+  "disclosure_id": "305-7",
+  "title": "Disclosure 305-7 Nitrogen oxides (NOx), sulfur oxides (SOx), and",
+  "topic": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+  "requirements": [
+    "a. Significant air emissions, in kilograms or multiples, for each of the following:",
+    "i. NO",
+    "x",
+    "ii. SO",
+    "x",
+    "iii. Persistent organic pollutants (POP)",
+    "iv. Volatile organic compounds (VOC)",
+    "v. Hazardous air pollutants (HAP)",
+    "vi. Particulate matter (PM)",
+    "vii. Other standard categories of air emissions identified in relevant regulations",
+    "b. Source of the emission factors used.",
+    "c. Standards, methodologies, assumptions, and/or calculation tools used.",
+    "2.13 When compiling the information specified in Disclosure 305-7, the reporting",
+    "organization shall select one of the following approaches for calculating significant",
+    "air emissions:",
+    "2.13.1 Direct measurement of emissions (such as online analyzers);",
+    "2.13.2 Calculation based on site-specific data;",
+    "2.13.3 Calculation based on published emission factors;",
+    "2.13.4 Estimation. If estimations are used due to a lack of default figures, the",
+    "organization shall indicate the basis on which figures were estimated.",
+    "2.14 When compiling the information specified in Disclosure 305-7, the reporting organization"
+  ],
+  "background": [],
+  "guidance": [
+    "22 GRI 305: Emissions 2016"
+  ],
+  "recommendations": [
+    "should:",
+    "2.14.1 if subject to different standards and methodologies, describe the approach to",
+    "selecting them;",
+    "2.14.2 where it aids transparency or comparability over time, provide a breakdown of the",
+    "air emissions data by:",
+    "2.14.2.1 business unit or facility;",
+    "2.14.2.2 country;",
+    "2.14.2.3 type of source;",
+    "2.14.2.4 type of activity.",
+    "See references [3], [4], [5], [6] and [10] in the Bibliography."
+  ]
+}

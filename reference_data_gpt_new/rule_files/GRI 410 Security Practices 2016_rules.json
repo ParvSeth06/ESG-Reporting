@@ -1,0 +1,722 @@
+{
+  "standard": "GRI 410 Security Practices 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages security practices using",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Percentage of security personnel who have received formal training in the",
+        "b. Whether training requirements also apply to third-party organizations providing security"
+      ],
+      "page": 8
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses the topic of security practices. It focuses on the conduct of security personnel towards third",
+      "page": 4
+    },
+    {
+      "text": "parties, and the potential risk for excessive use of force or other violations of human rights. Security personnel can",
+      "page": 4
+    },
+    {
+      "text": "refer to employees of the reporting organization or employees of third-party organizations that provide security forces.",
+      "page": 4
+    },
+    {
+      "text": "The use of security personnel can have negative impacts on local populations, and on the upholding of human rights",
+      "page": 4
+    },
+    {
+      "text": "and the rule of law. Providing effective training in human rights therefore helps to make sure that security personnel",
+      "page": 4
+    },
+    {
+      "text": "understand when to use force in an appropriate way, and how to ensure respect for human rights.",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 4
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its security practice-related impacts.",
+      "page": 5
+    },
+    {
+      "text": "determined security practices to be a material topic:",
+      "page": 5
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 5
+    },
+    {
+      "text": "• Any disclosure from this Topic Standard that is relevant to the organization’s security practice-related impacts",
+      "page": 5
+    },
+    {
+      "text": "(Disclosure 410-1).",
+      "page": 5
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 5
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 5
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 5
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 5
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 5
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 5
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 5
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 5
+    },
+    {
+      "text": "item does not exist.",
+      "page": 5
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 5
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 5
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 5
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 5
+    },
+    {
+      "text": "information has been published).",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 410: Security Practices 2016",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 410: Security Practices 2016",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined security practices to be a material topic is required to report how it manages the",
+      "page": 7
+    },
+    {
+      "text": "topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 7
+    },
+    {
+      "text": "Disclosure 3-3 in GRI 3: Material Topics 2021.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 410: Security Practices 2016",
+      "page": 8
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 410-1 Security personnel trained in human rights policies",
+      "page": 8
+    },
+    {
+      "text": "or procedures",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "organization’s human rights policies or specific procedures and their application to",
+      "page": 8
+    },
+    {
+      "text": "security.",
+      "page": 8
+    },
+    {
+      "text": "personnel.",
+      "page": 8
+    },
+    {
+      "text": "2.1 When compiling the information specified in Disclosure 410-1-a, the reporting",
+      "page": 8
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 8
+    },
+    {
+      "text": "organization should:",
+      "page": 8
+    },
+    {
+      "text": "2.1.1 calculate the percentage using the total number of security personnel, whether",
+      "page": 8
+    },
+    {
+      "text": "they are employees of the organization or employees of third-party organizations;",
+      "page": 8
+    },
+    {
+      "text": "2.1.2 state whether employees of third-party organizations are also included in the",
+      "page": 8
+    },
+    {
+      "text": "calculation.",
+      "page": 8
+    },
+    {
+      "text": "Guidance for Disclosure 410-1",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "The training can refer either to training dedicated to the subject of human rights or to a human",
+      "page": 8
+    },
+    {
+      "text": "rights module within a general training program. Training can cover issues such as the use of",
+      "page": 8
+    },
+    {
+      "text": "force, inhuman or degrading treatment or discrimination, or identification and registering.",
+      "page": 8
+    },
+    {
+      "text": "Background",
+      "page": 8
+    },
+    {
+      "text": "The use of security personnel can play an essential role in allowing an organization to operate",
+      "page": 8
+    },
+    {
+      "text": "in a safe and productive manner, and can contribute to the security of local communities and",
+      "page": 8
+    },
+    {
+      "text": "populations.",
+      "page": 8
+    },
+    {
+      "text": "However, as set out in the International Code of Conduct for Private Security Service Providers,",
+      "page": 8
+    },
+    {
+      "text": "the use of security personnel can also have negative impacts on local populations and on the",
+      "page": 8
+    },
+    {
+      "text": "upholding of human rights and the rule of law.",
+      "page": 8
+    },
+    {
+      "text": "According to the UN Human Rights Office of the High Commissioner, ‘human rights education",
+      "page": 8
+    },
+    {
+      "text": "constitutes an essential contribution to the long-term prevention of human rights abuses and",
+      "page": 8
+    },
+    {
+      "text": "represents an important investment in the endeavor to achieve a just society in which all human",
+      "page": 8
+    },
+    {
+      "text": "rights of all persons are valued and respected.1",
+      "page": 8
+    },
+    {
+      "text": "Training security personnel in human rights can therefore help to ensure their appropriate",
+      "page": 8
+    },
+    {
+      "text": "conduct towards third parties, particularly regarding the use of force. This disclosure indicates",
+      "page": 8
+    },
+    {
+      "text": "the proportion of the security force that can reasonably be assumed to be aware of an",
+      "page": 8
+    },
+    {
+      "text": "organization’s expectations of human rights performance. Information provided under this",
+      "page": 8
+    },
+    {
+      "text": "disclosure can demonstrate the extent to which management systems pertaining to human",
+      "page": 8
+    },
+    {
+      "text": "rights are implemented.",
+      "page": 8
+    },
+    {
+      "text": "1 United Nations Human Rights Office of the High Commissioner (OHCHR),",
+      "page": 8
+    },
+    {
+      "text": "http://www.ohchr.org/EN/Issues/Education/Training/Pages/HREducationTrainingIndex.aspx, accessed on 1 September 2016.",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 410: Security Practices 2016",
+      "page": 9
+    },
+    {
+      "text": "Glossary",
+      "page": 9
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 9
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 9
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 9
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 9
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 9
+    },
+    {
+      "text": "employee",
+      "page": 9
+    },
+    {
+      "text": "individual who is in an employment relationship with the organization according to national law",
+      "page": 9
+    },
+    {
+      "text": "or practice",
+      "page": 9
+    },
+    {
+      "text": "human rights",
+      "page": 9
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 9
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 9
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 9
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 9
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 9
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 9
+    },
+    {
+      "text": "modified",
+      "page": 9
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 9
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 9
+    },
+    {
+      "text": "impact",
+      "page": 9
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 9
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 9
+    },
+    {
+      "text": "development",
+      "page": 9
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 9
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 9
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 9
+    },
+    {
+      "text": "material topics",
+      "page": 9
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 9
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 9
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 9
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 9
+    },
+    {
+      "text": "security personnel",
+      "page": 9
+    },
+    {
+      "text": "individuals employed for the purposes of guarding property of the organization; crowd control;",
+      "page": 9
+    },
+    {
+      "text": "loss prevention; and escorting persons, goods, and valuables",
+      "page": 9
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 9
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 9
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 9
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 9
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 9
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 9
+    },
+    {
+      "text": "Bibliography",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 410: Security Practices 2016",
+      "page": 10
+    },
+    {
+      "text": "Bibliography",
+      "page": 10
+    },
+    {
+      "text": "This section lists references used in developing this Standard.",
+      "page": 10
+    },
+    {
+      "text": "References:",
+      "page": 10
+    },
+    {
+      "text": "1. International Code of Conduct for Private Security Service Providers, 2010.",
+      "page": 10
+    },
+    {
+      "text": "2. Voluntary Principles on Security and Human Rights, http://voluntaryprinciples.org/, accessed on 1 September",
+      "page": 10
+    },
+    {
+      "text": "2016.",
+      "page": 10
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 11
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 11
+    },
+    {
+      "text": "The Netherlands",
+      "page": 11
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 11
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 4
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 4
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 4
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 4
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 4
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 4
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 4
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 4
+    },
+    {
+      "text": "Topic Standards",
+      "page": 4
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 4
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 4
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 410: Security Practices 2016",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}

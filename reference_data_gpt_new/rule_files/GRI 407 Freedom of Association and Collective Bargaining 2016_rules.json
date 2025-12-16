@@ -1,0 +1,1184 @@
+{
+  "standard": "GRI 407 Freedom of Association and Collective Bargaining 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages freedom of association and",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Operations and suppliers in which workers’ rights to exercise freedom of association",
+        "i. type of operation (such as manufacturing plant) and supplier;",
+        "ii. countries or geographic areas with operations and suppliers considered at risk.",
+        "b. Measures taken by the organization in the reporting period intended to support rights to"
+      ],
+      "page": 8
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses the topic of freedom of association and collective bargaining.",
+      "page": 4
+    },
+    {
+      "text": "Freedom of association is a human right as defined by international declarations and conventions. In this context,",
+      "page": 4
+    },
+    {
+      "text": "freedom of association refers to the right of employers and workers to form, to join and to run their own organizations",
+      "page": 4
+    },
+    {
+      "text": "without prior authorization or interference by the state or any other entity.",
+      "page": 4
+    },
+    {
+      "text": "The right of workers to collectively bargain the terms and conditions of work is also an internationally recognized",
+      "page": 4
+    },
+    {
+      "text": "human right. Collective bargaining refers to all negotiations that take place between one or more employers or",
+      "page": 4
+    },
+    {
+      "text": "employers' organizations, on the one hand, and one or more workers' organizations (e.g., trade unions), on the other,",
+      "page": 4
+    },
+    {
+      "text": "for determining working conditions and terms of employment or for regulating relations between employers and",
+      "page": 4
+    },
+    {
+      "text": "workers.1",
+      "page": 4
+    },
+    {
+      "text": "These concepts are covered in key instruments of the International Labour Organization, the Organisation for",
+      "page": 4
+    },
+    {
+      "text": "Economic Co-operation and Development, and the United Nations: see the Bibliography.",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 4
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its impacts related to freedom of association and collective bargaining. In",
+      "page": 5
+    },
+    {
+      "text": "addition to this Standard, Disclosure 2-30 in GRI 2: General Disclosures 2021 requires reporting on the percentage of",
+      "page": 5
+    },
+    {
+      "text": "total employees covered by collective bargaining agreements.",
+      "page": 5
+    },
+    {
+      "text": "determined freedom of association and collective bargaining to be a material topic:",
+      "page": 5
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 5
+    },
+    {
+      "text": "• Any disclosure from this Topic Standard that is relevant to the organization’s impacts related to freedom of",
+      "page": 5
+    },
+    {
+      "text": "association and collective bargaining (Disclosure 407-1).",
+      "page": 5
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 5
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 5
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 5
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 5
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 5
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 5
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 5
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 5
+    },
+    {
+      "text": "item does not exist.",
+      "page": 5
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 5
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 5
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 407: Freedom of Association and Collective Bargaining 2016",
+      "page": 6
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 6
+    },
+    {
+      "text": "information has been published).",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 407: Freedom of Association and Collective Bargaining 2016",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined freedom of association and collective bargaining to be a material topic is",
+      "page": 7
+    },
+    {
+      "text": "required to report how it manages the topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in",
+      "page": 7
+    },
+    {
+      "text": "this section).",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 7
+    },
+    {
+      "text": "collective bargaining using Disclosure 3-3 in GRI 3: Material Topics 2021.",
+      "page": 7
+    },
+    {
+      "text": "1.2 The reporting organization should describe any policy or policies considered likely to",
+      "page": 7
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 7
+    },
+    {
+      "text": "affect workers’ decisions to form or join a trade union, to bargain collectively or to engage",
+      "page": 7
+    },
+    {
+      "text": "in trade union activities.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 407: Freedom of Association and Collective Bargaining 2016",
+      "page": 8
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 407-1 Operations and suppliers in which the right to",
+      "page": 8
+    },
+    {
+      "text": "freedom of association and collective bargaining may be at risk",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "or collective bargaining may be violated or at significant risk either in terms of:",
+      "page": 8
+    },
+    {
+      "text": "exercise freedom of association and collective bargaining.",
+      "page": 8
+    },
+    {
+      "text": "Guidance for Disclosure 407-1",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "The process for identifying operations and suppliers, as specified in Disclosure 407-1, can",
+      "page": 8
+    },
+    {
+      "text": "reflect the reporting organization’s approach to risk assessment on this issue. It can also draw",
+      "page": 8
+    },
+    {
+      "text": "from recognized international data sources, such as the various outcomes of the ILO",
+      "page": 8
+    },
+    {
+      "text": "Supervisory bodies and the recommendations of the ILO Committee of Freedom of Association",
+      "page": 8
+    },
+    {
+      "text": "(see reference [4] in the Bibliography).",
+      "page": 8
+    },
+    {
+      "text": "When reporting the measures taken, the organization can refer to the ILO ‘Tripartite Declaration",
+      "page": 8
+    },
+    {
+      "text": "of Principles Concerning Multinational Enterprises and Social Policy’ and Organisation for",
+      "page": 8
+    },
+    {
+      "text": "Economic Co-operation and Development (OECD) OECD Guidelines for Multinational",
+      "page": 8
+    },
+    {
+      "text": "Enterprises for further guidance.",
+      "page": 8
+    },
+    {
+      "text": "Background",
+      "page": 8
+    },
+    {
+      "text": "This disclosure concerns an organization’s due diligence with respect to any negative impacts",
+      "page": 8
+    },
+    {
+      "text": "its activities have had on the human rights of workers to form or join trade unions and to bargain",
+      "page": 8
+    },
+    {
+      "text": "collectively. This can include policies and processes with respect to the organization's business",
+      "page": 8
+    },
+    {
+      "text": "relationships, including its suppliers. It can also include the due diligence process to identify",
+      "page": 8
+    },
+    {
+      "text": "operations and suppliers where these rights are at risk.",
+      "page": 8
+    },
+    {
+      "text": "It also aims to reveal actions that have been taken to support these rights across an",
+      "page": 8
+    },
+    {
+      "text": "organization’s range of operations. This disclosure does not require the organization to express",
+      "page": 8
+    },
+    {
+      "text": "a specific opinion on the quality of national legal systems.",
+      "page": 8
+    },
+    {
+      "text": "Collective agreements can be made at the level of the organization, at the level of a particular",
+      "page": 8
+    },
+    {
+      "text": "site, at the industry level, and at the national level in countries where this is the practice.",
+      "page": 8
+    },
+    {
+      "text": "Collective agreements can cover specific groups of workers, for example, those performing a",
+      "page": 8
+    },
+    {
+      "text": "specific activity or working at a specific location.",
+      "page": 8
+    },
+    {
+      "text": "An organization is expected to respect the rights of workers to exercise freedom of association",
+      "page": 8
+    },
+    {
+      "text": "and collective bargaining. It is also expected to not benefit from or contribute to such violations",
+      "page": 8
+    },
+    {
+      "text": "through its business relationships (e.g., suppliers).",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 407: Freedom of Association and Collective Bargaining 2016",
+      "page": 9
+    },
+    {
+      "text": "Glossary",
+      "page": 9
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 9
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 9
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 9
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 9
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 9
+    },
+    {
+      "text": "business partner",
+      "page": 9
+    },
+    {
+      "text": "entity with which the organization has some form of direct and formal engagement for the",
+      "page": 9
+    },
+    {
+      "text": "purpose of meeting its business objectives",
+      "page": 9
+    },
+    {
+      "text": "Source: Shift and Mazars LLP, UN Guiding Principles Reporting Framework, 2015; modified",
+      "page": 9
+    },
+    {
+      "text": "Examples: affiliates, business-to-business customers, clients, first-tier suppliers, franchisees,",
+      "page": 9
+    },
+    {
+      "text": "joint venture partners, investee companies in which the organization has a",
+      "page": 9
+    },
+    {
+      "text": "shareholding position",
+      "page": 9
+    },
+    {
+      "text": "Note: Business partners do not include subsidiaries and affiliates that the organization",
+      "page": 9
+    },
+    {
+      "text": "controls.",
+      "page": 9
+    },
+    {
+      "text": "business relationships",
+      "page": 9
+    },
+    {
+      "text": "relationships that the organization has with business partners, with entities in its value chain",
+      "page": 9
+    },
+    {
+      "text": "including those beyond the first tier, and with any other entities directly linked to its operations,",
+      "page": 9
+    },
+    {
+      "text": "products, or services",
+      "page": 9
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 9
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 9
+    },
+    {
+      "text": "modified",
+      "page": 9
+    },
+    {
+      "text": "Note: Examples of other entities directly linked to the organization’s operations, products,",
+      "page": 9
+    },
+    {
+      "text": "or services are a non-governmental organization with which the organization",
+      "page": 9
+    },
+    {
+      "text": "delivers support to a local community or state security forces that protect the",
+      "page": 9
+    },
+    {
+      "text": "organization’s facilities.",
+      "page": 9
+    },
+    {
+      "text": "collective bargaining",
+      "page": 9
+    },
+    {
+      "text": "all negotiations that take place between one or more employers or employers' organizations, on",
+      "page": 9
+    },
+    {
+      "text": "the one hand, and one or more workers' organizations (e.g., trade unions), on the other, for",
+      "page": 9
+    },
+    {
+      "text": "determining working conditions and terms of employment or for regulating relations between",
+      "page": 9
+    },
+    {
+      "text": "employers and workers",
+      "page": 9
+    },
+    {
+      "text": "Source: International Labour Organization (ILO), Collective Bargaining Convention, 1981",
+      "page": 9
+    },
+    {
+      "text": "(No. 154); modified",
+      "page": 9
+    },
+    {
+      "text": "due diligence",
+      "page": 9
+    },
+    {
+      "text": "process to identify, prevent, mitigate, and account for how the organization addresses its actual",
+      "page": 9
+    },
+    {
+      "text": "and potential negative impacts",
+      "page": 9
+    },
+    {
+      "text": "Source: Organisation for Economic Co-operation and Development (OECD), OECD",
+      "page": 9
+    },
+    {
+      "text": "Guidelines for Multinational Enterprises, 2011; modified",
+      "page": 9
+    },
+    {
+      "text": "United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 9
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 9
+    },
+    {
+      "text": "modified",
+      "page": 9
+    },
+    {
+      "text": "Note: See section 2.3 in GRI 1: Foundation 2021 for more information on ‘due diligence’.",
+      "page": 9
+    },
+    {
+      "text": "employee",
+      "page": 9
+    },
+    {
+      "text": "individual who is in an employment relationship with the organization according to national law",
+      "page": 9
+    },
+    {
+      "text": "or practice",
+      "page": 9
+    },
+    {
+      "text": "freedom of association",
+      "page": 9
+    },
+    {
+      "text": "right of employers and workers to form, to join and to run their own organizations without prior",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 407: Freedom of Association and Collective Bargaining 2016",
+      "page": 10
+    },
+    {
+      "text": "authorization or interference by the state or any other entity",
+      "page": 10
+    },
+    {
+      "text": "human rights",
+      "page": 10
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 10
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 10
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 10
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 10
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 10
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 10
+    },
+    {
+      "text": "modified",
+      "page": 10
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 10
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 10
+    },
+    {
+      "text": "impact",
+      "page": 10
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 10
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 10
+    },
+    {
+      "text": "development",
+      "page": 10
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 10
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 10
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 10
+    },
+    {
+      "text": "material topics",
+      "page": 10
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 10
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 10
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 10
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 10
+    },
+    {
+      "text": "mitigation",
+      "page": 10
+    },
+    {
+      "text": "action(s) taken to reduce the extent of a negative impact",
+      "page": 10
+    },
+    {
+      "text": "Source: United Nations (UN), The Corporate Responsibility to Respect Human Rights: An",
+      "page": 10
+    },
+    {
+      "text": "Interpretive Guide, 2012; modified",
+      "page": 10
+    },
+    {
+      "text": "Note: The mitigation of an actual negative impact refers to actions taken to reduce the",
+      "page": 10
+    },
+    {
+      "text": "severity of the negative impact that has occurred, with any residual impact needing",
+      "page": 10
+    },
+    {
+      "text": "remediation. The mitigation of a potential negative impact refers to actions taken to",
+      "page": 10
+    },
+    {
+      "text": "reduce the likelihood of the negative impact occurring.",
+      "page": 10
+    },
+    {
+      "text": "remedy / remediation",
+      "page": 10
+    },
+    {
+      "text": "means to counteract or make good a negative impact or provision of remedy",
+      "page": 10
+    },
+    {
+      "text": "Source: United Nations (UN), The Corporate Responsibility to Respect Human Rights: An",
+      "page": 10
+    },
+    {
+      "text": "Interpretive Guide, 2012; modified",
+      "page": 10
+    },
+    {
+      "text": "Examples: apologies, financial or non-financial compensation, prevention of harm through",
+      "page": 10
+    },
+    {
+      "text": "injunctions or guarantees of non-repetition, punitive sanctions (whether criminal or",
+      "page": 10
+    },
+    {
+      "text": "administrative, such as fines), restitution, restoration, rehabilitation",
+      "page": 10
+    },
+    {
+      "text": "severity (of an impact)",
+      "page": 10
+    },
+    {
+      "text": "The severity of an actual or potential negative impact is determined by its scale (i.e., how grave",
+      "page": 10
+    },
+    {
+      "text": "the impact is), scope (i.e., how widespread the impact is), and irremediable character (how hard",
+      "page": 10
+    },
+    {
+      "text": "it is to counteract or make good the resulting harm).",
+      "page": 10
+    },
+    {
+      "text": "Source: Organisation for Economic Co-operation and Development (OECD), OECD Due",
+      "page": 10
+    },
+    {
+      "text": "Diligence Guidance for Responsible Business Conduct, 2018; modified",
+      "page": 10
+    },
+    {
+      "text": "United Nations (UN), The Corporate Responsibility to Respect Human Rights: An",
+      "page": 10
+    },
+    {
+      "text": "Interpretive Guide, 2012; modified",
+      "page": 10
+    },
+    {
+      "text": "Note: See section 1 in GRI 3: Material Topics 2021 for more information on ‘severity’.",
+      "page": 10
+    },
+    {
+      "text": "supplier",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 407: Freedom of Association and Collective Bargaining 2016",
+      "page": 11
+    },
+    {
+      "text": "entity upstream from the organization (i.e., in the organization’s supply chain), which provides a",
+      "page": 11
+    },
+    {
+      "text": "product or service that is used in the development of the organization’s own products or services",
+      "page": 11
+    },
+    {
+      "text": "Examples: brokers, consultants, contractors, distributors, franchisees, home workers,",
+      "page": 11
+    },
+    {
+      "text": "independent contractors, licensees, manufacturers, primary producers, sub-",
+      "page": 11
+    },
+    {
+      "text": "contractors, wholesalers",
+      "page": 11
+    },
+    {
+      "text": "Note: A supplier can have a direct business relationship with the organization (often",
+      "page": 11
+    },
+    {
+      "text": "referred to as a first-tier supplier) or an indirect business relationship.",
+      "page": 11
+    },
+    {
+      "text": "supply chain",
+      "page": 11
+    },
+    {
+      "text": "range of activities carried out by entities upstream from the organization, which provide products",
+      "page": 11
+    },
+    {
+      "text": "or services that are used in the development of the organization’s own products or services",
+      "page": 11
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 11
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 11
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 11
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 11
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 11
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 11
+    },
+    {
+      "text": "value chain",
+      "page": 11
+    },
+    {
+      "text": "range of activities carried out by the organization, and by entities upstream and downstream",
+      "page": 11
+    },
+    {
+      "text": "from the organization, to bring the organization’s products or services from their conception to",
+      "page": 11
+    },
+    {
+      "text": "their end use",
+      "page": 11
+    },
+    {
+      "text": "Note 1: Entities upstream from the organization (e.g., suppliers) provide products or",
+      "page": 11
+    },
+    {
+      "text": "services that are used in the development of the organization’s own products or",
+      "page": 11
+    },
+    {
+      "text": "services. Entities downstream from the organization (e.g., distributors, customers)",
+      "page": 11
+    },
+    {
+      "text": "receive products or services from the organization.",
+      "page": 11
+    },
+    {
+      "text": "Note 2: The value chain includes the supply chain.",
+      "page": 11
+    },
+    {
+      "text": "worker",
+      "page": 11
+    },
+    {
+      "text": "person that performs work for the organization",
+      "page": 11
+    },
+    {
+      "text": "Examples: employees, agency workers, apprentices, contractors, home workers, interns, self-",
+      "page": 11
+    },
+    {
+      "text": "employed persons, sub-contractors, volunteers, and persons working for",
+      "page": 11
+    },
+    {
+      "text": "organizations other than the reporting organization, such as for suppliers",
+      "page": 11
+    },
+    {
+      "text": "Note: In the GRI Standards, in some cases, it is specified whether a particular subset of",
+      "page": 11
+    },
+    {
+      "text": "workers is required to be used.",
+      "page": 11
+    },
+    {
+      "text": "Bibliography",
+      "page": 11
+    },
+    {
+      "text": "12 GRI 407: Freedom of Association and Collective Bargaining 2016",
+      "page": 12
+    },
+    {
+      "text": "Bibliography",
+      "page": 12
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments used in developing this Standard.",
+      "page": 12
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 12
+    },
+    {
+      "text": "1. International Labour Organization (ILO) Convention 87, ‘Freedom of Association and Protection of the Right to",
+      "page": 12
+    },
+    {
+      "text": "Organise Convention’, 1948.",
+      "page": 12
+    },
+    {
+      "text": "2. International Labour Organization (ILO) Convention 98, ‘Right to Organise and Collective Bargaining Convention’,",
+      "page": 12
+    },
+    {
+      "text": "1949.",
+      "page": 12
+    },
+    {
+      "text": "3. International Labour Organization (ILO) Convention 154, ‘Collective Bargaining Convention’, 1981.",
+      "page": 12
+    },
+    {
+      "text": "4. International Labour Organization (ILO), NORMLEX, Freedom of association cases,",
+      "page": 12
+    },
+    {
+      "text": "http://www.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:20060:0::NO:::, accessed on 1 September 2016.",
+      "page": 12
+    },
+    {
+      "text": "5. International Labour Organization (ILO) Recommendation 163, ‘Collective Bargaining Recommendation’, 1981.",
+      "page": 12
+    },
+    {
+      "text": "6. International Labour Organization (ILO), ‘Tripartite Declaration of Principles Concerning Multinational Enterprises",
+      "page": 12
+    },
+    {
+      "text": "and Social Policy’, 2006.",
+      "page": 12
+    },
+    {
+      "text": "7. Organisation for Economic Co-operation and Development (OECD), OECD Guidelines for Multinational",
+      "page": 12
+    },
+    {
+      "text": "Enterprises, 2011.",
+      "page": 12
+    },
+    {
+      "text": "8. United Nations (UN), ‘Guiding Principles on Business and Human Rights, Implementing the United Nations",
+      "page": 12
+    },
+    {
+      "text": "“Protect, Respect and Remedy” Framework’, 2011.",
+      "page": 12
+    },
+    {
+      "text": "9. United Nations (UN) International Bill of Rights:",
+      "page": 12
+    },
+    {
+      "text": "9.1 United Nations (UN) Declaration, 'Universal Declaration of Human Rights', 1948.",
+      "page": 12
+    },
+    {
+      "text": "9.2 United Nations (UN) Convention, 'International Covenant on Civil and Political Rights', 1966.",
+      "page": 12
+    },
+    {
+      "text": "9.3 United Nations (UN) Convention, 'International Covenant on Economic, Social, and Cultural Rights', 1966.",
+      "page": 12
+    },
+    {
+      "text": "10. United Nations (UN), Protect, Respect and Remedy: a Framework for Business and Human Rights, 2008.",
+      "page": 12
+    },
+    {
+      "text": "11. United Nations (UN), Report of the Special Representative of the Secretary-General on the Issue of Human",
+      "page": 12
+    },
+    {
+      "text": "Rights and Transnational Corporations and Other Business Enterprises, John Ruggie, 2011.",
+      "page": 12
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 13
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 13
+    },
+    {
+      "text": "The Netherlands",
+      "page": 13
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 13
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 4
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 4
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 4
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 4
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 4
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 4
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 4
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 4
+    },
+    {
+      "text": "Topic Standards",
+      "page": 4
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 4
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 4
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 4
+    },
+    {
+      "text": "1 This definition is based on the International Labour Organization (ILO) Convention 154, ‘Collective Bargaining Convention’, 1981.",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 407: Freedom of Association and Collective Bargaining 2016",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}

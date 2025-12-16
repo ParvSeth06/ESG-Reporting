@@ -1,0 +1,781 @@
+{
+  "standard": "GRI 416 Customer Health and Safety 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages customer health and safety",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Percentage of significant product and service categories for which health and safety"
+      ],
+      "page": 8
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Total number of incidents of non-compliance with regulations and/or voluntary codes",
+        "i. incidents of non-compliance with regulations resulting in a fine or penalty;",
+        "ii. incidents of non-compliance with regulations resulting in a warning;",
+        "iii. incidents of non-compliance with voluntary codes.",
+        "b. If the organization has not identified any non-compliance with regulations and/or"
+      ],
+      "page": 9
+    },
+    {
+      "text": "organization shall:",
+      "sub_requirements": [],
+      "page": 9
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses the topic of customer health and safety, including an organization’s systematic efforts to",
+      "page": 4
+    },
+    {
+      "text": "address health and safety across the life cycle of a product or service, and its adherence to customer health and",
+      "page": 4
+    },
+    {
+      "text": "safety regulations and voluntary codes.",
+      "page": 4
+    },
+    {
+      "text": "These concepts are covered in key instruments of the Organisation for Economic Co-operation and Development:",
+      "page": 4
+    },
+    {
+      "text": "see the Bibliography.",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 4
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its impacts related to customer health and safety. In addition to this Standard,",
+      "page": 5
+    },
+    {
+      "text": "disclosures that relate to this topic can be found in GRI 417: Marketing and Labeling 2016.",
+      "page": 5
+    },
+    {
+      "text": "determined customer health and safety to be a material topic:",
+      "page": 5
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 5
+    },
+    {
+      "text": "• Any disclosures from this Topic Standard that are relevant to the organization’s impacts related to customer health",
+      "page": 5
+    },
+    {
+      "text": "and safety (Disclosure 416-1 through Disclosure 416-2).",
+      "page": 5
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 5
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 5
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 5
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 5
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 5
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 5
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 5
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 5
+    },
+    {
+      "text": "item does not exist.",
+      "page": 5
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 5
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 5
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 5
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 5
+    },
+    {
+      "text": "information has been published).",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 416: Customer Health and Safety 2016",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 416: Customer Health and Safety 2016",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined customer health and safety to be a material topic is required to report how it",
+      "page": 7
+    },
+    {
+      "text": "manages the topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 7
+    },
+    {
+      "text": "using Disclosure 3-3 in GRI 3: Material Topics 2021.",
+      "page": 7
+    },
+    {
+      "text": "The reporting organization can also disclose whether the health and safety impacts of products",
+      "page": 7
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 7
+    },
+    {
+      "text": "and services are assessed for improvement in each of the following life cycle stages:",
+      "page": 7
+    },
+    {
+      "text": "• Development of product concept",
+      "page": 7
+    },
+    {
+      "text": "• Research and development",
+      "page": 7
+    },
+    {
+      "text": "• Certification",
+      "page": 7
+    },
+    {
+      "text": "• Manufacturing and production",
+      "page": 7
+    },
+    {
+      "text": "• Marketing and promotion",
+      "page": 7
+    },
+    {
+      "text": "• Storage, distribution, and supply",
+      "page": 7
+    },
+    {
+      "text": "• Use and service",
+      "page": 7
+    },
+    {
+      "text": "• Disposal, reuse, or recycling",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 416: Customer Health and Safety 2016",
+      "page": 8
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 416-1 Assessment of the health and safety impacts of",
+      "page": 8
+    },
+    {
+      "text": "product and service categories",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "impacts are assessed for improvement.",
+      "page": 8
+    },
+    {
+      "text": "Guidance for Disclosure 416-1",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "This measure helps to identify the existence and range of systematic efforts to address health",
+      "page": 8
+    },
+    {
+      "text": "and safety across the life cycle of a product or service. In reporting the information in Disclosure",
+      "page": 8
+    },
+    {
+      "text": "416-1, the reporting organization can also describe the criteria used for the assessment.",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 416: Customer Health and Safety 2016",
+      "page": 9
+    },
+    {
+      "text": "Disclosure 416-2 Incidents of non-compliance concerning the health",
+      "page": 9
+    },
+    {
+      "text": "and safety impacts of products and services",
+      "page": 9
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 9
+    },
+    {
+      "text": "concerning the health and safety impacts of products and services within the reporting",
+      "page": 9
+    },
+    {
+      "text": "period, by:",
+      "page": 9
+    },
+    {
+      "text": "voluntary codes, a brief statement of this fact is sufficient.",
+      "page": 9
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 9
+    },
+    {
+      "text": "2.1 When compiling the information specified in Disclosure 416-2, the reporting",
+      "page": 9
+    },
+    {
+      "text": "2.1.1 exclude incidents of non-compliance in which the organization was",
+      "page": 9
+    },
+    {
+      "text": "determined not to be at fault;",
+      "page": 9
+    },
+    {
+      "text": "2.1.2 exclude incidents of non-compliance related to Incidents related to labeling",
+      "page": 9
+    },
+    {
+      "text": "are reported in Disclosure 417-2 of GRI 417: Marketing and Labelling 2016;",
+      "page": 9
+    },
+    {
+      "text": "2.1.3 if applicable, identify any incidents of non-compliance that relate to events in",
+      "page": 9
+    },
+    {
+      "text": "periods prior to the reporting period.",
+      "page": 9
+    },
+    {
+      "text": "Guidance for Disclosure 416-2",
+      "page": 9
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 9
+    },
+    {
+      "text": "The incidents of non-compliance that occur within the reporting period can relate to incidents",
+      "page": 9
+    },
+    {
+      "text": "formally resolved during the reporting period, whether they occurred in periods prior to the",
+      "page": 9
+    },
+    {
+      "text": "reporting period or not.",
+      "page": 9
+    },
+    {
+      "text": "Background",
+      "page": 9
+    },
+    {
+      "text": "Protection of health and safety is a recognized goal of many national and international",
+      "page": 9
+    },
+    {
+      "text": "regulations. Customers expect products and services to perform their intended functions",
+      "page": 9
+    },
+    {
+      "text": "satisfactorily, and not pose a risk to health and safety. Customers have a right to non-hazardous",
+      "page": 9
+    },
+    {
+      "text": "products. Where their health and safety is affected, customers also have the right to seek",
+      "page": 9
+    },
+    {
+      "text": "redress.",
+      "page": 9
+    },
+    {
+      "text": "This disclosure addresses the life cycle of the product or service once it is available for use, and",
+      "page": 9
+    },
+    {
+      "text": "therefore subject to regulations and voluntary codes concerning the health and safety of",
+      "page": 9
+    },
+    {
+      "text": "products and services.",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 416: Customer Health and Safety 2016",
+      "page": 10
+    },
+    {
+      "text": "Glossary",
+      "page": 10
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 10
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 10
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 10
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 10
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 10
+    },
+    {
+      "text": "human rights",
+      "page": 10
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 10
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 10
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 10
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 10
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 10
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 10
+    },
+    {
+      "text": "modified",
+      "page": 10
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 10
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 10
+    },
+    {
+      "text": "impact",
+      "page": 10
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 10
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 10
+    },
+    {
+      "text": "development",
+      "page": 10
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 10
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 10
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 10
+    },
+    {
+      "text": "material topics",
+      "page": 10
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 10
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 10
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 10
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 10
+    },
+    {
+      "text": "product or service category",
+      "page": 10
+    },
+    {
+      "text": "group of related products or services sharing a common, managed set of features that satisfy",
+      "page": 10
+    },
+    {
+      "text": "the specific needs of a selected market",
+      "page": 10
+    },
+    {
+      "text": "reporting period",
+      "page": 10
+    },
+    {
+      "text": "specific time period covered by the reported information",
+      "page": 10
+    },
+    {
+      "text": "Examples: fiscal year, calendar year",
+      "page": 10
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 10
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 10
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 10
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 10
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 10
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 10
+    },
+    {
+      "text": "Bibliography",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 416: Customer Health and Safety 2016",
+      "page": 11
+    },
+    {
+      "text": "Bibliography",
+      "page": 11
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments used in developing this Standard.",
+      "page": 11
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 11
+    },
+    {
+      "text": "1. Organisation for Economic Co-operation and Development (OECD), OECD Guidelines for Multinational",
+      "page": 11
+    },
+    {
+      "text": "Enterprises, 2011.",
+      "page": 11
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 12
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 12
+    },
+    {
+      "text": "The Netherlands",
+      "page": 12
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 12
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 4
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 4
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 4
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 4
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 4
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 4
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 4
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 4
+    },
+    {
+      "text": "Topic Standards",
+      "page": 4
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 4
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 4
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 416: Customer Health and Safety 2016",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}

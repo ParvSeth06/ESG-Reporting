@@ -1,0 +1,17 @@
+{
+  "standard": "GRI 303 Water and Effluents 2018",
+  "type": "universal_or_sector",
+  "mandatory_requirements": [
+    {
+      "text": "organization shall use publicly available and credible tools and methodologies for assessing water stress in an area. 2.2 The reporting organization should report the following additional information:",
+      "page": 11
+    },
+    {
+      "text": "organization shall use publicly available and credible tools and methodologies for assessing water stress in an area. 2.4 The reporting organization should report the following additional information:",
+      "page": 13
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [],
+  "sector_specific_rules": []
+}

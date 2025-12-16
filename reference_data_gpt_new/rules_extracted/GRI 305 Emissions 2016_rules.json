@@ -1,0 +1,41 @@
+{
+  "standard": "GRI 305 Emissions 2016",
+  "type": "universal_or_sector",
+  "mandatory_requirements": [
+    {
+      "text": "1.2 When reporting on GHG emissions targets, the reporting organization shall explain whether offsets were used to meet the targets, including the type, amount, criteria or scheme of which the offsets are part. The reporting organization can also:",
+      "page": 8
+    },
+    {
+      "text": "organization shall: 2.1.1 exclude any GHG trades from the calculation of gross direct (Scope 1) GHG emissions; 2.1.2 report biogenic emissions of CO from the combustion or biodegradation of 2 biomass separately from the gross direct (Scope 1) GHG emissions. Exclude biogenic emissions of other types of GHG (such as CH and N O), and biogenic 4 2 emissions of CO that occur in the life cycle of biomass other than from 2 combustion or biodegradation (such as GHG emissions from processing or transporting biomass). 2.2 When compiling the information specified in Disclosure 305-1, the reporting organization",
+      "page": 9
+    },
+    {
+      "text": "organization shall: 2.3.1 exclude any GHG trades from the calculation of gross energy indirect (Scope 2) GHG emissions; 2.3.2 exclude other indirect (Scope 3) GHG emissions that are disclosed as specified in Disclosure 305-3; 2.3.3 account and report energy indirect (Scope 2) GHG emissions based on the location- based method, if it has operations in markets without product or supplier-specific data; 2.3.4 account and report energy indirect (Scope 2) GHG emissions based on both the location-based and market-based methods, if it has any operations in markets providing product or supplier-specific data in the form of contractual instruments. 2.4 When compiling the information specified in Disclosure 305-2, the reporting organization",
+      "page": 11
+    },
+    {
+      "text": "organization shall: 2.5.1 exclude any GHG trades from the calculation of gross other indirect (Scope 3) GHG emissions; 2.5.2 exclude energy indirect (Scope 2) GHG emissions from this disclosure. Energy indirect (Scope 2) GHG emissions are disclosed as specified in Disclosure 305-2; 2.5.3 report biogenic emissions of CO from the combustion or biodegradation of 2 biomass that occur in its value chain separately from the gross other indirect (Scope 3) GHG emissions. Exclude biogenic emissions of other types of GHG (such as CH and N O), and biogenic emissions of CO that occur in the life 4 2 2 cycle of biomass other than from combustion or biodegradation (such as GHG emissions from processing or transporting biomass). 2.6 When compiling the information specified in Disclosure 305-3, the reporting organization",
+      "page": 13
+    },
+    {
+      "text": "organization shall: 2.7.1 calculate the ratio by dividing the absolute GHG emissions (the numerator) by the organization-specific metric (the denominator); 2.7.2 if reporting an intensity ratio for other indirect (Scope 3) GHG emissions, report this intensity ratio separately from the intensity ratios for direct (Scope 1) and energy indirect (Scope 2) emissions. 2.8 When compiling the information specified in Disclosure 305-4, the reporting organization",
+      "page": 16
+    },
+    {
+      "text": "organization shall: 2.9.1 exclude reductions resulting from reduced production capacity or outsourcing; 2.9.2 use the inventory or project method to account for reductions; 2.9.3 calculate an initiative’s total reductions of GHG emissions as the sum of its associated primary effects and any significant secondary effects; 2.9.4 if reporting two or more Scope types, report the reductions for each separately; 2.9.5 report reductions from offsets separately. 2.10 When compiling the information specified in Disclosure 305-5, the reporting organization",
+      "page": 17
+    },
+    {
+      "text": "organization shall: 2.11.1 calculate the production of ODS as the amount of ODS produced, minus the amount destroyed by approved technologies, and minus the amount entirely used as feedstock in the manufacture of other chemicals; Production of ODS = ODS produced - ODS destroyed by approved technologies - ODS entirely used as feedstock in the manufacture of other chemicals 2.11.2 exclude ODS recycled and reused. 2.12 When compiling the information specified in Disclosure 305-6, the reporting organization",
+      "page": 19
+    },
+    {
+      "text": "organization shall indicate the basis on which figures were estimated. 2.14 When compiling the information specified in Disclosure 305-7, the reporting organization",
+      "page": 21
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [],
+  "sector_specific_rules": []
+}

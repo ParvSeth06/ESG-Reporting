@@ -1,0 +1,13 @@
+{
+  "standard": "GRI 202 Market Presence 2016",
+  "type": "universal_or_sector",
+  "mandatory_requirements": [
+    {
+      "text": "organization shall calculate this percentage using data on full-time employees. Senior management hired from the local community includes those individuals either born or",
+      "page": 10
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [],
+  "sector_specific_rules": []
+}

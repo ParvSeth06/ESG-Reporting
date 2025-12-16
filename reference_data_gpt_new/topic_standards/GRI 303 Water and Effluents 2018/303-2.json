@@ -1,0 +1,32 @@
+{
+  "standard": "GRI 303",
+  "disclosure_id": "303-2",
+  "title": "Disclosure 303-2 Management of water discharge-related impacts",
+  "topic": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+  "requirements": [
+    "a. A description of any minimum standards set for the quality of effluent discharge, and",
+    "how these minimum standards were determined, including:",
+    "i. how standards for facilities operating in locations with no local discharge",
+    "requirements were determined;",
+    "ii. any internally developed water quality standards or guidelines;",
+    "iii. any sector-specific standards considered;",
+    "iv. whether the profile of the receiving waterbody was considered.",
+    "Guidance for Disclosure 303-2"
+  ],
+  "background": [],
+  "guidance": [
+    "Minimum standards are those that go beyond regulatory requirements in controlling the quality",
+    "of effluent discharge.",
+    "Water quality refers to the physical, chemical, biological, and taste-related characteristics of",
+    "water. It is a measure of water suitability for a given purpose or function, including its use as a",
+    "human right. Water quality standards help uphold water quality in order to protect ecosystems,",
+    "wildlife, and human health and welfare, and can be based on water properties, such as",
+    "temperature or pH value.",
+    "The specific choice of water quality standards and parameters can vary depending on an",
+    "organization’s procucts, services, and facility locations, and can depend on national and/or",
+    "regional regulations, as well as the profile of the receiving waterbody.",
+    "11 GRI 303: Water and Effluents 2018",
+    "2. Topic disclosures"
+  ],
+  "recommendations": []
+}

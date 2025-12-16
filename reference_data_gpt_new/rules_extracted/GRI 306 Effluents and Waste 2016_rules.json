@@ -1,0 +1,25 @@
+{
+  "standard": "GRI 306 Effluents and Waste 2016",
+  "type": "universal_or_sector",
+  "mandatory_requirements": [
+    {
+      "text": "shall: 2.1.1 exclude collected rainwater and domestic sewage from the volume of planned and unplanned water discharges; 2.1.2 if it does not have a meter to measure water discharges, estimate the volume of planned and unplanned water discharges by subtracting the approximate volume consumed on-site from the volume withdrawn as specified in Disclosure 303-1 of GRI 303: Water. When compiling the information specified in Disclosure 306-1, the reporting organization",
+      "page": 8
+    },
+    {
+      "text": "shall: 2.3.1 identify hazardous waste as defined by national legislation at the point of generation; 2.3.2 exclude non-hazardous wastewater from the calculation of non-hazardous waste; 2.3.3 if no weight data are available, estimate the weight using available information on waste density and volume collected, mass balances, or similar information. Background",
+      "page": 9
+    },
+    {
+      "text": "shall: 2.4.1 convert volumes to an estimate of weight; 2.4.2 in response to Disclosure 306-4-c, provide a brief explanation of the methodology used for making these conversions. Guidance for Disclosure 306-4",
+      "page": 11
+    },
+    {
+      "text": "2.5 When compiling the information in Disclosure 306-5, the reporting organization shall report water bodies and related habitats significantly affected by water discharges and/or runoff that meet one or more of the following criteria: 2.5.1 Discharges account for an average of five percent or more of the annual average volume of the water body; 2.5.2 Discharges that, on the advice of appropriate professionals, such as municipal authorities, are known to have or are highly likely to have significant impacts on the water body and associated habitats; 2.5.3 Discharges to water bodies that are recognized by professionals to be particularly sensitive due to their relative size, function, or status as a rare, threatened, or endangered system, or that support a particular endangered species of plant or animal; 2.5.4 Any discharge to a wetland listed in the Ramsar Convention or any other nationally or internationally proclaimed conservation area regardless of the rate of discharge; 2.5.5 The water body has been identified as having a high biodiversity value, such as species diversity and endemism, or total number of protected species; 2.5.6 The water body has been identified as having a high value or importance to local communities. Background",
+      "page": 12
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [],
+  "sector_specific_rules": []
+}

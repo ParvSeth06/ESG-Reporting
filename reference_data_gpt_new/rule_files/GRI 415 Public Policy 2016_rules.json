@@ -1,0 +1,723 @@
+{
+  "standard": "GRI 415 Public Policy 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages public policy using Disclosure",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Total monetary value of financial and in-kind political contributions made directly and",
+        "b. If applicable, how the monetary value of in-kind contributions was estimated."
+      ],
+      "page": 8
+    },
+    {
+      "text": "organization shall calculate financial political contributions in compliance with",
+      "sub_requirements": [],
+      "page": 8
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses the topic of public policy. This includes an organization’s participation in the development of",
+      "page": 4
+    },
+    {
+      "text": "public policy, through activities such as lobbying and making financial or in-kind contributions to political parties,",
+      "page": 4
+    },
+    {
+      "text": "politicians, or causes.",
+      "page": 4
+    },
+    {
+      "text": "While an organization can positively support the public political process and encourage the development of public",
+      "page": 4
+    },
+    {
+      "text": "policy that benefits society at large, this can also bring risks associated with corruption, bribery, and undue influence,",
+      "page": 4
+    },
+    {
+      "text": "among others.",
+      "page": 4
+    },
+    {
+      "text": "These concepts are covered in key instruments of the Organisation for Economic Co-operation and Development:",
+      "page": 4
+    },
+    {
+      "text": "see the Bibliography.",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 4
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its public policy-related impacts.",
+      "page": 5
+    },
+    {
+      "text": "determined public policy to be a material topic:",
+      "page": 5
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 5
+    },
+    {
+      "text": "• Any disclosure from this Topic Standard that is relevant to the organization’s public policy-related impacts",
+      "page": 5
+    },
+    {
+      "text": "(Disclosure 415-1).",
+      "page": 5
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 5
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 5
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 5
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 5
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 5
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 5
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 5
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 5
+    },
+    {
+      "text": "item does not exist.",
+      "page": 5
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 5
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 5
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 5
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 5
+    },
+    {
+      "text": "information has been published).",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 415: Public Policy 2016",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 415: Public Policy 2016",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined public policy to be a material topic is required to report how it manages the topic",
+      "page": 7
+    },
+    {
+      "text": "using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 7
+    },
+    {
+      "text": "3-3 in GRI 3: Material Topics 2021.",
+      "page": 7
+    },
+    {
+      "text": "1.2 The reporting organization should report:",
+      "page": 7
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 7
+    },
+    {
+      "text": "1.2.1 the significant issues that are the focus of its participation in public policy",
+      "page": 7
+    },
+    {
+      "text": "development and lobbying;",
+      "page": 7
+    },
+    {
+      "text": "1.2.2 its stance on these issues, and any differences between its lobbying positions",
+      "page": 7
+    },
+    {
+      "text": "and any stated policies, goals, or other public positions.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 415: Public Policy 2016",
+      "page": 8
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 415-1 Political contributions",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "indirectly by the organization by country and recipient/beneficiary.",
+      "page": 8
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 8
+    },
+    {
+      "text": "2.1 When compiling the information specified in Disclosure 415-1, the reporting",
+      "page": 8
+    },
+    {
+      "text": "national accounting rules, where these exist.",
+      "page": 8
+    },
+    {
+      "text": "Background",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "The purpose of this disclosure is to identify an organization’s support for political causes.",
+      "page": 8
+    },
+    {
+      "text": "This disclosure can provide an indication of the extent to which an organization’s political",
+      "page": 8
+    },
+    {
+      "text": "contributions are in line with its stated policies, goals, or other public positions.",
+      "page": 8
+    },
+    {
+      "text": "Direct or indirect contributions to political causes can also present corruption risks, because",
+      "page": 8
+    },
+    {
+      "text": "they can be used to exert undue influence on the political process. Many countries have",
+      "page": 8
+    },
+    {
+      "text": "legislation that limits the amount an organization can spend on political parties and candidates",
+      "page": 8
+    },
+    {
+      "text": "for campaigning purposes. If an organization channels contributions indirectly through",
+      "page": 8
+    },
+    {
+      "text": "intermediaries, such as lobbyists or organizations linked to political causes, it can improperly",
+      "page": 8
+    },
+    {
+      "text": "circumvent such legislation.",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 415: Public Policy 2016",
+      "page": 9
+    },
+    {
+      "text": "Glossary",
+      "page": 9
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 9
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 9
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 9
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 9
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 9
+    },
+    {
+      "text": "human rights",
+      "page": 9
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 9
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 9
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 9
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 9
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 9
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 9
+    },
+    {
+      "text": "modified",
+      "page": 9
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 9
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 9
+    },
+    {
+      "text": "impact",
+      "page": 9
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 9
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 9
+    },
+    {
+      "text": "development",
+      "page": 9
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 9
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 9
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 9
+    },
+    {
+      "text": "indirect political contribution",
+      "page": 9
+    },
+    {
+      "text": "financial or in-kind support to political parties, their representatives, or candidates for office",
+      "page": 9
+    },
+    {
+      "text": "made through an intermediary organization such as a lobbyist or charity, or support given to an",
+      "page": 9
+    },
+    {
+      "text": "organization such as a think tank or trade association linked to or supporting particular political",
+      "page": 9
+    },
+    {
+      "text": "parties or causes",
+      "page": 9
+    },
+    {
+      "text": "material topics",
+      "page": 9
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 9
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 9
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 9
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 9
+    },
+    {
+      "text": "political contribution",
+      "page": 9
+    },
+    {
+      "text": "financial or in-kind support given directly or indirectly to political parties, their elected",
+      "page": 9
+    },
+    {
+      "text": "representatives, or persons seeking political office",
+      "page": 9
+    },
+    {
+      "text": "Note 1: Financial contributions can include donations, loans, sponsorships, retainers, or",
+      "page": 9
+    },
+    {
+      "text": "the purchase of tickets for fundraising events.",
+      "page": 9
+    },
+    {
+      "text": "Note 2: In-kind contributions can include advertising, use of facilities, design and printing,",
+      "page": 9
+    },
+    {
+      "text": "donation of equipment, or the provision of board membership, employment or",
+      "page": 9
+    },
+    {
+      "text": "consultancy work for elected politicians or candidates for office.",
+      "page": 9
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 9
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 9
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 9
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 415: Public Policy 2016",
+      "page": 10
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 10
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 10
+    },
+    {
+      "text": "Bibliography",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 415: Public Policy 2016",
+      "page": 11
+    },
+    {
+      "text": "Bibliography",
+      "page": 11
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments used in developing this Standard.",
+      "page": 11
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 11
+    },
+    {
+      "text": "1. Organisation for Economic Co-operation and Development (OECD), OECD Guidelines for Multinational",
+      "page": 11
+    },
+    {
+      "text": "Enterprises, 2011.",
+      "page": 11
+    },
+    {
+      "text": "2. Organisation for Economic Co-operation and Development (OECD) Principles, ‘G20/OECD Principles of",
+      "page": 11
+    },
+    {
+      "text": "Corporate Governance’, 2015.",
+      "page": 11
+    },
+    {
+      "text": "3. Organisation for Economic Co-operation and Development (OECD) Recommendation, ‘Recommendation of the",
+      "page": 11
+    },
+    {
+      "text": "Council on Principles for Transparency and Integrity in Lobbying’, 2010.",
+      "page": 11
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 12
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 12
+    },
+    {
+      "text": "The Netherlands",
+      "page": 12
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 12
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 4
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 4
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 4
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 4
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 4
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 4
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 4
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 4
+    },
+    {
+      "text": "Topic Standards",
+      "page": 4
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 4
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 4
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 415: Public Policy 2016",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}

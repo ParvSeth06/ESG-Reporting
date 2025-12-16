@@ -1,0 +1,5007 @@
+{
+  "standard": "GRI 1 Foundation 2021",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "principles that organizations must comply with to report in accordance with the GRI Standards. GRI 1 is the first",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "principles that the organization must comply with to report in accordance with the GRI Standards.",
+      "sub_requirements": [],
+      "page": 5
+    },
+    {
+      "text": "must report or provide instructions that the organization must comply with to report in accordance with the GRI",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "must make use of a particular GRI Standard. All information published after the effective date of a Standard must",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "For example, GRI 1: Foundation 2021 has an effective date of 1 January 2023. This means that the organization must",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The organization must comply with all nine requirements in this section to report in accordance with the GRI",
+      "sub_requirements": [],
+      "page": 11
+    },
+    {
+      "text": "a. The organization shall report all disclosures in GRI 2: General Disclosures 2021.",
+      "sub_requirements": [],
+      "page": 11
+    },
+    {
+      "text": "The organization shall:",
+      "sub_requirements": [
+        "a. determine its material topics;"
+      ],
+      "page": 12
+    },
+    {
+      "text": "The organization shall:",
+      "sub_requirements": [
+        "a. report its process of determining material topics using Disclosure 3-1;",
+        "b. report a list of its material topics using Disclosure 3-2;",
+        "c. report how it manages each material topic using Disclosure 3-3."
+      ],
+      "page": 12
+    },
+    {
+      "text": "The organization shall:",
+      "sub_requirements": [
+        "a. report disclosures from the GRI Topic Standards for each material topic;",
+        "ii. provide the ‘not applicable’ reason for omission and the required explanation in the GRI content index.",
+        "a. If the organization cannot comply with a disclosure or with a requirement in a disclosure for which reasons"
+      ],
+      "page": 13
+    },
+    {
+      "text": "for omission are permitted, the organization shall in the GRI content index:",
+      "sub_requirements": [
+        "i. specify the disclosure or the requirement it cannot comply with;",
+        "ii. provide one of the four reasons for omission included in Table 1 and the required explanation for that"
+      ],
+      "page": 14
+    },
+    {
+      "text": "incomplete’ as the reason for omission. The organization must specify the entities, sites, geographic locations, etc.,",
+      "sub_requirements": [],
+      "page": 15
+    },
+    {
+      "text": "The organization shall:",
+      "sub_requirements": [
+        "a. publish a GRI content index that includes:",
+        "i. the title: GRI content index;",
+        "ii. the statement of use;",
+        "iii. the title of GRI 1 used;",
+        "v. a list of the organization’s material topics;",
+        "vii. a list of the reported disclosures, including the disclosure titles;",
+        "viii. the titles of the GRI Standards and other sources that the reported disclosures come from;",
+        "ix. when the organization does not report GRI Topic Standard disclosures for a material topic from the",
+        "xi. the location where the information reported for each disclosure can be found;",
+        "xii. any reasons for omission used;",
+        "b. if it publishes a standalone sustainability report and the GRI content index is not included in the report itself,"
+      ],
+      "page": 16
+    },
+    {
+      "text": "a. The organization shall include the following statement in its GRI content index:",
+      "sub_requirements": [],
+      "page": 16
+    },
+    {
+      "text": "To state that the organization has reported in accordance with the GRI Standards, the organization must have",
+      "sub_requirements": [],
+      "page": 16
+    },
+    {
+      "text": "a. The organization shall notify GRI of the use of the GRI Standards and the statement of use by sending an",
+      "sub_requirements": [],
+      "page": 17
+    },
+    {
+      "text": "The organization must comply with all three requirements in this section to report with reference to the GRI Standards.",
+      "sub_requirements": [],
+      "page": 18
+    },
+    {
+      "text": "The organization shall:",
+      "sub_requirements": [
+        "a. publish a GRI content index that includes:",
+        "i. the title: GRI content index;",
+        "ii. the statement of use;",
+        "iii. the title of GRI 1 used;",
+        "iv. a list of the reported disclosures from the GRI Standards, including the disclosure titles;",
+        "v. the titles of the GRI Standards that the reported disclosures come from;",
+        "vi. the location where the information reported for each disclosure can be found;",
+        "b. if it publishes a standalone sustainability report and the GRI content index is not included in the report itself,"
+      ],
+      "page": 18
+    },
+    {
+      "text": "a. The organization shall include the following statement in its GRI content index:",
+      "sub_requirements": [],
+      "page": 19
+    },
+    {
+      "text": "To state that the organization has reported with reference to the GRI Standards, the organization must have complied",
+      "sub_requirements": [],
+      "page": 19
+    },
+    {
+      "text": "a. The organization shall notify GRI of the use of the GRI Standards and the statement of use by sending an",
+      "sub_requirements": [],
+      "page": 19
+    },
+    {
+      "text": "a. The organization shall report information that is correct and sufficiently detailed to allow an assessment of",
+      "sub_requirements": [],
+      "page": 20
+    },
+    {
+      "text": "a. The organization shall report information in an unbiased way and provide a fair representation of the",
+      "sub_requirements": [],
+      "page": 21
+    },
+    {
+      "text": "a. The organization shall present information in a way that is accessible and understandable.",
+      "sub_requirements": [],
+      "page": 21
+    },
+    {
+      "text": "a. The organization shall select, compile, and report information consistently to enable an analysis of changes",
+      "sub_requirements": [],
+      "page": 21
+    },
+    {
+      "text": "a. The organization shall provide sufficient information to enable an assessment of the organization’s impacts",
+      "sub_requirements": [],
+      "page": 22
+    },
+    {
+      "text": "a. The organization shall report information about its impacts in the wider context of sustainable development.",
+      "sub_requirements": [],
+      "page": 22
+    },
+    {
+      "text": "a. The organization shall report information on a regular schedule and make it available in time for information",
+      "sub_requirements": [],
+      "page": 23
+    },
+    {
+      "text": "a. The organization shall gather, record, compile, and analyze information in such a way that the information",
+      "sub_requirements": [],
+      "page": 23
+    },
+    {
+      "text": "organization has used helps clarify which requirements it must comply with.",
+      "sub_requirements": [],
+      "page": 33
+    },
+    {
+      "text": "accordance with the GRI Standards, must be replaced by the statement of use for reporting with reference to the GRI",
+      "sub_requirements": [],
+      "page": 36
+    },
+    {
+      "text": "organization has used helps clarify which requirements it must comply with.",
+      "sub_requirements": [],
+      "page": 37
+    }
+  ],
+  "reporting_principles": [
+    {
+      "text": "5. Additional recommendations for reporting 24",
+      "page": 3
+    },
+    {
+      "text": "Glossary 26",
+      "page": 3
+    },
+    {
+      "text": "Bibliography 30",
+      "page": 3
+    },
+    {
+      "text": "Appendix 1. GRI content index in accordance 31",
+      "page": 3
+    },
+    {
+      "text": "Appendix 2. GRI content index with reference 36",
+      "page": 3
+    },
+    {
+      "text": "4 GRI 1: Foundation 2021",
+      "page": 4
+    },
+    {
+      "text": "Introduction",
+      "page": 4
+    },
+    {
+      "text": "GRI 1: Foundation 2021 introduces the purpose and system of the GRI Sustainability Reporting Standards (GRI",
+      "page": 4
+    },
+    {
+      "text": "Standards) and explains key concepts for sustainability reporting. It also specifies the requirements and reporting",
+      "page": 4
+    },
+    {
+      "text": "Standard that organizations should consult to understand how to report using the GRI Standards.",
+      "page": 4
+    },
+    {
+      "text": "GRI 1 is structured as follows:",
+      "page": 4
+    },
+    {
+      "text": "• Section 1 introduces the purpose and the system of the GRI Standards.",
+      "page": 4
+    },
+    {
+      "text": "• Section 2 explains the key concepts that are used throughout the GRI Standards.",
+      "page": 4
+    },
+    {
+      "text": "information.",
+      "page": 4
+    },
+    {
+      "text": "• Section 5 presents recommendations for the organization to align its sustainability reporting with other types of",
+      "page": 4
+    },
+    {
+      "text": "reporting and to enhance the credibility of its sustainability reporting.",
+      "page": 4
+    },
+    {
+      "text": "• The Glossary contains defined terms with a specific meaning when used in the GRI Standards. The terms are",
+      "page": 4
+    },
+    {
+      "text": "underlined in the text of the GRI Standards and linked to the definitions.",
+      "page": 4
+    },
+    {
+      "text": "• The Bibliography lists authoritative intergovernmental instruments used in developing this Standard.",
+      "page": 4
+    },
+    {
+      "text": "• The Appendixes provide guidance on how to prepare a GRI content index.",
+      "page": 4
+    },
+    {
+      "text": "1. Purpose and system of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "1.1 Purpose of the GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "Through their activities and business relationships, organizations can have an effect on the economy, environment,",
+      "page": 4
+    },
+    {
+      "text": "and people, and in turn make negative or positive contributions to sustainable development. Sustainable",
+      "page": 4
+    },
+    {
+      "text": "development refers to ‘development which meets the needs of the present without compromising the ability of future",
+      "page": 4
+    },
+    {
+      "text": "generations to meet their own needs’ [8]. The objective of sustainability reporting using the GRI Sustainability",
+      "page": 4
+    },
+    {
+      "text": "Reporting Standards (GRI Standards) is to provide transparency on how an organization contributes or aims to",
+      "page": 4
+    },
+    {
+      "text": "contribute to sustainable development.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards enable an organization to publicly disclose its most significant impacts on the economy,",
+      "page": 4
+    },
+    {
+      "text": "environment, and people, including impacts on their human rights and how the organization manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "This enhances transparency on the organization’s impacts and increases organizational accountability.",
+      "page": 4
+    },
+    {
+      "text": "The Standards contain disclosures that allow an organization to report information about its impacts consistently and",
+      "page": 4
+    },
+    {
+      "text": "credibly. This enhances the global comparability and quality of reported information on these impacts, which supports",
+      "page": 4
+    },
+    {
+      "text": "information users in making informed assessments and decisions about the organization’s impacts and contribution",
+      "page": 4
+    },
+    {
+      "text": "to sustainable development.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are based on expectations for responsible business conduct set out in authoritative",
+      "page": 4
+    },
+    {
+      "text": "intergovernmental instruments, such as the Organisation for Economic Co-operation and Development (OECD)",
+      "page": 4
+    },
+    {
+      "text": "Guidelines for Multinational Enterprises [3] and the United Nations (UN) Guiding Principles on Business and Human",
+      "page": 4
+    },
+    {
+      "text": "Rights [5] (see the Bibliographies of the GRI Standards for a list of authoritative instruments used in developing the",
+      "page": 4
+    },
+    {
+      "text": "GRI Standards). Information reported using the GRI Standards can help users assess whether an organization",
+      "page": 4
+    },
+    {
+      "text": "meets the expectations set out in these instruments. It is important to note that the GRI Standards do not set",
+      "page": 4
+    },
+    {
+      "text": "allocations, thresholds, goals, targets, or any other benchmarks for good or bad performance.",
+      "page": 4
+    },
+    {
+      "text": "1.2 Users",
+      "page": 4
+    },
+    {
+      "text": "Any organization can use the GRI Standards – regardless of size, type, geographic location, or reporting experience –",
+      "page": 4
+    },
+    {
+      "text": "to report information about its impacts on the economy, environment, and people, including impacts on their human",
+      "page": 4
+    },
+    {
+      "text": "rights.",
+      "page": 4
+    },
+    {
+      "text": "The reported information can be used by the organization in its decision-making, for example, when setting goals and",
+      "page": 4
+    },
+    {
+      "text": "targets, or when assessing and implementing its policies and practices.",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 1: Foundation 2021",
+      "page": 5
+    },
+    {
+      "text": "Stakeholders and other information users can use the GRI Standards to understand what organizations are expected",
+      "page": 5
+    },
+    {
+      "text": "to report about. Stakeholders can also use an organization’s reported information to assess how they are affected or",
+      "page": 5
+    },
+    {
+      "text": "how they could be affected by the organization’s activities.",
+      "page": 5
+    },
+    {
+      "text": "Investors, in particular, can use the reported information to assess an organization’s impacts and how it integrates",
+      "page": 5
+    },
+    {
+      "text": "sustainable development in its business strategy and model. They can also use this information to identify financial",
+      "page": 5
+    },
+    {
+      "text": "risks and opportunities related to the organization’s impacts and to assess its long-term success. Users other than",
+      "page": 5
+    },
+    {
+      "text": "the organization’s stakeholders, such as academics and analysts, can also use the reported information for",
+      "page": 5
+    },
+    {
+      "text": "purposes such as research or benchmarking.",
+      "page": 5
+    },
+    {
+      "text": "The term ‘information users’ in the GRI Standards refers to all these diverse users of the organization’s reported",
+      "page": 5
+    },
+    {
+      "text": "information.",
+      "page": 5
+    },
+    {
+      "text": "1.3 System of GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 5
+    },
+    {
+      "text": "Requirement 2: Report the disclosures in GRI 2: General Disclosures 2021",
+      "page": 11
+    },
+    {
+      "text": "Requirement 3: Determine material topics",
+      "page": 11
+    },
+    {
+      "text": "Requirement 4: Report the disclosures in GRI 3: Material Topics 2021",
+      "page": 11
+    },
+    {
+      "text": "Requirement 5: Report disclosures from the GRI Topic Standards for each material topic",
+      "page": 11
+    },
+    {
+      "text": "Requirement 6: Provide reasons for omission for disclosures and requirements that the organization",
+      "page": 11
+    },
+    {
+      "text": "cannot comply with",
+      "page": 11
+    },
+    {
+      "text": "Requirement 7: Publish a GRI content index",
+      "page": 11
+    },
+    {
+      "text": "Requirement 8: Provide a statement of use",
+      "page": 11
+    },
+    {
+      "text": "Requirement 9: Notify GRI",
+      "page": 11
+    },
+    {
+      "text": "If the organization does not comply with all nine requirements, it cannot claim that it has prepared the reported",
+      "page": 11
+    },
+    {
+      "text": "information in accordance with the GRI Standards. In such a case, the organization may be able to claim that it has",
+      "page": 11
+    },
+    {
+      "text": "prepared the reported information with reference to the GRI Standards, provided it complies with the requirements",
+      "page": 11
+    },
+    {
+      "text": "specified in ‘Reporting with reference to the GRI Standards’ at the end of this section.",
+      "page": 11
+    },
+    {
+      "text": "Requirement 2: Report the disclosures in GRI 2: General",
+      "page": 11
+    },
+    {
+      "text": "Disclosures 2021",
+      "page": 11
+    },
+    {
+      "text": "Guidance",
+      "page": 11
+    },
+    {
+      "text": "Reasons for omission are permitted for all disclosures in GRI 2 except for:",
+      "page": 11
+    },
+    {
+      "text": "• Disclosure 2-1 Organizational details",
+      "page": 11
+    },
+    {
+      "text": "• Disclosure 2-2 Entities included in the organization’s sustainability reporting",
+      "page": 11
+    },
+    {
+      "text": "• Disclosure 2-3 Reporting period, frequency and contact point",
+      "page": 11
+    },
+    {
+      "text": "• Disclosure 2-4 Restatements of information",
+      "page": 11
+    },
+    {
+      "text": "• Disclosure 2-5 External assurance",
+      "page": 11
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure for which reasons for",
+      "page": 11
+    },
+    {
+      "text": "omission are permitted, then the organization is required to specify in the GRI content index the disclosure or the",
+      "page": 11
+    },
+    {
+      "text": "12 GRI 1: Foundation 2021",
+      "page": 12
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission with an explanation. See Requirement 6 in this",
+      "page": 12
+    },
+    {
+      "text": "Standard for more information on reasons for omission.",
+      "page": 12
+    },
+    {
+      "text": "Requirement 3: Determine material topics",
+      "page": 12
+    },
+    {
+      "text": "quality reporting. Additionally, the organization should explain how it manages its impacts for the topics it reports on",
+      "page": 18
+    },
+    {
+      "text": "using Disclosure 3-3 in GRI 3: Material Topics 2021.",
+      "page": 18
+    },
+    {
+      "text": "Overview of requirements for reporting with reference to the GRI Standards",
+      "page": 18
+    },
+    {
+      "text": "Publish a GRI content index",
+      "page": 18
+    },
+    {
+      "text": "Provide a statement of use",
+      "page": 18
+    },
+    {
+      "text": "Notify GRI",
+      "page": 18
+    },
+    {
+      "text": "Publish a GRI content index",
+      "page": 18
+    },
+    {
+      "text": "provide a link or reference to the GRI content index in the report.",
+      "page": 18
+    },
+    {
+      "text": "Guidance",
+      "page": 18
+    },
+    {
+      "text": "The information reported using the GRI Standards can be published or made accessible in a range of formats (e.g.,",
+      "page": 18
+    },
+    {
+      "text": "electronic, paper-based) across one or more locations (e.g., a standalone sustainability report, web pages, an annual",
+      "page": 18
+    },
+    {
+      "text": "report). The GRI content index provides an overview of the organization’s reported information, shows where the",
+      "page": 18
+    },
+    {
+      "text": "reported information can be found, and helps information users access this information. The content index also",
+      "page": 18
+    },
+    {
+      "text": "shows which GRI Standards and disclosures the organization has used.",
+      "page": 18
+    },
+    {
+      "text": "Appendix 2 of this Standard provides guidance on how to prepare the GRI content index when reporting with reference",
+      "page": 18
+    },
+    {
+      "text": "to the GRI Standards. It includes an example that the organization can use to prepare the content index. The",
+      "page": 18
+    },
+    {
+      "text": "organization can use a different format for the content index than the one provided in Appendix 2, as long as it",
+      "page": 18
+    },
+    {
+      "text": "complies with the requirements for the content index. The organization can also use the content index specified for",
+      "page": 18
+    },
+    {
+      "text": "accordance with the GRI Standards (see section 3 in this Standard).",
+      "page": 20
+    },
+    {
+      "text": "information. High-quality information allows information users to make informed assessments and decisions about",
+      "page": 20
+    },
+    {
+      "text": "the organization’s impacts and its contribution to sustainable development.",
+      "page": 20
+    },
+    {
+      "text": "Each reporting principle consists of a requirement and guidance on how to apply it.",
+      "page": 20
+    },
+    {
+      "text": "Overview of principles",
+      "page": 20
+    },
+    {
+      "text": "• Accuracy",
+      "page": 20
+    },
+    {
+      "text": "• Balance",
+      "page": 20
+    },
+    {
+      "text": "• Clarity",
+      "page": 20
+    },
+    {
+      "text": "• Comparability",
+      "page": 20
+    },
+    {
+      "text": "• Completeness",
+      "page": 20
+    },
+    {
+      "text": "• Sustainability context",
+      "page": 20
+    },
+    {
+      "text": "• Timeliness",
+      "page": 20
+    },
+    {
+      "text": "• Verifiability",
+      "page": 20
+    },
+    {
+      "text": "Accuracy",
+      "page": 20
+    },
+    {
+      "text": "Requirement",
+      "page": 20
+    },
+    {
+      "text": "the organization’s impacts.",
+      "page": 20
+    },
+    {
+      "text": "Guidance",
+      "page": 20
+    },
+    {
+      "text": "The characteristics that determine accuracy vary depending on the nature of the information (qualitative or quantitative)",
+      "page": 20
+    },
+    {
+      "text": "and the intended use of the information. The accuracy of quantitative information depends on the specific methods",
+      "page": 20
+    },
+    {
+      "text": "used to gather, compile, and analyze data. The accuracy of qualitative information depends on the level of detail and",
+      "page": 20
+    },
+    {
+      "text": "consistency with the available evidence. Information users require sufficient detail to make assessments about the",
+      "page": 20
+    },
+    {
+      "text": "organization’s impacts.",
+      "page": 20
+    },
+    {
+      "text": "To apply the Accuracy principle, the organization should:",
+      "page": 20
+    },
+    {
+      "text": "• report qualitative information that is consistent with available evidence and other reported information;",
+      "page": 20
+    },
+    {
+      "text": "• indicate which data has been measured;",
+      "page": 20
+    },
+    {
+      "text": "• adequately describe data measurements and bases for calculations, and ensure it is possible to replicate",
+      "page": 20
+    },
+    {
+      "text": "measurements and calculations with similar results;",
+      "page": 20
+    },
+    {
+      "text": "• ensure that the margin of error for data measurements does not inappropriately influence the conclusions or",
+      "page": 20
+    },
+    {
+      "text": "assessments of information users;",
+      "page": 20
+    },
+    {
+      "text": "• indicate which data has been estimated, and explain the underlying assumptions and techniques used for the",
+      "page": 20
+    },
+    {
+      "text": "estimation as well as any limitations of the estimates.",
+      "page": 20
+    },
+    {
+      "text": "21 GRI 1: Foundation 2021",
+      "page": 21
+    },
+    {
+      "text": "Balance",
+      "page": 21
+    },
+    {
+      "text": "Requirement",
+      "page": 21
+    },
+    {
+      "text": "organization’s negative and positive impacts.",
+      "page": 21
+    },
+    {
+      "text": "Guidance",
+      "page": 21
+    },
+    {
+      "text": "To apply the Balance principle, the organization should:",
+      "page": 21
+    },
+    {
+      "text": "• present information in a way that allows information users to see negative and positive year-on-year trends in",
+      "page": 21
+    },
+    {
+      "text": "impacts;",
+      "page": 21
+    },
+    {
+      "text": "• distinguish clearly between facts and the organization’s interpretation of the facts;",
+      "page": 21
+    },
+    {
+      "text": "• not omit relevant information concerning its negative impacts;",
+      "page": 21
+    },
+    {
+      "text": "• not overemphasize positive news or impacts;",
+      "page": 21
+    },
+    {
+      "text": "• not present information in a way that is likely to inappropriately influence the conclusions or assessments of",
+      "page": 21
+    },
+    {
+      "text": "information users.",
+      "page": 21
+    },
+    {
+      "text": "Clarity",
+      "page": 21
+    },
+    {
+      "text": "Requirement",
+      "page": 21
+    },
+    {
+      "text": "Guidance",
+      "page": 21
+    },
+    {
+      "text": "To apply the Clarity principle, the organization should:",
+      "page": 21
+    },
+    {
+      "text": "• consider specific accessibility needs of information users, associated with abilities, language, and technology;",
+      "page": 21
+    },
+    {
+      "text": "• present information in a way that users can find the information they want without unreasonable effort, for example,",
+      "page": 21
+    },
+    {
+      "text": "through a table of contents, maps, or links;",
+      "page": 21
+    },
+    {
+      "text": "• present information in a way that it can be understood by users who have reasonable knowledge of the",
+      "page": 21
+    },
+    {
+      "text": "organization and its activities;",
+      "page": 21
+    },
+    {
+      "text": "• avoid abbreviations, technical terms, or other jargon likely to be unfamiliar to users or, if these are used, include",
+      "page": 21
+    },
+    {
+      "text": "relevant explanations in the appropriate sections or in a glossary;",
+      "page": 21
+    },
+    {
+      "text": "• report information in a concise way and aggregate information where useful without omitting necessary details;",
+      "page": 21
+    },
+    {
+      "text": "• use graphics and consolidated data tables to make information accessible and understandable.",
+      "page": 21
+    },
+    {
+      "text": "Comparability",
+      "page": 21
+    },
+    {
+      "text": "Requirement",
+      "page": 21
+    },
+    {
+      "text": "in the organization’s impacts over time and an analysis of these impacts relative to those of other",
+      "page": 21
+    },
+    {
+      "text": "organizations.",
+      "page": 21
+    },
+    {
+      "text": "Guidance",
+      "page": 21
+    },
+    {
+      "text": "Information reported in a comparable way enables the organization and other information users to assess the",
+      "page": 21
+    },
+    {
+      "text": "organization’s current impacts against its past impacts and its goals and targets. It also enables external parties to",
+      "page": 21
+    },
+    {
+      "text": "assess and benchmark the organization’s impacts against impacts of other organizations as part of rating activities,",
+      "page": 21
+    },
+    {
+      "text": "investment decisions, and advocacy programs.",
+      "page": 21
+    },
+    {
+      "text": "To apply the Comparability principle, the organization should:",
+      "page": 21
+    },
+    {
+      "text": "• present information for the current reporting period and at least two previous periods, as well as any goals and",
+      "page": 21
+    },
+    {
+      "text": "targets that have been set;",
+      "page": 21
+    },
+    {
+      "text": "• use accepted international metrics (e.g., kilograms, liters), and standard conversion factors and protocols, where",
+      "page": 21
+    },
+    {
+      "text": "applicable, for compiling and reporting information;",
+      "page": 21
+    },
+    {
+      "text": "• maintain consistency in the methods used to measure and calculate data and in explaining the methods and",
+      "page": 21
+    },
+    {
+      "text": "assumptions used;",
+      "page": 21
+    },
+    {
+      "text": "• maintain consistency in the manner of presenting the information;",
+      "page": 21
+    },
+    {
+      "text": "• report total numbers or absolute data (e.g., metric tons of CO equivalent) as well as ratios or normalized data",
+      "page": 21
+    },
+    {
+      "text": "2",
+      "page": 21
+    },
+    {
+      "text": "(e.g., CO emissions per unit produced) to enable comparisons, and provide explanatory notes when using ratios;",
+      "page": 21
+    },
+    {
+      "text": "2",
+      "page": 21
+    },
+    {
+      "text": "22 GRI 1: Foundation 2021",
+      "page": 22
+    },
+    {
+      "text": "• provide contextual information (e.g., the organization’s size, geographic location) to help information users",
+      "page": 22
+    },
+    {
+      "text": "understand the factors that contribute to differences between the organization’s impacts and the impacts of other",
+      "page": 22
+    },
+    {
+      "text": "organizations;",
+      "page": 22
+    },
+    {
+      "text": "• present the current disclosures alongside restatements of historical data to enable comparisons if there have",
+      "page": 22
+    },
+    {
+      "text": "been changes from the information reported previously. This can include changes in the length of the reporting",
+      "page": 22
+    },
+    {
+      "text": "period, in the measurement methodologies, in the definitions used, or in other elements of reporting. The",
+      "page": 22
+    },
+    {
+      "text": "organization is required to report restatements of information under Disclosure 2-4 in GRI 2: General Disclosures",
+      "page": 22
+    },
+    {
+      "text": "2021;",
+      "page": 22
+    },
+    {
+      "text": "• if restatements of historical data are not provided, explain the changes to provide contextual information for",
+      "page": 22
+    },
+    {
+      "text": "interpreting the current disclosures.",
+      "page": 22
+    },
+    {
+      "text": "Completeness",
+      "page": 22
+    },
+    {
+      "text": "Requirement",
+      "page": 22
+    },
+    {
+      "text": "during the reporting period.",
+      "page": 22
+    },
+    {
+      "text": "Guidance",
+      "page": 22
+    },
+    {
+      "text": "To apply the Completeness principle, the organization should:",
+      "page": 22
+    },
+    {
+      "text": "• present activities, events, and impacts for the reporting period in which they occur. This includes reporting",
+      "page": 22
+    },
+    {
+      "text": "information about activities that have a minimal impact in the short-term, but a reasonably foreseeable cumulative",
+      "page": 22
+    },
+    {
+      "text": "impact that can become unavoidable or irreversible in the long-term (e.g., activities that generate bio-accumulative",
+      "page": 22
+    },
+    {
+      "text": "or persistent pollutants);",
+      "page": 22
+    },
+    {
+      "text": "• not omit information that is necessary for understanding the organization’s impacts.",
+      "page": 22
+    },
+    {
+      "text": "If the organization consists of multiple entities (i.e., a parent entity and its subordinate entities), the organization is",
+      "page": 22
+    },
+    {
+      "text": "required to explain the approach used for consolidating the information under 2-2-c in GRI 2: General Disclosures",
+      "page": 22
+    },
+    {
+      "text": "2021.",
+      "page": 22
+    },
+    {
+      "text": "If the information for a disclosure or a requirement in a disclosure for which reasons for omission are permitted is",
+      "page": 22
+    },
+    {
+      "text": "unavailable or incomplete, then the organization is required to provide a reason for omission. When information is",
+      "page": 22
+    },
+    {
+      "text": "incomplete, the organization is required to specify which part is missing (e.g., specify the entities for which the",
+      "page": 22
+    },
+    {
+      "text": "information is missing). See Requirement 6 in this Standard for more information.",
+      "page": 22
+    },
+    {
+      "text": "Sustainability context",
+      "page": 22
+    },
+    {
+      "text": "Requirement",
+      "page": 22
+    },
+    {
+      "text": "Guidance",
+      "page": 22
+    },
+    {
+      "text": "Sustainable development has been defined as ‘development which meets the needs of the present without",
+      "page": 22
+    },
+    {
+      "text": "compromising the ability of future generations to meet their own needs’ [8]. The objective of sustainability reporting",
+      "page": 22
+    },
+    {
+      "text": "using the GRI Standards is to provide transparency on how an organization contributes or aims to contribute to",
+      "page": 22
+    },
+    {
+      "text": "sustainable development. For this purpose, the organization needs to assess and report information about its",
+      "page": 22
+    },
+    {
+      "text": "impacts in the wider context of sustainable development.",
+      "page": 22
+    },
+    {
+      "text": "To apply the Sustainability context principle, the organization should:",
+      "page": 22
+    },
+    {
+      "text": "• draw on objective information and authoritative measures on sustainable development to report information about",
+      "page": 22
+    },
+    {
+      "text": "its impacts (e.g., scientific research or consensus on the limits and demands placed on environmental",
+      "page": 22
+    },
+    {
+      "text": "resources);",
+      "page": 22
+    },
+    {
+      "text": "• report information about its impacts in relation to sustainable development goals and conditions (e.g., reporting",
+      "page": 22
+    },
+    {
+      "text": "total greenhouse gas [GHG] emissions as well as reductions in GHG emissions in relation to the goals set out in",
+      "page": 22
+    },
+    {
+      "text": "the United Nations [UN] Framework Convention on Climate Change [FCCC] Paris Agreement [4]);",
+      "page": 22
+    },
+    {
+      "text": "• report information about its impacts in relation to societal expectations and expectations of responsible business",
+      "page": 22
+    },
+    {
+      "text": "conduct set out in authoritative intergovernmental instruments with which the organization is expected to comply",
+      "page": 22
+    },
+    {
+      "text": "(e.g., Organisation for Economic Co-operation and Development [OECD] Guidelines for Multinational Enterprises",
+      "page": 22
+    },
+    {
+      "text": "[3], UN Guiding Principles on Business and Human Rights [5]) and in other recognized sector-specific, local,",
+      "page": 22
+    },
+    {
+      "text": "regional, or global instruments;",
+      "page": 22
+    },
+    {
+      "text": "• if operating in a range of locations, report information about its impacts in relation to appropriate local contexts",
+      "page": 22
+    },
+    {
+      "text": "(e.g., reporting total water use, as well as water use relative to the sustainable thresholds and the social context of",
+      "page": 22
+    },
+    {
+      "text": "given catchments).",
+      "page": 22
+    },
+    {
+      "text": "23 GRI 1: Foundation 2021",
+      "page": 23
+    },
+    {
+      "text": "Understanding the sustainability context provides the organization with critical information to determine and report on",
+      "page": 23
+    },
+    {
+      "text": "• ensure consistency in the length of reporting periods;",
+      "page": 23
+    },
+    {
+      "text": "• indicate the time period covered by the reported information.",
+      "page": 23
+    },
+    {
+      "text": "See section 5.1 in this Standard for information on aligning the reporting periods and publishing schedules of",
+      "page": 23
+    },
+    {
+      "text": "sustainability reporting and other types of reporting.",
+      "page": 23
+    },
+    {
+      "text": "Verifiability",
+      "page": 23
+    },
+    {
+      "text": "Requirement",
+      "page": 23
+    },
+    {
+      "text": "can be examined to establish its quality.",
+      "page": 23
+    },
+    {
+      "text": "Guidance",
+      "page": 23
+    },
+    {
+      "text": "It is important that the reported information can be examined to establish its veracity and to determine the extent to",
+      "page": 23
+    },
+    {
+      "text": "To apply the Verifiability principle, the organization should:",
+      "page": 23
+    },
+    {
+      "text": "• set up internal controls and organize documentation in such a way that individuals other than those preparing the",
+      "page": 23
+    },
+    {
+      "text": "reported information (e.g., internal auditors, external assurance providers) can review them;",
+      "page": 23
+    },
+    {
+      "text": "• document the decision-making processes underlying the organization’s sustainability reporting in a way that",
+      "page": 23
+    },
+    {
+      "text": "allows for the examination of the key decisions and processes, such as the process of determining material",
+      "page": 23
+    },
+    {
+      "text": "topics;",
+      "page": 23
+    },
+    {
+      "text": "• if the organization designs information systems for its sustainability reporting, design these systems in a way that",
+      "page": 23
+    },
+    {
+      "text": "they can be examined as part of an external assurance process;",
+      "page": 23
+    },
+    {
+      "text": "• be able to identify the original sources of the reported information and provide reliable evidence to support",
+      "page": 23
+    },
+    {
+      "text": "assumptions or calculations;",
+      "page": 23
+    },
+    {
+      "text": "• be able to provide representation from the original sources of the reported information attesting to the accuracy of",
+      "page": 23
+    },
+    {
+      "text": "the information within acceptable margins of error;",
+      "page": 23
+    },
+    {
+      "text": "• avoid including information that is not substantiated by evidence unless it is relevant for understanding the",
+      "page": 23
+    },
+    {
+      "text": "organization’s impacts;",
+      "page": 23
+    },
+    {
+      "text": "• provide clear explanations of any uncertainties associated with the reported information.",
+      "page": 23
+    },
+    {
+      "text": "See section 5.2 in this Standard for more information on enhancing the credibility of the organization’s sustainability",
+      "page": 23
+    },
+    {
+      "text": "reporting.",
+      "page": 23
+    },
+    {
+      "text": "24 GRI 1: Foundation 2021",
+      "page": 24
+    },
+    {
+      "text": "5. Additional recommendations for reporting",
+      "page": 24
+    },
+    {
+      "text": "This section presents recommendations for an organization to align its sustainability reporting with other types of",
+      "page": 24
+    },
+    {
+      "text": "reporting and to enhance the credibility of its sustainability reporting.",
+      "page": 24
+    },
+    {
+      "text": "5.1 Aligning sustainability reporting with other reporting",
+      "page": 24
+    },
+    {
+      "text": "An organization should align its sustainability reporting with other statutory and regulatory reporting, in particular its",
+      "page": 24
+    },
+    {
+      "text": "financial reporting. This means that the organization should report the information for the same reporting period and",
+      "page": 24
+    },
+    {
+      "text": "for the same group of entities as covered in its financial reporting. The organization should also publish the",
+      "page": 24
+    },
+    {
+      "text": "information at the same time as its financial reporting, where this is possible.",
+      "page": 24
+    },
+    {
+      "text": "5.2 Enhancing the credibility of sustainability reporting",
+      "page": 24
+    },
+    {
+      "text": "There are several ways in which an organization can enhance the credibility of its sustainability reporting. These",
+      "page": 24
+    },
+    {
+      "text": "include the use of internal controls, external assurance, and stakeholder or expert panels. The organization is not",
+      "page": 24
+    }
+  ],
+  "process_rules": [
+    {
+      "text": "Standards",
+      "page": 11
+    },
+    {
+      "text": "most significant impacts on the economy, environment, and people, including impacts on their human rights, and",
+      "page": 11
+    },
+    {
+      "text": "how it manages these impacts. This allows information users to make informed assessments and decisions about",
+      "page": 11
+    },
+    {
+      "text": "the organization’s impacts and its contribution to sustainable development.",
+      "page": 11
+    },
+    {
+      "text": "Standards.",
+      "page": 11
+    },
+    {
+      "text": "Overview of in accordance requirements",
+      "page": 11
+    },
+    {
+      "text": "organization’s most significant impacts.",
+      "page": 16
+    },
+    {
+      "text": "The organization is not allowed to use other reasons for omission than those included in Table 1 of this Standard.",
+      "page": 16
+    },
+    {
+      "text": "The organization is required to report reasons for omission in the GRI content index. See Requirement 7 in this",
+      "page": 16
+    },
+    {
+      "text": "Standard for more information on the content index.",
+      "page": 16
+    },
+    {
+      "text": "Requirement 7: Publish a GRI content index",
+      "page": 16
+    },
+    {
+      "text": "with the GRI Standards. It includes an example that the organization can use to prepare the content index. The",
+      "page": 16
+    },
+    {
+      "text": "organization can use a different format for the content index than the one provided in Appendix 1, as long as it",
+      "page": 16
+    },
+    {
+      "text": "complies with the requirements for the content index.",
+      "page": 16
+    },
+    {
+      "text": "Requirement 8: Provide a statement of use",
+      "page": 16
+    },
+    {
+      "text": "[Name of organization] has reported in accordance with the GRI Standards for the period [reporting period",
+      "page": 16
+    },
+    {
+      "text": "start and end dates].",
+      "page": 16
+    },
+    {
+      "text": "Guidance",
+      "page": 16
+    },
+    {
+      "text": "complied with all nine requirements in this section.",
+      "page": 16
+    },
+    {
+      "text": "The organization is required to insert the name of the organization and the start and end dates of its reporting period",
+      "page": 16
+    },
+    {
+      "text": "in the statement, for example:",
+      "page": 16
+    },
+    {
+      "text": "17 GRI 1: Foundation 2021",
+      "page": 17
+    },
+    {
+      "text": "‘ABC Limited has reported in accordance with the GRI Standards for the period from 1 January 2022 to 31 December",
+      "page": 17
+    },
+    {
+      "text": "2022.’",
+      "page": 17
+    },
+    {
+      "text": "The organization is required to report whether the highest governance body is responsible for reviewing and",
+      "page": 17
+    },
+    {
+      "text": "approving the reported information, including the organization’s material topics, under Disclosure 2-14 in GRI 2:",
+      "page": 17
+    },
+    {
+      "text": "General Disclosures 2021.",
+      "page": 17
+    },
+    {
+      "text": "Requirement 9: Notify GRI",
+      "page": 17
+    },
+    {
+      "text": "email to reportregistration@globalreporting.org.",
+      "page": 17
+    },
+    {
+      "text": "Guidance",
+      "page": 17
+    },
+    {
+      "text": "The organization should include the following information in the email:",
+      "page": 17
+    },
+    {
+      "text": "• The legal name of the organization.",
+      "page": 17
+    },
+    {
+      "text": "• The link to the GRI content index.",
+      "page": 17
+    },
+    {
+      "text": "• The link to the report, if publishing a standalone sustainability report.",
+      "page": 17
+    },
+    {
+      "text": "• The statement of use.",
+      "page": 17
+    },
+    {
+      "text": "• A contact person in the organization and their contact details.",
+      "page": 17
+    },
+    {
+      "text": "There is no cost associated with notifying GRI of the use of the GRI Standards.",
+      "page": 17
+    },
+    {
+      "text": "18 GRI 1: Foundation 2021",
+      "page": 18
+    },
+    {
+      "text": "Reporting with reference to the GRI Standards",
+      "page": 18
+    },
+    {
+      "text": "An organization can report with reference to the GRI Standards if it cannot comply with all the requirements for",
+      "page": 18
+    },
+    {
+      "text": "GRI Standards in time as it will provide a comprehensive picture of the organization’s most significant impacts on the",
+      "page": 18
+    },
+    {
+      "text": "economy, environment, and people, including impacts on their human rights.",
+      "page": 18
+    },
+    {
+      "text": "The organization can also report with reference to the GRI Standards if it uses selected GRI Standards, or parts of",
+      "page": 18
+    },
+    {
+      "text": "their content, to report information about specific topics for specific purposes, such as complying with a reporting",
+      "page": 18
+    },
+    {
+      "text": "regulation on climate change.",
+      "page": 18
+    },
+    {
+      "text": "statement of use for reporting with reference to the GRI Standards.",
+      "page": 18
+    },
+    {
+      "text": "19 GRI 1: Foundation 2021",
+      "page": 19
+    },
+    {
+      "text": "Provide a statement of use",
+      "page": 19
+    },
+    {
+      "text": "[Name of organization] has reported the information cited in this GRI content index for the period [reporting",
+      "page": 19
+    },
+    {
+      "text": "period start and end dates] with reference to the GRI Standards.",
+      "page": 19
+    },
+    {
+      "text": "Guidance",
+      "page": 19
+    },
+    {
+      "text": "with all three requirements in this section.",
+      "page": 19
+    },
+    {
+      "text": "The organization is required to insert the name of the organization and the start and end dates of its reporting period",
+      "page": 19
+    },
+    {
+      "text": "in the statement, for example:",
+      "page": 19
+    },
+    {
+      "text": "‘ABC Limited has reported the information cited in this GRI content index for the period from 1 January 2022 to 31",
+      "page": 19
+    },
+    {
+      "text": "December 2022 with reference to the GRI Standards.’",
+      "page": 19
+    },
+    {
+      "text": "Notify GRI",
+      "page": 19
+    },
+    {
+      "text": "email to reportregistration@globalreporting.org.",
+      "page": 19
+    },
+    {
+      "text": "Guidance",
+      "page": 19
+    },
+    {
+      "text": "The organization should include the following information in the email:",
+      "page": 19
+    },
+    {
+      "text": "• The legal name of the organization.",
+      "page": 19
+    },
+    {
+      "text": "• The link to the GRI content index.",
+      "page": 19
+    },
+    {
+      "text": "• The link to the report, if publishing a standalone sustainability report.",
+      "page": 19
+    },
+    {
+      "text": "• The statement of use.",
+      "page": 19
+    },
+    {
+      "text": "• A contact person in the organization and their contact details.",
+      "page": 19
+    },
+    {
+      "text": "There is no cost associated with notifying GRI of the use of the GRI Standards.",
+      "page": 19
+    },
+    {
+      "text": "20 GRI 1: Foundation 2021",
+      "page": 20
+    },
+    {
+      "text": "Internal controls",
+      "page": 24
+    },
+    {
+      "text": "The organization should set up internal controls to strengthen the integrity and credibility of its sustainability reporting.",
+      "page": 24
+    },
+    {
+      "text": "Internal controls are processes designed and implemented by the organization, generally its management, to provide",
+      "page": 24
+    },
+    {
+      "text": "reasonable assurance regarding the achievement of its objectives.",
+      "page": 24
+    },
+    {
+      "text": "Internal controls can be implemented in day-to-day operations and through compliance functions. The organization",
+      "page": 24
+    },
+    {
+      "text": "can also establish and maintain an internal audit function as part of its processes for risk management to further",
+      "page": 24
+    },
+    {
+      "text": "improve the credibility of its sustainability reporting.",
+      "page": 24
+    },
+    {
+      "text": "In some jurisdictions, corporate governance codes require the highest governance body to inquire and, if it is",
+      "page": 24
+    },
+    {
+      "text": "satisfied, to confirm the adequacy of an organization’s internal controls in the annual report. This confirmation may",
+      "page": 24
+    },
+    {
+      "text": "only relate to the adequacy of the internal controls for financial reporting. It may not provide information about whether",
+      "page": 24
+    },
+    {
+      "text": "the same internal controls are also adequate to assess the credibility of the organization’s sustainability reporting. If",
+      "page": 24
+    },
+    {
+      "text": "the organization relies on internal controls set up for financial reporting, it should assess the relevance of these",
+      "page": 24
+    },
+    {
+      "text": "controls for its sustainability reporting. In cases where these controls are inadequate, the organization should identify",
+      "page": 24
+    },
+    {
+      "text": "and use additional internal controls to assess the credibility of its sustainability reporting.",
+      "page": 24
+    },
+    {
+      "text": "External assurance",
+      "page": 24
+    },
+    {
+      "text": "In addition to internal controls, the organization should seek external assurance for its sustainability reporting.",
+      "page": 24
+    },
+    {
+      "text": "Disclosure 2-5 in GRI 2: General Disclosures 2021 requires the organization to describe its policy and practice for",
+      "page": 24
+    },
+    {
+      "text": "seeking external assurance for its sustainability reporting. If the sustainability reporting has been externally assured,",
+      "page": 24
+    },
+    {
+      "text": "the organization is also required to describe what was assured and on what basis.",
+      "page": 24
+    },
+    {
+      "text": "External assurance comprises activities carried out by assurance providers to assess the quality and credibility of the",
+      "page": 24
+    },
+    {
+      "text": "qualitative and quantitative information reported by the organization. External assurance can also be used to assess",
+      "page": 24
+    },
+    {
+      "text": "the organization's systems or processes to prepare the information (e.g., the process of determining material topics).",
+      "page": 24
+    },
+    {
+      "text": "External assurance is different from activities used to assess or validate the performance, such as compliance",
+      "page": 24
+    },
+    {
+      "text": "assessments or the issuing of performance certifications.",
+      "page": 24
+    },
+    {
+      "text": "External assurance results in published assurance reports or conclusions that can be used to verify that the",
+      "page": 24
+    },
+    {
+      "text": "information has been prepared in accordance with reporting standards. It can also be used to reduce risk in data",
+      "page": 24
+    },
+    {
+      "text": "quality and increase trust in the reported information. This, in turn, helps information users and the organization rely",
+      "page": 24
+    },
+    {
+      "text": "on the reported information for their decision-making.",
+      "page": 24
+    },
+    {
+      "text": "External assurance should be conducted by competent assurance providers with appropriate experience and",
+      "page": 24
+    },
+    {
+      "text": "qualifications. Assurance providers should be:",
+      "page": 24
+    },
+    {
+      "text": "• independent from the organization and therefore able to reach impartial and objective conclusions about the",
+      "page": 24
+    },
+    {
+      "text": "organization’s reporting and to publish these conclusions in a report that is publicly available;",
+      "page": 24
+    },
+    {
+      "text": "• demonstrably competent in the subject matter and assurance practices;",
+      "page": 24
+    },
+    {
+      "text": "25 GRI 1: Foundation 2021",
+      "page": 25
+    },
+    {
+      "text": "• competent in applying quality control procedures to the assurance engagement;",
+      "page": 25
+    },
+    {
+      "text": "• able to conduct the engagement in a manner that is systematic, documented, evidence-based, and characterized",
+      "page": 25
+    },
+    {
+      "text": "by defined procedures in line with professional standards for assurance;",
+      "page": 25
+    },
+    {
+      "text": "• able to consider the selection of the information reported as well as its accuracy, and to assess whether the",
+      "page": 25
+    },
+    {
+      "text": "reporting provides a comprehensive picture of the organization’s most significant impacts and how it manages",
+      "page": 25
+    },
+    {
+      "text": "these impacts;",
+      "page": 25
+    },
+    {
+      "text": "• able to assess the extent to which the organization has applied the GRI Standards in formulating opinions or",
+      "page": 25
+    },
+    {
+      "text": "reaching conclusions.",
+      "page": 25
+    },
+    {
+      "text": "Stakeholder or expert panels",
+      "page": 25
+    },
+    {
+      "text": "The organization can also convene a stakeholder or expert panel to seek views on its approach to sustainability",
+      "page": 25
+    },
+    {
+      "text": "reporting or for advice on the information to be reported.",
+      "page": 25
+    },
+    {
+      "text": "26 GRI 1: Foundation 2021",
+      "page": 26
+    },
+    {
+      "text": "Glossary",
+      "page": 26
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 26
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 26
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 26
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 26
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 26
+    },
+    {
+      "text": "business partner",
+      "page": 26
+    },
+    {
+      "text": "entity with which the organization has some form of direct and formal engagement for the",
+      "page": 26
+    },
+    {
+      "text": "purpose of meeting its business objectives",
+      "page": 26
+    },
+    {
+      "text": "Source: Shift and Mazars LLP, UN Guiding Principles Reporting Framework, 2015; modified",
+      "page": 26
+    },
+    {
+      "text": "Examples: affiliates, business-to-business customers, clients, first-tier suppliers, franchisees,",
+      "page": 26
+    },
+    {
+      "text": "joint venture partners, investee companies in which the organization has a",
+      "page": 26
+    },
+    {
+      "text": "shareholding position",
+      "page": 26
+    },
+    {
+      "text": "Note: Business partners do not include subsidiaries and affiliates that the organization",
+      "page": 26
+    },
+    {
+      "text": "controls.",
+      "page": 26
+    },
+    {
+      "text": "business relationships",
+      "page": 26
+    },
+    {
+      "text": "relationships that the organization has with business partners, with entities in its value chain",
+      "page": 26
+    },
+    {
+      "text": "including those beyond the first tier, and with any other entities directly linked to its operations,",
+      "page": 26
+    },
+    {
+      "text": "products, or services",
+      "page": 26
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 26
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 26
+    },
+    {
+      "text": "modified",
+      "page": 26
+    },
+    {
+      "text": "Note: Examples of other entities directly linked to the organization’s operations, products,",
+      "page": 26
+    },
+    {
+      "text": "or services are a non-governmental organization with which the organization",
+      "page": 26
+    },
+    {
+      "text": "delivers support to a local community or state security forces that protect the",
+      "page": 26
+    },
+    {
+      "text": "organization’s facilities.",
+      "page": 26
+    },
+    {
+      "text": "child",
+      "page": 26
+    },
+    {
+      "text": "person under the age of 15 years, or under the age of completion of compulsory schooling,",
+      "page": 26
+    },
+    {
+      "text": "whichever is higher",
+      "page": 26
+    },
+    {
+      "text": "Note 1: Exceptions can occur in certain countries where economies and educational",
+      "page": 26
+    },
+    {
+      "text": "facilities are insufficiently developed, and a minimum age of 14 years applies.",
+      "page": 26
+    },
+    {
+      "text": "These countries of exception are specified by the International Labour Organization",
+      "page": 26
+    },
+    {
+      "text": "(ILO) in response to a special application by the country concerned and in",
+      "page": 26
+    },
+    {
+      "text": "consultation with representative organizations of employers and workers.",
+      "page": 26
+    },
+    {
+      "text": "Note 2: The ILO Minimum Age Convention, 1973, (No. 138), refers to both child labor and",
+      "page": 26
+    },
+    {
+      "text": "young workers.",
+      "page": 26
+    },
+    {
+      "text": "due diligence",
+      "page": 26
+    },
+    {
+      "text": "process to identify, prevent, mitigate, and account for how the organization addresses its actual",
+      "page": 26
+    },
+    {
+      "text": "and potential negative impacts",
+      "page": 26
+    },
+    {
+      "text": "Source: Organisation for Economic Co-operation and Development (OECD), OECD",
+      "page": 26
+    },
+    {
+      "text": "Guidelines for Multinational Enterprises, 2011; modified",
+      "page": 26
+    },
+    {
+      "text": "United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 26
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 26
+    },
+    {
+      "text": "modified",
+      "page": 26
+    },
+    {
+      "text": "Note: See section 2.3 in GRI 1: Foundation 2021 for more information on ‘due diligence’.",
+      "page": 26
+    },
+    {
+      "text": "employee",
+      "page": 26
+    },
+    {
+      "text": "individual who is in an employment relationship with the organization according to national law",
+      "page": 26
+    },
+    {
+      "text": "27 GRI 1: Foundation 2021",
+      "page": 27
+    },
+    {
+      "text": "or practice",
+      "page": 27
+    },
+    {
+      "text": "governance body",
+      "page": 27
+    },
+    {
+      "text": "formalized group of individuals responsible for the strategic guidance of the organization, the",
+      "page": 27
+    },
+    {
+      "text": "effective monitoring of management, and the accountability of management to the broader",
+      "page": 27
+    },
+    {
+      "text": "organization and its stakeholders",
+      "page": 27
+    },
+    {
+      "text": "highest governance body",
+      "page": 27
+    },
+    {
+      "text": "governance body with the highest authority in the organization",
+      "page": 27
+    },
+    {
+      "text": "Note: In some jurisdictions, governance systems consist of two tiers, where supervision",
+      "page": 27
+    },
+    {
+      "text": "and management are separated or where local law provides for a supervisory",
+      "page": 27
+    },
+    {
+      "text": "board drawn from non-executives to oversee an executive management board. In",
+      "page": 27
+    },
+    {
+      "text": "such cases, both tiers are included under the definition of highest governance",
+      "page": 27
+    },
+    {
+      "text": "body.",
+      "page": 27
+    },
+    {
+      "text": "human rights",
+      "page": 27
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 27
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 27
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 27
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 27
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 27
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 27
+    },
+    {
+      "text": "modified",
+      "page": 27
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 27
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 27
+    },
+    {
+      "text": "impact",
+      "page": 27
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 27
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 27
+    },
+    {
+      "text": "development",
+      "page": 27
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 27
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 27
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 27
+    },
+    {
+      "text": "Indigenous Peoples",
+      "page": 27
+    },
+    {
+      "text": "Indigenous Peoples are generally identified as:",
+      "page": 27
+    },
+    {
+      "text": "• tribal peoples in independent countries whose social, cultural and economic conditions",
+      "page": 27
+    },
+    {
+      "text": "distinguish them from other sections of the national community, and whose status is",
+      "page": 27
+    },
+    {
+      "text": "regulated wholly or partially by their own customs or traditions or by special laws or",
+      "page": 27
+    },
+    {
+      "text": "regulations;",
+      "page": 27
+    },
+    {
+      "text": "• peoples in independent countries who are regarded as indigenous on account of their",
+      "page": 27
+    },
+    {
+      "text": "descent from the populations which inhabited the country, or a geographical region to which",
+      "page": 27
+    },
+    {
+      "text": "the country belongs, at the time of conquest or colonization or the establishment of present",
+      "page": 27
+    },
+    {
+      "text": "state boundaries and who, irrespective of their legal status, retain some or all of their own",
+      "page": 27
+    },
+    {
+      "text": "social, economic, cultural and political institutions.",
+      "page": 27
+    },
+    {
+      "text": "Source: International Labour Organization (ILO), Indigenous and Tribal Peoples Convention,",
+      "page": 27
+    },
+    {
+      "text": "1989 (No. 169)",
+      "page": 27
+    },
+    {
+      "text": "local community",
+      "page": 27
+    },
+    {
+      "text": "individuals or groups of individuals living or working in areas that are affected or that could be",
+      "page": 27
+    },
+    {
+      "text": "affected by the organization’s activities",
+      "page": 27
+    },
+    {
+      "text": "Note: The local community can range from those living adjacent to the organization’s",
+      "page": 27
+    },
+    {
+      "text": "operations to those living at a distance.",
+      "page": 27
+    },
+    {
+      "text": "material topics",
+      "page": 27
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 27
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 27
+    },
+    {
+      "text": "28 GRI 1: Foundation 2021",
+      "page": 28
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 28
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 28
+    },
+    {
+      "text": "mitigation",
+      "page": 28
+    },
+    {
+      "text": "action(s) taken to reduce the extent of a negative impact",
+      "page": 28
+    },
+    {
+      "text": "Source: United Nations (UN), The Corporate Responsibility to Respect Human Rights: An",
+      "page": 28
+    },
+    {
+      "text": "Interpretive Guide, 2012; modified",
+      "page": 28
+    },
+    {
+      "text": "Note: The mitigation of an actual negative impact refers to actions taken to reduce the",
+      "page": 28
+    },
+    {
+      "text": "severity of the negative impact that has occurred, with any residual impact needing",
+      "page": 28
+    },
+    {
+      "text": "remediation. The mitigation of a potential negative impact refers to actions taken to",
+      "page": 28
+    },
+    {
+      "text": "reduce the likelihood of the negative impact occurring.",
+      "page": 28
+    },
+    {
+      "text": "remedy / remediation",
+      "page": 28
+    },
+    {
+      "text": "means to counteract or make good a negative impact or provision of remedy",
+      "page": 28
+    },
+    {
+      "text": "Source: United Nations (UN), The Corporate Responsibility to Respect Human Rights: An",
+      "page": 28
+    },
+    {
+      "text": "Interpretive Guide, 2012; modified",
+      "page": 28
+    },
+    {
+      "text": "Examples: apologies, financial or non-financial compensation, prevention of harm through",
+      "page": 28
+    },
+    {
+      "text": "injunctions or guarantees of non-repetition, punitive sanctions (whether criminal or",
+      "page": 28
+    },
+    {
+      "text": "administrative, such as fines), restitution, restoration, rehabilitation",
+      "page": 28
+    },
+    {
+      "text": "reporting period",
+      "page": 28
+    },
+    {
+      "text": "specific time period covered by the reported information",
+      "page": 28
+    },
+    {
+      "text": "Examples: fiscal year, calendar year",
+      "page": 28
+    },
+    {
+      "text": "severity (of an impact)",
+      "page": 28
+    },
+    {
+      "text": "The severity of an actual or potential negative impact is determined by its scale (i.e., how grave",
+      "page": 28
+    },
+    {
+      "text": "the impact is), scope (i.e., how widespread the impact is), and irremediable character (how hard",
+      "page": 28
+    },
+    {
+      "text": "it is to counteract or make good the resulting harm).",
+      "page": 28
+    },
+    {
+      "text": "Source: Organisation for Economic Co-operation and Development (OECD), OECD Due",
+      "page": 28
+    },
+    {
+      "text": "Diligence Guidance for Responsible Business Conduct, 2018; modified",
+      "page": 28
+    },
+    {
+      "text": "United Nations (UN), The Corporate Responsibility to Respect Human Rights: An",
+      "page": 28
+    },
+    {
+      "text": "Interpretive Guide, 2012; modified",
+      "page": 28
+    },
+    {
+      "text": "Note: See section 1 in GRI 3: Material Topics 2021 for more information on ‘severity’.",
+      "page": 28
+    },
+    {
+      "text": "stakeholder",
+      "page": 28
+    },
+    {
+      "text": "individual or group that has an interest that is affected or could be affected by the organization’s",
+      "page": 28
+    },
+    {
+      "text": "activities",
+      "page": 28
+    },
+    {
+      "text": "Source: Organisation for Economic Co-operation and Development (OECD), OECD Due",
+      "page": 28
+    },
+    {
+      "text": "Diligence Guidance for Responsible Business Conduct, 2018; modified",
+      "page": 28
+    },
+    {
+      "text": "Examples: business partners, civil society organizations, consumers, customers, employees",
+      "page": 28
+    },
+    {
+      "text": "and other workers, governments, local communities, non-governmental",
+      "page": 28
+    },
+    {
+      "text": "organizations, shareholders and other investors, suppliers, trade unions,",
+      "page": 28
+    },
+    {
+      "text": "vulnerable groups",
+      "page": 28
+    },
+    {
+      "text": "Note: See section 2.4 in GRI 1: Foundation 2021 for more information on ‘stakeholder’.",
+      "page": 28
+    },
+    {
+      "text": "supplier",
+      "page": 28
+    },
+    {
+      "text": "entity upstream from the organization (i.e., in the organization’s supply chain), which provides a",
+      "page": 28
+    },
+    {
+      "text": "product or service that is used in the development of the organization’s own products or services",
+      "page": 28
+    },
+    {
+      "text": "Examples: brokers, consultants, contractors, distributors, franchisees, home workers,",
+      "page": 28
+    },
+    {
+      "text": "independent contractors, licensees, manufacturers, primary producers, sub-",
+      "page": 28
+    },
+    {
+      "text": "contractors, wholesalers",
+      "page": 28
+    },
+    {
+      "text": "Note: A supplier can have a direct business relationship with the organization (often",
+      "page": 28
+    },
+    {
+      "text": "referred to as a first-tier supplier) or an indirect business relationship.",
+      "page": 28
+    },
+    {
+      "text": "29 GRI 1: Foundation 2021",
+      "page": 29
+    },
+    {
+      "text": "supply chain",
+      "page": 29
+    },
+    {
+      "text": "range of activities carried out by entities upstream from the organization, which provide products",
+      "page": 29
+    },
+    {
+      "text": "or services that are used in the development of the organization’s own products or services",
+      "page": 29
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 29
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 29
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 29
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 29
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 29
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 29
+    },
+    {
+      "text": "value chain",
+      "page": 29
+    },
+    {
+      "text": "range of activities carried out by the organization, and by entities upstream and downstream",
+      "page": 29
+    },
+    {
+      "text": "from the organization, to bring the organization’s products or services from their conception to",
+      "page": 29
+    },
+    {
+      "text": "their end use",
+      "page": 29
+    },
+    {
+      "text": "Note 1: Entities upstream from the organization (e.g., suppliers) provide products or",
+      "page": 29
+    },
+    {
+      "text": "services that are used in the development of the organization’s own products or",
+      "page": 29
+    },
+    {
+      "text": "services. Entities downstream from the organization (e.g., distributors, customers)",
+      "page": 29
+    },
+    {
+      "text": "receive products or services from the organization.",
+      "page": 29
+    },
+    {
+      "text": "Note 2: The value chain includes the supply chain.",
+      "page": 29
+    },
+    {
+      "text": "vulnerable group",
+      "page": 29
+    },
+    {
+      "text": "group of individuals with a specific condition or characteristic (e.g., economic, physical, political,",
+      "page": 29
+    },
+    {
+      "text": "social) that could experience negative impacts as a result of the organization’s activities more",
+      "page": 29
+    },
+    {
+      "text": "severely than the general population",
+      "page": 29
+    },
+    {
+      "text": "Examples: children and youth; elderly persons; ex-combatants; HIV/AIDS-affected households;",
+      "page": 29
+    },
+    {
+      "text": "human rights defenders; Indigenous Peoples; internally displaced persons;",
+      "page": 29
+    },
+    {
+      "text": "migrant workers and their families; national or ethnic, religious and linguistic",
+      "page": 29
+    },
+    {
+      "text": "minorities; persons who might be discriminated against based on their sexual",
+      "page": 29
+    },
+    {
+      "text": "orientation, gender identity, gender expression, or sex characteristics (e.g., lesbian,",
+      "page": 29
+    },
+    {
+      "text": "gay, bisexual, transgender, intersex); persons with disabilities; refugees or",
+      "page": 29
+    },
+    {
+      "text": "returning refugees; women",
+      "page": 29
+    },
+    {
+      "text": "Note: Vulnerabilities and impacts can differ by gender.",
+      "page": 29
+    },
+    {
+      "text": "worker",
+      "page": 29
+    },
+    {
+      "text": "person that performs work for the organization",
+      "page": 29
+    },
+    {
+      "text": "Examples: employees, agency workers, apprentices, contractors, home workers, interns, self-",
+      "page": 29
+    },
+    {
+      "text": "employed persons, sub-contractors, volunteers, and persons working for",
+      "page": 29
+    },
+    {
+      "text": "organizations other than the reporting organization, such as for suppliers",
+      "page": 29
+    },
+    {
+      "text": "Note: In the GRI Standards, in some cases, it is specified whether a particular subset of",
+      "page": 29
+    },
+    {
+      "text": "workers is required to be used.",
+      "page": 29
+    },
+    {
+      "text": "Bibliography",
+      "page": 29
+    },
+    {
+      "text": "30 GRI 1: Foundation 2021",
+      "page": 30
+    },
+    {
+      "text": "Bibliography",
+      "page": 30
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments used in developing this Standard.",
+      "page": 30
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 30
+    },
+    {
+      "text": "1. International Labour Organization (ILO), Tripartite Declaration of Principles concerning Multinational Enterprises",
+      "page": 30
+    },
+    {
+      "text": "and Social Policy, 2017.",
+      "page": 30
+    },
+    {
+      "text": "2. Organisation for Economic Co-operation and Development (OECD), OECD Due Diligence Guidance for",
+      "page": 30
+    },
+    {
+      "text": "Responsible Business Conduct, 2018.",
+      "page": 30
+    },
+    {
+      "text": "3. Organisation for Economic Co-operation and Development (OECD), OECD Guidelines for Multinational",
+      "page": 30
+    },
+    {
+      "text": "Enterprises, 2011.",
+      "page": 30
+    },
+    {
+      "text": "4. United Nations (UN), Framework Convention on Climate Change (FCCC) Paris Agreement, 2015.",
+      "page": 30
+    },
+    {
+      "text": "5. United Nations (UN), Guiding Principles on Business and Human Rights: Implementing the United Nations",
+      "page": 30
+    },
+    {
+      "text": "“Protect, Respect and Remedy” Framework, 2011.",
+      "page": 30
+    },
+    {
+      "text": "6. United Nations (UN), Protect, Respect and Remedy: a Framework for Business and Human Rights, 2008.",
+      "page": 30
+    },
+    {
+      "text": "7. United Nations (UN), Report of the Special Representative of the Secretary-General on the Issue of Human",
+      "page": 30
+    },
+    {
+      "text": "Rights and Transnational Corporations and Other Business Enterprises, John Ruggie, 2011.",
+      "page": 30
+    },
+    {
+      "text": "8. World Commission on Environment and Development, Our Common Future, 1987.",
+      "page": 30
+    },
+    {
+      "text": "Appendix 1. GRI content index in accordance",
+      "page": 30
+    },
+    {
+      "text": "31 GRI 1: Foundation 2021",
+      "page": 31
+    },
+    {
+      "text": "Appendix 1. GRI content index in accordance",
+      "page": 31
+    },
+    {
+      "text": "GRI content index",
+      "page": 31
+    },
+    {
+      "text": "Statement of use [Name of organization] has reported in accordance with the GRI",
+      "page": 31
+    },
+    {
+      "text": "Standards for the period [reporting period start and end dates].",
+      "page": 31
+    },
+    {
+      "text": "GRI 1 used GRI 1: Foundation 2021",
+      "page": 31
+    },
+    {
+      "text": "Standards. It includes an example that the organization can use to prepare the content index. The organization can",
+      "page": 33
+    },
+    {
+      "text": "use a different format for the content index than the one provided here, as long as it complies with the requirements",
+      "page": 33
+    },
+    {
+      "text": "for the content index specified in Requirement 7 in this Standard.",
+      "page": 33
+    },
+    {
+      "text": "The organization can include additional information in the content index, beyond what is required by the GRI",
+      "page": 33
+    },
+    {
+      "text": "Standards. For example, the organization can show how the disclosures it has reported using the GRI Standards are",
+      "page": 33
+    },
+    {
+      "text": "related to those required by other reporting standards or frameworks.",
+      "page": 33
+    },
+    {
+      "text": "The organization should make sure that such additions do not compromise the readability of the content index. This",
+      "page": 33
+    },
+    {
+      "text": "can be done by providing any additional information in separate columns or rows that are included at the end of the",
+      "page": 33
+    },
+    {
+      "text": "content index, after all the required information has been specified.",
+      "page": 33
+    },
+    {
+      "text": "The organization should not report the information required by the disclosures directly in the content index. Exceptions",
+      "page": 33
+    },
+    {
+      "text": "can be made if the information is brief and easier to find in the content index than in other locations (e.g., information",
+      "page": 33
+    },
+    {
+      "text": "on the reporting period may be easier to find when stated directly in the content index); or to report that an item (e.g.,",
+      "page": 33
+    },
+    {
+      "text": "committee, policy, practice, process) specified in a disclosure does not exist. Detailed reporting in the content index",
+      "page": 33
+    },
+    {
+      "text": "should be avoided.",
+      "page": 33
+    },
+    {
+      "text": "Statement of use",
+      "page": 33
+    },
+    {
+      "text": "The organization is required to include in the GRI content index the statement of use for",
+      "page": 33
+    },
+    {
+      "text": "this Standard. See Requirement 8 in this Standard for more information on the",
+      "page": 33
+    },
+    {
+      "text": "statement of use.",
+      "page": 33
+    },
+    {
+      "text": "GRI 1 used",
+      "page": 33
+    },
+    {
+      "text": "The organization is required to include in the GRI content index the title of GRI 1 it has",
+      "page": 33
+    },
+    {
+      "text": "used, as specified in Requirement 7-a-iii in this Standard. The title of GRI 1 includes",
+      "page": 33
+    },
+    {
+      "text": "the number, name, and publication year (e.g., GRI 1: Foundation 2021).",
+      "page": 33
+    },
+    {
+      "text": "GRI 1 does not contain disclosures, but it does specify the requirements for reporting",
+      "page": 33
+    },
+    {
+      "text": "in accordance with the GRI Standards. The GRI Standards are regularly updated, and",
+      "page": 33
+    },
+    {
+      "text": "with the GRI Standards than its previous version. Indicating which version of GRI 1 the",
+      "page": 33
+    },
+    {
+      "text": "Standards in Appendix 1, if suitable. In such a case, the statement of use in Appendix 1, which is for reporting in",
+      "page": 36
+    },
+    {
+      "text": "Standards.",
+      "page": 36
+    },
+    {
+      "text": "The organization can include additional information in the content index, beyond what is required by the GRI",
+      "page": 36
+    },
+    {
+      "text": "Standards. For example, the organization can show how the disclosures it has reported using the GRI Standards are",
+      "page": 36
+    },
+    {
+      "text": "related to those required by other reporting standards or frameworks.",
+      "page": 36
+    },
+    {
+      "text": "The organization should make sure that such additions do not compromise the readability of the content index. This",
+      "page": 36
+    },
+    {
+      "text": "can be done by providing any additional information in separate columns or rows that are included at the end of the",
+      "page": 36
+    },
+    {
+      "text": "content index, after all the required information has been specified.",
+      "page": 36
+    },
+    {
+      "text": "The organization should not report the information required by the disclosures directly in the content index. Exceptions",
+      "page": 36
+    },
+    {
+      "text": "can be made if the information is brief and easier to find in the content index than in other locations (e.g., information",
+      "page": 36
+    },
+    {
+      "text": "on the reporting period may be easier to find when stated directly in the content index). Detailed reporting in the",
+      "page": 36
+    },
+    {
+      "text": "content index should be avoided.",
+      "page": 36
+    },
+    {
+      "text": "8 GRI 1: Foundation 2021",
+      "page": 37
+    },
+    {
+      "text": "Statement of use",
+      "page": 37
+    },
+    {
+      "text": "The organization is required to include in the GRI content index the statement of use for",
+      "page": 37
+    },
+    {
+      "text": "reporting with reference to the GRI Standards, as specified in Requirement a-ii in",
+      "page": 37
+    },
+    {
+      "text": "‘Reporting with reference to the GRI Standards’ at the end of section 3 of this Standard.",
+      "page": 37
+    },
+    {
+      "text": "See the requirement to provide a statement of use in ‘Reporting with reference to the",
+      "page": 37
+    },
+    {
+      "text": "GRI Standards’ at the end of section 3 of this Standard for more information on the",
+      "page": 37
+    },
+    {
+      "text": "statement of use.",
+      "page": 37
+    },
+    {
+      "text": "GRI 1 used",
+      "page": 37
+    },
+    {
+      "text": "The organization is required to include in the GRI content index the title of GRI 1 it has",
+      "page": 37
+    },
+    {
+      "text": "used, as specified in Requirement a-iii in ‘Reporting with reference to the GRI",
+      "page": 37
+    },
+    {
+      "text": "Standards’ at the end of section 3 of this Standard. The title of GRI 1 includes the",
+      "page": 37
+    },
+    {
+      "text": "number, name, and publication year (e.g., GRI 1: Foundation 2021).",
+      "page": 37
+    },
+    {
+      "text": "GRI 1 does not contain disclosures, but it does specify the requirements for reporting",
+      "page": 37
+    },
+    {
+      "text": "with reference to the GRI Standards. The GRI Standards are regularly updated, and a",
+      "page": 37
+    },
+    {
+      "text": "newer version of GRI 1 may have different requirements for reporting with reference to",
+      "page": 37
+    },
+    {
+      "text": "the GRI Standards than its previous version. Indicating which version of GRI 1 the",
+      "page": 37
+    },
+    {
+      "text": "Titles of the GRI Standards of reported disclosures",
+      "page": 37
+    },
+    {
+      "text": "The organization is required to include in the GRI content index the titles of all the GRI",
+      "page": 37
+    },
+    {
+      "text": "Standards it has used to report disclosures, as specified in Requirement a-v in",
+      "page": 37
+    },
+    {
+      "text": "‘Reporting with reference to the GRI Standards’ at the end of section 3 of this Standard.",
+      "page": 37
+    },
+    {
+      "text": "These can include GRI 2: General Disclosures 2021, GRI 3: Material Topics 2021, the",
+      "page": 37
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "material topics.",
+      "page": 5
+    },
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 5
+    },
+    {
+      "text": "An organization begins by consulting GRI 1: Foundation 2021. GRI 1 introduces the purpose and system of GRI",
+      "page": 5
+    },
+    {
+      "text": "Standards and explains key concepts for sustainability reporting. It also specifies the requirements and reporting",
+      "page": 5
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 5
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies. This information",
+      "page": 5
+    },
+    {
+      "text": "gives insight into the profile and scale of the organization and provides a context for understanding the organization’s",
+      "page": 5
+    },
+    {
+      "text": "impacts.",
+      "page": 5
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides step-by-step guidance on how to determine material topics. GRI 3 also contains",
+      "page": 5
+    },
+    {
+      "text": "disclosures that the organization uses to report information about its process of determining material topics, its list of",
+      "page": 5
+    },
+    {
+      "text": "material topics, and how it manages each topic.",
+      "page": 5
+    },
+    {
+      "text": "information to report for the material topics.",
+      "page": 5
+    },
+    {
+      "text": "Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "The Topic Standards contain disclosures for the organization to report information about its impacts in relation to",
+      "page": 5
+    },
+    {
+      "text": "particular topics. The Topic Standards cover a wide range of topics. The organization uses the Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "according to the list of material topics it has determined using GRI 3.",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 1: Foundation 2021",
+      "page": 6
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 6
+    },
+    {
+      "text": "GRI Standards",
+      "page": 6
+    },
+    {
+      "text": "Requirements and",
+      "page": 6
+    },
+    {
+      "text": "principles for using the",
+      "page": 6
+    },
+    {
+      "text": "GRI Standards",
+      "page": 6
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 6
+    },
+    {
+      "text": "reporting organization",
+      "page": 6
+    },
+    {
+      "text": "Disclosures and",
+      "page": 6
+    },
+    {
+      "text": "guidance about the",
+      "page": 6
+    },
+    {
+      "text": "organization's material",
+      "page": 6
+    },
+    {
+      "text": "topics",
+      "page": 6
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 6
+    },
+    {
+      "text": "material topics",
+      "page": 6
+    },
+    {
+      "text": "1.4 Using the GRI Standards",
+      "page": 6
+    },
+    {
+      "text": "All disclosures in the GRI Standards contain requirements. The requirements list information that an organization",
+      "page": 6
+    },
+    {
+      "text": "Standards.",
+      "page": 6
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure for which reasons for",
+      "page": 6
+    },
+    {
+      "text": "omission are permitted (e.g., because the required information is confidential or subject to legal prohibitions), then",
+      "page": 6
+    },
+    {
+      "text": "the organization is required to specify the disclosure or the requirement it cannot comply with, and provide a reason",
+      "page": 6
+    },
+    {
+      "text": "for omission with an explanation in the GRI content index. See Requirement 6 in this Standard for more information",
+      "page": 6
+    },
+    {
+      "text": "on reasons for omission.",
+      "page": 6
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 6
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 6
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item or describe any plans to develop it. The",
+      "page": 6
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but it is required to",
+      "page": 6
+    },
+    {
+      "text": "report that the item does not exist.",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout the GRI Standards:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 1: Foundation 2021",
+      "page": 7
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 7
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 7
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 7
+    },
+    {
+      "text": "Reporting format",
+      "page": 7
+    },
+    {
+      "text": "In the GRI Standards, the term ‘sustainability reporting’ refers to the process of reporting, which starts with an",
+      "page": 7
+    },
+    {
+      "text": "organization determining its material topics based on its most significant impacts and results in the organization",
+      "page": 7
+    },
+    {
+      "text": "publicly reporting information about these impacts.",
+      "page": 7
+    },
+    {
+      "text": "The organization can publish or make information accessible in a range of formats (e.g., electronic, paper-based)",
+      "page": 7
+    },
+    {
+      "text": "across one or more locations (e.g., a standalone sustainability report, web pages, an annual report). The terms",
+      "page": 7
+    },
+    {
+      "text": "‘report’ and ‘reported information’ in the GRI Standards both refer to information reported across all locations.",
+      "page": 7
+    },
+    {
+      "text": "The GRI content index provides an overview of the organization’s reported information and shows the location where",
+      "page": 7
+    },
+    {
+      "text": "information users can find it. The content index also shows which GRI Standards and disclosures the organization",
+      "page": 7
+    },
+    {
+      "text": "has used.",
+      "page": 7
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 7
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 7
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 7
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 7
+    },
+    {
+      "text": "information has been published).",
+      "page": 7
+    },
+    {
+      "text": "Effective date",
+      "page": 7
+    },
+    {
+      "text": "All GRI Standards have an effective date. This is the date from when the information published by an organization",
+      "page": 7
+    },
+    {
+      "text": "make use of that Standard.",
+      "page": 7
+    },
+    {
+      "text": "make use of GRI 1 for the information it publishes on or after 1 January 2023.",
+      "page": 7
+    },
+    {
+      "text": "Effective dates are set keeping in mind that organizations may need time to adopt a new or revised Standard.",
+      "page": 7
+    },
+    {
+      "text": "Adoption of a Standard before its effective date is encouraged, as this allows the organization to report according to",
+      "page": 7
+    },
+    {
+      "text": "best practice.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 1: Foundation 2021",
+      "page": 8
+    },
+    {
+      "text": "2. Key concepts",
+      "page": 8
+    },
+    {
+      "text": "This section explains the concepts that lay the foundation for sustainability reporting. Understanding how these",
+      "page": 8
+    },
+    {
+      "text": "concepts are applied in the GRI Standards is essential for those who collect and prepare information for reporting",
+      "page": 8
+    },
+    {
+      "text": "and those who interpret information that is reported using the Standards.",
+      "page": 8
+    },
+    {
+      "text": "The key concepts covered in this section are: impact, material topics, due diligence, and stakeholder. The purpose of",
+      "page": 8
+    },
+    {
+      "text": "the Standards is to enable organizations to report information about their most significant impacts on the economy,",
+      "page": 8
+    },
+    {
+      "text": "environment, and people, including impacts on their human rights – in the GRI Standards these are referred to as",
+      "page": 8
+    },
+    {
+      "text": "material topics. Due diligence and stakeholder engagement help organizations identify their most significant impacts.",
+      "page": 8
+    },
+    {
+      "text": "2.1 Impact",
+      "page": 8
+    },
+    {
+      "text": "In the GRI Standards, impact refers to the effect an organization has or could have on the economy, environment, and",
+      "page": 8
+    },
+    {
+      "text": "people, including effects on their human rights, as a result of the organization’s activities or business relationships.",
+      "page": 8
+    },
+    {
+      "text": "The impacts can be actual or potential, negative or positive, short-term or long-term, intended or unintended, and",
+      "page": 8
+    },
+    {
+      "text": "reversible or irreversible. These impacts indicate the organization’s contribution, negative or positive, to sustainable",
+      "page": 8
+    },
+    {
+      "text": "development.",
+      "page": 8
+    },
+    {
+      "text": "The organization’s impacts on the economy refer to the impacts on economic systems at local, national, and global",
+      "page": 8
+    },
+    {
+      "text": "levels. An organization can have an impact on the economy through, for example, its competition practices, its",
+      "page": 8
+    },
+    {
+      "text": "procurement practices, and its taxes and payments to governments.",
+      "page": 8
+    },
+    {
+      "text": "The organization’s impacts on the environment refer to the impacts on living organisms and non-living elements,",
+      "page": 8
+    },
+    {
+      "text": "including air, land, water, and ecosystems. An organization can have an impact on the environment through, for",
+      "page": 8
+    },
+    {
+      "text": "example, its use of energy, land, water, and other natural resources.",
+      "page": 8
+    },
+    {
+      "text": "The organization’s impacts on people refer to the impacts on individuals and groups, such as communities,",
+      "page": 8
+    },
+    {
+      "text": "vulnerable groups, or society. This includes the impacts the organization has on people’s human rights. An",
+      "page": 8
+    },
+    {
+      "text": "organization can have an impact on people through, for example, its employment practices (e.g., the wages it pays to",
+      "page": 8
+    },
+    {
+      "text": "employees), its supply chain (e.g., the working conditions of workers of suppliers), and its products and services (e.g.,",
+      "page": 8
+    },
+    {
+      "text": "their safety or accessibility). Individuals or groups that have interests that are affected or could be affected by the",
+      "page": 8
+    },
+    {
+      "text": "organization’s activities are referred to as stakeholders (see section 2.4 in this Standard for more information).",
+      "page": 8
+    },
+    {
+      "text": "The impacts on the economy, environment, and people are interrelated. For example, an organization’s impacts on",
+      "page": 8
+    },
+    {
+      "text": "the economy and environment can result in impacts on people and their human rights. Similarly, an organization’s",
+      "page": 8
+    },
+    {
+      "text": "positive impacts can result in negative impacts and vice versa. For example, an organization's positive impacts on the",
+      "page": 8
+    },
+    {
+      "text": "environment can lead to negative impacts on people and their human rights.",
+      "page": 8
+    },
+    {
+      "text": "2.2 Material topics",
+      "page": 8
+    },
+    {
+      "text": "An organization may identify many impacts on which to report. When using the GRI Standards, the organization",
+      "page": 8
+    },
+    {
+      "text": "prioritizes reporting on those topics that represent its most significant impacts on the economy, environment, and",
+      "page": 8
+    },
+    {
+      "text": "people, including impacts on their human rights. In the GRI Standards, these are the organization’s material topics.",
+      "page": 8
+    },
+    {
+      "text": "Examples of material topics are anti-corruption, occupational health and safety, or water and effluents. A topic need",
+      "page": 8
+    },
+    {
+      "text": "not be limited to impacts on the economy, the environment, or people; it can cover impacts across all three",
+      "page": 8
+    },
+    {
+      "text": "dimensions. For example, an organization might determine that ‘water and effluents’ is a material topic based on the",
+      "page": 8
+    },
+    {
+      "text": "impacts its water use has on ecosystems and local communities’ access to water. The GRI Standards group impacts",
+      "page": 8
+    },
+    {
+      "text": "into topics, like ‘water and effluents’, to help organizations report cohesively about multiple impacts that relate to the",
+      "page": 8
+    },
+    {
+      "text": "same topic.",
+      "page": 8
+    },
+    {
+      "text": "The process of determining material topics is informed by the organization’s ongoing identification and assessment",
+      "page": 8
+    },
+    {
+      "text": "of impacts. The ongoing identification and assessment of impacts involves engaging with relevant stakeholders and",
+      "page": 8
+    },
+    {
+      "text": "experts and it is conducted independently of the sustainability reporting process. See section 1 in GRI 3: Material",
+      "page": 8
+    },
+    {
+      "text": "Topics 2021 for more information on determining material topics.",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 1: Foundation 2021",
+      "page": 9
+    },
+    {
+      "text": "Box 1. Sustainability reporting and financial and value creation reporting",
+      "page": 9
+    },
+    {
+      "text": "The GRI Standards enable organizations to report information about the most significant impacts of their",
+      "page": 9
+    },
+    {
+      "text": "activities and business relationships on the economy, environment, and people, including impacts on their",
+      "page": 9
+    },
+    {
+      "text": "human rights. Such impacts are of primary importance to sustainable development and to organizations’",
+      "page": 9
+    },
+    {
+      "text": "stakeholders, and they are the focus of sustainability reporting.",
+      "page": 9
+    },
+    {
+      "text": "The impacts of an organization’s activities and business relationships on the economy, environment, and",
+      "page": 9
+    },
+    {
+      "text": "people can have negative and positive consequences for the organization itself. These consequences can be",
+      "page": 9
+    },
+    {
+      "text": "operational or reputational, and therefore in many cases financial. For example, an organization’s high use of",
+      "page": 9
+    },
+    {
+      "text": "non-renewable energy contributes to climate change and could, at the same time, result in increased",
+      "page": 9
+    },
+    {
+      "text": "operating costs for the organization due to legislation that seeks to shift energy use toward renewable",
+      "page": 9
+    },
+    {
+      "text": "sources.",
+      "page": 9
+    },
+    {
+      "text": "Even if not financially material at the time of reporting, most, if not all, of the impacts of an organization’s",
+      "page": 9
+    },
+    {
+      "text": "activities and business relationships on the economy, environment, and people will eventually become",
+      "page": 9
+    },
+    {
+      "text": "financially material issues. Therefore, the impacts are also important for those interested in the organization's",
+      "page": 9
+    },
+    {
+      "text": "financial performance and long-term success. Understanding these impacts is a necessary first step in",
+      "page": 9
+    },
+    {
+      "text": "determining related financially material issues for the organization.",
+      "page": 9
+    },
+    {
+      "text": "Sustainability reporting is therefore crucial for financial and value creation reporting. Information made",
+      "page": 9
+    },
+    {
+      "text": "available through sustainability reporting provides input for identifying financial risks and opportunities related",
+      "page": 9
+    },
+    {
+      "text": "to the organization’s impacts and for financial valuation. This, in turn, helps to make financial materiality",
+      "page": 9
+    },
+    {
+      "text": "judgments about what to recognize in financial statements.",
+      "page": 9
+    },
+    {
+      "text": "While the impacts of the organization’s activities and business relationships on the economy, environment,",
+      "page": 9
+    },
+    {
+      "text": "and people may become financially material, sustainability reporting is also highly relevant in its own right as a",
+      "page": 9
+    },
+    {
+      "text": "public interest activity. Sustainability reporting is independent of the consideration of financial implications. It is",
+      "page": 9
+    },
+    {
+      "text": "therefore important for the organization to report on all the material topics that it has determined using the GRI",
+      "page": 9
+    },
+    {
+      "text": "Standards. These material topics cannot be deprioritized on the basis of not being considered financially",
+      "page": 9
+    },
+    {
+      "text": "material by the organization.",
+      "page": 9
+    },
+    {
+      "text": "2.3 Due diligence",
+      "page": 9
+    },
+    {
+      "text": "In the GRI Standards, due diligence refers to the process through which an organization identifies, prevents,",
+      "page": 9
+    },
+    {
+      "text": "mitigates, and accounts for how it addresses its actual and potential negative impacts on the economy, environment,",
+      "page": 9
+    },
+    {
+      "text": "and people, including impacts on their human rights. The organization should address potential negative impacts",
+      "page": 9
+    },
+    {
+      "text": "through prevention or mitigation. It should address actual negative impacts through remediation in cases where the",
+      "page": 9
+    },
+    {
+      "text": "organization identifies it has caused or contributed to those impacts.",
+      "page": 9
+    },
+    {
+      "text": "The way the organization is involved with negative impacts (i.e., whether it causes or contributes to the impacts, or",
+      "page": 9
+    },
+    {
+      "text": "whether the impacts are directly linked by its business relationships) determines how the organization should",
+      "page": 9
+    },
+    {
+      "text": "address the impacts. It also determines whether the organization has a responsibility to provide for or cooperate in",
+      "page": 9
+    },
+    {
+      "text": "the remediation of the impacts. The organization should:",
+      "page": 9
+    },
+    {
+      "text": "• avoid causing or contributing to negative impacts through its own activities, and address such impacts when they",
+      "page": 9
+    },
+    {
+      "text": "occur by providing for or cooperating in their remediation through legitimate processes;",
+      "page": 9
+    },
+    {
+      "text": "• in the case of negative impacts that are directly linked to the organization’s operations, products, or services by its",
+      "page": 9
+    },
+    {
+      "text": "business relationships, seek to prevent or mitigate these impacts even if it has not contributed to them. The",
+      "page": 9
+    },
+    {
+      "text": "organization is not responsible for providing for or cooperating in the remediation of these impacts, but it can play",
+      "page": 9
+    },
+    {
+      "text": "a role in doing so.",
+      "page": 9
+    },
+    {
+      "text": "If it is not feasible to address all identified impacts on the economy, environment, and people at once, the organization",
+      "page": 9
+    },
+    {
+      "text": "should prioritize the order in which to address potential negative impacts based on their severity and likelihood. In the",
+      "page": 9
+    },
+    {
+      "text": "case of potential negative human rights impacts, the severity of the impact takes precedence over its likelihood. See",
+      "page": 9
+    },
+    {
+      "text": "section 1 in GRI 3: Material Topics 2021 for more information.",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 1: Foundation 2021",
+      "page": 10
+    },
+    {
+      "text": "Due diligence is elaborated by the United Nations (UN) Guiding Principles on Business and Human Rights [5], the",
+      "page": 10
+    },
+    {
+      "text": "Organisation for Economic Co-operation and Development (OECD) Guidelines for Multinational Enterprises [3], and",
+      "page": 10
+    },
+    {
+      "text": "the OECD Due Diligence Guidance for Responsible Business Conduct [2].",
+      "page": 10
+    },
+    {
+      "text": "2.4 Stakeholder",
+      "page": 10
+    },
+    {
+      "text": "Stakeholders are individuals or groups that have interests that are affected or could be affected by an organization’s",
+      "page": 10
+    },
+    {
+      "text": "activities. Common categories of stakeholders for organizations are business partners, civil society organizations,",
+      "page": 10
+    },
+    {
+      "text": "consumers, customers, employees and other workers, governments, local communities, non-governmental",
+      "page": 10
+    },
+    {
+      "text": "organizations, shareholders and other investors, suppliers, trade unions, and vulnerable groups.",
+      "page": 10
+    },
+    {
+      "text": "In the GRI Standards, an interest (or ‘stake’) is something of value to an individual or group, which can be affected by",
+      "page": 10
+    },
+    {
+      "text": "the activities of an organization. Stakeholders can have more than one interest. Not all interests are of equal",
+      "page": 10
+    },
+    {
+      "text": "importance and they do not all need to be treated equally. Human rights have a particular status as an entitlement of",
+      "page": 10
+    },
+    {
+      "text": "all people under international law. The most acute impacts the organization can have on people are those that",
+      "page": 10
+    },
+    {
+      "text": "negatively affect their human rights. The term ‘rightsholders’ refers to stakeholders whose individual human rights or",
+      "page": 10
+    },
+    {
+      "text": "collective rights (held by groups such as indigenous peoples) are or could be affected.",
+      "page": 10
+    },
+    {
+      "text": "Stakeholder interests can be negatively or positively affected by the organization’s activities. Due diligence focuses on",
+      "page": 10
+    },
+    {
+      "text": "identifying stakeholder interests that are or could be negatively affected by the organization’s activities.",
+      "page": 10
+    },
+    {
+      "text": "Stakeholders may not always have a direct relationship with the organization. For example, the workers in the",
+      "page": 10
+    },
+    {
+      "text": "organization’s supply chain can also be its stakeholders, or there can be individuals or groups living at a distance",
+      "page": 10
+    },
+    {
+      "text": "from the organization’s operations who can be affected or potentially affected by these operations. They may not be",
+      "page": 10
+    },
+    {
+      "text": "aware that they are stakeholders of that particular organization, especially if they have not yet been affected by its",
+      "page": 10
+    },
+    {
+      "text": "activities. The organization should identify the interests of these and other stakeholders who are unable to articulate",
+      "page": 10
+    },
+    {
+      "text": "their views (e.g., future generations).",
+      "page": 10
+    },
+    {
+      "text": "Engaging with stakeholders helps the organization identify and manage its negative and positive impacts. Not all",
+      "page": 10
+    },
+    {
+      "text": "stakeholders will be affected by all activities of the organization. The organization should identify the stakeholders",
+      "page": 10
+    },
+    {
+      "text": "whose interests have to be taken into account in connection with a specific activity (i.e., ‘relevant stakeholders’).",
+      "page": 10
+    },
+    {
+      "text": "Where it is impossible to engage with all relevant stakeholders directly, the organization can engage with credible",
+      "page": 10
+    },
+    {
+      "text": "stakeholder representatives or proxy organizations (e.g., non-governmental organizations, trade unions).",
+      "page": 10
+    },
+    {
+      "text": "In addition to engaging with stakeholders, the organization can consult with experts in specific issues or contexts",
+      "page": 10
+    },
+    {
+      "text": "(e.g., academics, non-governmental organizations) for advice on identifying and managing its impacts.",
+      "page": 10
+    },
+    {
+      "text": "Sometimes it is necessary to distinguish between stakeholders whose interests have been affected (i.e., ‘affected",
+      "page": 10
+    },
+    {
+      "text": "stakeholders’), and those whose interests have not yet been affected but could potentially be affected (i.e., ‘potentially",
+      "page": 10
+    },
+    {
+      "text": "affected stakeholders’). This distinction is important in due diligence. For example, if an organization’s activity leads to",
+      "page": 10
+    },
+    {
+      "text": "a safety hazard, workers who are injured because of the hazard are affected stakeholders, and workers who have not",
+      "page": 10
+    },
+    {
+      "text": "yet been injured but who are exposed to the hazard and could be injured are potentially affected stakeholders. The",
+      "page": 10
+    },
+    {
+      "text": "distinction between affected and potentially affected stakeholders helps identify which workers should receive",
+      "page": 10
+    },
+    {
+      "text": "remedy.",
+      "page": 10
+    },
+    {
+      "text": "See reference [2] in the Bibliography.",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 1: Foundation 2021",
+      "page": 11
+    },
+    {
+      "text": "organization;",
+      "page": 12
+    },
+    {
+      "text": "determined as not material and explain why they are not material.",
+      "page": 12
+    },
+    {
+      "text": "Guidance",
+      "page": 12
+    },
+    {
+      "text": "See section 1 in GRI 3: Material Topics 2021 for guidance on how to determine material topics.",
+      "page": 12
+    },
+    {
+      "text": "The organization is required to determine its material topics based on its specific circumstances.",
+      "page": 12
+    },
+    {
+      "text": "for organizations about their likely material topics.",
+      "page": 12
+    },
+    {
+      "text": "Guidance to 3-b",
+      "page": 12
+    },
+    {
+      "text": "available.",
+      "page": 12
+    },
+    {
+      "text": "whether it is a material topic for the organization. If the organization has determined any of the topics included in the",
+      "page": 12
+    },
+    {
+      "text": "explain why they are not material. See Requirement 7 in this Standard for more information on the content index.",
+      "page": 12
+    },
+    {
+      "text": "material topics.",
+      "page": 12
+    },
+    {
+      "text": "Requirement 4: Report the disclosures in GRI 3: Material Topics",
+      "page": 12
+    },
+    {
+      "text": "2021",
+      "page": 12
+    },
+    {
+      "text": "Guidance",
+      "page": 12
+    },
+    {
+      "text": "Reasons for omission are only permitted for Disclosure 3-3 Management of material topics in GRI 3.",
+      "page": 12
+    },
+    {
+      "text": "If the organization cannot comply with Disclosure 3-3 or with a requirement in Disclosure 3-3, then the organization is",
+      "page": 12
+    },
+    {
+      "text": "required to specify this in the GRI content index, and to provide a reason for omission with an explanation. See",
+      "page": 12
+    },
+    {
+      "text": "Requirement 6 in this Standard for more information on reasons for omission.",
+      "page": 12
+    },
+    {
+      "text": "13 GRI 1: Foundation 2021",
+      "page": 13
+    },
+    {
+      "text": "Requirement 5: Report disclosures from the GRI Topic",
+      "page": 13
+    },
+    {
+      "text": "Standards for each material topic",
+      "page": 13
+    },
+    {
+      "text": "Guidance to 5-a",
+      "page": 13
+    },
+    {
+      "text": "For each material topic, the organization needs to identify disclosures from the GRI Topic Standards to report. The",
+      "page": 13
+    },
+    {
+      "text": "organization is required to report only those disclosures relevant to its impacts in relation to a material topic. The",
+      "page": 13
+    },
+    {
+      "text": "organization is not required to report disclosures that are not relevant.",
+      "page": 13
+    },
+    {
+      "text": "There is no requirement for a minimum number of disclosures to report from the Topic Standards. The number of",
+      "page": 13
+    },
+    {
+      "text": "disclosures that the organization reports is based on its assessment of which disclosures are relevant to its impacts",
+      "page": 13
+    },
+    {
+      "text": "in relation to a material topic.",
+      "page": 13
+    },
+    {
+      "text": "The organization may need to use more than one Topic Standard to report on a material topic. In addition, not all",
+      "page": 13
+    },
+    {
+      "text": "disclosures in a Topic Standard may be relevant for the organization to report. For example, an organization identifies",
+      "page": 13
+    },
+    {
+      "text": "pay equality as a material topic. The organization determines that the following disclosures are relevant to report on",
+      "page": 13
+    },
+    {
+      "text": "the topic: Disclosure 202-1 Ratios of standard entry level wage by gender compared to local minimum wage in GRI",
+      "page": 13
+    },
+    {
+      "text": "202: Market Presence 2016, and Disclosure 405-2 Ratio of basic salary and remuneration of women to men in GRI",
+      "page": 13
+    },
+    {
+      "text": "405: Diversity and Equal Opportunity 2016. The organization is not required to report other disclosures from these",
+      "page": 13
+    },
+    {
+      "text": "Standards (e.g., Disclosure 202-2 Proportion of senior management hired from the local community in GRI 202), as",
+      "page": 13
+    },
+    {
+      "text": "these disclosures do not address the topic of pay equality.",
+      "page": 13
+    },
+    {
+      "text": "to identify disclosures to report. See Requirement 5-b in this Standard for more information.",
+      "page": 13
+    },
+    {
+      "text": "Reasons for omission are permitted for all disclosures from the Topic Standards. If the organization cannot comply",
+      "page": 13
+    },
+    {
+      "text": "with a disclosure or with a requirement in a disclosure, then the organization is required to specify in the GRI content",
+      "page": 13
+    },
+    {
+      "text": "index the disclosure or the requirement it cannot comply with, and provide a reason for omission with an explanation.",
+      "page": 13
+    },
+    {
+      "text": "See Requirement 6 in this Standard for more information on reasons for omission.",
+      "page": 13
+    },
+    {
+      "text": "The organization should provide sufficient information about its impacts in relation to each material topic so that",
+      "page": 13
+    },
+    {
+      "text": "information users can make informed assessments and decisions about the organization. If the disclosures from the",
+      "page": 13
+    },
+    {
+      "text": "Topic Standards do not provide sufficient information about the organization’s impacts, then the organization should",
+      "page": 13
+    },
+    {
+      "text": "Standards, disclosures from other sources, or disclosures developed by the organization itself.",
+      "page": 13
+    },
+    {
+      "text": "Disclosures that the organization reports from other sources or that are developed by the organization itself, should",
+      "page": 13
+    },
+    {
+      "text": "have the same rigor as disclosures from the GRI Standards, and they should align with expectations set out in",
+      "page": 13
+    },
+    {
+      "text": "authoritative intergovernmental instruments.",
+      "page": 13
+    },
+    {
+      "text": "Reporting on material topics not covered in the GRI Topic Standards",
+      "page": 13
+    },
+    {
+      "text": "When the organization's material topic is not covered by the disclosures in the GRI Topic Standards, the organization",
+      "page": 13
+    },
+    {
+      "text": "is required to report how it manages the material topic, using Disclosure 3-3 in GRI 3: Material Topics 2021. See",
+      "page": 13
+    },
+    {
+      "text": "Requirement 4-c in this Standard for more information.",
+      "page": 13
+    },
+    {
+      "text": "In addition to reporting Disclosure 3-3, the organization should report other disclosures for that topic. These can",
+      "page": 13
+    },
+    {
+      "text": "sources, or disclosures developed by the organization itself.",
+      "page": 13
+    },
+    {
+      "text": "For example, an organization determines freedom of speech to be a material topic. As there is no Topic Standard that",
+      "page": 13
+    },
+    {
+      "text": "covers this topic, the organization should report disclosures from other sources or develop its own disclosures to",
+      "page": 13
+    },
+    {
+      "text": "report on the topic. The organization is still required to report how it manages the topic of freedom of speech, using",
+      "page": 13
+    },
+    {
+      "text": "Disclosure 3-3 in GRI 3.",
+      "page": 13
+    },
+    {
+      "text": "Guidance to 5-b",
+      "page": 13
+    },
+    {
+      "text": "14 GRI 1: Foundation 2021",
+      "page": 14
+    },
+    {
+      "text": "whether it is a material topic for the organization.",
+      "page": 14
+    },
+    {
+      "text": "organization identify disclosures to report information about its impacts in relation to that topic. For each likely material",
+      "page": 14
+    },
+    {
+      "text": "is not required to report these. However, the organization is required to list these disclosures in the GRI content index",
+      "page": 14
+    },
+    {
+      "text": "and provide ‘not applicable’ as the reason for omission for not reporting the disclosures. The organization is also",
+      "page": 14
+    },
+    {
+      "text": "required to explain in brief why the disclosures are not relevant to its impacts in relation to the material topic. See",
+      "page": 14
+    },
+    {
+      "text": "Requirement 6 in this Standard for more information on reasons for omission.",
+      "page": 14
+    },
+    {
+      "text": "any of the four reasons for omission included in Table 1 of this Standard if it cannot comply with the disclosure or with",
+      "page": 14
+    },
+    {
+      "text": "a requirement in the disclosure.",
+      "page": 14
+    },
+    {
+      "text": "Requirement 6: Provide reasons for omission for disclosures",
+      "page": 14
+    },
+    {
+      "text": "and requirements that the organization cannot comply with",
+      "page": 14
+    },
+    {
+      "text": "reason.",
+      "page": 14
+    },
+    {
+      "text": "Table 1. Permitted reasons for omission and required explanations",
+      "page": 14
+    },
+    {
+      "text": "REASON FOR OMISSION REQUIRED EXPLANATION",
+      "page": 14
+    },
+    {
+      "text": "Not applicable Explain why the disclosure or the requirement is considered not",
+      "page": 14
+    },
+    {
+      "text": "applicable.",
+      "page": 14
+    },
+    {
+      "text": "Legal prohibitions Describe the specific legal prohibitions.",
+      "page": 14
+    },
+    {
+      "text": "Confidentiality constraints Describe the specific confidentiality constraints.",
+      "page": 14
+    },
+    {
+      "text": "Information unavailable / Specify which information is unavailable or incomplete. When",
+      "page": 14
+    },
+    {
+      "text": "incomplete the information is incomplete, specify which part is missing (e.g.,",
+      "page": 14
+    },
+    {
+      "text": "specify the entities for which the information is missing).",
+      "page": 14
+    },
+    {
+      "text": "Explain why the required information is unavailable or",
+      "page": 14
+    },
+    {
+      "text": "incomplete.",
+      "page": 14
+    },
+    {
+      "text": "Describe the steps being taken and the expected time frame to",
+      "page": 14
+    },
+    {
+      "text": "obtain the information.",
+      "page": 14
+    },
+    {
+      "text": "Guidance",
+      "page": 14
+    },
+    {
+      "text": "Reasons for omission are permitted for all disclosures from the GRI Standards except for:",
+      "page": 14
+    },
+    {
+      "text": "• Disclosure 2-1 Organizational details",
+      "page": 14
+    },
+    {
+      "text": "• Disclosure 2-2 Entities included in the organization’s sustainability reporting",
+      "page": 14
+    },
+    {
+      "text": "• Disclosure 2-3 Reporting period, frequency and contact point",
+      "page": 14
+    },
+    {
+      "text": "• Disclosure 2-4 Restatements of information",
+      "page": 14
+    },
+    {
+      "text": "• Disclosure 2-5 External assurance",
+      "page": 14
+    },
+    {
+      "text": "• Disclosure 3-1 Process to determine material topics",
+      "page": 14
+    },
+    {
+      "text": "15 GRI 1: Foundation 2021",
+      "page": 15
+    },
+    {
+      "text": "• Disclosure 3-2 List of material topics",
+      "page": 15
+    },
+    {
+      "text": "The organization is only permitted to provide one of the four reasons for omission included in Table 1 of this Standard:",
+      "page": 15
+    },
+    {
+      "text": "Not applicable",
+      "page": 15
+    },
+    {
+      "text": "The organization provides ‘not applicable’ as the reason for omission in the following situations:",
+      "page": 15
+    },
+    {
+      "text": "• When a disclosure or a requirement in a disclosure does not apply to the organization based on its characteristics",
+      "page": 15
+    },
+    {
+      "text": "(e.g., size, type). For example, 2-15-b-iii in GRI 2: General Disclosures 2021 requires the organization to report",
+      "page": 15
+    },
+    {
+      "text": "whether conflicts of interest relating to the existence of controlling shareholders are disclosed to stakeholders.",
+      "page": 15
+    },
+    {
+      "text": "This requirement does not apply to organizations that do not have shareholders (e.g., foundations).",
+      "page": 15
+    },
+    {
+      "text": "In such cases, the organization is required to explain why the disclosure or the requirement does not apply to the",
+      "page": 15
+    },
+    {
+      "text": "organization.",
+      "page": 15
+    },
+    {
+      "text": "However, there may be cases where a disclosure or a requirement in a disclosure applies to the organization, but",
+      "page": 15
+    },
+    {
+      "text": "the organization does not have in place the item specified in the disclosure or in the requirement (e.g., committee,",
+      "page": 15
+    },
+    {
+      "text": "policy, practice, process). For example, 2-23-b in GRI 2 requires the organization to describe its policy",
+      "page": 15
+    },
+    {
+      "text": "commitment to respect human rights. This expectation applies to every organization. All organizations are",
+      "page": 15
+    },
+    {
+      "text": "expected to have a policy commitment to respect human rights, but not every organization may have developed",
+      "page": 15
+    },
+    {
+      "text": "such a policy commitment yet.",
+      "page": 15
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 15
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be",
+      "page": 15
+    },
+    {
+      "text": "the case. It does not need to provide the ‘not applicable’ reason for omission.",
+      "page": 15
+    },
+    {
+      "text": "In such cases, the organization can explain the reasons for not having this item or describe any plans to develop it.",
+      "page": 15
+    },
+    {
+      "text": "The disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that",
+      "page": 15
+    },
+    {
+      "text": "the item does not exist.",
+      "page": 15
+    },
+    {
+      "text": "relevant to the organization’s impacts in relation to a material topic. In such cases, the organization is required to",
+      "page": 15
+    },
+    {
+      "text": "explain why the disclosure is not relevant to its impacts in relation to the material topic.",
+      "page": 15
+    },
+    {
+      "text": "Legal prohibitions",
+      "page": 15
+    },
+    {
+      "text": "The organization provides ‘legal prohibitions’ as the reason for omission when the law forbids collecting the required",
+      "page": 15
+    },
+    {
+      "text": "information or reporting it publicly.",
+      "page": 15
+    },
+    {
+      "text": "Confidentiality constraints",
+      "page": 15
+    },
+    {
+      "text": "There may be cases where the law does not forbid collecting or reporting the required information, but the",
+      "page": 15
+    },
+    {
+      "text": "organization considers the information confidential and cannot report it publicly. In such cases, the organization",
+      "page": 15
+    },
+    {
+      "text": "provides ‘confidentiality constraints’ as the reason for omission.",
+      "page": 15
+    },
+    {
+      "text": "Information unavailable / incomplete",
+      "page": 15
+    },
+    {
+      "text": "There may be cases where the organization has the item specified in a disclosure or in a requirement in a disclosure,",
+      "page": 15
+    },
+    {
+      "text": "but the information about the item is unavailable or incomplete. In such cases, the organization provides ‘information",
+      "page": 15
+    },
+    {
+      "text": "unavailable / incomplete’ as the reason for omission. For example, information is unavailable for Disclosure 305-3 in",
+      "page": 15
+    },
+    {
+      "text": "GRI 305: Emissions 2016 when the organization has other indirect (Scope 3) greenhouse gas (GHG) emissions, but it",
+      "page": 15
+    },
+    {
+      "text": "has not collected data on its other indirect (Scope 3) GHG emissions yet.",
+      "page": 15
+    },
+    {
+      "text": "When the organization cannot report part of the required information it means the information is incomplete. When the",
+      "page": 15
+    },
+    {
+      "text": "reported information does not cover the complete scope required by a disclosure (e.g., the information is missing for",
+      "page": 15
+    },
+    {
+      "text": "certain entities, sites, geographic locations), then the organization is required to provide ‘information unavailable /",
+      "page": 15
+    },
+    {
+      "text": "for which the required information is missing and cannot be reported.",
+      "page": 15
+    },
+    {
+      "text": "The required information, or part of the required information, can be unavailable when, for example, it cannot be",
+      "page": 15
+    },
+    {
+      "text": "obtained or is not of adequate quality to report. This may be the case when the information is collected from another",
+      "page": 15
+    },
+    {
+      "text": "organization, such as a supplier.",
+      "page": 15
+    },
+    {
+      "text": "16 GRI 1: Foundation 2021",
+      "page": 16
+    },
+    {
+      "text": "The reasons ‘confidentiality constraints’ and ‘information unavailable / incomplete’ should only be used in exceptional",
+      "page": 16
+    },
+    {
+      "text": "cases. Using ‘confidentiality constraints’ and ‘information unavailable / incomplete’ frequently as reasons for omitting",
+      "page": 16
+    },
+    {
+      "text": "information reduces the credibility and usefulness of the organization’s sustainability reporting. It does not align with",
+      "page": 16
+    },
+    {
+      "text": "explanation for why they are not material;",
+      "page": 16
+    },
+    {
+      "text": "provide a link or reference to the GRI content index in the report.",
+      "page": 16
+    },
+    {
+      "text": "Guidance",
+      "page": 16
+    },
+    {
+      "text": "The information reported using the GRI Standards can be published or made accessible in a range of formats (e.g.,",
+      "page": 16
+    },
+    {
+      "text": "electronic, paper-based) across one or more locations (e.g., a standalone sustainability report, web pages, an annual",
+      "page": 16
+    },
+    {
+      "text": "report). The GRI content index provides an overview of the organization’s reported information, shows where the",
+      "page": 16
+    },
+    {
+      "text": "reported information can be found, and helps information users access this information. The content index also",
+      "page": 16
+    },
+    {
+      "text": "shows which GRI Standards and disclosures the organization has used.",
+      "page": 16
+    },
+    {
+      "text": "help the organization understand its sustainability context.",
+      "page": 23
+    },
+    {
+      "text": "Timeliness",
+      "page": 23
+    },
+    {
+      "text": "Requirement",
+      "page": 23
+    },
+    {
+      "text": "users to make decisions.",
+      "page": 23
+    },
+    {
+      "text": "Guidance",
+      "page": 23
+    },
+    {
+      "text": "The usefulness of information is closely tied to whether it is available in time for information users to integrate it into",
+      "page": 23
+    },
+    {
+      "text": "their decision-making. Thus, the Timeliness principle refers to how regularly and how soon after the reporting period",
+      "page": 23
+    },
+    {
+      "text": "the information is published.",
+      "page": 23
+    },
+    {
+      "text": "To apply the Timeliness principle, the organization should:",
+      "page": 23
+    },
+    {
+      "text": "• find a balance between the need to make information available in a timely manner and ensuring that the",
+      "page": 23
+    },
+    {
+      "text": "3 GRI 1: Foundation 2021",
+      "page": 32
+    },
+    {
+      "text": "GRI STANDARD DISCLOSURE LOCATION OMISSION GRI",
+      "page": 32
+    },
+    {
+      "text": "/ OTHER SECTOR",
+      "page": 32
+    },
+    {
+      "text": "STANDARD",
+      "page": 32
+    },
+    {
+      "text": "SOURCE REF. NO.",
+      "page": 32
+    },
+    {
+      "text": "REQUIREMENT(S) REASON EXPLANATION",
+      "page": 32
+    },
+    {
+      "text": "OMITTED",
+      "page": 32
+    },
+    {
+      "text": "General disclosures",
+      "page": 32
+    },
+    {
+      "text": "GRI 2: General 2-1 Organizational",
+      "page": 32
+    },
+    {
+      "text": "Disclosures details",
+      "page": 32
+    },
+    {
+      "text": "2021",
+      "page": 32
+    },
+    {
+      "text": "2-2 Entities",
+      "page": 32
+    },
+    {
+      "text": "included in the",
+      "page": 32
+    },
+    {
+      "text": "organization's",
+      "page": 32
+    },
+    {
+      "text": "sustainability",
+      "page": 32
+    },
+    {
+      "text": "reporting",
+      "page": 32
+    },
+    {
+      "text": "A gray cell indicates something that does not apply. This only",
+      "page": 32
+    },
+    {
+      "text": "2-3 Reporting",
+      "page": 32
+    },
+    {
+      "text": "columns.",
+      "page": 32
+    },
+    {
+      "text": "period, frequency",
+      "page": 32
+    },
+    {
+      "text": "and contact point",
+      "page": 32
+    },
+    {
+      "text": "2-4 Restatements",
+      "page": 32
+    },
+    {
+      "text": "of information",
+      "page": 32
+    },
+    {
+      "text": "2-5 External",
+      "page": 32
+    },
+    {
+      "text": "assurance",
+      "page": 32
+    },
+    {
+      "text": "2-6 Activities, value",
+      "page": 32
+    },
+    {
+      "text": "chain and other",
+      "page": 32
+    },
+    {
+      "text": "business",
+      "page": 32
+    },
+    {
+      "text": "relationships",
+      "page": 32
+    },
+    {
+      "text": "\" \" \" \" \" \" \" \" \" \"",
+      "page": 32
+    },
+    {
+      "text": "2-30 Collective",
+      "page": 32
+    },
+    {
+      "text": "bargaining",
+      "page": 32
+    },
+    {
+      "text": "agreements",
+      "page": 32
+    },
+    {
+      "text": "Material topics",
+      "page": 32
+    },
+    {
+      "text": "GRI 3: Material 3-1 Process to",
+      "page": 32
+    },
+    {
+      "text": "Topics 2021 determine material",
+      "page": 32
+    },
+    {
+      "text": "topics",
+      "page": 32
+    },
+    {
+      "text": "3-2 List of material",
+      "page": 32
+    },
+    {
+      "text": "topics",
+      "page": 32
+    },
+    {
+      "text": "[Material topic]",
+      "page": 32
+    },
+    {
+      "text": "GRI 3: Material 3-3 Management of",
+      "page": 32
+    },
+    {
+      "text": "Topics 2021 material topics",
+      "page": 32
+    },
+    {
+      "text": "[Title of [Disclosure title]",
+      "page": 32
+    },
+    {
+      "text": "source]",
+      "page": 32
+    },
+    {
+      "text": "\" \" \" \" \" \" \" \" \" \" \" \" \" \"",
+      "page": 32
+    },
+    {
+      "text": "[Material topic]",
+      "page": 32
+    },
+    {
+      "text": "GRI 3: Material 3-3 Management of",
+      "page": 32
+    },
+    {
+      "text": "Topics 2021 material topics",
+      "page": 32
+    },
+    {
+      "text": "[Title of [Disclosure title]",
+      "page": 32
+    },
+    {
+      "text": "source]",
+      "page": 32
+    },
+    {
+      "text": "\" \" \" \" \" \" \" \" \" \" \" \" \" \"",
+      "page": 32
+    },
+    {
+      "text": "TOPIC EXPLANATION",
+      "page": 32
+    },
+    {
+      "text": "[Topic] [Explanation]",
+      "page": 32
+    },
+    {
+      "text": "[Topic] [Explanation]",
+      "page": 32
+    },
+    {
+      "text": "Guidance",
+      "page": 32
+    },
+    {
+      "text": "4 GRI 1: Foundation 2021",
+      "page": 33
+    },
+    {
+      "text": "The organization is required to include in the GRI content index the titles of the GRI",
+      "page": 33
+    },
+    {
+      "text": "publication year (e.g., GRI 11: Oil and Gas Sector 2021).",
+      "page": 33
+    },
+    {
+      "text": "Titles of the GRI Standards and other sources of reported disclosures",
+      "page": 33
+    },
+    {
+      "text": "The organization is required to include in the GRI content index the titles of the GRI",
+      "page": 33
+    },
+    {
+      "text": "report disclosures, as specified in Requirement 7-a-viii in this Standard. These",
+      "page": 33
+    },
+    {
+      "text": "include:",
+      "page": 33
+    },
+    {
+      "text": "• GRI 2: General Disclosures 2021;",
+      "page": 33
+    },
+    {
+      "text": "• GRI 3: Material Topics 2021;",
+      "page": 33
+    },
+    {
+      "text": "• the Topic Standards the organization has used for reporting on its material topics;",
+      "page": 33
+    },
+    {
+      "text": "disclosures listed for its material topics.",
+      "page": 33
+    },
+    {
+      "text": "The title of a GRI Standard includes the number, name, and publication year (e.g., GRI",
+      "page": 33
+    },
+    {
+      "text": "303: Water and Effluents 2018).",
+      "page": 33
+    },
+    {
+      "text": "The publication year indicates which version of a GRI Standard the organization has",
+      "page": 33
+    },
+    {
+      "text": "used. The GRI Standards are regularly updated, and a newer version of a GRI Standard",
+      "page": 33
+    },
+    {
+      "text": "may have different disclosures than its previous version. The publication year of the",
+      "page": 33
+    },
+    {
+      "text": "Standard does not refer to the reporting period covered by the reported information or to",
+      "page": 33
+    },
+    {
+      "text": "the year that the reported information is published.",
+      "page": 33
+    },
+    {
+      "text": "If the organization reports disclosures from other sources, the organization is required",
+      "page": 33
+    },
+    {
+      "text": "5 GRI 1: Foundation 2021",
+      "page": 34
+    },
+    {
+      "text": "to include in the content index the titles of the sources it has used.",
+      "page": 34
+    },
+    {
+      "text": "Disclosures",
+      "page": 34
+    },
+    {
+      "text": "The organization is required to list in the GRI content index all the disclosures it has",
+      "page": 34
+    },
+    {
+      "text": "reported, as specified in Requirement 7-a-vii in this Standard. These include the",
+      "page": 34
+    },
+    {
+      "text": "disclosures from GRI 2: General Disclosures 2021 and GRI 3: Material Topics 2021,",
+      "page": 34
+    },
+    {
+      "text": "and the disclosures it has reported for each material topic.",
+      "page": 34
+    },
+    {
+      "text": "For each material topic the organization is required to list the disclosures it has",
+      "page": 34
+    },
+    {
+      "text": "disclosures it has reported from other sources. The organization should organize",
+      "page": 34
+    },
+    {
+      "text": "these disclosures by each material topic. See Requirement 5-a and Requirement 5-b-i",
+      "page": 34
+    },
+    {
+      "text": "in this Standard for more information on reporting disclosures for each material topic.",
+      "page": 34
+    },
+    {
+      "text": "content index.",
+      "page": 34
+    },
+    {
+      "text": "The organization is required to include the disclosure titles in the content index. The",
+      "page": 34
+    },
+    {
+      "text": "title of a disclosure includes the number and name (e.g., 2-6 Activities, value chain and",
+      "page": 34
+    },
+    {
+      "text": "other business relationships).",
+      "page": 34
+    },
+    {
+      "text": "For disclosures from other sources, if there is no disclosure title available, the",
+      "page": 34
+    },
+    {
+      "text": "organization can list any other information that helps identify the disclosure.",
+      "page": 34
+    },
+    {
+      "text": "are not reported",
+      "page": 34
+    },
+    {
+      "text": "organization is required to include in the GRI content index any GRI Topic Standards",
+      "page": 34
+    },
+    {
+      "text": "disclosures listed for that topic that the organization does not report, as specified in",
+      "page": 34
+    },
+    {
+      "text": "Requirement 7-a-ix in this Standard.",
+      "page": 34
+    },
+    {
+      "text": "not relevant to the organization’s impacts in relation to the material topic. In such",
+      "page": 34
+    },
+    {
+      "text": "cases, the organization is required to provide the ‘not applicable’ reason for omission,",
+      "page": 34
+    },
+    {
+      "text": "and to briefly explain why the disclosure is not relevant. See Requirement 5-b in this",
+      "page": 34
+    },
+    {
+      "text": "Standard for more information on reporting on material topics covered in the Sector",
+      "page": 34
+    },
+    {
+      "text": "Standards.",
+      "page": 34
+    },
+    {
+      "text": "Location",
+      "page": 34
+    },
+    {
+      "text": "For each disclosure that it has reported, the organization is required to include in the",
+      "page": 34
+    },
+    {
+      "text": "GRI content index the location (i.e., the specific page numbers or links) in, for example,",
+      "page": 34
+    },
+    {
+      "text": "a report, document, website where the information can be found, as specified in",
+      "page": 34
+    },
+    {
+      "text": "Requirement 7-a-xi in this Standard. If the information reported for a disclosure is",
+      "page": 34
+    },
+    {
+      "text": "spread across multiple pages or web pages, the organization is required to specify all",
+      "page": 34
+    },
+    {
+      "text": "page numbers and links across which the information is distributed.",
+      "page": 34
+    },
+    {
+      "text": "If the organization is required to report information that it has previously reported, and",
+      "page": 34
+    },
+    {
+      "text": "the information has not changed during the reporting period (e.g., the organization is",
+      "page": 34
+    },
+    {
+      "text": "required to report information about a policy or process that has not changed since the",
+      "page": 34
+    },
+    {
+      "text": "previous reporting period), the organization can republish this information or provide a",
+      "page": 34
+    },
+    {
+      "text": "reference to the previously reported information in the content index.",
+      "page": 34
+    },
+    {
+      "text": "6 GRI 1: Foundation 2021",
+      "page": 35
+    },
+    {
+      "text": "Omissions",
+      "page": 35
+    },
+    {
+      "text": "The organization is required to include in the GRI content index the reasons for",
+      "page": 35
+    },
+    {
+      "text": "omission it has used for each disclosure or requirement it cannot comply with, as",
+      "page": 35
+    },
+    {
+      "text": "specified in Requirement 7-a-xii in this Standard.",
+      "page": 35
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a",
+      "page": 35
+    },
+    {
+      "text": "disclosure for which reasons for omission are permitted, the organization is required to",
+      "page": 35
+    },
+    {
+      "text": "specify the disclosure or the requirement it cannot comply with in the content index. It is",
+      "page": 35
+    },
+    {
+      "text": "also required to provide one of the permitted reasons for omission and the required",
+      "page": 35
+    },
+    {
+      "text": "explanation for that reason. The four permitted reasons for omission are: not",
+      "page": 35
+    },
+    {
+      "text": "applicable, legal prohibitions, confidentiality constraints, and information unavailable /",
+      "page": 35
+    },
+    {
+      "text": "incomplete. See Requirement 6 in this Standard for more information on reasons for",
+      "page": 35
+    },
+    {
+      "text": "omission.",
+      "page": 35
+    },
+    {
+      "text": "included in the organization’s reporting.",
+      "page": 35
+    },
+    {
+      "text": "Material topics",
+      "page": 35
+    },
+    {
+      "text": "The organization is required to list its material topics in the GRI content index, as",
+      "page": 35
+    },
+    {
+      "text": "specified in Requirement 7-a-v in this Standard.",
+      "page": 35
+    },
+    {
+      "text": "The list of material topics included in the content index is the same as the list of",
+      "page": 35
+    },
+    {
+      "text": "material topics reported under 3-2-a in GRI 3: Material Topics 2021.",
+      "page": 35
+    },
+    {
+      "text": "The organization is required to list in the GRI content index any topics from the",
+      "page": 35
+    },
+    {
+      "text": "why they are not material, as specified in Requirement 7-a-vi in this Standard. See",
+      "page": 35
+    },
+    {
+      "text": "to determine material topics.",
+      "page": 35
+    },
+    {
+      "text": "Appendix 2. GRI content index with reference",
+      "page": 35
+    },
+    {
+      "text": "7 GRI 1: Foundation 2021",
+      "page": 36
+    },
+    {
+      "text": "Appendix 2. GRI content index with reference",
+      "page": 36
+    },
+    {
+      "text": "GRI content index",
+      "page": 36
+    },
+    {
+      "text": "Statement of use [Name of organization] has reported the information cited in this GRI content index",
+      "page": 36
+    },
+    {
+      "text": "for the period [reporting period start and end dates] with reference to the GRI",
+      "page": 36
+    },
+    {
+      "text": "Standards.",
+      "page": 36
+    },
+    {
+      "text": "GRI 1 used GRI 1: Foundation 2021",
+      "page": 36
+    },
+    {
+      "text": "GRI STANDARD DISCLOSURE LOCATION",
+      "page": 36
+    },
+    {
+      "text": "[Title of GRI Standard] [Disclosure title]",
+      "page": 36
+    },
+    {
+      "text": "[Title of GRI Standard] [Disclosure title]",
+      "page": 36
+    },
+    {
+      "text": "Guidance",
+      "page": 36
+    },
+    {
+      "text": "This Appendix provides guidance on how to prepare the GRI content index when reporting with reference to the GRI",
+      "page": 36
+    },
+    {
+      "text": "Standards. It includes an example that the organization can use to prepare the content index. The organization can",
+      "page": 36
+    },
+    {
+      "text": "use a different format for the content index than the one provided here, as long as it complies with the requirements",
+      "page": 36
+    },
+    {
+      "text": "for the content index specified in ‘Reporting with reference to the GRI Standards’ at the end of section 3 of this",
+      "page": 36
+    },
+    {
+      "text": "The title of a GRI Standard includes the number, name, and publication year (e.g., GRI",
+      "page": 37
+    },
+    {
+      "text": "303: Water and Effluents 2018).",
+      "page": 37
+    },
+    {
+      "text": "The publication year indicates which version of a GRI Standard the organization has",
+      "page": 37
+    },
+    {
+      "text": "used. The GRI Standards are regularly updated, and a newer version of a GRI Standard",
+      "page": 37
+    },
+    {
+      "text": "may have different disclosures than its previous version. The publication year of the",
+      "page": 37
+    },
+    {
+      "text": "Standard does not refer to the reporting period covered by the reported information or to",
+      "page": 37
+    },
+    {
+      "text": "the year that the reported information is published.",
+      "page": 37
+    },
+    {
+      "text": "Disclosures",
+      "page": 37
+    },
+    {
+      "text": "The organization is required to list in the GRI content index all the disclosures it has",
+      "page": 37
+    },
+    {
+      "text": "reported from the GRI Standards, as specified in Requirement a-iv in ‘Reporting with",
+      "page": 37
+    },
+    {
+      "text": "reference to the GRI Standards’ at the end of section 3 of this Standard.",
+      "page": 37
+    },
+    {
+      "text": "The organization is required to include the disclosure titles in the content index. The",
+      "page": 37
+    },
+    {
+      "text": "title of a disclosure includes the number and name (e.g., 303-3 Water withdrawal).",
+      "page": 37
+    },
+    {
+      "text": "Location",
+      "page": 37
+    },
+    {
+      "text": "For each disclosure that it has reported, the organization is required to include in the",
+      "page": 37
+    },
+    {
+      "text": "GRI content index the location (i.e., the specific page numbers and links) in, for",
+      "page": 37
+    },
+    {
+      "text": "example, a report, document, website where the information can be found, as specified",
+      "page": 37
+    },
+    {
+      "text": "in Requirement a-vi in 'Reporting with reference to the GRI Standards' at the end of",
+      "page": 37
+    },
+    {
+      "text": "section 3 of this Standard. If the information reported for a disclosure is spread across",
+      "page": 37
+    },
+    {
+      "text": "multiple pages or web pages, the organization is required to specify all page numbers",
+      "page": 37
+    },
+    {
+      "text": "and links across which the information is distributed.",
+      "page": 37
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 38
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 38
+    },
+    {
+      "text": "The Netherlands",
+      "page": 38
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 38
+    }
+  ]
+}

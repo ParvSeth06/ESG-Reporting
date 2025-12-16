@@ -1,0 +1,1050 @@
+{
+  "standard": "GRI 402 Labor and Management Relations 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages labor/management relations",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Minimum number of weeks’ notice typically provided to employees and their",
+        "b. For organizations with collective bargaining agreements, report whether the"
+      ],
+      "page": 8
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses the topic of labor/management relations. This covers an organization’s consultative",
+      "page": 4
+    },
+    {
+      "text": "practices with employees and their representatives, including its approach to communicating significant operational",
+      "page": 4
+    },
+    {
+      "text": "changes.",
+      "page": 4
+    },
+    {
+      "text": "An organization’s consultation practices are expected to be aligned with relevant international norms and standards.",
+      "page": 4
+    },
+    {
+      "text": "Collective bargaining can play an important role in an organization’s consultation practices. Collective bargaining",
+      "page": 4
+    },
+    {
+      "text": "refers to all negotiations that take place between one or more employers or employers' organizations, on the one",
+      "page": 4
+    },
+    {
+      "text": "hand, and one or more workers' organizations (e.g., trade unions), on the other, for determining working conditions",
+      "page": 4
+    },
+    {
+      "text": "and terms of employment or for regulating relations between employers and workers.1",
+      "page": 4
+    },
+    {
+      "text": "These concepts are covered in key instruments of the International Labour Organization and the Organisation for",
+      "page": 4
+    },
+    {
+      "text": "Economic Co-operation and Development: see Bibliography.",
+      "page": 4
+    },
+    {
+      "text": "Reporting on collective bargaining is covered in more detail in GRI 407: Freedom of Association and Collective",
+      "page": 4
+    },
+    {
+      "text": "Bargaining 2016. In addition, Disclosure 2-30 in GRI 2: General Disclosures 2021 requires reporting on the",
+      "page": 4
+    },
+    {
+      "text": "percentage of total employees covered by collective bargaining agreements.",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 4
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its impacts related to labor/management relations.",
+      "page": 5
+    },
+    {
+      "text": "determined labor/management relations to be a material topic:",
+      "page": 5
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 5
+    },
+    {
+      "text": "• Any disclosure from this Topic Standard that is relevant to the organization’s impacts related to labor/management",
+      "page": 5
+    },
+    {
+      "text": "relations (Disclosure 402-1).",
+      "page": 5
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 5
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 5
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 5
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 5
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 5
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 5
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 5
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 5
+    },
+    {
+      "text": "item does not exist.",
+      "page": 5
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 5
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 5
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 402: Labor/Management Relations 2016",
+      "page": 6
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 6
+    },
+    {
+      "text": "information has been published).",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 402: Labor/Management Relations 2016",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined labor/management relations to be a material topic is required to report how it",
+      "page": 7
+    },
+    {
+      "text": "manages the topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 7
+    },
+    {
+      "text": "using Disclosure 3-3 in GRI 3: Material Topics 2021.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 402: Labor/Management Relations 2016",
+      "page": 8
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 402-1 Minimum notice periods regarding operational",
+      "page": 8
+    },
+    {
+      "text": "changes",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "representatives prior to the implementation of significant operational",
+      "page": 8
+    },
+    {
+      "text": "changes that could substantially affect them.",
+      "page": 8
+    },
+    {
+      "text": "notice period and provisions for consultation and negotiation are specified in",
+      "page": 8
+    },
+    {
+      "text": "collective agreements.",
+      "page": 8
+    },
+    {
+      "text": "Guidance for Disclosure 402-1",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "Minimum notice periods can be found in corporate policies and standard employment contracts.",
+      "page": 8
+    },
+    {
+      "text": "Different policy statements can exist at a regional level.",
+      "page": 8
+    },
+    {
+      "text": "An organization can identify the collective bargaining agreements referred to in Disclosure 2-30",
+      "page": 8
+    },
+    {
+      "text": "of GRI 2: General Disclosures 2021, and review the notice period clauses within these",
+      "page": 8
+    },
+    {
+      "text": "documents.",
+      "page": 8
+    },
+    {
+      "text": "Background",
+      "page": 8
+    },
+    {
+      "text": "Organizations are expected to provide reasonable notice of significant operational changes to",
+      "page": 8
+    },
+    {
+      "text": "employees and their representatives, as well as to appropriate government authorities.",
+      "page": 8
+    },
+    {
+      "text": "Minimum notice periods are a measure of an organization’s ability to maintain employee",
+      "page": 8
+    },
+    {
+      "text": "satisfaction and motivation while implementing significant changes to operations.",
+      "page": 8
+    },
+    {
+      "text": "This disclosure provides insight into an organization’s practice of ensuring timely discussion of",
+      "page": 8
+    },
+    {
+      "text": "significant operational changes, and engaging with its employees and their representatives to",
+      "page": 8
+    },
+    {
+      "text": "negotiate and implement these changes, which can have positive or negative implications for",
+      "page": 8
+    },
+    {
+      "text": "workers.",
+      "page": 8
+    },
+    {
+      "text": "This disclosure also allows an assessment of an organization’s consultation practices in",
+      "page": 8
+    },
+    {
+      "text": "relation to expectations expressed in relevant international norms.",
+      "page": 8
+    },
+    {
+      "text": "The essence of consultation is that management takes the views of workers into account when",
+      "page": 8
+    },
+    {
+      "text": "making specific decisions. Therefore, it is important that consultation takes place before a",
+      "page": 8
+    },
+    {
+      "text": "decision is made. Meaningful consultation includes the timely provision of all information",
+      "page": 8
+    },
+    {
+      "text": "needed to make an informed decision to workers or their representatives. Genuine consultation",
+      "page": 8
+    },
+    {
+      "text": "involves dialogue; opinion surveys and questionnaires are not considered consultation.",
+      "page": 8
+    },
+    {
+      "text": "Timely and meaningful consultation allows the affected parties to understand the impacts of the",
+      "page": 8
+    },
+    {
+      "text": "changes, such as possible loss of employment. It also gives an opportunity for them to work",
+      "page": 8
+    },
+    {
+      "text": "collectively to prevent or mitigate negative impacts as much as possible (see references [11]",
+      "page": 8
+    },
+    {
+      "text": "and [12] in the Bibliography). Consultative practices that result in good industrial relations help",
+      "page": 8
+    },
+    {
+      "text": "to provide positive working environments, reduce turnover, and minimize operational",
+      "page": 8
+    },
+    {
+      "text": "disruptions.",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 402: Labor/Management Relations 2016",
+      "page": 9
+    },
+    {
+      "text": "Glossary",
+      "page": 9
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 9
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 9
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 9
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 9
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 9
+    },
+    {
+      "text": "business partner",
+      "page": 9
+    },
+    {
+      "text": "entity with which the organization has some form of direct and formal engagement for the",
+      "page": 9
+    },
+    {
+      "text": "purpose of meeting its business objectives",
+      "page": 9
+    },
+    {
+      "text": "Source: Shift and Mazars LLP, UN Guiding Principles Reporting Framework, 2015; modified",
+      "page": 9
+    },
+    {
+      "text": "Examples: affiliates, business-to-business customers, clients, first-tier suppliers, franchisees,",
+      "page": 9
+    },
+    {
+      "text": "joint venture partners, investee companies in which the organization has a",
+      "page": 9
+    },
+    {
+      "text": "shareholding position",
+      "page": 9
+    },
+    {
+      "text": "Note: Business partners do not include subsidiaries and affiliates that the organization",
+      "page": 9
+    },
+    {
+      "text": "controls.",
+      "page": 9
+    },
+    {
+      "text": "business relationships",
+      "page": 9
+    },
+    {
+      "text": "relationships that the organization has with business partners, with entities in its value chain",
+      "page": 9
+    },
+    {
+      "text": "including those beyond the first tier, and with any other entities directly linked to its operations,",
+      "page": 9
+    },
+    {
+      "text": "products, or services",
+      "page": 9
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 9
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 9
+    },
+    {
+      "text": "modified",
+      "page": 9
+    },
+    {
+      "text": "Note: Examples of other entities directly linked to the organization’s operations, products,",
+      "page": 9
+    },
+    {
+      "text": "or services are a non-governmental organization with which the organization",
+      "page": 9
+    },
+    {
+      "text": "delivers support to a local community or state security forces that protect the",
+      "page": 9
+    },
+    {
+      "text": "organization’s facilities.",
+      "page": 9
+    },
+    {
+      "text": "collective bargaining",
+      "page": 9
+    },
+    {
+      "text": "all negotiations that take place between one or more employers or employers' organizations, on",
+      "page": 9
+    },
+    {
+      "text": "the one hand, and one or more workers' organizations (e.g., trade unions), on the other, for",
+      "page": 9
+    },
+    {
+      "text": "determining working conditions and terms of employment or for regulating relations between",
+      "page": 9
+    },
+    {
+      "text": "employers and workers",
+      "page": 9
+    },
+    {
+      "text": "Source: International Labour Organization (ILO), Collective Bargaining Convention, 1981",
+      "page": 9
+    },
+    {
+      "text": "(No. 154); modified",
+      "page": 9
+    },
+    {
+      "text": "employee",
+      "page": 9
+    },
+    {
+      "text": "individual who is in an employment relationship with the organization according to national law",
+      "page": 9
+    },
+    {
+      "text": "or practice",
+      "page": 9
+    },
+    {
+      "text": "human rights",
+      "page": 9
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 9
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 9
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 9
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 9
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 9
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 9
+    },
+    {
+      "text": "modified",
+      "page": 9
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 9
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 9
+    },
+    {
+      "text": "impact",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 402: Labor/Management Relations 2016",
+      "page": 10
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 10
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 10
+    },
+    {
+      "text": "development",
+      "page": 10
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 10
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 10
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 10
+    },
+    {
+      "text": "material topics",
+      "page": 10
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 10
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 10
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 10
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 10
+    },
+    {
+      "text": "significant operational change",
+      "page": 10
+    },
+    {
+      "text": "alteration to the organization’s pattern of operations that can potentially have significant positive",
+      "page": 10
+    },
+    {
+      "text": "or negative impacts on workers performing the organization’s activities",
+      "page": 10
+    },
+    {
+      "text": "Examples: closures, expansions, mergers, new openings, outsourcing of operations,",
+      "page": 10
+    },
+    {
+      "text": "restructuring, sale of all or part of the organization, takeovers",
+      "page": 10
+    },
+    {
+      "text": "supplier",
+      "page": 10
+    },
+    {
+      "text": "entity upstream from the organization (i.e., in the organization’s supply chain), which provides a",
+      "page": 10
+    },
+    {
+      "text": "product or service that is used in the development of the organization’s own products or services",
+      "page": 10
+    },
+    {
+      "text": "Examples: brokers, consultants, contractors, distributors, franchisees, home workers,",
+      "page": 10
+    },
+    {
+      "text": "independent contractors, licensees, manufacturers, primary producers, sub-",
+      "page": 10
+    },
+    {
+      "text": "contractors, wholesalers",
+      "page": 10
+    },
+    {
+      "text": "Note: A supplier can have a direct business relationship with the organization (often",
+      "page": 10
+    },
+    {
+      "text": "referred to as a first-tier supplier) or an indirect business relationship.",
+      "page": 10
+    },
+    {
+      "text": "supply chain",
+      "page": 10
+    },
+    {
+      "text": "range of activities carried out by entities upstream from the organization, which provide products",
+      "page": 10
+    },
+    {
+      "text": "or services that are used in the development of the organization’s own products or services",
+      "page": 10
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 10
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 10
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 10
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 10
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 10
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 10
+    },
+    {
+      "text": "value chain",
+      "page": 10
+    },
+    {
+      "text": "range of activities carried out by the organization, and by entities upstream and downstream",
+      "page": 10
+    },
+    {
+      "text": "from the organization, to bring the organization’s products or services from their conception to",
+      "page": 10
+    },
+    {
+      "text": "their end use",
+      "page": 10
+    },
+    {
+      "text": "Note 1: Entities upstream from the organization (e.g., suppliers) provide products or",
+      "page": 10
+    },
+    {
+      "text": "services that are used in the development of the organization’s own products or",
+      "page": 10
+    },
+    {
+      "text": "services. Entities downstream from the organization (e.g., distributors, customers)",
+      "page": 10
+    },
+    {
+      "text": "receive products or services from the organization.",
+      "page": 10
+    },
+    {
+      "text": "Note 2: The value chain includes the supply chain.",
+      "page": 10
+    },
+    {
+      "text": "worker",
+      "page": 10
+    },
+    {
+      "text": "person that performs work for the organization",
+      "page": 10
+    },
+    {
+      "text": "Examples: employees, agency workers, apprentices, contractors, home workers, interns, self-",
+      "page": 10
+    },
+    {
+      "text": "employed persons, sub-contractors, volunteers, and persons working for",
+      "page": 10
+    },
+    {
+      "text": "organizations other than the reporting organization, such as for suppliers",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 402: Labor/Management Relations 2016",
+      "page": 11
+    },
+    {
+      "text": "Note: In the GRI Standards, in some cases, it is specified whether a particular subset of",
+      "page": 11
+    },
+    {
+      "text": "workers is required to be used.",
+      "page": 11
+    },
+    {
+      "text": "Bibliography",
+      "page": 11
+    },
+    {
+      "text": "12 GRI 402: Labor/Management Relations 2016",
+      "page": 12
+    },
+    {
+      "text": "Bibliography",
+      "page": 12
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments used in developing this Standard.",
+      "page": 12
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 12
+    },
+    {
+      "text": "1. International Labour Organization (ILO) Convention 87, ‘Freedom of Association and Protection of the Right to",
+      "page": 12
+    },
+    {
+      "text": "Organise Convention’, 1948.",
+      "page": 12
+    },
+    {
+      "text": "2. International Labour Organization (ILO) Convention 98, ‘Right to Organise and Collective Bargaining Convention’,",
+      "page": 12
+    },
+    {
+      "text": "1949.",
+      "page": 12
+    },
+    {
+      "text": "3. International Labour Organization (ILO) Convention 135, ‘Workers’ Representatives Convention’, 1971.",
+      "page": 12
+    },
+    {
+      "text": "4. International Labour Organization (ILO) Convention 154, ‘Collective Bargaining Convention’, 1981.",
+      "page": 12
+    },
+    {
+      "text": "5. International Labour Organization (ILO) Convention 158, ‘Termination of Employment Convention’, 1982.",
+      "page": 12
+    },
+    {
+      "text": "6. International Labour Organization (ILO), Key Indicators of the Labour Market (KILM),",
+      "page": 12
+    },
+    {
+      "text": "http://www.ilo.org/global/statistics-and-databases/research-and-databases/kilm/lang--en/index.htm, accessed",
+      "page": 12
+    },
+    {
+      "text": "on 1 September 2016.",
+      "page": 12
+    },
+    {
+      "text": "7. International Labour Organization (ILO), LABORSTA Internet, http://laborsta.ilo.org/, accessed on 1 September",
+      "page": 12
+    },
+    {
+      "text": "2016.",
+      "page": 12
+    },
+    {
+      "text": "8. International Labour Organization (ILO) Recommendation 91, ‘Collective Agreements Recommendation’, 1951.",
+      "page": 12
+    },
+    {
+      "text": "9. International Labour Organization (ILO) Recommendation 94, ‘Co-operation at the Level of the Undertaking",
+      "page": 12
+    },
+    {
+      "text": "Recommendation’, 1952.",
+      "page": 12
+    },
+    {
+      "text": "10. International Labour Organization (ILO) Recommendation 163, ‘Collective Bargaining Recommendation’, 1981.",
+      "page": 12
+    },
+    {
+      "text": "11. International Labour Organization (ILO), ‘Tripartite Declaration of Principles concerning Multinational Enterprises",
+      "page": 12
+    },
+    {
+      "text": "and Social Policy’, 2006.",
+      "page": 12
+    },
+    {
+      "text": "12. Organisation for Economic Co-operation and Development (OECD), OECD Guidelines for Multinational",
+      "page": 12
+    },
+    {
+      "text": "Enterprises, 2011.",
+      "page": 12
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 13
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 13
+    },
+    {
+      "text": "The Netherlands",
+      "page": 13
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 13
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 4
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 4
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 4
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 4
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 4
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 4
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 4
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 4
+    },
+    {
+      "text": "Topic Standards",
+      "page": 4
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 4
+    },
+    {
+      "text": "1 This definition is based on the International Labour Organization (ILO) Convention 154, ‘Collective Bargaining Convention’, 1981.",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 402: Labor/Management Relations 2016",
+      "page": 5
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 5
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}

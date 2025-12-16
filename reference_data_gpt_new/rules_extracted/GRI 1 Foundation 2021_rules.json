@@ -1,0 +1,22 @@
+{
+  "standard": "GRI 1 Foundation 2021",
+  "type": "universal_or_sector",
+  "mandatory_requirements": [
+    {
+      "text": "for omission are permitted, the organization shall in the GRI content index: i. specify the disclosure or the requirement it cannot comply with; ii. provide one of the four reasons for omission included in Table 1 and the required explanation for that reason. Table 1. Permitted reasons for omission and required explanations",
+      "page": 14
+    }
+  ],
+  "reporting_principles": [
+    {
+      "text": "a. The organization shall apply all the reporting principles specified in section 4 of GRI 1: Foundation 2021. Requirement 2: Report the disclosures in GRI 2: General",
+      "page": 11
+    },
+    {
+      "text": "The organization shall: a. report disclosures from the GRI Topic Standards for each material topic; b. for each material topic covered in the applicable GRI Sector Standard(s), either: i. report the disclosures from the GRI Topic Standards listed for that topic in the Sector Standard(s), or; ii. provide the ‘not applicable’ reason for omission and the required explanation in the GRI content index. Guidance to 5-a For each material topic, the organization needs to identify disclosures from the GRI Topic Standards to report. The organization is required to report only those disclosures relevant to its impacts in relation to a material topic. The organization is not required to report disclosures that are not relevant. There is no requirement for a minimum number of disclosures to report from the Topic Standards. The number of disclosures that the organization reports is based on its assessment of which disclosures are relevant to its impacts in relation to a material topic. The organization may need to use more than one Topic Standard to report on a material topic. In addition, not all disclosures in a Topic Standard may be relevant for the organization to report. For example, an organization identifies pay equality as a material topic. The organization determines that the following disclosures are relevant to report on the topic: Disclosure 202-1 Ratios of standard entry level wage by gender compared to local minimum wage in GRI 202: Market Presence 2016, and Disclosure 405-2 Ratio of basic salary and remuneration of women to men in GRI 405: Diversity and Equal Opportunity 2016. The organization is not required to report other disclosures from these Standards (e.g., Disclosure 202-2 Proportion of senior management hired from the local community in GRI 202), as these disclosures do not address the topic of pay equality. When a material topic is covered in the applicable GRI Sector Standards, the organization uses the Sector Standards to identify disclosures to report. See Requirement 5-b in this Standard for more information. Reasons for omission are permitted for all disclosures from the Topic Standards. If the organization cannot comply with a disclosure or with a requirement in a disclosure, then the organization is required to specify in the GRI content index the disclosure or the requirement it cannot comply with, and provide a reason for omission with an explanation. See Requirement 6 in this Standard for more information on reasons for omission. The organization should provide sufficient information about its impacts in relation to each material topic so that information users can make informed assessments and decisions about the organization. If the disclosures from the Topic Standards do not provide sufficient information about the organization’s impacts, then the organization should report additional disclosures. These can include the additional sector disclosures recommended in the GRI Sector Standards, disclosures from other sources, or disclosures developed by the organization itself.",
+      "page": 13
+    }
+  ],
+  "process_rules": [],
+  "sector_specific_rules": []
+}

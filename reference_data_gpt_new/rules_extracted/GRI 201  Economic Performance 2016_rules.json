@@ -1,0 +1,21 @@
+{
+  "standard": "GRI 201  Economic Performance 2016",
+  "type": "universal_or_sector",
+  "mandatory_requirements": [
+    {
+      "text": "organization shall, if applicable, compile the EVG&D from data in the organization’s audited financial or profit and loss (P&L) statement, or its internally audited management accounts. Background",
+      "page": 8
+    },
+    {
+      "text": "costs, or to make revenue projections, it shall report its plans and timeline to develop the necessary systems. 2.3 When compiling the information specified in Disclosure 201-2, the reporting organization",
+      "page": 11
+    },
+    {
+      "text": "organization shall identify the monetary value of financial assistance received from government through consistent application of generally accepted accounting principles. Background",
+      "page": 14
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [],
+  "sector_specific_rules": []
+}

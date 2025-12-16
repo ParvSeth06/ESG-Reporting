@@ -1,0 +1,3274 @@
+{
+  "standard": "GRI 305_ Emissions 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 5
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages emissions using Disclosure 3-",
+      "sub_requirements": [],
+      "page": 8
+    },
+    {
+      "text": "1.2 When reporting on GHG emissions targets, the reporting organization shall explain",
+      "sub_requirements": [],
+      "page": 8
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Gross direct (Scope 1) GHG emissions in metric tons of CO2 equivalent.",
+        "b. Gases included in the calculation; whether CO , CH , N O, HFCs, PFCs, SF , NF , or all.",
+        "c. Biogenic CO2 emissions in metric tons of CO equivalent.",
+        "d. Base year for the calculation, if applicable, including:",
+        "i. the rationale for choosing it;",
+        "ii. emissions in the base year;",
+        "iii. the context for any significant changes in emissions that triggered recalculations",
+        "e. Source of the emission factors and the global warming potential (GWP) rates used, or a",
+        "f. Consolidation approach for emissions; whether equity share, financial control, or",
+        "g. Standards, methodologies, assumptions, and/or calculation tools used."
+      ],
+      "page": 9
+    },
+    {
+      "text": "organization shall:",
+      "sub_requirements": [],
+      "page": 9
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Gross location-based energy indirect (Scope 2) GHG emissions in metric tons of CO2",
+        "b. If applicable, gross market-based energy indirect (Scope 2) GHG emissions in metric",
+        "c. If available, the gases included in the calculation; whether CO , CH , N O, HFCs, PFCs,",
+        "d. Base year for the calculation, if applicable, including:",
+        "i. the rationale for choosing it;",
+        "ii. emissions in the base year;",
+        "iii. the context for any significant changes in emissions that triggered recalculations",
+        "e. Source of the emission factors and the global warming potential (GWP) rates used, or a",
+        "f. Consolidation approach for emissions; whether equity share, financial control, or",
+        "g. Standards, methodologies, assumptions, and/or calculation tools used."
+      ],
+      "page": 11
+    },
+    {
+      "text": "organization shall:",
+      "sub_requirements": [],
+      "page": 11
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Gross other indirect (Scope 3) GHG emissions in metric tons of CO2 equivalent.",
+        "b. If available, the gases included in the calculation; whether CO , CH , N O, HFCs, PFCs,",
+        "c. Biogenic CO2 emissions in metric tons of CO equivalent.",
+        "d. Other indirect (Scope 3) GHG emissions categories and activities included in the",
+        "e. Base year for the calculation, if applicable, including:",
+        "i. the rationale for choosing it;",
+        "ii. emissions in the base year;",
+        "iii. the context for any significant changes in emissions that triggered recalculations",
+        "f. Source of the emission factors and the global warming potential (GWP) rates used, or a",
+        "g. Standards, methodologies, assumptions, and/or calculation tools used."
+      ],
+      "page": 13
+    },
+    {
+      "text": "organization shall:",
+      "sub_requirements": [],
+      "page": 13
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. GHG emissions intensity ratio for the organization.",
+        "b. Organization-specific metric (the denominator) chosen to calculate the ratio.",
+        "c. Types of GHG emissions included in the intensity ratio; whether direct (Scope 1), energy",
+        "d. Gases included in the calculation; whether CO , CH , N O, HFCs, PFCs, SF , NF , or all."
+      ],
+      "page": 16
+    },
+    {
+      "text": "organization shall:",
+      "sub_requirements": [],
+      "page": 16
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. GHG emissions reduced as a direct result of reduction initiatives, in metric tons of CO2",
+        "b. Gases included in the calculation; whether CO , CH , N O, HFCs, PFCs, SF , NF , or all.",
+        "c. Base year or baseline, including the rationale for choosing it.",
+        "d. Scopes in which reductions took place; whether direct (Scope 1), energy indirect",
+        "e. Standards, methodologies, assumptions, and/or calculation tools used."
+      ],
+      "page": 17
+    },
+    {
+      "text": "organization shall:",
+      "sub_requirements": [],
+      "page": 17
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Production, imports, and exports of ODS in metric tons of CFC-11",
+        "b. Substances included in the calculation.",
+        "c. Source of the emission factors used.",
+        "d. Standards, methodologies, assumptions, and/or calculation tools used."
+      ],
+      "page": 19
+    },
+    {
+      "text": "organization shall:",
+      "sub_requirements": [],
+      "page": 19
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Significant air emissions, in kilograms or multiples, for each of the following:",
+        "i. NO",
+        "ii. SO",
+        "iii. Persistent organic pollutants (POP)",
+        "iv. Volatile organic compounds (VOC)",
+        "v. Hazardous air pollutants (HAP)",
+        "vi. Particulate matter (PM)",
+        "vii. Other standard categories of air emissions identified in relevant regulations",
+        "b. Source of the emission factors used.",
+        "c. Standards, methodologies, assumptions, and/or calculation tools used."
+      ],
+      "page": 21
+    },
+    {
+      "text": "organization shall select one of the following approaches for calculating significant",
+      "sub_requirements": [],
+      "page": 21
+    },
+    {
+      "text": "organization shall indicate the basis on which figures were estimated.",
+      "sub_requirements": [],
+      "page": 21
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses emissions into air, which are the discharge of substances from a source into the",
+      "page": 4
+    },
+    {
+      "text": "atmosphere. Types of emissions include: greenhouse gas (GHG), ozone-depleting substances (ODS), and nitrogen",
+      "page": 4
+    },
+    {
+      "text": "oxides (NO ) and sulfur oxides (SO ), among other significant air emissions.",
+      "page": 4
+    },
+    {
+      "text": "X X",
+      "page": 4
+    },
+    {
+      "text": "GHG emissions",
+      "page": 4
+    },
+    {
+      "text": "GHG emissions are a major contributor to climate change and are governed by the United Nations (UN) ‘Framework",
+      "page": 4
+    },
+    {
+      "text": "Convention on Climate Change’ and the subsequent UN ‘Kyoto Protocol’.",
+      "page": 4
+    },
+    {
+      "text": "This Standard covers the following GHGs:",
+      "page": 4
+    },
+    {
+      "text": "• Carbon dioxide (CO )",
+      "page": 4
+    },
+    {
+      "text": "2",
+      "page": 4
+    },
+    {
+      "text": "• Methane (CH )",
+      "page": 4
+    },
+    {
+      "text": "4",
+      "page": 4
+    },
+    {
+      "text": "• Nitrous oxide (N O)",
+      "page": 4
+    },
+    {
+      "text": "2",
+      "page": 4
+    },
+    {
+      "text": "• Hydrofluorocarbons (HFCs)",
+      "page": 4
+    },
+    {
+      "text": "• Perfluorocarbons (PFCs)",
+      "page": 4
+    },
+    {
+      "text": "• Sulphur hexafluoride (SF )",
+      "page": 4
+    },
+    {
+      "text": "6",
+      "page": 4
+    },
+    {
+      "text": "• Nitrogen trifluoride (NF )",
+      "page": 4
+    },
+    {
+      "text": "3",
+      "page": 4
+    },
+    {
+      "text": "Some GHGs, including methane, are also air pollutants that have significant negative impacts on ecosystems, air",
+      "page": 4
+    },
+    {
+      "text": "quality, agriculture, and human and animal health.",
+      "page": 4
+    },
+    {
+      "text": "As a result, different national and international regulations and incentive systems, such as emissions trading, aim to",
+      "page": 4
+    },
+    {
+      "text": "control the volume and reward the reduction of GHG emissions.",
+      "page": 4
+    },
+    {
+      "text": "The requirements for GHG emissions in this Standard are based on the requirements of the ‘GHG Protocol Corporate",
+      "page": 4
+    },
+    {
+      "text": "Accounting and Reporting Standard’ (‘GHG Protocol Corporate Standard’) and the ‘GHG Protocol Corporate Value",
+      "page": 4
+    },
+    {
+      "text": "Chain (Scope 3) Accounting and Reporting Standard’ (‘GHG Protocol Corporate Value Chain Standard’). These two",
+      "page": 4
+    },
+    {
+      "text": "standards are part of the GHG Protocol developed by the World Resources Institute (WRI) and the World Business",
+      "page": 4
+    },
+    {
+      "text": "Council on Sustainable Development (WBCSD).",
+      "page": 4
+    },
+    {
+      "text": "The GHG Protocol has established a classification of GHG emissions called 'Scope': Scope 1, Scope 2 and Scope 3.",
+      "page": 4
+    },
+    {
+      "text": "The GHG emissions standard published by the International Organization for Standardization (ISO), ‘ISO 14064’,",
+      "page": 4
+    },
+    {
+      "text": "represents these classifications of Scope with the following terms:",
+      "page": 4
+    },
+    {
+      "text": "• Direct GHG emissions = Scope I",
+      "page": 4
+    },
+    {
+      "text": "• Energy indirect GHG emissions = Scope 2",
+      "page": 4
+    },
+    {
+      "text": "• Other indirect GHG emissions = Scope 3",
+      "page": 4
+    },
+    {
+      "text": "In this Standard, these terms are combined in the following way, as defined in the Glossary section:",
+      "page": 4
+    },
+    {
+      "text": "• Direct (Scope 1) GHG emissions",
+      "page": 4
+    },
+    {
+      "text": "• Energy indirect (Scope 2) GHG emissions",
+      "page": 4
+    },
+    {
+      "text": "• Other indirect (Scope 3) GHG emissions",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 305: Emissions 2016",
+      "page": 5
+    },
+    {
+      "text": "Ozone-depleting substances (ODS)",
+      "page": 5
+    },
+    {
+      "text": "The ozone layer filters out most of the sun’s biologically harmful ultraviolet (UV-B) radiation. Observed and projected",
+      "page": 5
+    },
+    {
+      "text": "ozone depletion due to ODS generates worldwide concern. The UN Environment Programme (UNEP) ‘Montreal",
+      "page": 5
+    },
+    {
+      "text": "Protocol on Substances that Deplete the Ozone Layer’ (‘Montreal Protocol’) regulates the phase-out of ODS",
+      "page": 5
+    },
+    {
+      "text": "internationally.",
+      "page": 5
+    },
+    {
+      "text": "Nitrogen oxides (NO ), sulfur oxides (SO ), and other significant air emissions",
+      "page": 5
+    },
+    {
+      "text": "X X",
+      "page": 5
+    },
+    {
+      "text": "Pollutants such as NO and SO have negative impacts on climate, ecosystems, air quality, habitats, agriculture, and",
+      "page": 5
+    },
+    {
+      "text": "x x",
+      "page": 5
+    },
+    {
+      "text": "human and animal health. Deterioration of air quality, acidification, forest degradation and public health concerns",
+      "page": 5
+    },
+    {
+      "text": "have led to local and international regulations to control emissions of these pollutants.",
+      "page": 5
+    },
+    {
+      "text": "Reductions in the emission of regulated pollutants lead to improved health conditions for workers and local",
+      "page": 5
+    },
+    {
+      "text": "communities and can enhance relations with affected stakeholders. In regions with emission caps, the volume of",
+      "page": 5
+    },
+    {
+      "text": "emissions also has direct cost implications.",
+      "page": 5
+    },
+    {
+      "text": "Other significant air emissions include, for example, persistent organic pollutants or particulate matter, as well as air",
+      "page": 5
+    },
+    {
+      "text": "emissions that are regulated under international conventions and/or national laws or regulations, including those",
+      "page": 5
+    },
+    {
+      "text": "listed on an organization’s environmental permits.",
+      "page": 5
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 5
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 5
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 5
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 5
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 6
+    },
+    {
+      "text": "experience – to report information about its emissions-related impacts.",
+      "page": 6
+    },
+    {
+      "text": "determined emissions to be a material topic:",
+      "page": 6
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 6
+    },
+    {
+      "text": "• Clause 1.2 in this Standard, if it is relevant to its emissions-related impacts;",
+      "page": 6
+    },
+    {
+      "text": "• Any disclosures from this Topic Standard that are relevant to the organization’s emissions-related impacts",
+      "page": 6
+    },
+    {
+      "text": "(Disclosure 305-1 through Disclosure 305-7).",
+      "page": 6
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 6
+    },
+    {
+      "text": "Reasons for omission are permitted for these requirements and disclosures.",
+      "page": 6
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 6
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 6
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 6
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 6
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 6
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 6
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 6
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 6
+    },
+    {
+      "text": "item does not exist.",
+      "page": 6
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 6
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 6
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 6
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 6
+    },
+    {
+      "text": "information has been published).",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 305: Emissions 2016",
+      "page": 7
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 7
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 7
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 7
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 7
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 7
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 7
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 7
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 7
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 7
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 7
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 305: Emissions 2016",
+      "page": 8
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 8
+    },
+    {
+      "text": "material topics.",
+      "page": 8
+    },
+    {
+      "text": "An organization that has determined emissions to be a material topic is required to report how it manages the topic",
+      "page": 8
+    },
+    {
+      "text": "using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section). The organization is also required",
+      "page": 8
+    },
+    {
+      "text": "to report clause 1.2 in this section, if it is relevant to its emissions-related impacts.",
+      "page": 8
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "3 in GRI 3: Material Topics 2021.",
+      "page": 8
+    },
+    {
+      "text": "whether offsets were used to meet the targets, including the type, amount, criteria or",
+      "page": 8
+    },
+    {
+      "text": "scheme of which the offsets are part.",
+      "page": 8
+    },
+    {
+      "text": "The reporting organization can also:",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "• explain whether it is subject to any country, regional, or industry-level emissions regulations",
+      "page": 8
+    },
+    {
+      "text": "and policies; and provide examples of these regulations and policies;",
+      "page": 8
+    },
+    {
+      "text": "• disclose expenditures on treatment of emissions (such as expenditures for filters, agents)",
+      "page": 8
+    },
+    {
+      "text": "and for the purchase and use of emissions certificates.",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 305: Emissions 2016",
+      "page": 9
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 9
+    },
+    {
+      "text": "Disclosure 305-1 Direct (Scope 1) GHG emissions",
+      "page": 9
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 9
+    },
+    {
+      "text": "2 4 2 6 3",
+      "page": 9
+    },
+    {
+      "text": "2",
+      "page": 9
+    },
+    {
+      "text": "of base year emissions.",
+      "page": 9
+    },
+    {
+      "text": "reference to the GWP source.",
+      "page": 9
+    },
+    {
+      "text": "operational control.",
+      "page": 9
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 9
+    },
+    {
+      "text": "2.1 When compiling the information specified in Disclosure 305-1, the reporting",
+      "page": 9
+    },
+    {
+      "text": "2.1.1 exclude any GHG trades from the calculation of gross direct (Scope 1) GHG",
+      "page": 9
+    },
+    {
+      "text": "emissions;",
+      "page": 9
+    },
+    {
+      "text": "2.1.2 report biogenic emissions of CO from the combustion or biodegradation of",
+      "page": 9
+    },
+    {
+      "text": "2",
+      "page": 9
+    },
+    {
+      "text": "biomass separately from the gross direct (Scope 1) GHG emissions. Exclude",
+      "page": 9
+    },
+    {
+      "text": "biogenic emissions of other types of GHG (such as CH and N O), and biogenic",
+      "page": 9
+    },
+    {
+      "text": "4 2",
+      "page": 9
+    },
+    {
+      "text": "emissions of CO that occur in the life cycle of biomass other than from",
+      "page": 9
+    },
+    {
+      "text": "2",
+      "page": 9
+    },
+    {
+      "text": "combustion or biodegradation (such as GHG emissions from processing or",
+      "page": 9
+    },
+    {
+      "text": "transporting biomass).",
+      "page": 9
+    },
+    {
+      "text": "2.2 When compiling the information specified in Disclosure 305-1, the reporting organization",
+      "page": 9
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 9
+    },
+    {
+      "text": "should:",
+      "page": 9
+    },
+    {
+      "text": "2.2.1 apply emission factors and GWP rates consistently for the data disclosed;",
+      "page": 9
+    },
+    {
+      "text": "2.2.2 use the GWP rates from the IPCC assessment reports based on a 100-year",
+      "page": 9
+    },
+    {
+      "text": "timeframe;",
+      "page": 9
+    },
+    {
+      "text": "2.2.3 select a consistent approach for consolidating direct (Scope 1) and energy",
+      "page": 9
+    },
+    {
+      "text": "indirect (Scope 2) GHG emissions; choosing from the equity share, financial",
+      "page": 9
+    },
+    {
+      "text": "control, or operational control methods outlined in the ‘GHG Protocol Corporate",
+      "page": 9
+    },
+    {
+      "text": "Standard’;",
+      "page": 9
+    },
+    {
+      "text": "2.2.4 if subject to different standards and methodologies, describe the approach to",
+      "page": 9
+    },
+    {
+      "text": "selecting them;",
+      "page": 9
+    },
+    {
+      "text": "2.2.5 where it aids transparency or comparability over time, provide a breakdown of the",
+      "page": 9
+    },
+    {
+      "text": "direct (Scope 1) GHG emissions by:",
+      "page": 9
+    },
+    {
+      "text": "2.2.5.1 business unit or facility;",
+      "page": 9
+    },
+    {
+      "text": "2.2.5.2 country;",
+      "page": 9
+    },
+    {
+      "text": "2.2.5.3 type of source (stationary combustion, process, fugitive);",
+      "page": 9
+    },
+    {
+      "text": "2.2.5.4 type of activity.",
+      "page": 9
+    },
+    {
+      "text": "Guidance for Disclosure 305-1",
+      "page": 9
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 9
+    },
+    {
+      "text": "Direct (Scope 1) GHG emissions include, but are not limited to, the CO emissions from the fuel",
+      "page": 9
+    },
+    {
+      "text": "2",
+      "page": 9
+    },
+    {
+      "text": "consumption as reported in Disclosure 302-1 of GRI 302: Energy 2016.",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 305: Emissions 2016",
+      "page": 10
+    },
+    {
+      "text": "Direct (Scope 1) GHG emissions can come from the following sources owned or controlled by",
+      "page": 10
+    },
+    {
+      "text": "an organization:",
+      "page": 10
+    },
+    {
+      "text": "• Generation of electricity, heating, cooling and steam: these emissions result from",
+      "page": 10
+    },
+    {
+      "text": "combustion of fuels in stationary sources, such as boilers, furnaces, and turbines – and",
+      "page": 10
+    },
+    {
+      "text": "from other combustion processes such as flaring;",
+      "page": 10
+    },
+    {
+      "text": "• Physical or chemical processing: most of these emissions result from the manufacturing or",
+      "page": 10
+    },
+    {
+      "text": "processing of chemicals and materials, such as cement, steel, aluminum, ammonia, and",
+      "page": 10
+    },
+    {
+      "text": "waste processing;",
+      "page": 10
+    },
+    {
+      "text": "• Transportation of materials, products, waste, workers, and passengers: these emissions",
+      "page": 10
+    },
+    {
+      "text": "result from the combustion of fuels in mobile combustion sources owned or controlled by",
+      "page": 10
+    },
+    {
+      "text": "the organization, such as trucks, trains, ships, airplanes, buses, and cars;",
+      "page": 10
+    },
+    {
+      "text": "• Fugitive emissions: these are emissions that are not physically controlled but result from",
+      "page": 10
+    },
+    {
+      "text": "intentional or unintentional releases of GHGs. These can include equipment leaks from",
+      "page": 10
+    },
+    {
+      "text": "joints, seals, packing, and gaskets; methane emissions (e.g., from coal mines) and venting;",
+      "page": 10
+    },
+    {
+      "text": "HFC emissions from refrigeration and air conditioning equipment; and methane leakages",
+      "page": 10
+    },
+    {
+      "text": "(e.g., from gas transport).",
+      "page": 10
+    },
+    {
+      "text": "Methodologies used to calculate the direct (Scope I) GHG emissions can include:",
+      "page": 10
+    },
+    {
+      "text": "• direct measurement of energy source consumed (coal, gas) or losses (refills) of cooling",
+      "page": 10
+    },
+    {
+      "text": "systems and conversion to GHG (CO equivalents);",
+      "page": 10
+    },
+    {
+      "text": "2",
+      "page": 10
+    },
+    {
+      "text": "• mass balance calculations;",
+      "page": 10
+    },
+    {
+      "text": "• calculations based on site-specific data, such as for fuel composition analysis;",
+      "page": 10
+    },
+    {
+      "text": "• calculations based on published criteria, such as emission factors and GWP rates;",
+      "page": 10
+    },
+    {
+      "text": "• direct measurements of GHG emissions, such as continuous online analyzers;",
+      "page": 10
+    },
+    {
+      "text": "• estimations.",
+      "page": 10
+    },
+    {
+      "text": "If estimations are used due to a lack of default figures, the reporting organization can indicate",
+      "page": 10
+    },
+    {
+      "text": "the basis and assumptions on which figures were estimated.",
+      "page": 10
+    },
+    {
+      "text": "For recalculations of prior year emissions, the organization can follow the approach in the ‘GHG",
+      "page": 10
+    },
+    {
+      "text": "Protocol Corporate Standard’.",
+      "page": 10
+    },
+    {
+      "text": "The chosen emission factors can originate from mandatory reporting requirements, voluntary",
+      "page": 10
+    },
+    {
+      "text": "reporting frameworks, or industry groups.",
+      "page": 10
+    },
+    {
+      "text": "Estimates of GWP rates change over time as scientific research develops. GWP rates from the",
+      "page": 10
+    },
+    {
+      "text": "Second Assessment Report of the Intergovernmental Panel on Climate Change (IPCC) are used",
+      "page": 10
+    },
+    {
+      "text": "as the basis for international negotiations under the ‘Kyoto Protocol’. Thus, such rates can be",
+      "page": 10
+    },
+    {
+      "text": "used for disclosing GHG emissions where it does not conflict with national or regional reporting",
+      "page": 10
+    },
+    {
+      "text": "requirements. The organization can also use the latest GWP rates from the most recent IPCC",
+      "page": 10
+    },
+    {
+      "text": "assessment report.",
+      "page": 10
+    },
+    {
+      "text": "The organization can combine Disclosure 305-1 with Disclosures 305-2 (energy indirect/Scope",
+      "page": 10
+    },
+    {
+      "text": "2 GHG emissions) and 305-3 (other indirect/Scope 3 GHG emissions) to disclose total GHG",
+      "page": 10
+    },
+    {
+      "text": "emissions.",
+      "page": 10
+    },
+    {
+      "text": "Further details and guidance are available in the ‘GHG Protocol Corporate Standard’. See also",
+      "page": 10
+    },
+    {
+      "text": "references [1], [2], [12], [13], [14] and [19] in the Bibliography.",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 305: Emissions 2016",
+      "page": 11
+    },
+    {
+      "text": "Disclosure 305-2 Energy indirect (Scope 2) GHG emissions",
+      "page": 11
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 11
+    },
+    {
+      "text": "equivalent.",
+      "page": 11
+    },
+    {
+      "text": "tons of CO equivalent.",
+      "page": 11
+    },
+    {
+      "text": "2",
+      "page": 11
+    },
+    {
+      "text": "2 4 2",
+      "page": 11
+    },
+    {
+      "text": "SF , NF , or all.",
+      "page": 11
+    },
+    {
+      "text": "6 3",
+      "page": 11
+    },
+    {
+      "text": "of base year emissions.",
+      "page": 11
+    },
+    {
+      "text": "reference to the GWP source.",
+      "page": 11
+    },
+    {
+      "text": "operational control.",
+      "page": 11
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 11
+    },
+    {
+      "text": "2.3 When compiling the information specified in Disclosure 305-2, the reporting",
+      "page": 11
+    },
+    {
+      "text": "2.3.1 exclude any GHG trades from the calculation of gross energy indirect (Scope",
+      "page": 11
+    },
+    {
+      "text": "2) GHG emissions;",
+      "page": 11
+    },
+    {
+      "text": "2.3.2 exclude other indirect (Scope 3) GHG emissions that are disclosed as",
+      "page": 11
+    },
+    {
+      "text": "specified in Disclosure 305-3;",
+      "page": 11
+    },
+    {
+      "text": "2.3.3 account and report energy indirect (Scope 2) GHG emissions based on the",
+      "page": 11
+    },
+    {
+      "text": "location- based method, if it has operations in markets without product or",
+      "page": 11
+    },
+    {
+      "text": "supplier-specific data;",
+      "page": 11
+    },
+    {
+      "text": "2.3.4 account and report energy indirect (Scope 2) GHG emissions based on both",
+      "page": 11
+    },
+    {
+      "text": "the location-based and market-based methods, if it has any operations in",
+      "page": 11
+    },
+    {
+      "text": "markets providing product or supplier-specific data in the form of contractual",
+      "page": 11
+    },
+    {
+      "text": "instruments.",
+      "page": 11
+    },
+    {
+      "text": "2.4 When compiling the information specified in Disclosure 305-2, the reporting organization",
+      "page": 11
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 11
+    },
+    {
+      "text": "should:",
+      "page": 11
+    },
+    {
+      "text": "2.4.1 apply emission factors and GWP rates consistently for the data disclosed;",
+      "page": 11
+    },
+    {
+      "text": "2.4.2 use the GWP rates from the IPCC assessment reports based on a 100-year",
+      "page": 11
+    },
+    {
+      "text": "timeframe;",
+      "page": 11
+    },
+    {
+      "text": "2.4.3 select a consistent approach for consolidating direct (Scope 1) and energy",
+      "page": 11
+    },
+    {
+      "text": "indirect (Scope 2) GHG emissions, choosing from the equity share, financial",
+      "page": 11
+    },
+    {
+      "text": "control, or operational control methods outlined in the ‘GHG Protocol Corporate",
+      "page": 11
+    },
+    {
+      "text": "Standard’;",
+      "page": 11
+    },
+    {
+      "text": "2.4.4 if subject to different standards and methodologies, describe the approach to",
+      "page": 11
+    },
+    {
+      "text": "selecting them;",
+      "page": 11
+    },
+    {
+      "text": "2.4.5 where it aids transparency or comparability over time, provide a breakdown of the",
+      "page": 11
+    },
+    {
+      "text": "energy indirect (Scope 2) GHG emissions by:",
+      "page": 11
+    },
+    {
+      "text": "2.4.5.1 business unit or facility;",
+      "page": 11
+    },
+    {
+      "text": "2.4.5.2 country;",
+      "page": 11
+    },
+    {
+      "text": "2.4.5.3 type of source (electricity, heating, cooling, and steam);",
+      "page": 11
+    },
+    {
+      "text": "2.4.5.4 type of activity.",
+      "page": 11
+    },
+    {
+      "text": "12 GRI 305: Emissions 2016",
+      "page": 12
+    },
+    {
+      "text": "Guidance for Disclosure 305-2",
+      "page": 12
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 12
+    },
+    {
+      "text": "Energy indirect (Scope 2) GHG emissions include, but are not limited to, the CO emissions",
+      "page": 12
+    },
+    {
+      "text": "2",
+      "page": 12
+    },
+    {
+      "text": "from the generation of purchased or acquired electricity, heating, cooling, and steam consumed",
+      "page": 12
+    },
+    {
+      "text": "by an organization – disclosed as specified in Disclosure 302-1 of GRI 302: Energy 2016. For",
+      "page": 12
+    },
+    {
+      "text": "many organizations, the energy indirect (Scope 2) GHG emissions that result from the",
+      "page": 12
+    },
+    {
+      "text": "generation of purchased electricity can be much greater than their direct (Scope 1) GHG",
+      "page": 12
+    },
+    {
+      "text": "emissions.",
+      "page": 12
+    },
+    {
+      "text": "The ‘GHG Protocol Scope 2 Guidance’ requires organizations to provide two distinct Scope 2",
+      "page": 12
+    },
+    {
+      "text": "values: a location-based and a market-based value. A location- based method reflects the",
+      "page": 12
+    },
+    {
+      "text": "average GHG emissions intensity of grids on which energy consumption occurs, using mostly",
+      "page": 12
+    },
+    {
+      "text": "grid-average emission factor data. A market-based method reflects emissions from electricity",
+      "page": 12
+    },
+    {
+      "text": "that an organization has purposefully chosen (or its lack of choice). It derives emission factors",
+      "page": 12
+    },
+    {
+      "text": "from contractual instruments, which include any type of contract between two parties for the sale",
+      "page": 12
+    },
+    {
+      "text": "and purchase of energy bundled with attributes about the energy generation, or for unbundled",
+      "page": 12
+    },
+    {
+      "text": "attribute claims.",
+      "page": 12
+    },
+    {
+      "text": "The market-based method calculation also includes the use of a residual mix, if the organization",
+      "page": 12
+    },
+    {
+      "text": "does not have specified emissions-intensity from its contractual instruments. This helps prevent",
+      "page": 12
+    },
+    {
+      "text": "double counting between consumers’ market-based method figures. If a residual mix is",
+      "page": 12
+    },
+    {
+      "text": "unavailable, the organization can disclose this and use grid-average emission factors as a",
+      "page": 12
+    },
+    {
+      "text": "proxy (which can mean that the location-based and market- based are the same number until",
+      "page": 12
+    },
+    {
+      "text": "information on the residual mix is available).",
+      "page": 12
+    },
+    {
+      "text": "The reporting organization can apply the Quality Criteria in the ‘GHG Protocol Scope 2 Guidance’",
+      "page": 12
+    },
+    {
+      "text": "so that contractual instruments convey GHG emission rate claims and to prevent double",
+      "page": 12
+    },
+    {
+      "text": "counting. See reference [18] in the Bibliography.",
+      "page": 12
+    },
+    {
+      "text": "For recalculations of prior year emissions, the organization can follow the approach in the ‘GHG",
+      "page": 12
+    },
+    {
+      "text": "Protocol Corporate Standard’.",
+      "page": 12
+    },
+    {
+      "text": "The chosen emission factors can originate from mandatory reporting requirements, voluntary",
+      "page": 12
+    },
+    {
+      "text": "reporting frameworks, or industry groups.",
+      "page": 12
+    },
+    {
+      "text": "Estimates of GWP rates change over time as scientific research develops. GWP rates from the",
+      "page": 12
+    },
+    {
+      "text": "Second Assessment Report of the IPCC are used as the basis for international negotiations",
+      "page": 12
+    },
+    {
+      "text": "under the ‘Kyoto Protocol’. Thus, such rates can be used for disclosing GHG emissions where it",
+      "page": 12
+    },
+    {
+      "text": "does not conflict with national or regional reporting requirements. The organization can also use",
+      "page": 12
+    },
+    {
+      "text": "the latest GWP rates from the most recent IPCC assessment report.",
+      "page": 12
+    },
+    {
+      "text": "The organization can combine Disclosure 305-2 with Disclosures 305-1 (direct/Scope 1 GHG",
+      "page": 12
+    },
+    {
+      "text": "emissions) and 305-3 (other indirect/Scope 3 GHG emissions) to disclose total GHG",
+      "page": 12
+    },
+    {
+      "text": "emissions.",
+      "page": 12
+    },
+    {
+      "text": "Further details and guidance are available in the ‘GHG Protocol Corporate Standard’. Details on",
+      "page": 12
+    },
+    {
+      "text": "the location-based and market-based methods are available in the ‘GHG Protocol Scope 2",
+      "page": 12
+    },
+    {
+      "text": "Guidance’. See also references [1], [2], [12], [13], [14] and [18] in the Bibliography.",
+      "page": 12
+    },
+    {
+      "text": "13 GRI 305: Emissions 2016",
+      "page": 13
+    },
+    {
+      "text": "Disclosure 305-3 Other indirect (Scope 3) GHG emissions",
+      "page": 13
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 13
+    },
+    {
+      "text": "2 4 2",
+      "page": 13
+    },
+    {
+      "text": "SF , NF , or all.",
+      "page": 13
+    },
+    {
+      "text": "6 3",
+      "page": 13
+    },
+    {
+      "text": "2",
+      "page": 13
+    },
+    {
+      "text": "calculation.",
+      "page": 13
+    },
+    {
+      "text": "of base year emissions.",
+      "page": 13
+    },
+    {
+      "text": "reference to the GWP source.",
+      "page": 13
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 13
+    },
+    {
+      "text": "2.5 When compiling the information specified in Disclosure 305-3, the reporting",
+      "page": 13
+    },
+    {
+      "text": "2.5.1 exclude any GHG trades from the calculation of gross other indirect (Scope 3)",
+      "page": 13
+    },
+    {
+      "text": "GHG emissions;",
+      "page": 13
+    },
+    {
+      "text": "2.5.2 exclude energy indirect (Scope 2) GHG emissions from this disclosure. Energy",
+      "page": 13
+    },
+    {
+      "text": "indirect (Scope 2) GHG emissions are disclosed as specified in Disclosure",
+      "page": 13
+    },
+    {
+      "text": "305-2;",
+      "page": 13
+    },
+    {
+      "text": "2.5.3 report biogenic emissions of CO from the combustion or biodegradation of",
+      "page": 13
+    },
+    {
+      "text": "2",
+      "page": 13
+    },
+    {
+      "text": "biomass that occur in its value chain separately from the gross other indirect",
+      "page": 13
+    },
+    {
+      "text": "(Scope 3) GHG emissions. Exclude biogenic emissions of other types of GHG",
+      "page": 13
+    },
+    {
+      "text": "(such as CH and N O), and biogenic emissions of CO that occur in the life",
+      "page": 13
+    },
+    {
+      "text": "4 2 2",
+      "page": 13
+    },
+    {
+      "text": "cycle of biomass other than from combustion or biodegradation (such as GHG",
+      "page": 13
+    },
+    {
+      "text": "emissions from processing or transporting biomass).",
+      "page": 13
+    },
+    {
+      "text": "2.6 When compiling the information specified in Disclosure 305-3, the reporting organization",
+      "page": 13
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 13
+    },
+    {
+      "text": "should:",
+      "page": 13
+    },
+    {
+      "text": "2.6.1 apply emission factors and GWP rates consistently for the data disclosed;",
+      "page": 13
+    },
+    {
+      "text": "2.6.2 use the GWP rates from the IPCC assessment reports based on a 100-year",
+      "page": 13
+    },
+    {
+      "text": "timeframe;",
+      "page": 13
+    },
+    {
+      "text": "2.6.3 if subject to different standards and methodologies, describe the approach to",
+      "page": 13
+    },
+    {
+      "text": "selecting them;",
+      "page": 13
+    },
+    {
+      "text": "2.6.4 list other indirect (Scope 3) GHG emissions, with a breakdown by upstream and",
+      "page": 13
+    },
+    {
+      "text": "downstream categories and activities;",
+      "page": 13
+    },
+    {
+      "text": "2.6.5 where it aids transparency",
+      "page": 13
+    },
+    {
+      "text": "or comparability over time, provide a breakdown of the other indirect (Scope 3)",
+      "page": 13
+    },
+    {
+      "text": "GHG emissions by:",
+      "page": 13
+    },
+    {
+      "text": "2.6.5.1 business unit or facility;",
+      "page": 13
+    },
+    {
+      "text": "2.6.5.2 country;",
+      "page": 13
+    },
+    {
+      "text": "2.6.5.3 type of source;",
+      "page": 13
+    },
+    {
+      "text": "2.6.5.4 type of activity.",
+      "page": 13
+    },
+    {
+      "text": "Guidance for Disclosure 305-3",
+      "page": 13
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 13
+    },
+    {
+      "text": "Other indirect (Scope 3) GHG emissions are a consequence of an organization’s activities, but",
+      "page": 13
+    },
+    {
+      "text": "occur from sources not owned or controlled by the organization. Other indirect (Scope 3) GHG",
+      "page": 13
+    },
+    {
+      "text": "14 GRI 305: Emissions 2016",
+      "page": 14
+    },
+    {
+      "text": "emissions include both upstream and downstream emissions. Some examples of Scope 3",
+      "page": 14
+    },
+    {
+      "text": "activities include extracting and producing purchased materials; transporting purchased fuels in",
+      "page": 14
+    },
+    {
+      "text": "vehicles not owned or controlled by the organization; and the end use of products and services.",
+      "page": 14
+    },
+    {
+      "text": "Other indirect emissions can also come from the decomposing of the organization’s waste.",
+      "page": 14
+    },
+    {
+      "text": "Process-related emissions during the manufacture of purchased goods and fugitive emissions",
+      "page": 14
+    },
+    {
+      "text": "in facilities not owned by the organization can also produce indirect emissions.",
+      "page": 14
+    },
+    {
+      "text": "For some organizations, GHG emissions that result from energy consumption outside of the",
+      "page": 14
+    },
+    {
+      "text": "organization can be much greater than their direct (Scope 1) or energy indirect (Scope 2) GHG",
+      "page": 14
+    },
+    {
+      "text": "emissions.",
+      "page": 14
+    },
+    {
+      "text": "The reporting organization can identify other indirect (Scope 3) GHG emissions by assessing",
+      "page": 14
+    },
+    {
+      "text": "which of its activities’ emissions:",
+      "page": 14
+    },
+    {
+      "text": "• contribute significantly to the organization’s total anticipated other indirect (Scope 3) GHG",
+      "page": 14
+    },
+    {
+      "text": "emissions;",
+      "page": 14
+    },
+    {
+      "text": "• offer potential for reductions the organization can undertake or influence;",
+      "page": 14
+    },
+    {
+      "text": "• contribute to climate change-related risks, such as financial, regulatory, supply chain,",
+      "page": 14
+    },
+    {
+      "text": "product and customer, litigation, and reputational risks;",
+      "page": 14
+    },
+    {
+      "text": "• are deemed material by stakeholders, such as customers, suppliers, investors, or civil",
+      "page": 14
+    },
+    {
+      "text": "society;",
+      "page": 14
+    },
+    {
+      "text": "• result from outsourced activities previously performed in-house, or that are typically",
+      "page": 14
+    },
+    {
+      "text": "performed in-house by other organizations in the same sector;",
+      "page": 14
+    },
+    {
+      "text": "• have been identified as significant for the organization’s sector;",
+      "page": 14
+    },
+    {
+      "text": "• meet any additional criteria for determining relevance, developed by the organization or by",
+      "page": 14
+    },
+    {
+      "text": "organizations in its sector.",
+      "page": 14
+    },
+    {
+      "text": "The organization can use the following upstream and downstream categories and activities",
+      "page": 14
+    },
+    {
+      "text": "from the ‘GHG Protocol Corporate Value Chain Standard’ (see reference [15] in the",
+      "page": 14
+    },
+    {
+      "text": "Bibliography).",
+      "page": 14
+    },
+    {
+      "text": "Upstream categories",
+      "page": 14
+    },
+    {
+      "text": "1. Purchased goods and services",
+      "page": 14
+    },
+    {
+      "text": "2. Capital goods",
+      "page": 14
+    },
+    {
+      "text": "3. Fuel- and energy-related activities (not included in Scope 1 or Scope 2)",
+      "page": 14
+    },
+    {
+      "text": "4. Upstream transportation and distribution",
+      "page": 14
+    },
+    {
+      "text": "5. Waste generated in operations",
+      "page": 14
+    },
+    {
+      "text": "6. Business travel",
+      "page": 14
+    },
+    {
+      "text": "7. Employee commuting",
+      "page": 14
+    },
+    {
+      "text": "8. Upstream leased assets",
+      "page": 14
+    },
+    {
+      "text": "Other upstream",
+      "page": 14
+    },
+    {
+      "text": "Downstream categories",
+      "page": 14
+    },
+    {
+      "text": "9. Downstream transportation and distribution",
+      "page": 14
+    },
+    {
+      "text": "10. Processing of sold products",
+      "page": 14
+    },
+    {
+      "text": "11. Use of sold products",
+      "page": 14
+    },
+    {
+      "text": "12. End-of-life treatment of sold products",
+      "page": 14
+    },
+    {
+      "text": "13. Downstream leased assets",
+      "page": 14
+    },
+    {
+      "text": "14. Franchises",
+      "page": 14
+    },
+    {
+      "text": "15. Investments",
+      "page": 14
+    },
+    {
+      "text": "Other downstream",
+      "page": 14
+    },
+    {
+      "text": "For each of these categories and activities, the organization can provide a figure in CO",
+      "page": 14
+    },
+    {
+      "text": "2",
+      "page": 14
+    },
+    {
+      "text": "equivalent or explain why certain data are not included.",
+      "page": 14
+    },
+    {
+      "text": "For recalculations of prior year emissions, the organization can follow the approach in the ‘GHG",
+      "page": 14
+    },
+    {
+      "text": "Protocol Corporate Value Chain Standard’.",
+      "page": 14
+    },
+    {
+      "text": "The chosen emission factors can originate from mandatory reporting requirements, voluntary",
+      "page": 14
+    },
+    {
+      "text": "reporting frameworks, or industry groups.",
+      "page": 14
+    },
+    {
+      "text": "15 GRI 305: Emissions 2016",
+      "page": 15
+    },
+    {
+      "text": "Estimates of GWP rates change over time as scientific research develops. GWP rates from the",
+      "page": 15
+    },
+    {
+      "text": "Second Assessment Report of the IPCC are used as the basis for international negotiations",
+      "page": 15
+    },
+    {
+      "text": "under the ‘Kyoto Protocol’. Thus, such rates can be used for disclosing GHG emissions where it",
+      "page": 15
+    },
+    {
+      "text": "does not conflict with national or regional reporting requirements. The organization can also use",
+      "page": 15
+    },
+    {
+      "text": "the latest GWP rates from the most recent IPCC assessment report.",
+      "page": 15
+    },
+    {
+      "text": "The organization can combine Disclosure 305-3 with Disclosures 305-1 (direct/Scope 1 GHG",
+      "page": 15
+    },
+    {
+      "text": "emissions) and 305-2 (energy indirect/Scope 2 GHG emissions) to disclose total GHG",
+      "page": 15
+    },
+    {
+      "text": "emissions.",
+      "page": 15
+    },
+    {
+      "text": "See references [1], [2], [12], [13], [15], [17] and [19] in the Bibliography.",
+      "page": 15
+    },
+    {
+      "text": "16 GRI 305: Emissions 2016",
+      "page": 16
+    },
+    {
+      "text": "Disclosure 305-4 GHG emissions intensity",
+      "page": 16
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 16
+    },
+    {
+      "text": "indirect (Scope 2), and/or other indirect (Scope 3).",
+      "page": 16
+    },
+    {
+      "text": "2 4 2 6 3",
+      "page": 16
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 16
+    },
+    {
+      "text": "2.7 When compiling the information specified in Disclosure 305-4, the reporting",
+      "page": 16
+    },
+    {
+      "text": "2.7.1 calculate the ratio by dividing the absolute GHG emissions (the numerator) by",
+      "page": 16
+    },
+    {
+      "text": "the organization-specific metric (the denominator);",
+      "page": 16
+    },
+    {
+      "text": "2.7.2 if reporting an intensity ratio for other indirect (Scope 3) GHG emissions, report",
+      "page": 16
+    },
+    {
+      "text": "this intensity ratio separately from the intensity ratios for direct (Scope 1) and",
+      "page": 16
+    },
+    {
+      "text": "energy indirect (Scope 2) emissions.",
+      "page": 16
+    },
+    {
+      "text": "2.8 When compiling the information specified in Disclosure 305-4, the reporting organization",
+      "page": 16
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 16
+    },
+    {
+      "text": "should, where it aids transparency or comparability over time, provide a breakdown of the",
+      "page": 16
+    },
+    {
+      "text": "GHG emissions intensity ratio by:",
+      "page": 16
+    },
+    {
+      "text": "2.8.1 business unit or facility;",
+      "page": 16
+    },
+    {
+      "text": "2.8.2 country;",
+      "page": 16
+    },
+    {
+      "text": "2.8.3 type of source;",
+      "page": 16
+    },
+    {
+      "text": "2.8.4 type of activity.",
+      "page": 16
+    },
+    {
+      "text": "Guidance for Disclosure 305-4",
+      "page": 16
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 16
+    },
+    {
+      "text": "Intensity ratios can be provided for, among others:",
+      "page": 16
+    },
+    {
+      "text": "• products (such as metric tons of CO emissions per unit produced);",
+      "page": 16
+    },
+    {
+      "text": "2",
+      "page": 16
+    },
+    {
+      "text": "• services (such as metric tons of CO emissions per function or per service);",
+      "page": 16
+    },
+    {
+      "text": "2",
+      "page": 16
+    },
+    {
+      "text": "• sales (such as metric tons of CO emissions per sales).",
+      "page": 16
+    },
+    {
+      "text": "2",
+      "page": 16
+    },
+    {
+      "text": "Organization-specific metrics (denominators) can include:",
+      "page": 16
+    },
+    {
+      "text": "• units of product;",
+      "page": 16
+    },
+    {
+      "text": "• production volume (such as metric tons, liters, or MWh);",
+      "page": 16
+    },
+    {
+      "text": "• size (such as m2 floor space);",
+      "page": 16
+    },
+    {
+      "text": "• number of full-time employees;",
+      "page": 16
+    },
+    {
+      "text": "• monetary units (such as revenue or sales).",
+      "page": 16
+    },
+    {
+      "text": "The reporting organization can report an intensity ratio for direct (Scope 1) and energy indirect",
+      "page": 16
+    },
+    {
+      "text": "(Scope 2) GHG emissions combined, using the figures reported in Disclosures 305-1 and 305-",
+      "page": 16
+    },
+    {
+      "text": "2.",
+      "page": 16
+    },
+    {
+      "text": "Background",
+      "page": 16
+    },
+    {
+      "text": "Intensity ratios define GHG emissions in the context of an organization-specific metric. Many",
+      "page": 16
+    },
+    {
+      "text": "organizations track environmental performance with intensity ratios, which are often called",
+      "page": 16
+    },
+    {
+      "text": "normalized environmental impact data.",
+      "page": 16
+    },
+    {
+      "text": "GHG emissions intensity expresses the amount of GHG emissions per unit of activity, output, or",
+      "page": 16
+    },
+    {
+      "text": "any other organization-specific metric. In combination with an organization’s absolute GHG",
+      "page": 16
+    },
+    {
+      "text": "emissions, reported in Disclosures 305-1, 305-2, and 305-3, GHG emissions intensity helps to",
+      "page": 16
+    },
+    {
+      "text": "contextualize the organization’s efficiency, including in relation to other organizations.",
+      "page": 16
+    },
+    {
+      "text": "See references [13], [14], and [19] in the Bibliography.",
+      "page": 16
+    },
+    {
+      "text": "17 GRI 305: Emissions 2016",
+      "page": 17
+    },
+    {
+      "text": "Disclosure 305-5 Reduction of GHG emissions",
+      "page": 17
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 17
+    },
+    {
+      "text": "equivalent.",
+      "page": 17
+    },
+    {
+      "text": "2 4 2 6 3",
+      "page": 17
+    },
+    {
+      "text": "(Scope 2), and/or other indirect (Scope 3).",
+      "page": 17
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 17
+    },
+    {
+      "text": "2.9 When compiling the information specified in Disclosure 305-5, the reporting",
+      "page": 17
+    },
+    {
+      "text": "2.9.1 exclude reductions resulting from reduced production capacity or",
+      "page": 17
+    },
+    {
+      "text": "outsourcing;",
+      "page": 17
+    },
+    {
+      "text": "2.9.2 use the inventory or project method to account for reductions;",
+      "page": 17
+    },
+    {
+      "text": "2.9.3 calculate an initiative’s total reductions of GHG emissions as the sum of its",
+      "page": 17
+    },
+    {
+      "text": "associated primary effects and any significant secondary effects;",
+      "page": 17
+    },
+    {
+      "text": "2.9.4 if reporting two or more Scope types, report the reductions for each",
+      "page": 17
+    },
+    {
+      "text": "separately;",
+      "page": 17
+    },
+    {
+      "text": "2.9.5 report reductions from offsets separately.",
+      "page": 17
+    },
+    {
+      "text": "2.10 When compiling the information specified in Disclosure 305-5, the reporting organization",
+      "page": 17
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 17
+    },
+    {
+      "text": "should, if subject to different standards and methodologies, describe the approach to",
+      "page": 17
+    },
+    {
+      "text": "selecting them.",
+      "page": 17
+    },
+    {
+      "text": "Guidance for Disclosure 305-5",
+      "page": 17
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 17
+    },
+    {
+      "text": "The reporting organization can prioritize disclosing reduction initiatives that were implemented",
+      "page": 17
+    },
+    {
+      "text": "in the reporting period, and that have the potential to contribute significantly to reductions. The",
+      "page": 17
+    },
+    {
+      "text": "organization can describe reduction initiatives and their targets when reporting how it manages",
+      "page": 17
+    },
+    {
+      "text": "this topic.",
+      "page": 17
+    },
+    {
+      "text": "Reduction initiatives can include:",
+      "page": 17
+    },
+    {
+      "text": "• process redesign;",
+      "page": 17
+    },
+    {
+      "text": "• conversion and retrofitting of equipment;",
+      "page": 17
+    },
+    {
+      "text": "• fuel switching;",
+      "page": 17
+    },
+    {
+      "text": "• changes in behavior;",
+      "page": 17
+    },
+    {
+      "text": "• offsets.",
+      "page": 17
+    },
+    {
+      "text": "The organization can report reductions disaggregated by initiatives or groups of initiatives.",
+      "page": 17
+    },
+    {
+      "text": "This disclosure can be used in combination with Disclosures 305-1, 305-2, and 305-3 of this",
+      "page": 17
+    },
+    {
+      "text": "Standard to monitor the reduction of GHG emissions with reference to the organization’s targets,",
+      "page": 17
+    },
+    {
+      "text": "or to regulations and trading systems at international or national level.",
+      "page": 17
+    },
+    {
+      "text": "See references [12], [13], [14], [15], [16], and [19] in the Bibliography.",
+      "page": 17
+    },
+    {
+      "text": "Guidance for clause 2.9.2",
+      "page": 17
+    },
+    {
+      "text": "The inventory method compares reductions to a base year. The project method compares",
+      "page": 17
+    },
+    {
+      "text": "reductions to a baseline. Further details on these methods are available in references [15] and",
+      "page": 17
+    },
+    {
+      "text": "[16] in the Bibliography.",
+      "page": 17
+    },
+    {
+      "text": "Guidance for clause 2.9.3",
+      "page": 17
+    },
+    {
+      "text": "Primary effects are the elements or activities designed to reduce GHG emissions, such as",
+      "page": 17
+    },
+    {
+      "text": "carbon storage.",
+      "page": 17
+    },
+    {
+      "text": "18 GRI 305: Emissions 2016",
+      "page": 18
+    },
+    {
+      "text": "Secondary effects are smaller, unintended consequences of a reduction initiative, including",
+      "page": 18
+    },
+    {
+      "text": "changes to production or manufacture, which result in changes to GHG emissions elsewhere.",
+      "page": 18
+    },
+    {
+      "text": "See reference [14] in the Bibliography.",
+      "page": 18
+    },
+    {
+      "text": "19 GRI 305: Emissions 2016",
+      "page": 19
+    },
+    {
+      "text": "Disclosure 305-6 Emissions of ozone-depleting substances (ODS)",
+      "page": 19
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 19
+    },
+    {
+      "text": "(trichlorofluoromethane) equivalent.",
+      "page": 19
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 19
+    },
+    {
+      "text": "2.11 When compiling the information specified in Disclosure 305-6, the reporting",
+      "page": 19
+    },
+    {
+      "text": "2.11.1 calculate the production of ODS as the amount of ODS produced, minus the",
+      "page": 19
+    },
+    {
+      "text": "amount destroyed by approved technologies, and minus the amount entirely",
+      "page": 19
+    },
+    {
+      "text": "used as feedstock in the manufacture of other chemicals;",
+      "page": 19
+    },
+    {
+      "text": "Production of ODS",
+      "page": 19
+    },
+    {
+      "text": "=",
+      "page": 19
+    },
+    {
+      "text": "ODS produced",
+      "page": 19
+    },
+    {
+      "text": "-",
+      "page": 19
+    },
+    {
+      "text": "ODS destroyed by approved technologies",
+      "page": 19
+    },
+    {
+      "text": "-",
+      "page": 19
+    },
+    {
+      "text": "ODS entirely used as feedstock in the manufacture of other chemicals",
+      "page": 19
+    },
+    {
+      "text": "2.11.2 exclude ODS recycled and reused.",
+      "page": 19
+    },
+    {
+      "text": "2.12 When compiling the information specified in Disclosure 305-6, the reporting organization",
+      "page": 19
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 19
+    },
+    {
+      "text": "should:",
+      "page": 19
+    },
+    {
+      "text": "2.12.1 if subject to different standards and methodologies, describe the approach to",
+      "page": 19
+    },
+    {
+      "text": "selecting them;",
+      "page": 19
+    },
+    {
+      "text": "2.12.2 where it aids transparency or comparability over time, provide a breakdown of the",
+      "page": 19
+    },
+    {
+      "text": "ODS data by:",
+      "page": 19
+    },
+    {
+      "text": "2.12.2.1 business unit or facility;",
+      "page": 19
+    },
+    {
+      "text": "2.12.2.2 country;",
+      "page": 19
+    },
+    {
+      "text": "2.12.2.3 type of source;",
+      "page": 19
+    },
+    {
+      "text": "2.12.2.4 type of activity.",
+      "page": 19
+    },
+    {
+      "text": "Guidance for Disclosure 305-6",
+      "page": 19
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 19
+    },
+    {
+      "text": "The reporting organization can report separate or combined data for the substances included in",
+      "page": 19
+    },
+    {
+      "text": "the calculation.",
+      "page": 19
+    },
+    {
+      "text": "Background",
+      "page": 19
+    },
+    {
+      "text": "Measuring ODS production, imports, and exports helps to indicate how an organization",
+      "page": 19
+    },
+    {
+      "text": "complies with legislation. This is particularly relevant if the organization produces or uses ODS",
+      "page": 19
+    },
+    {
+      "text": "in its processes, products and services and is subject to phase-out commitments. Results on",
+      "page": 19
+    },
+    {
+      "text": "ODS phase-out help to indicate the organization’s position in any markets affected by regulation",
+      "page": 19
+    },
+    {
+      "text": "on ODS.",
+      "page": 19
+    },
+    {
+      "text": "20 GRI 305: Emissions 2016",
+      "page": 20
+    },
+    {
+      "text": "This disclosure covers the substances included in Annexes A, B, C, and E of the ‘Montreal",
+      "page": 20
+    },
+    {
+      "text": "Protocol’ as well as any other ODS produced, imported, or exported by an organization.",
+      "page": 20
+    },
+    {
+      "text": "See references [1], [2], [8] and [9] in the Bibliography.",
+      "page": 20
+    },
+    {
+      "text": "21 GRI 305: Emissions 2016",
+      "page": 21
+    },
+    {
+      "text": "Disclosure 305-7 Nitrogen oxides (NOx), sulfur oxides (SOx), and",
+      "page": 21
+    },
+    {
+      "text": "other significant air emissions",
+      "page": 21
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 21
+    },
+    {
+      "text": "x",
+      "page": 21
+    },
+    {
+      "text": "x",
+      "page": 21
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 21
+    },
+    {
+      "text": "2.13 When compiling the information specified in Disclosure 305-7, the reporting",
+      "page": 21
+    },
+    {
+      "text": "air emissions:",
+      "page": 21
+    },
+    {
+      "text": "2.13.1 Direct measurement of emissions (such as online analyzers);",
+      "page": 21
+    },
+    {
+      "text": "2.13.2 Calculation based on site-specific data;",
+      "page": 21
+    },
+    {
+      "text": "2.13.3 Calculation based on published emission factors;",
+      "page": 21
+    },
+    {
+      "text": "2.13.4 Estimation. If estimations are used due to a lack of default figures, the",
+      "page": 21
+    },
+    {
+      "text": "2.14 When compiling the information specified in Disclosure 305-7, the reporting organization",
+      "page": 21
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 21
+    },
+    {
+      "text": "should:",
+      "page": 21
+    },
+    {
+      "text": "2.14.1 if subject to different standards and methodologies, describe the approach to",
+      "page": 21
+    },
+    {
+      "text": "selecting them;",
+      "page": 21
+    },
+    {
+      "text": "2.14.2 where it aids transparency or comparability over time, provide a breakdown of the",
+      "page": 21
+    },
+    {
+      "text": "air emissions data by:",
+      "page": 21
+    },
+    {
+      "text": "2.14.2.1 business unit or facility;",
+      "page": 21
+    },
+    {
+      "text": "2.14.2.2 country;",
+      "page": 21
+    },
+    {
+      "text": "2.14.2.3 type of source;",
+      "page": 21
+    },
+    {
+      "text": "2.14.2.4 type of activity.",
+      "page": 21
+    },
+    {
+      "text": "See references [3], [4], [5], [6] and [10] in the Bibliography.",
+      "page": 21
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 21
+    },
+    {
+      "text": "22 GRI 305: Emissions 2016",
+      "page": 22
+    },
+    {
+      "text": "Glossary",
+      "page": 22
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 22
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 22
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 22
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 22
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 22
+    },
+    {
+      "text": "base year *",
+      "page": 22
+    },
+    {
+      "text": "historical datum (such as year) against which a measurement is tracked over time",
+      "page": 22
+    },
+    {
+      "text": "* Please note this term will be updated following the effective date of GRI 102: Climate Change",
+      "page": 22
+    },
+    {
+      "text": "2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated",
+      "page": 22
+    },
+    {
+      "text": "term.",
+      "page": 22
+    },
+    {
+      "text": "baseline *",
+      "page": 22
+    },
+    {
+      "text": "starting point used for comparisons",
+      "page": 22
+    },
+    {
+      "text": "Note: In the context of energy reporting, the baseline is the projected energy consumption",
+      "page": 22
+    },
+    {
+      "text": "or emissions in the absence of any reduction activity.",
+      "page": 22
+    },
+    {
+      "text": "* Please note this term will be updated following the effective date of GRI 102: Climate Change",
+      "page": 22
+    },
+    {
+      "text": "2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated",
+      "page": 22
+    },
+    {
+      "text": "term.",
+      "page": 22
+    },
+    {
+      "text": "biogenic carbon dioxide (CO₂) emission",
+      "page": 22
+    },
+    {
+      "text": "emission of CO from the combustion or biodegradation of biomass",
+      "page": 22
+    },
+    {
+      "text": "2",
+      "page": 22
+    },
+    {
+      "text": "carbon dioxide (CO2) equivalent *",
+      "page": 22
+    },
+    {
+      "text": "measure used to compare the emissions from various types of greenhouse gas (GHG)",
+      "page": 22
+    },
+    {
+      "text": "based on their global warming potential (GWP)",
+      "page": 22
+    },
+    {
+      "text": "Note: The CO equivalent for a gas is determined by multiplying the metric tons of the gas",
+      "page": 22
+    },
+    {
+      "text": "2",
+      "page": 22
+    },
+    {
+      "text": "by the associated GWP.",
+      "page": 22
+    },
+    {
+      "text": "* Please note this term will be updated following the effective date of GRI 102: Climate Change",
+      "page": 22
+    },
+    {
+      "text": "2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated",
+      "page": 22
+    },
+    {
+      "text": "term.",
+      "page": 22
+    },
+    {
+      "text": "CFC11 (trichlorofluoromethane) equivalent",
+      "page": 22
+    },
+    {
+      "text": "measure used to compare various substances based on their relative ozone depletion potential",
+      "page": 22
+    },
+    {
+      "text": "(ODP)",
+      "page": 22
+    },
+    {
+      "text": "Note: The reference level of 1 is the potential of CFC-11 (trichlorofluoromethane) and",
+      "page": 22
+    },
+    {
+      "text": "CFC-12 (dichlorodifluoromethane) to cause ozone depletion.",
+      "page": 22
+    },
+    {
+      "text": "direct (Scope 1) GHG emissions *",
+      "page": 22
+    },
+    {
+      "text": "greenhouse gas (GHG) emissions from sources that are owned or controlled by the",
+      "page": 22
+    },
+    {
+      "text": "organization",
+      "page": 22
+    },
+    {
+      "text": "Examples: CO emissions from fuel consumption",
+      "page": 22
+    },
+    {
+      "text": "2",
+      "page": 22
+    },
+    {
+      "text": "Note: A GHG source is any physical unit or process that releases GHG into the",
+      "page": 22
+    },
+    {
+      "text": "atmosphere.",
+      "page": 22
+    },
+    {
+      "text": "* Please note this term will be updated following the effective date of GRI 102: Climate Change",
+      "page": 22
+    },
+    {
+      "text": "2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated",
+      "page": 22
+    },
+    {
+      "text": "term.",
+      "page": 22
+    },
+    {
+      "text": "energy indirect (Scope 2) GHG emissions *",
+      "page": 22
+    },
+    {
+      "text": "greenhouse gas (GHG) emissions that result from the generation of purchased or acquired",
+      "page": 22
+    },
+    {
+      "text": "electricity, heating, cooling, and steam consumed by the organization",
+      "page": 22
+    },
+    {
+      "text": "23 GRI 305: Emissions 2016",
+      "page": 23
+    },
+    {
+      "text": "* Please note this term will be updated following the effective date of GRI 102: Climate Change",
+      "page": 23
+    },
+    {
+      "text": "2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated",
+      "page": 23
+    },
+    {
+      "text": "term.",
+      "page": 23
+    },
+    {
+      "text": "global warming potential (GWP) *",
+      "page": 23
+    },
+    {
+      "text": "value describing the radiative forcing impact of one unit of a given greenhouse gas",
+      "page": 23
+    },
+    {
+      "text": "(GHG) relative to one unit of CO over a given period of time",
+      "page": 23
+    },
+    {
+      "text": "2",
+      "page": 23
+    },
+    {
+      "text": "Note: GWP values convert GHG emissions data for non-CO gases into units of CO2",
+      "page": 23
+    },
+    {
+      "text": "2",
+      "page": 23
+    },
+    {
+      "text": "equivalent.",
+      "page": 23
+    },
+    {
+      "text": "* Please note this term will be updated following the effective date of GRI 102: Climate Change",
+      "page": 23
+    },
+    {
+      "text": "2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated",
+      "page": 23
+    },
+    {
+      "text": "term.",
+      "page": 23
+    },
+    {
+      "text": "greenhouse gas (GHG) *",
+      "page": 23
+    },
+    {
+      "text": "gas that contributes to the greenhouse effect by absorbing infrared radiation",
+      "page": 23
+    },
+    {
+      "text": "* Please note this term will be updated following the effective date of GRI 102: Climate Change",
+      "page": 23
+    },
+    {
+      "text": "2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated",
+      "page": 23
+    },
+    {
+      "text": "term.",
+      "page": 23
+    },
+    {
+      "text": "greenhouse gas (GHG) trade *",
+      "page": 23
+    },
+    {
+      "text": "purchase, sale or transfer of greenhouse gas (GHG) emission offsets or allowances",
+      "page": 23
+    },
+    {
+      "text": "* Please note this term will be updated following the effective date of GRI 102: Climate Change",
+      "page": 23
+    },
+    {
+      "text": "2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated",
+      "page": 23
+    },
+    {
+      "text": "term.",
+      "page": 23
+    },
+    {
+      "text": "human rights",
+      "page": 23
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 23
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 23
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 23
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 23
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 23
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 23
+    },
+    {
+      "text": "modified",
+      "page": 23
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 23
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 23
+    },
+    {
+      "text": "impact",
+      "page": 23
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 23
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 23
+    },
+    {
+      "text": "development",
+      "page": 23
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 23
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 23
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 23
+    },
+    {
+      "text": "material topics",
+      "page": 23
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 23
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 23
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 23
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 23
+    },
+    {
+      "text": "other indirect (Scope 3) GHG emissions *",
+      "page": 23
+    },
+    {
+      "text": "indirect greenhouse gas (GHG) emissions not included in energy indirect (Scope 2) GHG",
+      "page": 23
+    },
+    {
+      "text": "emissions that occur outside of the organization, including both upstream and downstream",
+      "page": 23
+    },
+    {
+      "text": "emissions",
+      "page": 23
+    },
+    {
+      "text": "* Please note this term will be updated following the effective date of GRI 102: Climate Change",
+      "page": 23
+    },
+    {
+      "text": "24 GRI 305: Emissions 2016",
+      "page": 24
+    },
+    {
+      "text": "2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated",
+      "page": 24
+    },
+    {
+      "text": "term.",
+      "page": 24
+    },
+    {
+      "text": "ozone-depleting substance (ODS)",
+      "page": 24
+    },
+    {
+      "text": "substance with an ozone depletion potential (ODP) greater than 0 that can deplete the",
+      "page": 24
+    },
+    {
+      "text": "stratospheric ozone layer",
+      "page": 24
+    },
+    {
+      "text": "Note: Most ODS are controlled under the United Nations Environment Programme",
+      "page": 24
+    },
+    {
+      "text": "(UNEP), Montreal Protocol on Substances that Deplete the Ozone Layer, 1987, and",
+      "page": 24
+    },
+    {
+      "text": "its amendments, and include chlorofluorocarbons (CFCs),",
+      "page": 24
+    },
+    {
+      "text": "hydrochlorofluorocarbons (HCFCs), halons, and methyl bromide.",
+      "page": 24
+    },
+    {
+      "text": "reduction of greenhouse gas (GHG) emissions *",
+      "page": 24
+    },
+    {
+      "text": "decrease in greenhouse gas (GHG) emissions or increase in removal or storage of GHG from",
+      "page": 24
+    },
+    {
+      "text": "the atmosphere, relative to baseline emissions",
+      "page": 24
+    },
+    {
+      "text": "Note: Primary effects will result in GHG reductions, as will some secondary effects. An",
+      "page": 24
+    },
+    {
+      "text": "initiative’s total GHG reductions are quantified as the sum of its associated primary",
+      "page": 24
+    },
+    {
+      "text": "effect(s) and any significant secondary effects (which may involve decreases or",
+      "page": 24
+    },
+    {
+      "text": "countervailing increases in GHG emissions).",
+      "page": 24
+    },
+    {
+      "text": "* Please note this term will be updated following the effective date of GRI 102: Climate Change",
+      "page": 24
+    },
+    {
+      "text": "2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated",
+      "page": 24
+    },
+    {
+      "text": "term.",
+      "page": 24
+    },
+    {
+      "text": "scope of GHG emissions *",
+      "page": 24
+    },
+    {
+      "text": "classification of the operational boundaries where greenhouse gas (GHG) emissions occur",
+      "page": 24
+    },
+    {
+      "text": "Note 1: Scope classifies whether GHG emissions are created by the organization itself, or",
+      "page": 24
+    },
+    {
+      "text": "are created by other related organizations, for example electricity suppliers or",
+      "page": 24
+    },
+    {
+      "text": "logistics companies.",
+      "page": 24
+    },
+    {
+      "text": "Note 2: There are three classifications of Scope: Scope 1, Scope 2 and Scope 3.",
+      "page": 24
+    },
+    {
+      "text": "Note 3: The classification of Scope derives from the World Resources Institute (WRI) and",
+      "page": 24
+    },
+    {
+      "text": "World Business Council for Sustainable Development (WBCSD), GHG Protocol",
+      "page": 24
+    },
+    {
+      "text": "Corporate Accounting and Reporting Standard, Revised Edition, 2004.",
+      "page": 24
+    },
+    {
+      "text": "* Please note this term will be updated following the effective date of GRI 102: Climate Change",
+      "page": 24
+    },
+    {
+      "text": "2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated",
+      "page": 24
+    },
+    {
+      "text": "term.",
+      "page": 24
+    },
+    {
+      "text": "significant air emission",
+      "page": 24
+    },
+    {
+      "text": "air emission regulated under international conventions and/or national laws or regulations",
+      "page": 24
+    },
+    {
+      "text": "Note: Significant air emissions include those listed on environmental permits for the",
+      "page": 24
+    },
+    {
+      "text": "organization’s operations.",
+      "page": 24
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 24
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 24
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 24
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 24
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 24
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 24
+    },
+    {
+      "text": "Bibliography",
+      "page": 24
+    },
+    {
+      "text": "25 GRI 305: Emissions 2016",
+      "page": 25
+    },
+    {
+      "text": "Bibliography",
+      "page": 25
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments and additional references used in developing this",
+      "page": 25
+    },
+    {
+      "text": "Standard.",
+      "page": 25
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 25
+    },
+    {
+      "text": "1. Intergovernmental Panel on Climate Change (IPCC), Climate Change 1995: The Science of Climate Change,",
+      "page": 25
+    },
+    {
+      "text": "Contribution of Working Group I to the Second Assessment Report of the Intergovernmental Panel on Climate",
+      "page": 25
+    },
+    {
+      "text": "Change, 1995.",
+      "page": 25
+    },
+    {
+      "text": "2. Intergovernmental Panel on Climate Change (IPCC), Climate Change 2007: The Physical Science Basis,",
+      "page": 25
+    },
+    {
+      "text": "Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate",
+      "page": 25
+    },
+    {
+      "text": "Change, 2007.",
+      "page": 25
+    },
+    {
+      "text": "3. United Nations Economic Commission for Europe (UNECE) Convention, ‘Geneva Protocol concerning the",
+      "page": 25
+    },
+    {
+      "text": "Control of Emissions of Volatile Organic Compounds or their Transboundary Fluxes’, 1991.",
+      "page": 25
+    },
+    {
+      "text": "4. United Nations Economic Commission for Europe (UNECE) Convention, ‘Gothenburg Protocol to Abate",
+      "page": 25
+    },
+    {
+      "text": "Acidification, Eutrophication and Ground-level Ozone’, 1999.",
+      "page": 25
+    },
+    {
+      "text": "5. United Nations Economic Commission for Europe (UNECE) Convention, ‘Helsinki Protocol on the Reduction of",
+      "page": 25
+    },
+    {
+      "text": "Sulphur Emissions or their Transboundary Fluxes’, 1985.",
+      "page": 25
+    },
+    {
+      "text": "6. United Nations Economic Commission for Europe (UNECE) Convention, ‘Sofia Protocol concerning the Control",
+      "page": 25
+    },
+    {
+      "text": "of Emissions of Nitrogen Oxides or their Transboundary Fluxes’, 1988.",
+      "page": 25
+    },
+    {
+      "text": "7. United Nations Environment Programme (UNEP) and World Meteorological Organization (WMO), Integrated",
+      "page": 25
+    },
+    {
+      "text": "Assessment of Black Carbon and Tropospheric Ozone, 2011.",
+      "page": 25
+    },
+    {
+      "text": "8. United Nations Environment Programme (UNEP), ‘Montreal Protocol on Substances that Deplete the Ozone",
+      "page": 25
+    },
+    {
+      "text": "Layer’, 1987.",
+      "page": 25
+    },
+    {
+      "text": "9. United Nations Environment Programme (UNEP), Standards and Codes of Practice to Eliminate Dependency on",
+      "page": 25
+    },
+    {
+      "text": "Halons - Handbook of Good Practices in the Halon Sector, 2001.",
+      "page": 25
+    },
+    {
+      "text": "10. United Nations Environment Programme (UNEP) Convention, ‘Stockholm Convention on Persistent Organic",
+      "page": 25
+    },
+    {
+      "text": "Pollutants (POPs)’, Annex A, B, and C, 2009.",
+      "page": 25
+    },
+    {
+      "text": "11. United Nations (UN) Framework Convention, ‘United Nations Framework Convention on Climate Change’, 1992.",
+      "page": 25
+    },
+    {
+      "text": "12. United Nations (UN) Protocol, ‘Kyoto Protocol to the United Nations Framework Convention on Climate Change’,",
+      "page": 25
+    },
+    {
+      "text": "1997.",
+      "page": 25
+    },
+    {
+      "text": "Additional references:",
+      "page": 25
+    },
+    {
+      "text": "13. CDP, Investor CDP Information Request, updated annually.",
+      "page": 25
+    },
+    {
+      "text": "14. World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), ‘GHG",
+      "page": 25
+    },
+    {
+      "text": "Protocol Corporate Accounting and Reporting Standard’, Revised Edition, 2004.",
+      "page": 25
+    },
+    {
+      "text": "15. World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), ‘GHG",
+      "page": 25
+    },
+    {
+      "text": "Protocol Corporate Value Chain (Scope 3) Accounting and Reporting Standard’, 2011.",
+      "page": 25
+    },
+    {
+      "text": "16. World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), ‘GHG",
+      "page": 25
+    },
+    {
+      "text": "Protocol for Project Accounting’, 2005.",
+      "page": 25
+    },
+    {
+      "text": "17. World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), ‘GHG",
+      "page": 25
+    },
+    {
+      "text": "Protocol Product Life Cycle Accounting and Reporting Standard’, 2011.",
+      "page": 25
+    },
+    {
+      "text": "18. World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD), ‘GHG",
+      "page": 25
+    },
+    {
+      "text": "Protocol Scope 2 Guidance. An amendment to the GHG Protocol Corporate Standard’, 2015.",
+      "page": 25
+    },
+    {
+      "text": "19. World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD),",
+      "page": 25
+    },
+    {
+      "text": "‘Greenhouse Gas Protocol Accounting Notes, No. 1, Accounting and Reporting Standard Amendment’, 2012.",
+      "page": 25
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 26
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 26
+    },
+    {
+      "text": "The Netherlands",
+      "page": 26
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 26
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 5
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 5
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 5
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 5
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 5
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 5
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 5
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 5
+    },
+    {
+      "text": "Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 5
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 5
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 305: Emissions 2016",
+      "page": 6
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 6
+    },
+    {
+      "text": "GRI Standards",
+      "page": 6
+    },
+    {
+      "text": "Requirements and",
+      "page": 6
+    },
+    {
+      "text": "principles for using the",
+      "page": 6
+    },
+    {
+      "text": "GRI Standards",
+      "page": 6
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 6
+    },
+    {
+      "text": "reporting organization",
+      "page": 6
+    },
+    {
+      "text": "Disclosures and",
+      "page": 6
+    },
+    {
+      "text": "guidance about the",
+      "page": 6
+    },
+    {
+      "text": "organization's material",
+      "page": 6
+    },
+    {
+      "text": "topics",
+      "page": 6
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 6
+    },
+    {
+      "text": "material topics",
+      "page": 6
+    }
+  ]
+}

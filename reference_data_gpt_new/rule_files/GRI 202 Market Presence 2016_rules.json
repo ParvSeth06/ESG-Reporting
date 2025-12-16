@@ -1,0 +1,1051 @@
+{
+  "standard": "GRI 202 Market Presence 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages market presence using",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. When a significant proportion of employees are compensated based on wages subject",
+        "b. When a significant proportion of other workers (excluding employees) performing the",
+        "c. Whether a local minimum wage is absent or variable at significant locations of",
+        "d. The definition used for ‘significant locations of operation’."
+      ],
+      "page": 8
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Percentage of senior management at significant locations of operation that are hired",
+        "b. The definition used for ‘senior management’.",
+        "c. The organization’s geographical definition of ‘local’.",
+        "d. The definition used for ‘significant locations of operation’."
+      ],
+      "page": 10
+    },
+    {
+      "text": "organization shall calculate this percentage using data on full-time employees.",
+      "sub_requirements": [],
+      "page": 10
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses the topic of an organization’s market presence, covering its contribution to economic",
+      "page": 4
+    },
+    {
+      "text": "development in the local areas or communities where it operates. For example, this can include the organization’s",
+      "page": 4
+    },
+    {
+      "text": "approaches to remuneration or local hiring.",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 4
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its market presence-related impacts.",
+      "page": 5
+    },
+    {
+      "text": "determined market presence to be a material topic:",
+      "page": 5
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 5
+    },
+    {
+      "text": "• Any disclosures from this Topic Standard that are relevant to the organization’s market presence-related impacts",
+      "page": 5
+    },
+    {
+      "text": "(Disclosure 202-1 through Disclosure 202-2).",
+      "page": 5
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 5
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 5
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 5
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 5
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 5
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 5
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 5
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 5
+    },
+    {
+      "text": "item does not exist.",
+      "page": 5
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 5
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 5
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 5
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 5
+    },
+    {
+      "text": "information has been published).",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 202: Market Presence 2016",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 202: Market Presence 2016",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined market presence to be a material topic is required to report how it manages the",
+      "page": 7
+    },
+    {
+      "text": "topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 7
+    },
+    {
+      "text": "Disclosure 3-3 in GRI 3: Material Topics 2021.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 202: Market Presence 2016",
+      "page": 8
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 8
+    },
+    {
+      "text": "An organization is expected to compile information for economic disclosures using figures from its audited financial",
+      "page": 8
+    },
+    {
+      "text": "statements or from its internally-audited management accounts, whenever possible. Data can be compiled using, for",
+      "page": 8
+    },
+    {
+      "text": "example:",
+      "page": 8
+    },
+    {
+      "text": "• the relevant International Financial Reporting Standards (IFRS), published by the International Accounting",
+      "page": 8
+    },
+    {
+      "text": "Standards Board (IASB), and the Interpretations developed by the IFRS Interpretations Committee (specific IFRS",
+      "page": 8
+    },
+    {
+      "text": "are referenced for some of the disclosures);",
+      "page": 8
+    },
+    {
+      "text": "• the International Public Sector Accounting Standards (IPSAS) issued by the International Federation of",
+      "page": 8
+    },
+    {
+      "text": "Accountants (IFAC);",
+      "page": 8
+    },
+    {
+      "text": "• national or regional standards recognized internationally for the purpose of financial reporting.",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 202-1 Ratios of standard entry level wage by gender",
+      "page": 8
+    },
+    {
+      "text": "compared to local minimum wage",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "to minimum wage rules, report the relevant ratio of the entry level wage by gender at",
+      "page": 8
+    },
+    {
+      "text": "significant locations of operation to the minimum wage.",
+      "page": 8
+    },
+    {
+      "text": "organization’s activities are compensated based on wages subject to minimum wage",
+      "page": 8
+    },
+    {
+      "text": "rules, describe the actions taken to determine whether these workers are paid above",
+      "page": 8
+    },
+    {
+      "text": "the minimum wage.",
+      "page": 8
+    },
+    {
+      "text": "operation, by gender. In circumstances in which different minimums can be used as a",
+      "page": 8
+    },
+    {
+      "text": "reference, report which minimum wage is being used.",
+      "page": 8
+    },
+    {
+      "text": "2.1 When compiling the information specified in Disclosure 202-1-b, the reporting",
+      "page": 8
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 8
+    },
+    {
+      "text": "organization should:",
+      "page": 8
+    },
+    {
+      "text": "2.1.1 use the data from Disclosure 2-8 in GRI 2: General Disclosures 2021 to identify",
+      "page": 8
+    },
+    {
+      "text": "the total number of workers who are not employees and whose work is controlled",
+      "page": 8
+    },
+    {
+      "text": "by the organization;",
+      "page": 8
+    },
+    {
+      "text": "2.1.2 if applicable, convert the entry level wage to the same units used in the minimum",
+      "page": 8
+    },
+    {
+      "text": "wage (e.g., hourly or monthly basis);",
+      "page": 8
+    },
+    {
+      "text": "2.1.3 when a significant proportion of other workers (excluding employees) performing",
+      "page": 8
+    },
+    {
+      "text": "the organization’s activities are compensated based on wages subject to",
+      "page": 8
+    },
+    {
+      "text": "minimum wage rules, report the relevant ratio of the entry level wage by gender at",
+      "page": 8
+    },
+    {
+      "text": "significant locations of operation to the minimum wage.",
+      "page": 8
+    },
+    {
+      "text": "Background",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "This disclosure applies to those organizations in which a substantial portion of their employees,",
+      "page": 8
+    },
+    {
+      "text": "and workers (excluding employees) performing the organization’s activities, are compensated in",
+      "page": 8
+    },
+    {
+      "text": "a manner or scale that is closely linked to laws or regulations on minimum wage.",
+      "page": 8
+    },
+    {
+      "text": "Providing wages above the minimum wage can help contribute to the economic well-being of",
+      "page": 8
+    },
+    {
+      "text": "workers performing the organization’s activities. The impacts of wage levels are immediate, and",
+      "page": 8
+    },
+    {
+      "text": "they directly affect individuals, organizations, countries and economies. The distribution of",
+      "page": 8
+    },
+    {
+      "text": "wages is crucial for eliminating inequalities, such as wage gap differences between women",
+      "page": 8
+    },
+    {
+      "text": "and men, or nationals and migrants.",
+      "page": 8
+    },
+    {
+      "text": "Also, entry level wages paid compared to local minimum wages show the competitiveness of an",
+      "page": 8
+    },
+    {
+      "text": "organization’s wages and provide information relevant for assessing the effect of wages on the",
+      "page": 8
+    },
+    {
+      "text": "local labor market. Comparing this information by gender can also be a measure of an",
+      "page": 8
+    },
+    {
+      "text": "organization’s approach to equal opportunity in the workplace.",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 202: Market Presence 2016",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 202: Market Presence 2016",
+      "page": 10
+    },
+    {
+      "text": "Disclosure 202-2 Proportion of senior management hired from the",
+      "page": 10
+    },
+    {
+      "text": "local community",
+      "page": 10
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 10
+    },
+    {
+      "text": "from the local community.",
+      "page": 10
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 10
+    },
+    {
+      "text": "2.2 When compiling the information specified in Disclosure 202-2, the reporting",
+      "page": 10
+    },
+    {
+      "text": "Senior management hired from the local community includes those individuals either born or",
+      "page": 10
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 10
+    },
+    {
+      "text": "who have the legal right to reside indefinitely (such as naturalized citizens or permanent visa",
+      "page": 10
+    },
+    {
+      "text": "holders) in the same geographic market as the operation. The geographical definition of ‘local’",
+      "page": 10
+    },
+    {
+      "text": "can include the community surrounding operations, a region within a country, or a country.",
+      "page": 10
+    },
+    {
+      "text": "Background",
+      "page": 10
+    },
+    {
+      "text": "Including members from the local community in an organization’s senior management",
+      "page": 10
+    },
+    {
+      "text": "demonstrates the organization’s positive market presence. Including local community members",
+      "page": 10
+    },
+    {
+      "text": "in the management team can enhance human capital. It can also increase the economic benefit",
+      "page": 10
+    },
+    {
+      "text": "to the local community, and improve an organization’s ability to understand local needs.",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 202: Market Presence 2016",
+      "page": 11
+    },
+    {
+      "text": "Glossary",
+      "page": 11
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 11
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 11
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 11
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 11
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 11
+    },
+    {
+      "text": "business partner",
+      "page": 11
+    },
+    {
+      "text": "entity with which the organization has some form of direct and formal engagement for the",
+      "page": 11
+    },
+    {
+      "text": "purpose of meeting its business objectives",
+      "page": 11
+    },
+    {
+      "text": "Source: Shift and Mazars LLP, UN Guiding Principles Reporting Framework, 2015; modified",
+      "page": 11
+    },
+    {
+      "text": "Examples: affiliates, business-to-business customers, clients, first-tier suppliers, franchisees,",
+      "page": 11
+    },
+    {
+      "text": "joint venture partners, investee companies in which the organization has a",
+      "page": 11
+    },
+    {
+      "text": "shareholding position",
+      "page": 11
+    },
+    {
+      "text": "Note: Business partners do not include subsidiaries and affiliates that the organization",
+      "page": 11
+    },
+    {
+      "text": "controls.",
+      "page": 11
+    },
+    {
+      "text": "business relationships",
+      "page": 11
+    },
+    {
+      "text": "relationships that the organization has with business partners, with entities in its value chain",
+      "page": 11
+    },
+    {
+      "text": "including those beyond the first tier, and with any other entities directly linked to its operations,",
+      "page": 11
+    },
+    {
+      "text": "products, or services",
+      "page": 11
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 11
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 11
+    },
+    {
+      "text": "modified",
+      "page": 11
+    },
+    {
+      "text": "Note: Examples of other entities directly linked to the organization’s operations, products,",
+      "page": 11
+    },
+    {
+      "text": "or services are a non-governmental organization with which the organization",
+      "page": 11
+    },
+    {
+      "text": "delivers support to a local community or state security forces that protect the",
+      "page": 11
+    },
+    {
+      "text": "organization’s facilities.",
+      "page": 11
+    },
+    {
+      "text": "employee",
+      "page": 11
+    },
+    {
+      "text": "individual who is in an employment relationship with the organization according to national law",
+      "page": 11
+    },
+    {
+      "text": "or practice",
+      "page": 11
+    },
+    {
+      "text": "entry level wage",
+      "page": 11
+    },
+    {
+      "text": "full-time wage in the lowest employment category",
+      "page": 11
+    },
+    {
+      "text": "Note: Intern or apprentice wages are not considered entry level wages.",
+      "page": 11
+    },
+    {
+      "text": "full-time employee",
+      "page": 11
+    },
+    {
+      "text": "employee whose working hours per week, month, or year are defined according to national law",
+      "page": 11
+    },
+    {
+      "text": "or practice regarding working time",
+      "page": 11
+    },
+    {
+      "text": "human rights",
+      "page": 11
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 11
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 11
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 11
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 11
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 11
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 11
+    },
+    {
+      "text": "modified",
+      "page": 11
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 11
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 11
+    },
+    {
+      "text": "impact",
+      "page": 11
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 11
+    },
+    {
+      "text": "12 GRI 202: Market Presence 2016",
+      "page": 12
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 12
+    },
+    {
+      "text": "development",
+      "page": 12
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 12
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 12
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 12
+    },
+    {
+      "text": "local minimum wage",
+      "page": 12
+    },
+    {
+      "text": "minimum compensation for employment per hour, or other unit of time, allowed under law",
+      "page": 12
+    },
+    {
+      "text": "Note: Some countries have numerous minimum wages, such as by state or province or",
+      "page": 12
+    },
+    {
+      "text": "by employment category.",
+      "page": 12
+    },
+    {
+      "text": "material topics",
+      "page": 12
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 12
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 12
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 12
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 12
+    },
+    {
+      "text": "supplier",
+      "page": 12
+    },
+    {
+      "text": "entity upstream from the organization (i.e., in the organization’s supply chain), which provides a",
+      "page": 12
+    },
+    {
+      "text": "product or service that is used in the development of the organization’s own products or services",
+      "page": 12
+    },
+    {
+      "text": "Examples: brokers, consultants, contractors, distributors, franchisees, home workers,",
+      "page": 12
+    },
+    {
+      "text": "independent contractors, licensees, manufacturers, primary producers, sub-",
+      "page": 12
+    },
+    {
+      "text": "contractors, wholesalers",
+      "page": 12
+    },
+    {
+      "text": "Note: A supplier can have a direct business relationship with the organization (often",
+      "page": 12
+    },
+    {
+      "text": "referred to as a first-tier supplier) or an indirect business relationship.",
+      "page": 12
+    },
+    {
+      "text": "supply chain",
+      "page": 12
+    },
+    {
+      "text": "range of activities carried out by entities upstream from the organization, which provide products",
+      "page": 12
+    },
+    {
+      "text": "or services that are used in the development of the organization’s own products or services",
+      "page": 12
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 12
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 12
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 12
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 12
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 12
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 12
+    },
+    {
+      "text": "value chain",
+      "page": 12
+    },
+    {
+      "text": "range of activities carried out by the organization, and by entities upstream and downstream",
+      "page": 12
+    },
+    {
+      "text": "from the organization, to bring the organization’s products or services from their conception to",
+      "page": 12
+    },
+    {
+      "text": "their end use",
+      "page": 12
+    },
+    {
+      "text": "Note 1: Entities upstream from the organization (e.g., suppliers) provide products or",
+      "page": 12
+    },
+    {
+      "text": "services that are used in the development of the organization’s own products or",
+      "page": 12
+    },
+    {
+      "text": "services. Entities downstream from the organization (e.g., distributors, customers)",
+      "page": 12
+    },
+    {
+      "text": "receive products or services from the organization.",
+      "page": 12
+    },
+    {
+      "text": "Note 2: The value chain includes the supply chain.",
+      "page": 12
+    },
+    {
+      "text": "worker",
+      "page": 12
+    },
+    {
+      "text": "person that performs work for the organization",
+      "page": 12
+    },
+    {
+      "text": "Examples: employees, agency workers, apprentices, contractors, home workers, interns, self-",
+      "page": 12
+    },
+    {
+      "text": "employed persons, sub-contractors, volunteers, and persons working for",
+      "page": 12
+    },
+    {
+      "text": "organizations other than the reporting organization, such as for suppliers",
+      "page": 12
+    },
+    {
+      "text": "Note: In the GRI Standards, in some cases, it is specified whether a particular subset of",
+      "page": 12
+    },
+    {
+      "text": "workers is required to be used.",
+      "page": 12
+    },
+    {
+      "text": "13 GRI 202: Market Presence 2016",
+      "page": 13
+    },
+    {
+      "text": "Bibliography",
+      "page": 13
+    },
+    {
+      "text": "14 GRI 202: Market Presence 2016",
+      "page": 14
+    },
+    {
+      "text": "Bibliography",
+      "page": 14
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments used in developing this Standard.",
+      "page": 14
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 14
+    },
+    {
+      "text": "1. United Nations (UN) Convention, ‘Convention on the Elimination of all Forms of Discrimination against Women",
+      "page": 14
+    },
+    {
+      "text": "(CEDAW)’, 1979.",
+      "page": 14
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 15
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 15
+    },
+    {
+      "text": "The Netherlands",
+      "page": 15
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 15
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 4
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 4
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 4
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 4
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 4
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 4
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 4
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 4
+    },
+    {
+      "text": "Topic Standards",
+      "page": 4
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 4
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 4
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 202: Market Presence 2016",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}

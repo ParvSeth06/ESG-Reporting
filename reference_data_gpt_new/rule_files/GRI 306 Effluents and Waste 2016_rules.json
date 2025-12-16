@@ -1,0 +1,117 @@
+{
+  "standard": "GRI 306 Effluents and Waste 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "with the word ‘shall’. Requirements are to be read in the context of recommendations and guidance; however, an",
+      "sub_requirements": [
+        "D. Background context"
+      ],
+      "page": 4
+    },
+    {
+      "text": "1.1 The reporting organization shall report its management approach for effluents and waste",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Total volume of planned and unplanned water discharges by:",
+        "i. destination;",
+        "ii. quality of the water, including treatment method;",
+        "iii. whether the water was reused by another organization.",
+        "b. Standards, methodologies, and assumptions used."
+      ],
+      "page": 8
+    },
+    {
+      "text": "shall:",
+      "sub_requirements": [],
+      "page": 8
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Total weight of hazardous waste, with a breakdown by the following disposal methods",
+        "i. Reuse",
+        "ii. Recycling",
+        "iii. Composting",
+        "iv. Recovery, including energy recovery",
+        "v. Incineration (mass burn)",
+        "vi. Deep well injection",
+        "vii. Landfill",
+        "viii. On-site storage",
+        "ix. Other (to be specified by the organization)",
+        "b. Total weight of non-hazardous waste, with a breakdown by the following disposal methods",
+        "i. Reuse",
+        "ii. Recycling",
+        "iii. Composting",
+        "iv. Recovery, including energy recovery",
+        "v. Incineration (mass burn)",
+        "vi. Deep well injection",
+        "vii. Landfill",
+        "viii. On-site storage",
+        "ix. Other (to be specified by the organization)",
+        "c. How the waste disposal method has been determined:",
+        "i. Disposed of directly by the organization, or otherwise directly confirmed",
+        "ii. Information provided by the waste disposal contractor",
+        "iii. Organizational defaults of the waste disposal contractor"
+      ],
+      "page": 9
+    },
+    {
+      "text": "shall:",
+      "sub_requirements": [],
+      "page": 9
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Total number and total volume of recorded significant spills.",
+        "b. The following additional information for each spill that was reported in the",
+        "i. Location of spill;",
+        "ii. Volume of spill;",
+        "iii. Material of spill, categorized by: oil spills (soil or water surfaces), fuel spills",
+        "c. Impacts of significant spills."
+      ],
+      "page": 10
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Total weight for each of the following:",
+        "i. Hazardous waste transported",
+        "ii. Hazardous waste imported",
+        "iii. Hazardous waste exported",
+        "iv. Hazardous waste treated",
+        "b. Percentage of hazardous waste shipped internationally.",
+        "c. Standards, methodologies, and assumptions used."
+      ],
+      "page": 11
+    },
+    {
+      "text": "shall:",
+      "sub_requirements": [],
+      "page": 11
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Water bodies and related habitats that are significantly affected by water discharges and/or",
+        "i. the size of the water body and related habitat;",
+        "ii. whether the water body and related habitat is designated as a nationally",
+        "iii. the biodiversity value, such as total number of protected species."
+      ],
+      "page": 12
+    },
+    {
+      "text": "2.5 When compiling the information in Disclosure 306-5, the reporting organization shall report",
+      "sub_requirements": [],
+      "page": 12
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [],
+  "sector_specific_rules": []
+}

@@ -1,0 +1,1062 @@
+{
+  "standard": "GRI 404 Training and Education 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages training and education using",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Average hours of training that the organization’s employees have undertaken during the",
+        "i. gender;",
+        "ii. employee category."
+      ],
+      "page": 8
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Type and scope of programs implemented and assistance provided to upgrade",
+        "b. Transition assistance programs provided to facilitate continued employability and the"
+      ],
+      "page": 10
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Percentage of total employees by gender and by employee category who received a"
+      ],
+      "page": 11
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses the topic of training and education. This includes an organization’s approach to training and",
+      "page": 4
+    },
+    {
+      "text": "upgrading employee skills, and performance and career development reviews. It also includes transition assistance",
+      "page": 4
+    },
+    {
+      "text": "programs to facilitate continued employability, and the management of career endings due to retirement or",
+      "page": 4
+    },
+    {
+      "text": "termination.",
+      "page": 4
+    },
+    {
+      "text": "These concepts are covered in key instruments of the International Labour Organization and the Organisation for",
+      "page": 4
+    },
+    {
+      "text": "Economic Co-operation and Development: see the Bibliography.",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 4
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its training and education-related impacts.",
+      "page": 5
+    },
+    {
+      "text": "determined training and education to be a material topic:",
+      "page": 5
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 5
+    },
+    {
+      "text": "• Any disclosures from this Topic Standard that are relevant to the organization’s training and education-related",
+      "page": 5
+    },
+    {
+      "text": "impacts (Disclosure 404-1 through Disclosure 404-3).",
+      "page": 5
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 5
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 5
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 5
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 5
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 5
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 5
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 5
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 5
+    },
+    {
+      "text": "item does not exist.",
+      "page": 5
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 5
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 5
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 5
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 5
+    },
+    {
+      "text": "information has been published).",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 404: Training and Education 2016",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 404: Training and Education 2016",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined training and education to be a material topic is required to report how it manages",
+      "page": 7
+    },
+    {
+      "text": "the topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 7
+    },
+    {
+      "text": "Disclosure 3-3 in GRI 3: Material Topics 2021.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 404: Training and Education 2016",
+      "page": 8
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 404-1 Average hours of training per year per employee",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "reporting period, by:",
+      "page": 8
+    },
+    {
+      "text": "2.1 When compiling the information specified in Disclosure 404-1, the reporting organization",
+      "page": 8
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 8
+    },
+    {
+      "text": "should:",
+      "page": 8
+    },
+    {
+      "text": "2.1.1 express employee numbers as either head count or full-time equivalent (FTE),",
+      "page": 8
+    },
+    {
+      "text": "and disclose and apply the approach consistently in the period, and between",
+      "page": 8
+    },
+    {
+      "text": "periods;",
+      "page": 8
+    },
+    {
+      "text": "2.1.2 use data from Disclosure 2-7 in GRI 2: General Disclosures 2021 to identify the",
+      "page": 8
+    },
+    {
+      "text": "total number of employees;",
+      "page": 8
+    },
+    {
+      "text": "2.1.3 draw from the information used for Disclosure 405-1 in GRI 405: Diversity and",
+      "page": 8
+    },
+    {
+      "text": "Equal Opportunity 2016 to identify the total number of employees by employee",
+      "page": 8
+    },
+    {
+      "text": "category.",
+      "page": 8
+    },
+    {
+      "text": "Guidance for Disclosure 404-1",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "This disclosure provides insight into the scale of an organization’s investment in training, and",
+      "page": 8
+    },
+    {
+      "text": "the degree to which the investment is made across the entire employee base.",
+      "page": 8
+    },
+    {
+      "text": "In the context of this Standard, ‘training’ refers to:",
+      "page": 8
+    },
+    {
+      "text": "• all types of vocational training and instruction;",
+      "page": 8
+    },
+    {
+      "text": "• paid educational leave provided by an organization for its employees;",
+      "page": 8
+    },
+    {
+      "text": "• training or education pursued externally and paid for in whole or in part by an organization;",
+      "page": 8
+    },
+    {
+      "text": "• training on specific topics.",
+      "page": 8
+    },
+    {
+      "text": "Training does not include on-site coaching by supervisors.",
+      "page": 8
+    },
+    {
+      "text": "To calculate the information in Disclosure 404-1, the reporting organization can use the",
+      "page": 8
+    },
+    {
+      "text": "following formulas:",
+      "page": 8
+    },
+    {
+      "text": "Total number of training hours provided to",
+      "page": 8
+    },
+    {
+      "text": "employees",
+      "page": 8
+    },
+    {
+      "text": "Average training hours per",
+      "page": 8
+    },
+    {
+      "text": "employee = ___________________________",
+      "page": 8
+    },
+    {
+      "text": "Total number of employees",
+      "page": 8
+    },
+    {
+      "text": "Total number of training hours provided to female",
+      "page": 8
+    },
+    {
+      "text": "employees",
+      "page": 8
+    },
+    {
+      "text": "Average training hours per",
+      "page": 8
+    },
+    {
+      "text": "female = ___________________________",
+      "page": 8
+    },
+    {
+      "text": "Total number of female employees",
+      "page": 8
+    },
+    {
+      "text": "Total number of training hours provided to male",
+      "page": 8
+    },
+    {
+      "text": "employees",
+      "page": 8
+    },
+    {
+      "text": "Average training hours per male = ___________________________",
+      "page": 8
+    },
+    {
+      "text": "Total number of male employees",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 404: Training and Education 2016",
+      "page": 9
+    },
+    {
+      "text": "Total number of training hours provided to each",
+      "page": 9
+    },
+    {
+      "text": "category of employees",
+      "page": 9
+    },
+    {
+      "text": "Average training hours per",
+      "page": 9
+    },
+    {
+      "text": "employee category = ___________________________",
+      "page": 9
+    },
+    {
+      "text": "Total number of employees in category",
+      "page": 9
+    },
+    {
+      "text": "A number of calculations can be undertaken to report on employee categories. These",
+      "page": 9
+    },
+    {
+      "text": "calculations are specific to each organization.",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 404: Training and Education 2016",
+      "page": 10
+    },
+    {
+      "text": "Disclosure 404-2 Programs for upgrading employee skills and",
+      "page": 10
+    },
+    {
+      "text": "transition assistance programs",
+      "page": 10
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 10
+    },
+    {
+      "text": "employee skills.",
+      "page": 10
+    },
+    {
+      "text": "management of career endings resulting from retirement or termination of",
+      "page": 10
+    },
+    {
+      "text": "employment.",
+      "page": 10
+    },
+    {
+      "text": "Guidance for Disclosure 404-2",
+      "page": 10
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 10
+    },
+    {
+      "text": "Employee training programs that aim to upgrade skills can include:",
+      "page": 10
+    },
+    {
+      "text": "• internal training courses;",
+      "page": 10
+    },
+    {
+      "text": "• funding support for external training or education;",
+      "page": 10
+    },
+    {
+      "text": "• the provision of sabbatical periods with guaranteed return to employment.",
+      "page": 10
+    },
+    {
+      "text": "Transition assistance programs provided to support employees who are retiring or who have",
+      "page": 10
+    },
+    {
+      "text": "been terminated can include:",
+      "page": 10
+    },
+    {
+      "text": "• pre-retirement planning for intended retirees;",
+      "page": 10
+    },
+    {
+      "text": "• retraining for those intending to continue working;",
+      "page": 10
+    },
+    {
+      "text": "• severance pay, which can take into account employee age and years of service;",
+      "page": 10
+    },
+    {
+      "text": "• job placement services;",
+      "page": 10
+    },
+    {
+      "text": "• assistance (such as training, counselling) on transitioning to a non-working life.",
+      "page": 10
+    },
+    {
+      "text": "Background",
+      "page": 10
+    },
+    {
+      "text": "Programs for upgrading employee skills allow an organization to plan skills acquisition that",
+      "page": 10
+    },
+    {
+      "text": "equips employees to meet strategic targets in a changing work environment. More skilled",
+      "page": 10
+    },
+    {
+      "text": "employees enhance the organization’s human capital and contribute to employee satisfaction,",
+      "page": 10
+    },
+    {
+      "text": "which correlates strongly with improved performance. For those facing retirement, confidence",
+      "page": 10
+    },
+    {
+      "text": "and quality of work relations is improved by the knowledge that they are supported in their",
+      "page": 10
+    },
+    {
+      "text": "transition from work to retirement.",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 404: Training and Education 2016",
+      "page": 11
+    },
+    {
+      "text": "Disclosure 404-3 Percentage of employees receiving regular",
+      "page": 11
+    },
+    {
+      "text": "performance and career development reviews",
+      "page": 11
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 11
+    },
+    {
+      "text": "regular performance and career development review during the reporting period.",
+      "page": 11
+    },
+    {
+      "text": "2.2 When compiling the information specified in Disclosure 404-3, the reporting organization",
+      "page": 11
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 11
+    },
+    {
+      "text": "should:",
+      "page": 11
+    },
+    {
+      "text": "2.2.1 use data from Disclosure 2-7 in GRI 2: General Disclosures 2021 to identify the",
+      "page": 11
+    },
+    {
+      "text": "total number of employees;",
+      "page": 11
+    },
+    {
+      "text": "2.2.2 draw from the information used for Disclosure 405-1 in GRI 405: Diversity and",
+      "page": 11
+    },
+    {
+      "text": "Equal Opportunity 2016 to identify the total number of employees by employee",
+      "page": 11
+    },
+    {
+      "text": "category.",
+      "page": 11
+    },
+    {
+      "text": "Background",
+      "page": 11
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 11
+    },
+    {
+      "text": "This disclosure measures the extent to which an organization regularly appraises employee",
+      "page": 11
+    },
+    {
+      "text": "performance. This aids the personal development of individual employees. It also contributes to",
+      "page": 11
+    },
+    {
+      "text": "skills management and to the development of human capital within the organization. This",
+      "page": 11
+    },
+    {
+      "text": "disclosure also demonstrates the extent to which this system is applied throughout the",
+      "page": 11
+    },
+    {
+      "text": "organization, and whether there is inequity of access to these opportunities.",
+      "page": 11
+    },
+    {
+      "text": "Regular performance and career development reviews can also enhance employee",
+      "page": 11
+    },
+    {
+      "text": "satisfaction, which correlates with improved organizational performance. This disclosure helps",
+      "page": 11
+    },
+    {
+      "text": "demonstrate how an organization works to monitor and maintain the skill sets of its employees.",
+      "page": 11
+    },
+    {
+      "text": "When reported in conjunction with Disclosure 404-2, the disclosure also helps to illustrate how",
+      "page": 11
+    },
+    {
+      "text": "the organization approaches skills enhancement.",
+      "page": 11
+    },
+    {
+      "text": "12 GRI 404: Training and Education 2016",
+      "page": 12
+    },
+    {
+      "text": "Glossary",
+      "page": 12
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 12
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 12
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 12
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 12
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 12
+    },
+    {
+      "text": "continued employability",
+      "page": 12
+    },
+    {
+      "text": "adaptation to the changing demands of the workplace through the acquisition of new skills",
+      "page": 12
+    },
+    {
+      "text": "employee",
+      "page": 12
+    },
+    {
+      "text": "individual who is in an employment relationship with the organization according to national law",
+      "page": 12
+    },
+    {
+      "text": "or practice",
+      "page": 12
+    },
+    {
+      "text": "employee category",
+      "page": 12
+    },
+    {
+      "text": "breakdown of employees by level (such as senior management, middle management) and",
+      "page": 12
+    },
+    {
+      "text": "function (such as technical, administrative, production)",
+      "page": 12
+    },
+    {
+      "text": "Note: This information is derived from the organization’s own human resources system.",
+      "page": 12
+    },
+    {
+      "text": "human rights",
+      "page": 12
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 12
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 12
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 12
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 12
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 12
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 12
+    },
+    {
+      "text": "modified",
+      "page": 12
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 12
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 12
+    },
+    {
+      "text": "impact",
+      "page": 12
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 12
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 12
+    },
+    {
+      "text": "development",
+      "page": 12
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 12
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 12
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 12
+    },
+    {
+      "text": "material topics",
+      "page": 12
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 12
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 12
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 12
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 12
+    },
+    {
+      "text": "regular performance and career development review",
+      "page": 12
+    },
+    {
+      "text": "review based on criteria known to the employee and his or her superior",
+      "page": 12
+    },
+    {
+      "text": "Note 1: The review is undertaken with the knowledge of the employee at least once per",
+      "page": 12
+    },
+    {
+      "text": "year.",
+      "page": 12
+    },
+    {
+      "text": "Note 2: The review can include an evaluation by the employee’s direct superior, peers, or a",
+      "page": 12
+    },
+    {
+      "text": "wider range of employees. The review can also involve the human resources",
+      "page": 12
+    },
+    {
+      "text": "department.",
+      "page": 12
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 12
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 12
+    },
+    {
+      "text": "13 GRI 404: Training and Education 2016",
+      "page": 13
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 13
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 13
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 13
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 13
+    },
+    {
+      "text": "Bibliography",
+      "page": 13
+    },
+    {
+      "text": "14 GRI 404: Training and Education 2016",
+      "page": 14
+    },
+    {
+      "text": "Bibliography",
+      "page": 14
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments used in developing this Standard.",
+      "page": 14
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 14
+    },
+    {
+      "text": "1. International Labour Organization (ILO) Convention 140, ‘Paid Educational Leave Convention’, 1974.",
+      "page": 14
+    },
+    {
+      "text": "2. International Labour Organization (ILO) Convention 142, ‘Human Resources Development Convention’, 1975.",
+      "page": 14
+    },
+    {
+      "text": "3. International Labour Organization (ILO) Convention 155, ‘Occupational Safety and Health Convention’ and",
+      "page": 14
+    },
+    {
+      "text": "related Protocol 155, 1981.",
+      "page": 14
+    },
+    {
+      "text": "4. International Labour Organization (ILO) Convention 168, ‘Employment Promotion and Protection against",
+      "page": 14
+    },
+    {
+      "text": "Unemployment Convention’, 1988.",
+      "page": 14
+    },
+    {
+      "text": "5. International Labour Organization (ILO), ‘Tripartite Declaration of Principles concerning Multinational Enterprises",
+      "page": 14
+    },
+    {
+      "text": "and Social Policy’, 2006.",
+      "page": 14
+    },
+    {
+      "text": "6. Organisation for Economic Co-operation and Development (OECD), OECD Guidelines for Multinational",
+      "page": 14
+    },
+    {
+      "text": "Enterprises, 2011.",
+      "page": 14
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 15
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 15
+    },
+    {
+      "text": "The Netherlands",
+      "page": 15
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 15
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 4
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 4
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 4
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 4
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 4
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 4
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 4
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 4
+    },
+    {
+      "text": "Topic Standards",
+      "page": 4
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 4
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 4
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 404: Training and Education 2016",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}

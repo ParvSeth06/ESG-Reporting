@@ -1,0 +1,54 @@
+{
+  "standard": "GRI 302",
+  "disclosure_id": "302-3",
+  "title": "Disclosure 302-3 Energy intensity",
+  "topic": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+  "requirements": [
+    "a. Energy intensity ratio for the organization.",
+    "b. Organization-specific metric (the denominator) chosen to calculate the ratio.",
+    "c. Types of energy included in the intensity ratio; whether fuel, electricity, heating, cooling,",
+    "steam, or all.",
+    "d. Whether the ratio uses energy consumption within the organization, outside of it, or",
+    "both.",
+    "2.5 When compiling the information specified in Disclosure 302-3, the reporting",
+    "organization shall:",
+    "2.5.1 calculate the ratio by dividing the absolute energy consumption (the",
+    "numerator) by the organization-specific metric (the denominator);",
+    "2.5.2 if reporting an intensity ratio both for the energy consumed within the",
+    "organization and outside of it, report these intensity ratios separately.",
+    "2.6 When compiling the information specified in Disclosure 302-3, the reporting organization"
+  ],
+  "background": [
+    "Energy intensity ratios define energy consumption in the context of an organization-specific",
+    "metric.",
+    "These ratios express the energy required per unit of activity, output, or any other organization-",
+    "specific metric. Intensity ratios are often called normalized environmental impact data.",
+    "In combination with the organization’s total energy consumption, reported in Disclosures 302-1",
+    "and 302-2, energy intensity helps to contextualize the organization’s efficiency, including in",
+    "relation to other organizations.",
+    "See references [1] and [3] in the Bibliography.",
+    "14 GRI 302: Energy 2016"
+  ],
+  "guidance": [
+    "Intensity ratios can be provided for, among others:",
+    "• products (such as energy consumed per unit produced);",
+    "• services (such as energy consumed per function or per service);",
+    "• sales (such as energy consumed per monetary unit of sales).",
+    "Organization-specific metrics (denominators) can include:",
+    "• units of product;",
+    "• production volume (such as metric tons, liters, or MWh);",
+    "• size (such as m2 floor space);",
+    "• number of full-time employees;",
+    "• monetary units (such as revenue or sales)."
+  ],
+  "recommendations": [
+    "should, where it aids transparency or comparability over time, provide a breakdown of the",
+    "energy intensity ratio by:",
+    "2.6.1 business unit or facility;",
+    "2.6.2 country;",
+    "2.6.3 type of source (see definitions for the listing of non-renewable sources and",
+    "renewable sources);",
+    "2.6.4 type of activity.",
+    "Guidance for Disclosure 302-3"
+  ]
+}

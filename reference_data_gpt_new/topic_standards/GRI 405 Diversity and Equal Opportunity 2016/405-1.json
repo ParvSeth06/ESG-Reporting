@@ -1,0 +1,40 @@
+{
+  "standard": "GRI 405",
+  "disclosure_id": "405-1",
+  "title": "Disclosure 405-1 Diversity of governance bodies and employees",
+  "topic": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+  "requirements": [
+    "a. Percentage of individuals within the organization’s governance bodies in each of the",
+    "following diversity categories:",
+    "i. Gender;",
+    "ii. Age group: under 30 years old, 30-50 years old, over 50 years old;",
+    "iii. Other indicators of diversity where relevant (such as minority or vulnerable",
+    "groups).",
+    "b. Percentage of employees per employee category in each of the following diversity",
+    "categories:",
+    "i. Gender;",
+    "ii. Age group: under 30 years old, 30-50 years old, over 50 years old;",
+    "iii. Other indicators of diversity where relevant (such as minority or vulnerable",
+    "groups).",
+    "2.1 When compiling the information specified in Disclosure 405-1, the reporting organization"
+  ],
+  "background": [
+    "This disclosure provides a quantitative measure of diversity within an organization and can be",
+    "used in conjunction with sectoral or regional benchmarks. Comparisons between broad",
+    "employee diversity and management team diversity offer information on equal opportunity.",
+    "Information reported in this disclosure also helps in assessing which issues can be of",
+    "particular relevance to certain segments of the governance bodies or employees.",
+    "9 GRI 405: Diversity and Equal Opportunity 2016"
+  ],
+  "guidance": [
+    "Examples of governance bodies that exist within an organization can be the board of directors,",
+    "management committee, or a similar body for a non-corporate organization.",
+    "An organization can identify any other indicators of diversity used in its own monitoring and",
+    "recording that are relevant for reporting."
+  ],
+  "recommendations": [
+    "should use data from Disclosure 2-7 in GRI 2: General Disclosures 2021 to identify the",
+    "total number of employees.",
+    "Guidance for Disclosure 405-1"
+  ]
+}

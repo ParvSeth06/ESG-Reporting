@@ -1,0 +1,13 @@
+{
+  "standard": "GRI 415 Public Policy 2016",
+  "type": "universal_or_sector",
+  "mandatory_requirements": [
+    {
+      "text": "organization shall calculate financial political contributions in compliance with national accounting rules, where these exist. Background",
+      "page": 8
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [],
+  "sector_specific_rules": []
+}

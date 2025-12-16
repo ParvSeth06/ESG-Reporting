@@ -1,0 +1,47 @@
+{
+  "standard": "GRI 205",
+  "disclosure_id": "205-2",
+  "title": "Disclosure 205-2 Communication and training about anti-corruption",
+  "topic": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+  "requirements": [
+    "a. Total number and percentage of governance body members that the organization’s anti-",
+    "corruption policies and procedures have been communicated to, broken down by",
+    "region.",
+    "b. Total number and percentage of employees that the organization’s anti-corruption",
+    "policies and procedures have been communicated to, broken down by employee",
+    "category and region.",
+    "c. Total number and percentage of business partners that the organization’s anti-",
+    "corruption policies and procedures have been communicated to, broken down by type",
+    "of business partner and region. Describe if the organization’s anti-corruption policies",
+    "and procedures have been communicated to any other persons or organizations.",
+    "d. Total number and percentage of governance body members that have received training",
+    "on anti-corruption, broken down by region.",
+    "e. Total number and percentage of employees that have received training on anti-",
+    "corruption, broken down by employee category and region.",
+    "2.1 When compiling the information specified in Disclosure 205-2, the reporting organization"
+  ],
+  "background": [
+    "Communication and training build the internal and external awareness and the necessary",
+    "capacity to combat corruption.",
+    "10 GRI 205: Anti-corruption 2016"
+  ],
+  "guidance": [
+    "In the context of this GRI Standard, the term ‘business partners’ includes, among others,",
+    "suppliers, agents, lobbyists and other intermediaries, joint venture and consortia partners,",
+    "governments, customers, and clients."
+  ],
+  "recommendations": [
+    "should:",
+    "2.1.1 draw from the information used for Disclosure 405-1 in GRI 405: Diversity and",
+    "Equal Opportunity 2016 to identify:",
+    "2.1.1.1 the governance bodies that exist within the organization, such as the",
+    "board of directors, management committee, or similar body for non-",
+    "corporate organizations;",
+    "2.1.1.2 the total number of individuals and/or employees who comprise these",
+    "governance bodies;",
+    "2.1.1.3 the total number of employees in each employee category, excluding",
+    "governance body members;",
+    "2.1.2 estimate the total number of business partners.",
+    "Guidance for Disclosure 205-2"
+  ]
+}

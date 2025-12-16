@@ -1,0 +1,13 @@
+{
+  "standard": "GRI 207 Tax 2019",
+  "type": "universal_or_sector",
+  "mandatory_requirements": [
+    {
+      "text": "record, the organization shall provide an explanation for this difference; 2.2.2 for Disclosure 207-4-b-ix, include corporate income tax accrued in the time period reported in Disclosure 207-4-c and exclude deferred corporate income tax and provisions for uncertain tax positions; 2.2.3 in cases where an entity is deemed not to be resident in any tax jurisdiction, provide the information for this stateless entity separately. 2.3 The reporting organization should report the following additional information for each tax",
+      "page": 12
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [],
+  "sector_specific_rules": []
+}

@@ -1,0 +1,21 @@
+{
+  "standard": "GRI 306 Waste 2020",
+  "type": "universal_or_sector",
+  "mandatory_requirements": [
+    {
+      "text": "organization shall: 2.1.1 exclude effluent, unless required by national legislation to be reported under total waste; 2.1.2 use 1000 kilograms as the measure for a metric ton. Background",
+      "page": 12
+    },
+    {
+      "text": "organization shall: 2.2.1 exclude effluent, unless required by national legislation to be reported under total waste; 2.2.2 use 1000 kilograms as the measure for a metric ton. 2.3 The reporting organization should report the total weight of waste prevented, and the",
+      "page": 13
+    },
+    {
+      "text": "organization shall: 2.4.1 exclude effluent, unless required by national legislation to be reported under total waste; 2.4.2 use 1000 kilograms as the measure for a metric ton. Background",
+      "page": 15
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [],
+  "sector_specific_rules": []
+}

@@ -1,0 +1,46 @@
+{
+  "standard": "GRI 306",
+  "disclosure_id": "306-1",
+  "title": "Disclosure 306-1 Water discharge by quality and",
+  "topic": "GRI 306: Effluents and Waste",
+  "requirements": [
+    "a. Total volume of planned and unplanned water discharges by:",
+    "i. destination;",
+    "ii. quality of the water, including treatment method;",
+    "iii. whether the water was reused by another organization.",
+    "b. Standards, methodologies, and assumptions used.",
+    "2.1 When compiling the information specified in Disclosure 306-1, the reporting organization",
+    "shall:",
+    "2.1.1 exclude collected rainwater and domestic sewage from the volume of planned and",
+    "unplanned water discharges;",
+    "2.1.2 if it does not have a meter to measure water discharges, estimate the volume of",
+    "planned and unplanned water discharges by subtracting the approximate volume",
+    "consumed on-site from the volume withdrawn as specified in Disclosure 303-1 of GRI",
+    "303: Water.",
+    "When compiling the information specified in Disclosure 306-1, the reporting organization"
+  ],
+  "background": [],
+  "guidance": [
+    "In the context of this Standard, ‘water discharge’ includes water effluents discharged over the",
+    "course of the reporting period. These effluents can be discharged to subsurface waters, surface",
+    "waters, sewers that lead to rivers, oceans, lakes, wetlands, treatment facilities, and ground",
+    "water, either:",
+    "• through a defined discharge point (point source discharge);",
+    "• over land in a dispersed or undefined manner (non-point source discharge);",
+    "• as wastewater removed from the organization via truck.",
+    "Discharge of collected rainwater and domestic sewage is not considered to be water discharge.",
+    "Guidance for clause 2.2",
+    "The specific choice of water quality parameters can vary depending on the organization’s",
+    "products, services, and operations.",
+    "Water quality metrics can vary depending on national or regional regulations.",
+    "9 GRI 306: Effluents and Waste 2016"
+  ],
+  "recommendations": [
+    "should:",
+    "2.2.1 if it discharges effluents or process water, report water quality in terms of total volumes of",
+    "effluent using standard effluent parameters, such as Biological Oxygen Demand (BOD) or Total",
+    "Suspended Solids (TSS);",
+    "2.2.2 select parameters that are consistent with those used in the organization’s sector.",
+    "Guidance for Disclosure 306-1"
+  ]
+}

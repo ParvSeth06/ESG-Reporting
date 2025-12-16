@@ -1,0 +1,33 @@
+{
+  "standard": "GRI 203",
+  "disclosure_id": "203-1",
+  "title": "Disclosure 203-1 Infrastructure investments and services supported",
+  "topic": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+  "requirements": [
+    "a. Extent of development of significant infrastructure investments and services",
+    "supported.",
+    "b. Current or expected impacts on communities and local economies, including positive",
+    "and negative impacts where relevant.",
+    "c. Whether these investments and services are commercial, in-kind, or pro bono",
+    "engagements.",
+    "2.1 When compiling the information specified in Disclosure 203-1, the reporting organization"
+  ],
+  "background": [],
+  "guidance": [
+    "This disclosure concerns the impact that an organization’s infrastructure investments and",
+    "services supported have on its stakeholders and the economy.",
+    "The impacts of infrastructure investment can extend beyond the scope of an organization’s own",
+    "operations and over a longer timescale. Such investments can include transport links, utilities,",
+    "community social facilities, health and welfare centers, and sports centers. Along with",
+    "investment in its own operations, this is one measure of the organization’s capital contribution",
+    "to the economy.",
+    "9 GRI 203: Indirect Economic Impacts 2016"
+  ],
+  "recommendations": [
+    "should disclose:",
+    "2.1.1 the size, cost and duration of each significant infrastructure investment or service",
+    "supported;",
+    "2.1.2 the extent to which different communities or local economies are impacted by the",
+    "organization’s infrastructure investments and services supported."
+  ]
+}

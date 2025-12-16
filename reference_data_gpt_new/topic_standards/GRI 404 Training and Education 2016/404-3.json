@@ -1,0 +1,33 @@
+{
+  "standard": "GRI 404",
+  "disclosure_id": "404-3",
+  "title": "Disclosure 404-3 Percentage of employees receiving regular",
+  "topic": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+  "requirements": [
+    "a. Percentage of total employees by gender and by employee category who received a",
+    "regular performance and career development review during the reporting period.",
+    "2.2 When compiling the information specified in Disclosure 404-3, the reporting organization"
+  ],
+  "background": [],
+  "guidance": [
+    "This disclosure measures the extent to which an organization regularly appraises employee",
+    "performance. This aids the personal development of individual employees. It also contributes to",
+    "skills management and to the development of human capital within the organization. This",
+    "disclosure also demonstrates the extent to which this system is applied throughout the",
+    "organization, and whether there is inequity of access to these opportunities.",
+    "Regular performance and career development reviews can also enhance employee",
+    "satisfaction, which correlates with improved organizational performance. This disclosure helps",
+    "demonstrate how an organization works to monitor and maintain the skill sets of its employees.",
+    "When reported in conjunction with Disclosure 404-2, the disclosure also helps to illustrate how",
+    "the organization approaches skills enhancement.",
+    "12 GRI 404: Training and Education 2016"
+  ],
+  "recommendations": [
+    "should:",
+    "2.2.1 use data from Disclosure 2-7 in GRI 2: General Disclosures 2021 to identify the",
+    "total number of employees;",
+    "2.2.2 draw from the information used for Disclosure 405-1 in GRI 405: Diversity and",
+    "Equal Opportunity 2016 to identify the total number of employees by employee",
+    "category."
+  ]
+}

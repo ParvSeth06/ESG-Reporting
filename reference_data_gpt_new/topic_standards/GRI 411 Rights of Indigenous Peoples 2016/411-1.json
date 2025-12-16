@@ -1,0 +1,39 @@
+{
+  "standard": "GRI 411",
+  "disclosure_id": "411-1",
+  "title": "Disclosure 411-1 Incidents of violations involving rights of",
+  "topic": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+  "requirements": [
+    "a. Total number of identified incidents of violations involving the rights of indigenous",
+    "peoples during the reporting period.",
+    "b. Status of the incidents and actions taken with reference to the following:",
+    "i. Incident reviewed by the organization;",
+    "ii. Remediation plans being implemented;",
+    "iii. Remediation plans that have been implemented, with results reviewed through",
+    "routine internal management review processes;",
+    "iv. Incident no longer subject to action.",
+    "2.1 When compiling the information specified in Disclosure 411-1, the reporting organization"
+  ],
+  "background": [
+    "The number of recorded incidents involving the rights of indigenous peoples provides",
+    "information about the implementation of an organization’s policies relating to indigenous",
+    "peoples. This information helps to indicate the state of relations with stakeholder communities.",
+    "This is particularly important in regions where indigenous peoples reside, or have interests",
+    "near operations of the organization.",
+    "9 GRI 411: Rights of Indigenous Peoples 2016"
+  ],
+  "guidance": [
+    "In the context of this disclosure, an ‘incident’ refers to a legal action or complaint registered with",
+    "the reporting organization or competent authorities through a formal process, or an instance of",
+    "non-compliance identified by the organization through established procedures. Established",
+    "procedures to identify instances of non-compliance can include management system audits,",
+    "formal monitoring programs, or grievance mechanisms."
+  ],
+  "recommendations": [
+    "should include incidents involving the rights of indigenous peoples among:",
+    "2.1.1 workers performing the organization’s activities;",
+    "2.1.2 communities likely to be affected by existing or planned activities of the",
+    "organization.",
+    "Guidance for Disclosure 411-1"
+  ]
+}

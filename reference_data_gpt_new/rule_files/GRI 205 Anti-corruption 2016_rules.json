@@ -1,0 +1,1627 @@
+{
+  "standard": "GRI 205 Anti-corruption 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages anti-corruption using",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Total number and percentage of operations assessed for risks related to corruption.",
+        "b. Significant risks related to corruption identified through the risk assessment."
+      ],
+      "page": 8
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Total number and percentage of governance body members that the organization’s anti-",
+        "b. Total number and percentage of employees that the organization’s anti-corruption",
+        "c. Total number and percentage of business partners that the organization’s anti-",
+        "d. Total number and percentage of governance body members that have received training",
+        "e. Total number and percentage of employees that have received training on anti-"
+      ],
+      "page": 9
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Total number and nature of confirmed incidents of corruption.",
+        "b. Total number of confirmed incidents in which employees were dismissed or disciplined",
+        "c. Total number of confirmed incidents when contracts with business partners were",
+        "d. Public legal cases regarding corruption brought against the organization or its"
+      ],
+      "page": 10
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses the topic of anti-corruption. In this Standard, corruption is understood to include practices",
+      "page": 4
+    },
+    {
+      "text": "such as bribery, facilitation payments, fraud, extortion, collusion, and money laundering; the offer or receipt of gifts,",
+      "page": 4
+    },
+    {
+      "text": "loans, fees, rewards, or other advantages as an inducement to do something that is dishonest, illegal, or represents",
+      "page": 4
+    },
+    {
+      "text": "a breach of trust. It can also include practices such as embezzlement, trading in influence, abuse of function, illicit",
+      "page": 4
+    },
+    {
+      "text": "enrichment, concealment, and obstructing justice.",
+      "page": 4
+    },
+    {
+      "text": "Corruption is broadly linked to negative impacts, such as poverty in transition economies, damage to the environment,",
+      "page": 4
+    },
+    {
+      "text": "abuse of human rights, abuse of democracy, misallocation of investments, and undermining the rule of law.",
+      "page": 4
+    },
+    {
+      "text": "Organizations are expected by the marketplace, international norms, and stakeholders to demonstrate their",
+      "page": 4
+    },
+    {
+      "text": "adherence to integrity, governance, and responsible business practices.",
+      "page": 4
+    },
+    {
+      "text": "These concepts are covered in key instruments of the Organisation for Economic Co-operation and Development and",
+      "page": 4
+    },
+    {
+      "text": "the United Nations: see the Bibliography.",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 4
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its corruption-related impacts.",
+      "page": 5
+    },
+    {
+      "text": "determined anti-corruption to be a material topic:",
+      "page": 5
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 5
+    },
+    {
+      "text": "• Any disclosures from this Topic Standard that are relevant to the organization’s corruption-related impacts",
+      "page": 5
+    },
+    {
+      "text": "(Disclosure 205-1 through Disclosure 205-3).",
+      "page": 5
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 5
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 5
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 5
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 5
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 5
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 5
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 5
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 5
+    },
+    {
+      "text": "item does not exist.",
+      "page": 5
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 5
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 5
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 5
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 5
+    },
+    {
+      "text": "information has been published).",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 205: Anti-corruption 2016",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 205: Anti-corruption 2016",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined anti-corruption to be a material topic is required to report how it manages the",
+      "page": 7
+    },
+    {
+      "text": "topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 7
+    },
+    {
+      "text": "Disclosure 3-3 in GRI 3: Material Topics 2021.",
+      "page": 7
+    },
+    {
+      "text": "1.2 The reporting organization should disclose the following information:",
+      "page": 7
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 7
+    },
+    {
+      "text": "1.2.1 The organization’s risk assessment procedures for corruption, including the",
+      "page": 7
+    },
+    {
+      "text": "criteria used in the risk assessment, such as location, activity, and sector;",
+      "page": 7
+    },
+    {
+      "text": "1.2.2 How the organization identifies and manages conflicts of interest that employees",
+      "page": 7
+    },
+    {
+      "text": "or persons linked to the organization’s activities, products, or services may have.",
+      "page": 7
+    },
+    {
+      "text": "Conflicts of interest for the highest governance body are covered in Disclosure 2-",
+      "page": 7
+    },
+    {
+      "text": "15 of GRI 2: General Disclosures 2021;",
+      "page": 7
+    },
+    {
+      "text": "1.2.3 How the organization ensures that charitable donations and sponsorships",
+      "page": 7
+    },
+    {
+      "text": "(financial and in-kind) that are made to other organizations are not used as a",
+      "page": 7
+    },
+    {
+      "text": "disguised form of bribery. Recipients of charitable donations and sponsorships",
+      "page": 7
+    },
+    {
+      "text": "(financial and in-kind) can include not-for-profit organizations, religious",
+      "page": 7
+    },
+    {
+      "text": "organizations, private organizations, and events;",
+      "page": 7
+    },
+    {
+      "text": "1.2.4 The extent to which communication and training on anti-corruption is tailored to",
+      "page": 7
+    },
+    {
+      "text": "those governance body members, employees, business partners, and other",
+      "page": 7
+    },
+    {
+      "text": "persons that have been identified as having a high risk of incidents of corruption;",
+      "page": 7
+    },
+    {
+      "text": "1.2.5 At which stage the training on anti-corruption for governance body members,",
+      "page": 7
+    },
+    {
+      "text": "employees, business partners and other persons that have been identified as",
+      "page": 7
+    },
+    {
+      "text": "having a high risk of incidents of corruption is provided (e.g., when new",
+      "page": 7
+    },
+    {
+      "text": "employees join the organization or when relationships with new business",
+      "page": 7
+    },
+    {
+      "text": "partners are established); and the frequency of the training (e.g., annually or",
+      "page": 7
+    },
+    {
+      "text": "biannually);",
+      "page": 7
+    },
+    {
+      "text": "1.2.6 Whether the organization participates in collective action to combat corruption,",
+      "page": 7
+    },
+    {
+      "text": "including:",
+      "page": 7
+    },
+    {
+      "text": "1.2.6.1 the strategy for the collective action activities;",
+      "page": 7
+    },
+    {
+      "text": "1.2.6.2 a list of the collective action initiatives in which the organization",
+      "page": 7
+    },
+    {
+      "text": "participates;",
+      "page": 7
+    },
+    {
+      "text": "1.2.6.3 a description of the main commitments of these initiatives.",
+      "page": 7
+    },
+    {
+      "text": "Guidance for clauses 1.2.4 and 1.2.5",
+      "page": 7
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 7
+    },
+    {
+      "text": "In the context of this GRI Standard, the term ‘business partners’ includes, among others,",
+      "page": 7
+    },
+    {
+      "text": "suppliers, agents, lobbyists and other intermediaries, joint venture and consortia partners,",
+      "page": 7
+    },
+    {
+      "text": "governments, customers, and clients.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 205: Anti-corruption 2016",
+      "page": 8
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 205-1 Operations assessed for risks related to",
+      "page": 8
+    },
+    {
+      "text": "corruption",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "Guidance for Disclosure 205-1",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "This disclosure can include a risk assessment focused on corruption or the inclusion of",
+      "page": 8
+    },
+    {
+      "text": "corruption as a risk factor in overall risk assessments.",
+      "page": 8
+    },
+    {
+      "text": "The term ‘operation’ refers to a single location used by the organization for the production,",
+      "page": 8
+    },
+    {
+      "text": "storage and/or distribution of its goods and services, or for administrative purposes. Within a",
+      "page": 8
+    },
+    {
+      "text": "single operation, there can be multiple production lines, warehouses, or other activities. For",
+      "page": 8
+    },
+    {
+      "text": "example, a single factory can be used for multiple products or a single retail outlet can contain",
+      "page": 8
+    },
+    {
+      "text": "several different retail operations that are owned or managed by the organization.",
+      "page": 8
+    },
+    {
+      "text": "Background",
+      "page": 8
+    },
+    {
+      "text": "This disclosure measures the extent of the risk assessment’s implementation across an",
+      "page": 8
+    },
+    {
+      "text": "organization. Risk assessments can help to assess the potential for incidents of corruption",
+      "page": 8
+    },
+    {
+      "text": "within and related to the organization, and help the organization to design policies and",
+      "page": 8
+    },
+    {
+      "text": "procedures to combat corruption.",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 205: Anti-corruption 2016",
+      "page": 9
+    },
+    {
+      "text": "Disclosure 205-2 Communication and training about anti-corruption",
+      "page": 9
+    },
+    {
+      "text": "policies and procedures",
+      "page": 9
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 9
+    },
+    {
+      "text": "corruption policies and procedures have been communicated to, broken down by",
+      "page": 9
+    },
+    {
+      "text": "region.",
+      "page": 9
+    },
+    {
+      "text": "policies and procedures have been communicated to, broken down by employee",
+      "page": 9
+    },
+    {
+      "text": "category and region.",
+      "page": 9
+    },
+    {
+      "text": "corruption policies and procedures have been communicated to, broken down by type",
+      "page": 9
+    },
+    {
+      "text": "of business partner and region. Describe if the organization’s anti-corruption policies",
+      "page": 9
+    },
+    {
+      "text": "and procedures have been communicated to any other persons or organizations.",
+      "page": 9
+    },
+    {
+      "text": "on anti-corruption, broken down by region.",
+      "page": 9
+    },
+    {
+      "text": "corruption, broken down by employee category and region.",
+      "page": 9
+    },
+    {
+      "text": "2.1 When compiling the information specified in Disclosure 205-2, the reporting organization",
+      "page": 9
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 9
+    },
+    {
+      "text": "should:",
+      "page": 9
+    },
+    {
+      "text": "2.1.1 draw from the information used for Disclosure 405-1 in GRI 405: Diversity and",
+      "page": 9
+    },
+    {
+      "text": "Equal Opportunity 2016 to identify:",
+      "page": 9
+    },
+    {
+      "text": "2.1.1.1 the governance bodies that exist within the organization, such as the",
+      "page": 9
+    },
+    {
+      "text": "board of directors, management committee, or similar body for non-",
+      "page": 9
+    },
+    {
+      "text": "corporate organizations;",
+      "page": 9
+    },
+    {
+      "text": "2.1.1.2 the total number of individuals and/or employees who comprise these",
+      "page": 9
+    },
+    {
+      "text": "governance bodies;",
+      "page": 9
+    },
+    {
+      "text": "2.1.1.3 the total number of employees in each employee category, excluding",
+      "page": 9
+    },
+    {
+      "text": "governance body members;",
+      "page": 9
+    },
+    {
+      "text": "2.1.2 estimate the total number of business partners.",
+      "page": 9
+    },
+    {
+      "text": "Guidance for Disclosure 205-2",
+      "page": 9
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 9
+    },
+    {
+      "text": "In the context of this GRI Standard, the term ‘business partners’ includes, among others,",
+      "page": 9
+    },
+    {
+      "text": "suppliers, agents, lobbyists and other intermediaries, joint venture and consortia partners,",
+      "page": 9
+    },
+    {
+      "text": "governments, customers, and clients.",
+      "page": 9
+    },
+    {
+      "text": "Background",
+      "page": 9
+    },
+    {
+      "text": "Communication and training build the internal and external awareness and the necessary",
+      "page": 9
+    },
+    {
+      "text": "capacity to combat corruption.",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 205: Anti-corruption 2016",
+      "page": 10
+    },
+    {
+      "text": "Disclosure 205-3 Confirmed incidents of corruption and actions",
+      "page": 10
+    },
+    {
+      "text": "taken",
+      "page": 10
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 10
+    },
+    {
+      "text": "for corruption.",
+      "page": 10
+    },
+    {
+      "text": "terminated or not renewed due to violations related to corruption.",
+      "page": 10
+    },
+    {
+      "text": "employees during the reporting period and the outcomes of such cases.",
+      "page": 10
+    },
+    {
+      "text": "Guidance for Disclosure 205-3",
+      "page": 10
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 10
+    },
+    {
+      "text": "For stakeholders, there is an interest in both the occurrence of incidents and an organization’s",
+      "page": 10
+    },
+    {
+      "text": "response to the incidents. Public legal cases regarding corruption can include current public",
+      "page": 10
+    },
+    {
+      "text": "investigations, prosecutions, or closed cases.",
+      "page": 10
+    },
+    {
+      "text": "Guidance for Disclosure 205-3-c",
+      "page": 10
+    },
+    {
+      "text": "In the context of this GRI Standard, the term ‘business partners’ includes, among others,",
+      "page": 10
+    },
+    {
+      "text": "suppliers, agents, lobbyists and other intermediaries, joint venture and consortia partners,",
+      "page": 10
+    },
+    {
+      "text": "governments, customers, and clients.",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 205: Anti-corruption 2016",
+      "page": 11
+    },
+    {
+      "text": "Glossary",
+      "page": 11
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 11
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 11
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 11
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 11
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 11
+    },
+    {
+      "text": "business partner",
+      "page": 11
+    },
+    {
+      "text": "entity with which the organization has some form of direct and formal engagement for the",
+      "page": 11
+    },
+    {
+      "text": "purpose of meeting its business objectives",
+      "page": 11
+    },
+    {
+      "text": "Source: Shift and Mazars LLP, UN Guiding Principles Reporting Framework, 2015; modified",
+      "page": 11
+    },
+    {
+      "text": "Examples: affiliates, business-to-business customers, clients, first-tier suppliers, franchisees,",
+      "page": 11
+    },
+    {
+      "text": "joint venture partners, investee companies in which the organization has a",
+      "page": 11
+    },
+    {
+      "text": "shareholding position",
+      "page": 11
+    },
+    {
+      "text": "Note: Business partners do not include subsidiaries and affiliates that the organization",
+      "page": 11
+    },
+    {
+      "text": "controls.",
+      "page": 11
+    },
+    {
+      "text": "business relationships",
+      "page": 11
+    },
+    {
+      "text": "relationships that the organization has with business partners, with entities in its value chain",
+      "page": 11
+    },
+    {
+      "text": "including those beyond the first tier, and with any other entities directly linked to its operations,",
+      "page": 11
+    },
+    {
+      "text": "products, or services",
+      "page": 11
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 11
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 11
+    },
+    {
+      "text": "modified",
+      "page": 11
+    },
+    {
+      "text": "Note: Examples of other entities directly linked to the organization’s operations, products,",
+      "page": 11
+    },
+    {
+      "text": "or services are a non-governmental organization with which the organization",
+      "page": 11
+    },
+    {
+      "text": "delivers support to a local community or state security forces that protect the",
+      "page": 11
+    },
+    {
+      "text": "organization’s facilities.",
+      "page": 11
+    },
+    {
+      "text": "child",
+      "page": 11
+    },
+    {
+      "text": "person under the age of 15 years, or under the age of completion of compulsory schooling,",
+      "page": 11
+    },
+    {
+      "text": "whichever is higher",
+      "page": 11
+    },
+    {
+      "text": "Note 1: Exceptions can occur in certain countries where economies and educational",
+      "page": 11
+    },
+    {
+      "text": "facilities are insufficiently developed, and a minimum age of 14 years applies.",
+      "page": 11
+    },
+    {
+      "text": "These countries of exception are specified by the International Labour Organization",
+      "page": 11
+    },
+    {
+      "text": "(ILO) in response to a special application by the country concerned and in",
+      "page": 11
+    },
+    {
+      "text": "consultation with representative organizations of employers and workers.",
+      "page": 11
+    },
+    {
+      "text": "Note 2: The ILO Minimum Age Convention, 1973, (No. 138), refers to both child labor and",
+      "page": 11
+    },
+    {
+      "text": "young workers.",
+      "page": 11
+    },
+    {
+      "text": "collective action to combat corruption",
+      "page": 11
+    },
+    {
+      "text": "voluntary engagement with initiatives and stakeholders to improve the broader operating",
+      "page": 11
+    },
+    {
+      "text": "environment and culture, in order to combat corruption",
+      "page": 11
+    },
+    {
+      "text": "Examples: proactive collaboration with civil society organizations, governments and the wider",
+      "page": 11
+    },
+    {
+      "text": "public sector, peers, trade unions",
+      "page": 11
+    },
+    {
+      "text": "confirmed incident of corruption",
+      "page": 11
+    },
+    {
+      "text": "incident of corruption that has been found to be substantiated",
+      "page": 11
+    },
+    {
+      "text": "Note: Confirmed incidents of corruption do not include incidents of corruption that are still",
+      "page": 11
+    },
+    {
+      "text": "under investigation in the reporting period.",
+      "page": 11
+    },
+    {
+      "text": "conflict of interest",
+      "page": 11
+    },
+    {
+      "text": "12 GRI 205: Anti-corruption 2016",
+      "page": 12
+    },
+    {
+      "text": "situation where an individual is confronted with choosing between the requirements of their",
+      "page": 12
+    },
+    {
+      "text": "function in the organization and their other personal or professional interests or responsibilities",
+      "page": 12
+    },
+    {
+      "text": "corruption",
+      "page": 12
+    },
+    {
+      "text": "‘abuse of entrusted power for private gain’, which can be instigated by individuals or",
+      "page": 12
+    },
+    {
+      "text": "organizations",
+      "page": 12
+    },
+    {
+      "text": "Source: Transparency International, Business Principles for Countering Bribery, 2011",
+      "page": 12
+    },
+    {
+      "text": "Note: Corruption includes practices such as bribery, facilitation payments, fraud, extortion,",
+      "page": 12
+    },
+    {
+      "text": "collusion, and money laundering. It also includes an offer or receipt of any gift, loan,",
+      "page": 12
+    },
+    {
+      "text": "fee, reward, or other advantage to or from any person as an inducement to do",
+      "page": 12
+    },
+    {
+      "text": "something that is dishonest, illegal, or a breach of trust in the conduct of the",
+      "page": 12
+    },
+    {
+      "text": "enterprise’s business. This can include cash or in-kind benefits, such as free",
+      "page": 12
+    },
+    {
+      "text": "goods, gifts, and holidays, or special personal services provided for the purpose of",
+      "page": 12
+    },
+    {
+      "text": "an improper advantage, or that can result in moral pressure to receive such an",
+      "page": 12
+    },
+    {
+      "text": "advantage.",
+      "page": 12
+    },
+    {
+      "text": "employee",
+      "page": 12
+    },
+    {
+      "text": "individual who is in an employment relationship with the organization according to national law",
+      "page": 12
+    },
+    {
+      "text": "or practice",
+      "page": 12
+    },
+    {
+      "text": "employee category",
+      "page": 12
+    },
+    {
+      "text": "breakdown of employees by level (such as senior management, middle management) and",
+      "page": 12
+    },
+    {
+      "text": "function (such as technical, administrative, production)",
+      "page": 12
+    },
+    {
+      "text": "Note: This information is derived from the organization’s own human resources system.",
+      "page": 12
+    },
+    {
+      "text": "human rights",
+      "page": 12
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 12
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 12
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 12
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 12
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 12
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 12
+    },
+    {
+      "text": "modified",
+      "page": 12
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 12
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 12
+    },
+    {
+      "text": "impact",
+      "page": 12
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 12
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 12
+    },
+    {
+      "text": "development",
+      "page": 12
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 12
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 12
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 12
+    },
+    {
+      "text": "Indigenous Peoples",
+      "page": 12
+    },
+    {
+      "text": "Indigenous Peoples are generally identified as:",
+      "page": 12
+    },
+    {
+      "text": "• tribal peoples in independent countries whose social, cultural and economic conditions",
+      "page": 12
+    },
+    {
+      "text": "distinguish them from other sections of the national community, and whose status is",
+      "page": 12
+    },
+    {
+      "text": "regulated wholly or partially by their own customs or traditions or by special laws or",
+      "page": 12
+    },
+    {
+      "text": "regulations;",
+      "page": 12
+    },
+    {
+      "text": "• peoples in independent countries who are regarded as indigenous on account of their",
+      "page": 12
+    },
+    {
+      "text": "descent from the populations which inhabited the country, or a geographical region to which",
+      "page": 12
+    },
+    {
+      "text": "the country belongs, at the time of conquest or colonization or the establishment of present",
+      "page": 12
+    },
+    {
+      "text": "state boundaries and who, irrespective of their legal status, retain some or all of their own",
+      "page": 12
+    },
+    {
+      "text": "social, economic, cultural and political institutions.",
+      "page": 12
+    },
+    {
+      "text": "Source: International Labour Organization (ILO), Indigenous and Tribal Peoples Convention,",
+      "page": 12
+    },
+    {
+      "text": "1989 (No. 169)",
+      "page": 12
+    },
+    {
+      "text": "13 GRI 205: Anti-corruption 2016",
+      "page": 13
+    },
+    {
+      "text": "local community",
+      "page": 13
+    },
+    {
+      "text": "individuals or groups of individuals living or working in areas that are affected or that could be",
+      "page": 13
+    },
+    {
+      "text": "affected by the organization’s activities",
+      "page": 13
+    },
+    {
+      "text": "Note: The local community can range from those living adjacent to the organization’s",
+      "page": 13
+    },
+    {
+      "text": "operations to those living at a distance.",
+      "page": 13
+    },
+    {
+      "text": "material topics",
+      "page": 13
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 13
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 13
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 13
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 13
+    },
+    {
+      "text": "reporting period",
+      "page": 13
+    },
+    {
+      "text": "specific time period covered by the reported information",
+      "page": 13
+    },
+    {
+      "text": "Examples: fiscal year, calendar year",
+      "page": 13
+    },
+    {
+      "text": "severity (of an impact)",
+      "page": 13
+    },
+    {
+      "text": "The severity of an actual or potential negative impact is determined by its scale (i.e., how grave",
+      "page": 13
+    },
+    {
+      "text": "the impact is), scope (i.e., how widespread the impact is), and irremediable character (how hard",
+      "page": 13
+    },
+    {
+      "text": "it is to counteract or make good the resulting harm).",
+      "page": 13
+    },
+    {
+      "text": "Source: Organisation for Economic Co-operation and Development (OECD), OECD Due",
+      "page": 13
+    },
+    {
+      "text": "Diligence Guidance for Responsible Business Conduct, 2018; modified",
+      "page": 13
+    },
+    {
+      "text": "United Nations (UN), The Corporate Responsibility to Respect Human Rights: An",
+      "page": 13
+    },
+    {
+      "text": "Interpretive Guide, 2012; modified",
+      "page": 13
+    },
+    {
+      "text": "Note: See section 1 in GRI 3: Material Topics 2021 for more information on ‘severity’.",
+      "page": 13
+    },
+    {
+      "text": "stakeholder",
+      "page": 13
+    },
+    {
+      "text": "individual or group that has an interest that is affected or could be affected by the organization’s",
+      "page": 13
+    },
+    {
+      "text": "activities",
+      "page": 13
+    },
+    {
+      "text": "Source: Organisation for Economic Co-operation and Development (OECD), OECD Due",
+      "page": 13
+    },
+    {
+      "text": "Diligence Guidance for Responsible Business Conduct, 2018; modified",
+      "page": 13
+    },
+    {
+      "text": "Examples: business partners, civil society organizations, consumers, customers, employees",
+      "page": 13
+    },
+    {
+      "text": "and other workers, governments, local communities, non-governmental",
+      "page": 13
+    },
+    {
+      "text": "organizations, shareholders and other investors, suppliers, trade unions,",
+      "page": 13
+    },
+    {
+      "text": "vulnerable groups",
+      "page": 13
+    },
+    {
+      "text": "Note: See section 2.4 in GRI 1: Foundation 2021 for more information on ‘stakeholder’.",
+      "page": 13
+    },
+    {
+      "text": "supplier",
+      "page": 13
+    },
+    {
+      "text": "entity upstream from the organization (i.e., in the organization’s supply chain), which provides a",
+      "page": 13
+    },
+    {
+      "text": "product or service that is used in the development of the organization’s own products or services",
+      "page": 13
+    },
+    {
+      "text": "Examples: brokers, consultants, contractors, distributors, franchisees, home workers,",
+      "page": 13
+    },
+    {
+      "text": "independent contractors, licensees, manufacturers, primary producers, sub-",
+      "page": 13
+    },
+    {
+      "text": "contractors, wholesalers",
+      "page": 13
+    },
+    {
+      "text": "Note: A supplier can have a direct business relationship with the organization (often",
+      "page": 13
+    },
+    {
+      "text": "referred to as a first-tier supplier) or an indirect business relationship.",
+      "page": 13
+    },
+    {
+      "text": "supply chain",
+      "page": 13
+    },
+    {
+      "text": "range of activities carried out by entities upstream from the organization, which provide products",
+      "page": 13
+    },
+    {
+      "text": "or services that are used in the development of the organization’s own products or services",
+      "page": 13
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 13
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 13
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 13
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 13
+    },
+    {
+      "text": "14 GRI 205: Anti-corruption 2016",
+      "page": 14
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 14
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 14
+    },
+    {
+      "text": "value chain",
+      "page": 14
+    },
+    {
+      "text": "range of activities carried out by the organization, and by entities upstream and downstream",
+      "page": 14
+    },
+    {
+      "text": "from the organization, to bring the organization’s products or services from their conception to",
+      "page": 14
+    },
+    {
+      "text": "their end use",
+      "page": 14
+    },
+    {
+      "text": "Note 1: Entities upstream from the organization (e.g., suppliers) provide products or",
+      "page": 14
+    },
+    {
+      "text": "services that are used in the development of the organization’s own products or",
+      "page": 14
+    },
+    {
+      "text": "services. Entities downstream from the organization (e.g., distributors, customers)",
+      "page": 14
+    },
+    {
+      "text": "receive products or services from the organization.",
+      "page": 14
+    },
+    {
+      "text": "Note 2: The value chain includes the supply chain.",
+      "page": 14
+    },
+    {
+      "text": "vulnerable group",
+      "page": 14
+    },
+    {
+      "text": "group of individuals with a specific condition or characteristic (e.g., economic, physical, political,",
+      "page": 14
+    },
+    {
+      "text": "social) that could experience negative impacts as a result of the organization’s activities more",
+      "page": 14
+    },
+    {
+      "text": "severely than the general population",
+      "page": 14
+    },
+    {
+      "text": "Examples: children and youth; elderly persons; ex-combatants; HIV/AIDS-affected households;",
+      "page": 14
+    },
+    {
+      "text": "human rights defenders; Indigenous Peoples; internally displaced persons;",
+      "page": 14
+    },
+    {
+      "text": "migrant workers and their families; national or ethnic, religious and linguistic",
+      "page": 14
+    },
+    {
+      "text": "minorities; persons who might be discriminated against based on their sexual",
+      "page": 14
+    },
+    {
+      "text": "orientation, gender identity, gender expression, or sex characteristics (e.g., lesbian,",
+      "page": 14
+    },
+    {
+      "text": "gay, bisexual, transgender, intersex); persons with disabilities; refugees or",
+      "page": 14
+    },
+    {
+      "text": "returning refugees; women",
+      "page": 14
+    },
+    {
+      "text": "Note: Vulnerabilities and impacts can differ by gender.",
+      "page": 14
+    },
+    {
+      "text": "worker",
+      "page": 14
+    },
+    {
+      "text": "person that performs work for the organization",
+      "page": 14
+    },
+    {
+      "text": "Examples: employees, agency workers, apprentices, contractors, home workers, interns, self-",
+      "page": 14
+    },
+    {
+      "text": "employed persons, sub-contractors, volunteers, and persons working for",
+      "page": 14
+    },
+    {
+      "text": "organizations other than the reporting organization, such as for suppliers",
+      "page": 14
+    },
+    {
+      "text": "Note: In the GRI Standards, in some cases, it is specified whether a particular subset of",
+      "page": 14
+    },
+    {
+      "text": "workers is required to be used.",
+      "page": 14
+    },
+    {
+      "text": "Bibliography",
+      "page": 14
+    },
+    {
+      "text": "15 GRI 205: Anti-corruption 2016",
+      "page": 15
+    },
+    {
+      "text": "Bibliography",
+      "page": 15
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments and additional references used in developing this",
+      "page": 15
+    },
+    {
+      "text": "Standard.",
+      "page": 15
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 15
+    },
+    {
+      "text": "1. Organisation for Economic Co-operation and Development (OECD) Convention, ‘Convention on Combating",
+      "page": 15
+    },
+    {
+      "text": "Bribery of Foreign Public Officials in International Business Transactions’, 1997.",
+      "page": 15
+    },
+    {
+      "text": "2. Organisation for Economic Co-operation and Development (OECD), Good Practice Guidance on Internal",
+      "page": 15
+    },
+    {
+      "text": "Controls, Ethics, and Compliance, 2010.",
+      "page": 15
+    },
+    {
+      "text": "3. Organisation for Economic Co-operation and Development (OECD), OECD Guidelines for Multinational",
+      "page": 15
+    },
+    {
+      "text": "Enterprises, 2011.",
+      "page": 15
+    },
+    {
+      "text": "4. United Nations (UN) Convention, ‘Convention against Corruption’, 2003.",
+      "page": 15
+    },
+    {
+      "text": "Additional references:",
+      "page": 15
+    },
+    {
+      "text": "5. British Ministry of Justice, The Bribery Act 2010 Guidance, 2011.",
+      "page": 15
+    },
+    {
+      "text": "6. Criminal Division of the U.S. Department of Justice and Enforcement Division of the U.S. Security and Exchange",
+      "page": 15
+    },
+    {
+      "text": "Commission, A Resource Guide to the U.S. Foreign Corrupt Practices Act, 2012.",
+      "page": 15
+    },
+    {
+      "text": "7. Transparency International, ‘Business Principles for Countering Bribery’, 2011.",
+      "page": 15
+    },
+    {
+      "text": "8. Transparency International, Corruption Perceptions Index, http://www.transparency.org/research/cpi/overview,",
+      "page": 15
+    },
+    {
+      "text": "accessed on 1 September 2016.",
+      "page": 15
+    },
+    {
+      "text": "9. United Nations Global Compact and Transparency International, Reporting Guidance on the 10th Principle",
+      "page": 15
+    },
+    {
+      "text": "Against Corruption, 2009.",
+      "page": 15
+    },
+    {
+      "text": "10. World Bank, Worldwide Governance Indicators (WGI), Control of Corruption,",
+      "page": 15
+    },
+    {
+      "text": "http://info.worldbank.org/governance/wgi/index.aspx#home, accessed on 1 September 2016.",
+      "page": 15
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 16
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 16
+    },
+    {
+      "text": "The Netherlands",
+      "page": 16
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 16
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 4
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 4
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 4
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 4
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 4
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 4
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 4
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 4
+    },
+    {
+      "text": "Topic Standards",
+      "page": 4
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 4
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 4
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 205: Anti-corruption 2016",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}

@@ -1,0 +1,1416 @@
+{
+  "standard_name": "GRI 11 Oil and Gas Sector 2021",
+  "global_principles": [],
+  "global_mandatory_requirements": [
+    {
+      "text": "The organization must use all applicable Sector Standards for the sectors in which it has substantial activities.",
+      "page": 4
+    },
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "page": 5
+    },
+    {
+      "text": "An organization in the oil and gas sector reporting in accordance with the GRI Standards is required to use this",
+      "page": 6
+    },
+    {
+      "text": "is required to review each topic described and determine whether it is a material topic for it.",
+      "page": 6
+    },
+    {
+      "text": "The organization is required to report the disclosures from the Topic Standards listed for those topics it has",
+      "page": 7
+    },
+    {
+      "text": "impacts, the organization is not required to report them. However, the organization is required to list these disclosures",
+      "page": 7
+    },
+    {
+      "text": "When the organization reports additional sector disclosures, it is required to list them in the GRI content index (see",
+      "page": 7
+    },
+    {
+      "text": "index, the organization is required to include the associated GRI Sector Standard reference numbers (see",
+      "page": 7
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 7
+    },
+    {
+      "text": "The organization is required to report how it manages",
+      "page": 8
+    },
+    {
+      "text": "the organization as material, it is required to report those",
+      "page": 8
+    },
+    {
+      "text": "sustainable energy. Achieving net-zero GHG emissions by 2050 is required to limit global warming to 1.5°C above",
+      "page": 10
+    },
+    {
+      "text": "topic by oil and gas organizations. The organization is required to review each topic in this section and determine",
+      "page": 13
+    }
+  ],
+  "disclosures": [
+    {
+      "disclosure_id": "302-1",
+      "title": "GRI 302: Energy Disclosure 302-1 Energy consumption within the organization 11.1.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 15
+    },
+    {
+      "disclosure_id": "302-2",
+      "title": "Disclosure 302-2 Energy consumption outside of the organization 11.1.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 15
+    },
+    {
+      "disclosure_id": "302-3",
+      "title": "Disclosure 302-3 Energy intensity 11.1.4",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 15
+    },
+    {
+      "disclosure_id": "305-1",
+      "title": "GRI 305: Disclosure 305-1 Direct (Scope 1) GHG emissions 11.1.5",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 15
+    },
+    {
+      "disclosure_id": "305-2",
+      "title": "Disclosure 305-2 Energy indirect (Scope 2) GHG emissions 11.1.6",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 15
+    },
+    {
+      "disclosure_id": "305-3",
+      "title": "Disclosure 305-3 Other indirect (Scope 3) GHG emissions 11.1.7",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 15
+    },
+    {
+      "disclosure_id": "305-4",
+      "title": "Disclosure 305-4 GHG emissions intensity 11.1.8",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 15
+        },
+        {
+          "text": "the speed of this process, some fields and facilities may need to be re-evaluated or even written-off prematurely,",
+          "page": 16
+        },
+        {
+          "text": "The transition may affect employment, government revenues, and economic development in regions where the sector",
+          "page": 16
+        },
+        {
+          "text": "past. Workers may face other potential impacts related to employability, reskilling, and desirable re-employment",
+          "page": 16
+        },
+        {
+          "text": "opportunities. Closure of operations without adequate provisions for decommissioning and rehabilitation may also",
+          "page": 16
+        },
+        {
+          "text": "[79]. Examples of actions that organizations may take to contribute to a just transition include providing adequate",
+          "page": 16
+        }
+      ],
+      "page": 15
+    },
+    {
+      "disclosure_id": "201-2",
+      "title": "GRI 201: Disclosure 201-2 Financial implications and other risks and opportunities due to 11.2.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 18
+    },
+    {
+      "disclosure_id": "305-5",
+      "title": "GRI 305: Disclosure 305-5 Reduction of GHG emissions 11.2.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 19
+        },
+        {
+          "text": "4 The definition of reserves used by the organization for this additional sector recommendation should be the same as the definition used in its",
+          "page": 19
+        },
+        {
+          "text": "Air emissions may lead to widespread and diverse impacts on ecosystems, while affecting other economic activities",
+          "page": 20
+        }
+      ],
+      "page": 18
+    },
+    {
+      "disclosure_id": "305-7",
+      "title": "GRI 305: Disclosure 305-7 Nitrogen oxides (NO ), sulfur oxides (SO ), and other significant 11.3.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 21
+    },
+    {
+      "disclosure_id": "416-1",
+      "title": "GRI 416: Disclosure 416-1 Assessment of the health and safety impacts of product and 11.3.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 21
+        },
+        {
+          "text": "accessibility, or quality of natural resources, which in turn may impact the well-being and livelihoods of local",
+          "page": 22
+        },
+        {
+          "text": "protected areas or areas of high biodiversity value and may extend well beyond the closure and rehabilitation (topic",
+          "page": 22
+        },
+        {
+          "text": "impacts. When negative impacts cannot be avoided or minimized, remediation measures may be used, such as",
+          "page": 22
+        },
+        {
+          "text": "rehabilitation or restoration of biodiversity. Offsetting measures may also be applied to residual impacts after all other",
+          "page": 22
+        }
+      ],
+      "page": 21
+    },
+    {
+      "disclosure_id": "304-1",
+      "title": "GRI 304: Disclosure 304-1 Operational sites owned, leased, managed in, or adjacent to, 11.4.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 23
+    },
+    {
+      "disclosure_id": "304-2",
+      "title": "Disclosure 304-2 Significant impacts of activities, products and services on 11.4.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 23
+    },
+    {
+      "disclosure_id": "304-3",
+      "title": "Disclosure 304-3 Habitats protected or restored 11.4.4",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 23
+    },
+    {
+      "disclosure_id": "304-4",
+      "title": "Disclosure 304-4 IUCN Red List species and national conservation list species 11.4.5",
+      "mandatory_rules": [
+        {
+          "text": "Waste refers to anything that a holder discards, intends to discard, or is required to discard. When inadequately",
+          "page": 24
+        }
+      ],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 23
+        },
+        {
+          "text": "material (NORM) and salts. These waste streams may contaminate surface water, groundwater, seawater with",
+          "page": 24
+        }
+      ],
+      "page": 23
+    },
+    {
+      "disclosure_id": "306-1",
+      "title": "GRI 306: Waste Disclosure 306-1 Waste generation and significant waste-related impacts 11.5.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 25
+    },
+    {
+      "disclosure_id": "306-2",
+      "title": "Disclosure 306-2 Management of significant waste-related impacts 11.5.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 25
+    },
+    {
+      "disclosure_id": "306-3",
+      "title": "Disclosure 306-3 Waste generated 11.5.4",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 25
+    },
+    {
+      "disclosure_id": "306-4",
+      "title": "Disclosure 306-4 Waste diverted from disposal 11.5.5",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 25
+    },
+    {
+      "disclosure_id": "306-5",
+      "title": "Disclosure 306-5 Waste directed to disposal 11.5.6",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 25
+        },
+        {
+          "text": "Oil and gas organizations may also need to manage large quantities of produced water or process wastewater, which",
+          "page": 26
+        },
+        {
+          "text": "water and process wastewater may be reinjected for well stimulation or reused in other processes. If not, they may be",
+          "page": 26
+        },
+        {
+          "text": "demand for other uses – such as for household use and fishing, aquaculture, or agricultural activities. This may",
+          "page": 26
+        }
+      ],
+      "page": 25
+    },
+    {
+      "disclosure_id": "303-1",
+      "title": "GRI 303: Water Disclosure 303-1 Interactions with water as a shared resource 11.6.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 27
+    },
+    {
+      "disclosure_id": "303-2",
+      "title": "Disclosure 303-2 Management of water discharge-related impacts 11.6.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 27
+    },
+    {
+      "disclosure_id": "303-3",
+      "title": "Disclosure 303-3 Water withdrawal 11.6.4",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 27
+    },
+    {
+      "disclosure_id": "303-4",
+      "title": "Disclosure 303-4 Water discharge 11.6.5",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 27
+    },
+    {
+      "disclosure_id": "303-5",
+      "title": "Disclosure 303-5 Water consumption 11.6.6",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 27
+        },
+        {
+          "text": "and removing all offshore structures at the end of field life. However, these requirements may be subject to different",
+          "page": 28
+        },
+        {
+          "text": "international conventions. As a result, organizations in the oil and gas sector may lack clear rules for filing",
+          "page": 28
+        },
+        {
+          "text": "location. There may be additional complexities and environmental considerations when, for example, structures that",
+          "page": 28
+        },
+        {
+          "text": "should be removed become part of benthic8 communities and habitats. In some cases, decommissioning can occur",
+          "page": 28
+        },
+        {
+          "text": "in situ and structures may be left in place. When this happens, impacts can include marine pollution from corrosion,",
+          "page": 28
+        },
+        {
+          "text": "The closure and rehabilitation phase may offer additional employment opportunities to local communities. However,",
+          "page": 28
+        },
+        {
+          "text": "once this phase is completed, workers may be retrenched and local communities may face economic downturn and",
+          "page": 28
+        }
+      ],
+      "page": 27
+    },
+    {
+      "disclosure_id": "402-1",
+      "title": "GRI 402: Disclosure 402-1 Minimum notice periods regarding operational changes 11.7.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 29
+    },
+    {
+      "disclosure_id": "404-2",
+      "title": "GRI 404: Training Disclosure 404-2 Programs for upgrading employee skills and transition 11.7.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 29
+        },
+        {
+          "text": "during distribution of oil and gas by marine, road, or rail transport or pipelines may pollute the soil and water as well",
+          "page": 30
+        },
+        {
+          "text": "may have severe impacts on the local environment and communities.",
+          "page": 30
+        }
+      ],
+      "page": 29
+    },
+    {
+      "disclosure_id": "306-3",
+      "title": "GRI 306: Disclosure 306-3 Significant spills9 11.8.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 31
+        },
+        {
+          "text": "between’. Workers may also be at risk of injuries from slips, trips, and falls when accessing high platforms and",
+          "page": 32
+        },
+        {
+          "text": "The sector’s activities also involve working in confined spaces, which may contain a high concentration of gases,",
+          "page": 32
+        },
+        {
+          "text": "in the workplace, interrupted rest, irregular working hours, and solitary work. Workers may also experience",
+          "page": 32
+        },
+        {
+          "text": "The oil and gas sector makes extensive use of suppliers, some of which may undertake activities considered among",
+          "page": 32
+        },
+        {
+          "text": "the most dangerous. Occupational health and safety management systems may not cover suppliers’ workers in the",
+          "page": 32
+        },
+        {
+          "text": "same way employees are covered. Suppliers’ workers operating on the premises of organizations in the sector may",
+          "page": 32
+        },
+        {
+          "text": "practices. Other workers in the organization’s supply chain may be subject to lower occupational health and safety",
+          "page": 32
+        }
+      ],
+      "page": 31
+    },
+    {
+      "disclosure_id": "403-1",
+      "title": "GRI 403: Disclosure 403-1 Occupational health and safety management system 11.9.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 33
+    },
+    {
+      "disclosure_id": "403-2",
+      "title": "Disclosure 403-2 Hazard identification, risk assessment, and incident 11.9.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 33
+    },
+    {
+      "disclosure_id": "403-3",
+      "title": "Disclosure 403-3 Occupational health services 11.9.4",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 33
+    },
+    {
+      "disclosure_id": "403-4",
+      "title": "Disclosure 403-4 Worker participation, consultation, and communication on 11.9.5",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 33
+    },
+    {
+      "disclosure_id": "403-5",
+      "title": "Disclosure 403-5 Worker training on occupational health and safety 11.9.6",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 33
+    },
+    {
+      "disclosure_id": "403-6",
+      "title": "Disclosure 403-6 Promotion of worker health 11.9.7",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 33
+    },
+    {
+      "disclosure_id": "403-7",
+      "title": "Disclosure 403-7 Prevention and mitigation of occupational health and safety 11.9.8",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 33
+    },
+    {
+      "disclosure_id": "403-8",
+      "title": "Disclosure 403-8 Workers covered by an occupational health and safety 11.9.9",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 33
+    },
+    {
+      "disclosure_id": "403-9",
+      "title": "Disclosure 403-9 Work-related injuries 11.9.10",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 33
+    },
+    {
+      "disclosure_id": "403-10",
+      "title": "Disclosure 403-10 Work-related ill health 11.9.11",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 33
+        },
+        {
+          "text": "Organizations in the oil and gas sector may also use fly-in fly-out (FIFO) work arrangements, in which workers are",
+          "page": 34
+        },
+        {
+          "text": "chains may also be subject to low standards for working conditions, exposing organizations in the oil and gas sector",
+          "page": 34
+        },
+        {
+          "text": "groups of workers may be unequal, while benefits, such as bonuses, housing allowances, and private insurance",
+          "page": 34
+        },
+        {
+          "text": "plans, may only be offered to some migrant workers. Lack of relevant skills, knowledge, or accessible training",
+          "page": 34
+        }
+      ],
+      "page": 33
+    },
+    {
+      "disclosure_id": "401-1",
+      "title": "GRI 401: Disclosure 401-1 New employee hires and employee turnover 11.10.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 35
+    },
+    {
+      "disclosure_id": "401-2",
+      "title": "Disclosure 401-2 Benefits provided to full-time employees that are not provided 11.10.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 35
+    },
+    {
+      "disclosure_id": "401-3",
+      "title": "Disclosure 401-3 Parental leave 11.10.4",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 35
+    },
+    {
+      "disclosure_id": "402-1",
+      "title": "GRI 402: Disclosure 402-1 Minimum notice periods regarding operational changes 11.10.5",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 35
+    },
+    {
+      "disclosure_id": "404-1",
+      "title": "GRI 404: Training Disclosure 404-1 Average hours of training per year per employee 11.10.6",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 35
+    },
+    {
+      "disclosure_id": "404-2",
+      "title": "Disclosure 404-2 Programs for upgrading employee skills and transition 11.10.7",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 35
+    },
+    {
+      "disclosure_id": "414-1",
+      "title": "GRI 414: Supplier Disclosure 414-1 New suppliers that were screened using social criteria 11.10.8",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 35
+    },
+    {
+      "disclosure_id": "414-2",
+      "title": "Disclosure 414-2 Negative social impacts in the supply chain and actions taken 11.10.9",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 35
+        },
+        {
+          "text": "national extraction, and worker status. For example, jobseekers from local communities may be excluded from the",
+          "page": 36
+        },
+        {
+          "text": "Compared to some migrant workers, local workers may receive significantly lower pay for equal work. The sector's",
+          "page": 36
+        },
+        {
+          "text": "are also significantly underrepresented in senior management positions. One cause of this imbalance may be that",
+          "page": 36
+        },
+        {
+          "text": "Understanding how specific groups may be subject to discrimination across different locations where organizations",
+          "page": 36
+        }
+      ],
+      "page": 35
+    },
+    {
+      "disclosure_id": "202-2",
+      "title": "GRI 202: Market Disclosure 202-2 Proportion of senior management hired from the local 11.11.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 37
+    },
+    {
+      "disclosure_id": "401-3",
+      "title": "GRI 401: Disclosure 401-3 Parental leave 11.11.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 37
+    },
+    {
+      "disclosure_id": "404-1",
+      "title": "GRI 404: Training Disclosure 404-1 Average hours of training per year per employee 11.11.4",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 37
+    },
+    {
+      "disclosure_id": "405-1",
+      "title": "GRI 405: Diversity Disclosure 405-1 Diversity of governance bodies and employees 11.11.5",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 37
+    },
+    {
+      "disclosure_id": "405-2",
+      "title": "Disclosure 405-2 Ratio of basic salary and remuneration 11.11.6",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 37
+    },
+    {
+      "disclosure_id": "406-1",
+      "title": "GRI 406: Non- Disclosure 406-1 Incidents of discrimination and corrective actions taken 11.11.7",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 37
+        },
+        {
+          "text": "The large number of suppliers that organizations in the oil and gas sector interact with may include those operating in",
+          "page": 38
+        },
+        {
+          "text": "may therefore be involved with violations of human rights and other instances of exploitation. Oil and gas",
+          "page": 38
+        },
+        {
+          "text": "organizations may also be involved with incidences of forced labor and modern slavery as a result of their joint",
+          "page": 38
+        },
+        {
+          "text": "chains that commonly exist in the sector may also pose difficulties for detecting and addressing incidents of forced",
+          "page": 38
+        },
+        {
+          "text": "and land transportation activities. For example, a higher risk of human rights violations may be found aboard ships",
+          "page": 38
+        },
+        {
+          "text": "and complex supply chains. Child labor may occur in activities that service the oil and gas sector or its workers",
+          "page": 38
+        },
+        {
+          "text": "may operate in countries with minimum working ages that are below the minimum age set by the International",
+          "page": 38
+        }
+      ],
+      "page": 37
+    },
+    {
+      "disclosure_id": "409-1",
+      "title": "GRI 409: Forced Disclosure 409-1 Operations and suppliers at significant risk for incidents of 11.12.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 39
+    },
+    {
+      "disclosure_id": "414-1",
+      "title": "GRI 414: Supplier Disclosure 414-1 New suppliers that were screened using social criteria 11.12.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 39
+        },
+        {
+          "text": "representation, and workers who join unions may face intimidation or unfair treatment. In cases where freedom of",
+          "page": 40
+        },
+        {
+          "text": "association and collective bargaining are restricted, organizations in the oil and gas sector may employ alternative",
+          "page": 40
+        }
+      ],
+      "page": 39
+    },
+    {
+      "disclosure_id": "407-1",
+      "title": "GRI 407: Disclosure 407-1 Operations and suppliers in which the right to freedom of 11.13.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "Freedom of association and collective bargaining may be at risk",
+          "page": 41
+        },
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 41
+        },
+        {
+          "text": "peoples). Small local suppliers that depend on larger oil and gas organizations for their income generation may face",
+          "page": 42
+        },
+        {
+          "text": "communities may also have to deal with environmental legacy costs or ineffective rehabilitation after closure (see",
+          "page": 42
+        }
+      ],
+      "page": 41
+    },
+    {
+      "disclosure_id": "201-1",
+      "title": "GRI 201: Disclosure 201-1 Direct economic value generated and distributed 11.14.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 43
+    },
+    {
+      "disclosure_id": "202-2",
+      "title": "GRI 202: Market Disclosure 202-2 Proportion of senior management hired from the local 11.14.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 43
+    },
+    {
+      "disclosure_id": "203-1",
+      "title": "GRI 203: Indirect Disclosure 203-1 Infrastructure investments and services supported 11.14.4",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 43
+    },
+    {
+      "disclosure_id": "203-2",
+      "title": "Disclosure 203-2 Significant indirect economic impacts 11.14.5",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 43
+    },
+    {
+      "disclosure_id": "204-1",
+      "title": "GRI 204: Disclosure 204-1 Proportion of spending on local suppliers 11.14.6",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 43
+        },
+        {
+          "text": "vulnerabilities of local communities and how they may be affected by the organization’s activities. This topic",
+          "page": 44
+        },
+        {
+          "text": "groups, including women and indigenous peoples, may be disproportionally affected by these impacts.",
+          "page": 44
+        },
+        {
+          "text": "resources under pressure, induce inflation, and introduce new communicable diseases. Higher housing costs may",
+          "page": 44
+        },
+        {
+          "text": "lead to an increase in homelessness, especially among vulnerable groups. There may be an increase in activities",
+          "page": 44
+        },
+        {
+          "text": "waste streams and leaks; and dust. Activities may also cause incidents such as explosions, fires, spills, and tailings",
+          "page": 44
+        }
+      ],
+      "page": 43
+    },
+    {
+      "disclosure_id": "413-1",
+      "title": "GRI 413: Local Disclosure 413-1 Operations with local community engagement, impact 11.15.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 45
+    },
+    {
+      "disclosure_id": "413-2",
+      "title": "Disclosure 413-2 Operations with significant actual and potential negative impacts 11.15.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 45
+        },
+        {
+          "text": "unclear; formal statutory tenure rules might overlap or conflict with traditional customary rules; legitimate rights may",
+          "page": 46
+        },
+        {
+          "text": "not be recognized or enforced; or people may lack formal documentation of their rights to land.",
+          "page": 46
+        },
+        {
+          "text": "such cases, organizations in the oil and gas sector may provide local communities with monetary compensation or",
+          "page": 46
+        },
+        {
+          "text": "provided may therefore not be equivalent to the loss borne. In some cases, customary titleholders to the land may not",
+          "page": 46
+        },
+        {
+          "text": "Community members resisting resettlement may also face threats and intimidation, violent, repressive, or life-",
+          "page": 46
+        },
+        {
+          "text": "Community consultations may also fail to include all affected members. Women, for example, are often excluded from",
+          "page": 46
+        },
+        {
+          "text": "The authoritative instruments and references used in developing this topic, as well as resources that may be helpful",
+          "page": 47
+        },
+        {
+          "text": "indigenous peoples to give or withhold consent to a project that may affect them or their territories and to negotiate",
+          "page": 48
+        },
+        {
+          "text": "project conditions [314]. However, some national governments may not recognize or enforce indigenous land rights or",
+          "page": 48
+        },
+        {
+          "text": "jobs and opportunities. It can further undermine their social cohesion, well-being, and safety. Impacts that may affect",
+          "page": 48
+        }
+      ],
+      "page": 45
+    },
+    {
+      "disclosure_id": "411-1",
+      "title": "GRI 411: Rights Disclosure 411-1 Incidents of violations involving rights of indigenous peoples 11.17.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 49
+        },
+        {
+          "text": "An organization’s activities may trigger conflict or, in cases of existing conflict, intensify it. The use of security",
+          "page": 50
+        },
+        {
+          "text": "government may be present to protect organizations’ assets or ensure workers’ safety and security. Actions taken by",
+          "page": 50
+        },
+        {
+          "text": "Organizations in the oil and gas sector may also contribute more broadly to the safety and security of local",
+          "page": 50
+        }
+      ],
+      "page": 49
+    },
+    {
+      "disclosure_id": "410-1",
+      "title": "GRI 410: Security Disclosure 410-1 Security personnel trained in human rights policies or 11.18.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 51
+        },
+        {
+          "text": "also take place when submitting bids for the rights to extract oil and gas. Organizations may coordinate their bids in",
+          "page": 52
+        }
+      ],
+      "page": 51
+    },
+    {
+      "disclosure_id": "206-1",
+      "title": "GRI 206: Anti- Disclosure 206-1 Legal actions for anti-competitive behavior, anti-trust, and 11.19.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 53
+        },
+        {
+          "text": "State-owned enterprises (SOEs) face specific challenges in relation to corruption because they may have less",
+          "page": 54
+        },
+        {
+          "text": "effective internal controls and be subject to partial independent oversight. In addition to driving profit, SOEs may also",
+          "page": 54
+        },
+        {
+          "text": "community development may be abused for corrupt purposes. Organizations in the oil and gas sector partnering with",
+          "page": 54
+        },
+        {
+          "text": "SOEs in joint ventures may face additional risks related to corruption as a result of this business relationship.",
+          "page": 54
+        },
+        {
+          "text": "decision-making, and avoid environmental or other requirements. Such cases may result in licenses being awarded",
+          "page": 54
+        },
+        {
+          "text": "communities. Opaque licensing procedures may also obstruct public scrutiny of oil and gas investments and",
+          "page": 54
+        }
+      ],
+      "page": 53
+    },
+    {
+      "disclosure_id": "205-1",
+      "title": "GRI 205: Anti- Disclosure 205-1 Operations assessed for risks related to corruption 11.20.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 56
+    },
+    {
+      "disclosure_id": "205-2",
+      "title": "Disclosure 205-2 Communication and training about anti-corruption policies and 11.20.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 56
+    },
+    {
+      "disclosure_id": "205-3",
+      "title": "Disclosure 205-3 Confirmed incidents of corruption and actions taken 11.20.4",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 56
+        },
+        {
+          "text": "organizations operate. This can be particularly damaging for developing countries that may lack or have high needs",
+          "page": 57
+        },
+        {
+          "text": "risks may result from selecting buyers and allocation of sales contracts (which can involve bribery and conflicts",
+          "page": 57
+        }
+      ],
+      "page": 56
+    },
+    {
+      "disclosure_id": "201-1",
+      "title": "GRI 201: Disclosure 201-1 Direct economic value generated and distributed 11.21.2",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 58
+    },
+    {
+      "disclosure_id": "201-4",
+      "title": "Disclosure 201-4 Financial assistance received from government 11.21.3",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 58
+    },
+    {
+      "disclosure_id": "207-1",
+      "title": "GRI 207: Tax Disclosure 207-1 Approach to tax 11.21.4",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 58
+    },
+    {
+      "disclosure_id": "207-2",
+      "title": "Disclosure 207-2 Tax governance, control, and risk management 11.21.5",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 58
+    },
+    {
+      "disclosure_id": "207-3",
+      "title": "Disclosure 207-3 Stakeholder engagement and management of concerns related 11.21.6",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [],
+      "page": 58
+    },
+    {
+      "disclosure_id": "207-4",
+      "title": "Disclosure 207-4 Country-by-country reporting 11.21.7",
+      "mandatory_rules": [],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 59
+        },
+        {
+          "text": "in the sector may get better access to, and representation in meetings with, government representatives, which may",
+          "page": 60
+        }
+      ],
+      "page": 58
+    },
+    {
+      "disclosure_id": "415-1",
+      "title": "GRI 415: Public Disclosure 415-1 Political contributions 11.22.2",
+      "mandatory_rules": [
+        {
+          "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+          "page": 62
+        },
+        {
+          "text": "anything that the holder discards, intends to discard, or is required to discard",
+          "page": 72
+        },
+        {
+          "text": "workers is required to be used.",
+          "page": 74
+        }
+      ],
+      "required_fields": [],
+      "guidance": [
+        {
+          "text": "The additional authoritative instruments and references used in developing this topic, as well as resources that may",
+          "page": 61
+        },
+        {
+          "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+          "page": 62
+        },
+        {
+          "text": "actions that are unwelcome, or should reasonably be known to be unwelcome, to",
+          "page": 64
+        },
+        {
+          "text": "perceived injustice evoking an individual’s or a group’s sense of entitlement, which may be",
+          "page": 66
+        },
+        {
+          "text": "Note 3: Water stress in an area may be measured at catchment level at a minimum.",
+          "page": 73
+        },
+        {
+          "text": "sasb.org/find-your-industry/, accessed on 27 May 2021.",
+          "page": 75
+        },
+        {
+          "text": "19. World Bank, Access to Electricity, worldbank.org/indicator/EG.ELC.ACCS.ZS, accessed on 31 May 2020.",
+          "page": 75
+        },
+        {
+          "text": "economies-are-most-reliant-on-oil/, accessed 03 May 2021.",
+          "page": 75
+        },
+        {
+          "text": "emissions-from-fossil-fuels-severely-underestimated, accessed on 31 May 2020.",
+          "page": 76
+        },
+        {
+          "text": "35. International Energy Agency (IEA), Methane Tracker, iea.org/reports/methane-tracker-2020, accessed on 31 May",
+          "page": 76
+        },
+        {
+          "text": "climate-resilience-mean, accessed on 31 May 2020.",
+          "page": 76
+        },
+        {
+          "text": "gas/, accessed on 31 May 2020.",
+          "page": 76
+        },
+        {
+          "text": "epa.gov/ghgemissions/overview-greenhouse-gases#methane, accessed on 31 May 2020.",
+          "page": 76
+        },
+        {
+          "text": "contribute-to-increase-in-global-gas-flaring, accessed on 31 May 2020.",
+          "page": 76
+        },
+        {
+          "text": "on 31 May 2020.",
+          "page": 76
+        },
+        {
+          "text": "to shrink, 2019, carbontracker.org/reports/balancing-the-budget/, accessed on 31 May 2020.",
+          "page": 77
+        },
+        {
+          "text": "perspective/leaving-no-one-behind-sustainable-development-pathways, accessed on 31 May 2020.",
+          "page": 77
+        },
+        {
+          "text": "wri.org/climate/expert-perspective/low-carbon-futures-least-developed-countries, accessed on 31 May 2020.",
+          "page": 78
+        },
+        {
+          "text": "reliant-on-oil/ , accessed on 31 May 2020.",
+          "page": 78
+        },
+        {
+          "text": "78. Science Based Targets, Oil and Gas, sciencebasedtargets.org/sectors/oil-and-gas, accessed on 31 May 2021.",
+          "page": 78
+        },
+        {
+          "text": "accessed on 31 May 2020.",
+          "page": 78
+        },
+        {
+          "text": "unece.org/air-pollution-ecosystems-and-biodiversity, accessed on 31 May 2020.",
+          "page": 78
+        },
+        {
+          "text": "May 2020.",
+          "page": 78
+        },
+        {
+          "text": "iucn.org/resources/issues-briefs/biodiversity-offsets, accessed on 26 May 2021.",
+          "page": 79
+        },
+        {
+          "text": "122. Alberta Energy Regulator, Tailings, aer.ca/providing-information/by-topic/tailings, accessed on 31 May 2020.",
+          "page": 80
+        },
+        {
+          "text": "125. Canada’s Oil Sands, Tailings Ponds, capp.ca/explore/tailings-ponds/, accessed on 31 May 2020.",
+          "page": 80
+        },
+        {
+          "text": "accessed on 31 May 2020.",
+          "page": 80
+        },
+        {
+          "text": "costs-fossil-fuels, accessed on 31 May 2020.",
+          "page": 80
+        },
+        {
+          "text": "Management Under the Clean Water Act, EPA‐821‐R19‐001, draft May 2019.",
+          "page": 81
+        },
+        {
+          "text": "171. Merriam-Webster, Benthic, merriam-webster.com/dictionary/benthic, accessed on 26 May 2021.",
+          "page": 81
+        },
+        {
+          "text": "177. Alberta Energy Regulator, Tailings, aer.ca/providing-information/by-topic/tailings, accessed on 31 May 2020.",
+          "page": 82
+        },
+        {
+          "text": "181. Canada’s Oil Sands, Tailings Ponds, capp.ca/explore/tailings-ponds/, accessed on 31 May 2020.",
+          "page": 82
+        },
+        {
+          "text": "edf.org/climate/methanemaps/leaks-problem, accessed on 31 May 2020.",
+          "page": 82
+        },
+        {
+          "text": "phmsa.dot.gov/data-and-statistics/pipeline/pipeline-incident-20-year-trends, accessed on 31 May 2020.",
+          "page": 82
+        },
+        {
+          "text": "ccohs.ca/oshanswers/phys_agents/cold_working.html, accessed on 31 May 2020.",
+          "page": 82
+        },
+        {
+          "text": "31 May 2020.",
+          "page": 83
+        },
+        {
+          "text": "201. Health and Safety Executive (HSE), Heat stress, hse.gov.uk/temperature/heatstress/, accessed on 31 May 2020.",
+          "page": 83
+        },
+        {
+          "text": "and-sectors/oil-and-gas-production-oil-refining/lang--en/index.htm, accessed on 31 May 2020.",
+          "page": 83
+        },
+        {
+          "text": "osha.gov/hydrogen-sulfide, accessed on 31 May 2020.",
+          "page": 83
+        },
+        {
+          "text": "Effects, osha.gov/silica-crystalline, accessed on 31 May 2020.",
+          "page": 83
+        },
+        {
+          "text": "management-system-in-oil-and-gas-industry/, accessed on 31 May 2020.",
+          "page": 83
+        },
+        {
+          "text": "on 31 May 2020.",
+          "page": 83
+        },
+        {
+          "text": "union.org/nigerian-oil-and-gas-unions-fight-against-precarious-work,accessed on 31 May 2020.",
+          "page": 83
+        },
+        {
+          "text": "union.org/norwegian-oil-company-dno-targeted-by-unions, accessed on 31 May 2020.",
+          "page": 84
+        },
+        {
+          "text": "31 May 2020.",
+          "page": 84
+        },
+        {
+          "text": "industrienergi.no/nyhet/the-strike-is-necessary-to-level-out-differences-in-the-oil-industry/, accessed on 31 May",
+          "page": 84
+        },
+        {
+          "text": "nsenergybusiness.com/features/oil-and-gas-automation, accessed on 31 May 2020.",
+          "page": 84
+        },
+        {
+          "text": "talks-break-down-usw-calls-for-work-stoppage-at-nine-oil-refineries-plants, accessed on 31 May 2020.",
+          "page": 84
+        },
+        {
+          "text": "accessed on 31 May 2020.",
+          "page": 84
+        },
+        {
+          "text": "employment, accessed on 31 May 2020.",
+          "page": 84
+        },
+        {
+          "text": "on 31 May 2020.",
+          "page": 84
+        },
+        {
+          "text": "researchiraq.com/?p=306, accessed on 31 May 2020.",
+          "page": 84
+        },
+        {
+          "text": "discrimination, accessed on 31 May 2020.",
+          "page": 84
+        },
+        {
+          "text": "Financial Sector, Oil and Gas, unepfi.org/humanrightstoolkit/oil.php, accessed on 31 May 2020.",
+          "page": 84
+        },
+        {
+          "text": "migration/WCMS_514910/lang--en/index.htm, accessed on 31 May 2020.",
+          "page": 85
+        },
+        {
+          "text": "252. International Transport Workers’ Federation (ITF), ITF and Malaviya Seven crew dismayed by delay,",
+          "page": 85
+        },
+        {
+          "text": "itfglobal.org/en/news/itf-and-malaviya-seven-crew-dismayed-delay, accessed on 31 May 2020.",
+          "page": 85
+        },
+        {
+          "text": "rmt.netxtra.net/news/modern-day-slavery-charge-made-by-rmt/, accessed on 31 May 2020.",
+          "page": 85
+        },
+        {
+          "text": "companies/, accessed on 31 May 2020.",
+          "page": 85
+        },
+        {
+          "text": "unions-fight-against-precarious-work, accessed on 31 May 2020.",
+          "page": 85
+        },
+        {
+          "text": "labour standards, ituc-csi.org/saudi-arabia-bans-trade-unions-and?lang=en, accessed on 31 May 2020.",
+          "page": 85
+        },
+        {
+          "text": "factbook/field/crude-oil-exports/country-comparison, accessed on 31 May 2020.",
+          "page": 85
+        },
+        {
+          "text": "May 2020.",
+          "page": 85
+        },
+        {
+          "text": "vol. 8, pp. 588-593, 2018, nature.com/articles/s41558-018-0182-1, accessed on 31 May 2020.",
+          "page": 86
+        },
+        {
+          "text": "opportunities-for-women-and-business, accessed on 31 May 2020.",
+          "page": 86
+        },
+        {
+          "text": "Financial Sector, Oil and Gas, unepfi.org/humanrightstoolkit/oil.php, accessed on 31 May 2020.",
+          "page": 86
+        },
+        {
+          "text": "ohchr.org/EN/Issues/LandAndHR/Pages/LandandHumanRightsIndex.aspx, accessed on 31 May 2020.",
+          "page": 87
+        },
+        {
+          "text": "Financial Sector, Oil and Gas, unepfi.org/humanrightstoolkit/oil.php, accessed on 31 May 2020.",
+          "page": 87
+        },
+        {
+          "text": "Financial Sector, Oil and Gas, unepfi.org/humanrightstoolkit/oil.php, accessed on 31 May 2020.",
+          "page": 87
+        },
+        {
+          "text": "peoples-20/, accessed on 31 May 2020.",
+          "page": 88
+        },
+        {
+          "text": "on 31 May 2020.",
+          "page": 88
+        },
+        {
+          "text": "fossil-fuel-industry-on-missing-and-murdered-indigenous-women-and-girls, accessed on 27 May 2021.",
+          "page": 88
+        },
+        {
+          "text": "Financial Sector, Oil and Gas, unepfi.org/humanrightstoolkit/oil.php, accessed on 31 May 2020.",
+          "page": 89
+        },
+        {
+          "text": "oecd.org/competition/cartels/, accessed on 31 May 2020.",
+          "page": 89
+        },
+        {
+          "text": "bribery scheme, globalwitness.org/en/campaigns/oil-gas-and-mining/shell-knew/, accessed on 31 May 2020.",
+          "page": 90
+        },
+        {
+          "text": "bribery scheme, globalwitness.org/en/campaigns/oil-gas-and-mining/shell-knew/, accessed on 31 May 2020.",
+          "page": 91
+        },
+        {
+          "text": "Oppose-the-Paris-Agreement-38212275958aa21196dae3b76220bddc, accessed on 31 May 2020.",
+          "page": 91
+        },
+        {
+          "text": "influencemap.org/climate-lobbying, accessed on 31 May 2020.",
+          "page": 91
+        },
+        {
+          "text": "403. InfluenceMap, Trade association and climate: Shareholders make themselves heard, May 2018,",
+          "page": 91
+        },
+        {
+          "text": "cf9db75c0a4e25555fafb0d84a152c23, accessed on 31 May 2020.",
+          "page": 91
+        }
+      ],
+      "page": 61
+    }
+  ],
+  "sector_requirements": []
+}

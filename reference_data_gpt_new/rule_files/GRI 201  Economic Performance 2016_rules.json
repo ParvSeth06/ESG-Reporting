@@ -1,0 +1,1834 @@
+{
+  "standard": "GRI 201  Economic Performance 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Direct economic value generated and distributed (EVG&D) on an accruals basis,",
+        "i. Direct economic value generated: revenues;",
+        "ii. Economic value distributed: operating costs, employee wages and benefits,",
+        "iii. Economic value retained: ‘direct economic value generated’ less ‘economic value",
+        "b. Where significant, report EVG&D separately at country, regional, or market levels, and"
+      ],
+      "page": 8
+    },
+    {
+      "text": "organization shall, if applicable, compile the EVG&D from data in the organization’s",
+      "sub_requirements": [],
+      "page": 8
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Risks and opportunities posed by climate change that have the potential to generate",
+        "i. a description of the risk or opportunity and its classification as either physical,",
+        "ii. a description of the impact associated with the risk or opportunity;",
+        "iii. the financial implications of the risk or opportunity before action is taken;",
+        "iv. the methods used to manage the risk or opportunity;",
+        "v. the costs of actions taken to manage the risk or opportunity."
+      ],
+      "page": 11
+    },
+    {
+      "text": "costs, or to make revenue projections, it shall report its plans and timeline to develop",
+      "sub_requirements": [],
+      "page": 11
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. If the plan’s liabilities are met by the organization’s general resources, the estimated",
+        "b. If a separate fund exists to pay the plan’s pension liabilities:",
+        "i. the extent to which the scheme’s liabilities are estimated to be covered by the",
+        "ii. the basis on which that estimate has been arrived at;",
+        "iii. when that estimate was made.",
+        "c. If a fund set up to pay the plan’s pension liabilities is not fully covered, explain the",
+        "d. Percentage of salary contributed by employee or employer.",
+        "e. Level of participation in retirement plans, such as participation in mandatory or"
+      ],
+      "page": 13
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Total monetary value of financial assistance received by the organization from any",
+        "i. tax relief and tax credits;",
+        "ii. subsidies;",
+        "iii. investment grants, research and development grants, and other relevant types of",
+        "iv. awards;",
+        "v. royalty holidays;",
+        "vi. financial assistance from Export Credit Agencies (ECAs);",
+        "vii. financial incentives;",
+        "viii. other financial benefits received or receivable from any government for any",
+        "b. The information in 201-4-a by country.",
+        "c. Whether, and the extent to which, any government is present in the shareholding"
+      ],
+      "page": 14
+    },
+    {
+      "text": "organization shall identify the monetary value of financial assistance received from",
+      "sub_requirements": [],
+      "page": 14
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses the topic of economic performance. This includes the economic value generated and",
+      "page": 4
+    },
+    {
+      "text": "distributed (EVG&D) by an organization, its defined benefit plan obligations, the financial assistance it receives from",
+      "page": 4
+    },
+    {
+      "text": "any government, and the financial implications of climate change.",
+      "page": 4
+    },
+    {
+      "text": "These concepts are covered in key instruments of the Organisation for Economic Co-operation and Development:",
+      "page": 4
+    },
+    {
+      "text": "see the Bibliography.",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 4
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its economic performance-related impacts.",
+      "page": 5
+    },
+    {
+      "text": "determined economic performance to be a material topic:",
+      "page": 5
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 5
+    },
+    {
+      "text": "• Any disclosures from this Topic Standard that are relevant to the organization’s economic performance-related",
+      "page": 5
+    },
+    {
+      "text": "impacts (Disclosure 201-1 through Disclosure 201-4).",
+      "page": 5
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 5
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 5
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 5
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 5
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 5
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 5
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 5
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 5
+    },
+    {
+      "text": "item does not exist.",
+      "page": 5
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 5
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 5
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 5
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 5
+    },
+    {
+      "text": "information has been published).",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 201: Economic Performance 2016",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 201: Economic Performance 2016",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined economic performance to be a material topic is required to report how it",
+      "page": 7
+    },
+    {
+      "text": "manages the topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 201: Economic Performance 2016",
+      "page": 8
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 8
+    },
+    {
+      "text": "An organization is expected to compile information for economic disclosures using figures from its audited financial",
+      "page": 8
+    },
+    {
+      "text": "statements or from its internally-audited management accounts, whenever possible. Data can be compiled using, for",
+      "page": 8
+    },
+    {
+      "text": "example:",
+      "page": 8
+    },
+    {
+      "text": "• the relevant International Financial Reporting Standards (IFRS), published by the International Accounting",
+      "page": 8
+    },
+    {
+      "text": "Standards Board (IASB), and the Interpretations developed by the IFRS Interpretations Committee (specific IFRS",
+      "page": 8
+    },
+    {
+      "text": "are referenced for some of the disclosures);",
+      "page": 8
+    },
+    {
+      "text": "• the International Public Sector Accounting Standards (IPSAS) issued by the International Federation of",
+      "page": 8
+    },
+    {
+      "text": "Accountants (IFAC);",
+      "page": 8
+    },
+    {
+      "text": "• national or regional standards recognized internationally for the purpose of financial reporting.",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 201-1 Direct economic value generated and distributed",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "including the basic components for the organization’s global operations as listed below.",
+      "page": 8
+    },
+    {
+      "text": "If data are presented on a cash basis, report the justification for this decision in addition",
+      "page": 8
+    },
+    {
+      "text": "to reporting the following basic components:",
+      "page": 8
+    },
+    {
+      "text": "payments to providers of capital, payments to government by country, and",
+      "page": 8
+    },
+    {
+      "text": "community investments;",
+      "page": 8
+    },
+    {
+      "text": "distributed’.",
+      "page": 8
+    },
+    {
+      "text": "the criteria used for defining significance.",
+      "page": 8
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 8
+    },
+    {
+      "text": "2.1 When compiling the information specified in Disclosure 201-1, the reporting",
+      "page": 8
+    },
+    {
+      "text": "audited financial or profit and loss (P&L) statement, or its internally audited",
+      "page": 8
+    },
+    {
+      "text": "management accounts.",
+      "page": 8
+    },
+    {
+      "text": "Background",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "Information on the creation and distribution of economic value provides a basic indication of how",
+      "page": 8
+    },
+    {
+      "text": "an organization has created wealth for stakeholders. Several components of the economic value",
+      "page": 8
+    },
+    {
+      "text": "generated and distributed (EVG&D) also provide an economic profile of an organization, which",
+      "page": 8
+    },
+    {
+      "text": "can be useful for normalizing other performance figures.",
+      "page": 8
+    },
+    {
+      "text": "If presented in country-level detail, EVG&D can provide a useful picture of the direct monetary",
+      "page": 8
+    },
+    {
+      "text": "value added to local economies.",
+      "page": 8
+    },
+    {
+      "text": "Guidance for Disclosure 201-1",
+      "page": 8
+    },
+    {
+      "text": "Revenues",
+      "page": 8
+    },
+    {
+      "text": "An organization can calculate revenues as net sales plus revenues from financial investments",
+      "page": 8
+    },
+    {
+      "text": "and sales of assets.",
+      "page": 8
+    },
+    {
+      "text": "Net sales can be calculated as gross sales from products and services minus returns,",
+      "page": 8
+    },
+    {
+      "text": "discounts, and allowances.",
+      "page": 8
+    },
+    {
+      "text": "Revenues from financial investments can include cash received as:",
+      "page": 8
+    },
+    {
+      "text": "• interest on financial loans;",
+      "page": 8
+    },
+    {
+      "text": "• dividends from shareholdings;",
+      "page": 8
+    },
+    {
+      "text": "• royalties;",
+      "page": 8
+    },
+    {
+      "text": "• direct income generated from assets, such as property rental.",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 201: Economic Performance 2016",
+      "page": 9
+    },
+    {
+      "text": "Revenues from sale of assets can include:",
+      "page": 9
+    },
+    {
+      "text": "• physical assets, such as property, infrastructure, and equipment;",
+      "page": 9
+    },
+    {
+      "text": "• intangibles, such as intellectual property rights, designs, and brand names.",
+      "page": 9
+    },
+    {
+      "text": "Operating costs",
+      "page": 9
+    },
+    {
+      "text": "An organization can calculate operating costs as cash payments made outside the organization",
+      "page": 9
+    },
+    {
+      "text": "for materials, product components, facilities, and services purchased.",
+      "page": 9
+    },
+    {
+      "text": "Services purchased can include payments to self-employed persons, temporary placement",
+      "page": 9
+    },
+    {
+      "text": "agencies and other organizations providing services. Costs related to workers who are not",
+      "page": 9
+    },
+    {
+      "text": "employees working in an operational role are included as part of services purchased, rather",
+      "page": 9
+    },
+    {
+      "text": "than under employee wages and benefits.",
+      "page": 9
+    },
+    {
+      "text": "Operating costs can include:",
+      "page": 9
+    },
+    {
+      "text": "• property rental;",
+      "page": 9
+    },
+    {
+      "text": "• license fees;",
+      "page": 9
+    },
+    {
+      "text": "• facilitation payments (since these have a clear commercial objective);",
+      "page": 9
+    },
+    {
+      "text": "• royalties;",
+      "page": 9
+    },
+    {
+      "text": "• payments for contract workers;",
+      "page": 9
+    },
+    {
+      "text": "• training costs, if outside trainers are used;",
+      "page": 9
+    },
+    {
+      "text": "• personal protective clothing.",
+      "page": 9
+    },
+    {
+      "text": "The use of facilitation payments is also addressed in GRI 205: Anti-corruption 2016.",
+      "page": 9
+    },
+    {
+      "text": "Employee wages and benefits",
+      "page": 9
+    },
+    {
+      "text": "An organization can calculate employee wages and benefits as total payroll (including employee",
+      "page": 9
+    },
+    {
+      "text": "salaries and amounts paid to government institutions on behalf of employees) plus total",
+      "page": 9
+    },
+    {
+      "text": "benefits (excluding training, costs of protective equipment or other cost items directly related to",
+      "page": 9
+    },
+    {
+      "text": "the employee’s job function).",
+      "page": 9
+    },
+    {
+      "text": "Amounts paid to government institutions on behalf of employees can include employee taxes,",
+      "page": 9
+    },
+    {
+      "text": "levies, and unemployment funds.",
+      "page": 9
+    },
+    {
+      "text": "Total benefits can include:",
+      "page": 9
+    },
+    {
+      "text": "• regular contributions, such as to pensions, insurance, company vehicles, and private health;",
+      "page": 9
+    },
+    {
+      "text": "• other employee support, such as housing, interest-free loans, public transport assistance,",
+      "page": 9
+    },
+    {
+      "text": "educational grants, and redundancy payments.",
+      "page": 9
+    },
+    {
+      "text": "Payments to providers of capital",
+      "page": 9
+    },
+    {
+      "text": "An organization can calculate payments to providers of capital as dividends to all shareholders,",
+      "page": 9
+    },
+    {
+      "text": "plus interest payments made to providers of loans.",
+      "page": 9
+    },
+    {
+      "text": "Interest payments made to providers of loans can include:",
+      "page": 9
+    },
+    {
+      "text": "• interest on all forms of debt and borrowings (not only long-term debt);",
+      "page": 9
+    },
+    {
+      "text": "• arrears of dividends due to preferred shareholders.",
+      "page": 9
+    },
+    {
+      "text": "Payments to government",
+      "page": 9
+    },
+    {
+      "text": "An organization can calculate payments to governments as all of the organization’s taxes plus",
+      "page": 9
+    },
+    {
+      "text": "related penalties paid at the international, national, and local levels. Organization taxes can",
+      "page": 9
+    },
+    {
+      "text": "include corporate, income, and property.",
+      "page": 9
+    },
+    {
+      "text": "Payments to government exclude deferred taxes, because they may not be paid.",
+      "page": 9
+    },
+    {
+      "text": "If operating in more than one country, the organization can report taxes paid by country, including",
+      "page": 9
+    },
+    {
+      "text": "the definition of segmentation used.",
+      "page": 9
+    },
+    {
+      "text": "Community investments",
+      "page": 9
+    },
+    {
+      "text": "Total community investments refers to actual expenditures in the reporting period, not",
+      "page": 9
+    },
+    {
+      "text": "commitments. An organization can calculate community investments as voluntary donations",
+      "page": 9
+    },
+    {
+      "text": "plus investment of funds in the broader community where the target beneficiaries are external to",
+      "page": 9
+    },
+    {
+      "text": "the organization. Voluntary donations and investment of funds in the broader community where",
+      "page": 9
+    },
+    {
+      "text": "the target beneficiaries are external to the organization can include:",
+      "page": 9
+    },
+    {
+      "text": "• contributions to charities, NGOs and research institutes (unrelated to the organization’s",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 201: Economic Performance 2016",
+      "page": 10
+    },
+    {
+      "text": "commercial research and development);",
+      "page": 10
+    },
+    {
+      "text": "• funds to support community infrastructure, such as recreational facilities;",
+      "page": 10
+    },
+    {
+      "text": "• direct costs of social programs, including arts and educational events.",
+      "page": 10
+    },
+    {
+      "text": "If reporting infrastructure investments, an organization can include costs of goods and labor, in",
+      "page": 10
+    },
+    {
+      "text": "addition to capital costs, as well as operating costs for support of ongoing facilities or programs.",
+      "page": 10
+    },
+    {
+      "text": "An example of support for ongoing facilities or programs can include the organization funding",
+      "page": 10
+    },
+    {
+      "text": "the daily operations of a public facility.",
+      "page": 10
+    },
+    {
+      "text": "Community investments exclude legal and commercial activities or where the purpose of the",
+      "page": 10
+    },
+    {
+      "text": "investment is exclusively commercial (donations to political parties can be included, but are also",
+      "page": 10
+    },
+    {
+      "text": "addressed separately in more detail in GRI 415: Public Policy 2016).",
+      "page": 10
+    },
+    {
+      "text": "Community investments also exclude any infrastructure investment that is driven primarily by",
+      "page": 10
+    },
+    {
+      "text": "core business needs, or to facilitate the business operations of an organization. Infrastructure",
+      "page": 10
+    },
+    {
+      "text": "investments driven primarily by core business needs can include, for example, building a road",
+      "page": 10
+    },
+    {
+      "text": "to a mine or a factory. The calculation of investment can include infrastructure built outside the",
+      "page": 10
+    },
+    {
+      "text": "main business activities of the organization, such as a school or hospital for workers and their",
+      "page": 10
+    },
+    {
+      "text": "families.",
+      "page": 10
+    },
+    {
+      "text": "See references [5], [6], [7] and [9] in the Bibliography.",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 201: Economic Performance 2016",
+      "page": 11
+    },
+    {
+      "text": "Disclosure 201-2 Financial implications and other risks and",
+      "page": 11
+    },
+    {
+      "text": "opportunities due to climate change",
+      "page": 11
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 11
+    },
+    {
+      "text": "substantive changes in operations, revenue, or expenditure, including:",
+      "page": 11
+    },
+    {
+      "text": "regulatory, or other;",
+      "page": 11
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 11
+    },
+    {
+      "text": "2.2 When compiling the information specified in Disclosure 201-2, if the reporting",
+      "page": 11
+    },
+    {
+      "text": "organization does not have a system in place to calculate the financial implications or",
+      "page": 11
+    },
+    {
+      "text": "the necessary systems.",
+      "page": 11
+    },
+    {
+      "text": "2.3 When compiling the information specified in Disclosure 201-2, the reporting organization",
+      "page": 11
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 11
+    },
+    {
+      "text": "should report the following additional characteristics for the identified risks and",
+      "page": 11
+    },
+    {
+      "text": "opportunities:",
+      "page": 11
+    },
+    {
+      "text": "2.3.1 A description of the risk or opportunity driver, such as a particular piece of",
+      "page": 11
+    },
+    {
+      "text": "legislation, or a physical driver, such as water scarcity;",
+      "page": 11
+    },
+    {
+      "text": "2.3.2 The projected time frame in which the risk or opportunity is expected to have",
+      "page": 11
+    },
+    {
+      "text": "substantive financial implications;",
+      "page": 11
+    },
+    {
+      "text": "2.3.3 Direct and indirect impacts (whether the impact directly affects the organization, or",
+      "page": 11
+    },
+    {
+      "text": "indirectly affects the organization via its supply chain or entities downstream from",
+      "page": 11
+    },
+    {
+      "text": "it);",
+      "page": 11
+    },
+    {
+      "text": "2.3.4 The potential impacts generally, including increased or decreased:",
+      "page": 11
+    },
+    {
+      "text": "2.3.4.1 capital and operational costs;",
+      "page": 11
+    },
+    {
+      "text": "2.3.4.2 demand for products and services;",
+      "page": 11
+    },
+    {
+      "text": "2.3.4.3 capital availability and investment opportunities;",
+      "page": 11
+    },
+    {
+      "text": "2.3.5 Likelihood (the probability of the impact on the organization);",
+      "page": 11
+    },
+    {
+      "text": "2.3.6 Magnitude of impact (if occurring, the extent to which the impact affects the",
+      "page": 11
+    },
+    {
+      "text": "organization financially).",
+      "page": 11
+    },
+    {
+      "text": "Guidance for Disclosure 201-2",
+      "page": 11
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 11
+    },
+    {
+      "text": "Risk and opportunities due to climate change can be classified as:",
+      "page": 11
+    },
+    {
+      "text": "• physical",
+      "page": 11
+    },
+    {
+      "text": "• regulatory",
+      "page": 11
+    },
+    {
+      "text": "• other",
+      "page": 11
+    },
+    {
+      "text": "Physical risks and opportunities can include:",
+      "page": 11
+    },
+    {
+      "text": "• the impact of more frequent and intense storms;",
+      "page": 11
+    },
+    {
+      "text": "• changes in sea level, ambient temperature, and water availability;",
+      "page": 11
+    },
+    {
+      "text": "• impacts on workers – such as health effects, including heat-related illness or disease, and",
+      "page": 11
+    },
+    {
+      "text": "the need to relocate operations.",
+      "page": 11
+    },
+    {
+      "text": "Other risks and opportunities can include the availability of new technologies, products, or",
+      "page": 11
+    },
+    {
+      "text": "services to address challenges related to climate change, as well as changes in customer",
+      "page": 11
+    },
+    {
+      "text": "behavior.",
+      "page": 11
+    },
+    {
+      "text": "Methods used to manage the risk or opportunity can include:",
+      "page": 11
+    },
+    {
+      "text": "• carbon capture and storage;",
+      "page": 11
+    },
+    {
+      "text": "• fuel switching;",
+      "page": 11
+    },
+    {
+      "text": "• use of renewable and lower carbon footprint energy;",
+      "page": 11
+    },
+    {
+      "text": "12 GRI 201: Economic Performance 2016",
+      "page": 12
+    },
+    {
+      "text": "• improving energy efficiency;",
+      "page": 12
+    },
+    {
+      "text": "• flaring, venting, and fugitive emission reduction;",
+      "page": 12
+    },
+    {
+      "text": "• renewable energy certificates;",
+      "page": 12
+    },
+    {
+      "text": "• use of carbon offsets.",
+      "page": 12
+    },
+    {
+      "text": "Background",
+      "page": 12
+    },
+    {
+      "text": "Climate change presents risks and opportunities to organizations, their investors, and their",
+      "page": 12
+    },
+    {
+      "text": "other stakeholders.",
+      "page": 12
+    },
+    {
+      "text": "As governments move to regulate activities that contribute to climate change, organizations that",
+      "page": 12
+    },
+    {
+      "text": "are directly or indirectly responsible for emissions face regulatory risks and opportunities. Risks",
+      "page": 12
+    },
+    {
+      "text": "can include increased costs or other factors impacting competitiveness. However, limits on",
+      "page": 12
+    },
+    {
+      "text": "greenhouse gas (GHG) emissions can also create opportunities for organizations as new",
+      "page": 12
+    },
+    {
+      "text": "technologies and markets are created. This is especially the case for organizations that can use",
+      "page": 12
+    },
+    {
+      "text": "or produce energy and energy-efficient products more effectively.",
+      "page": 12
+    },
+    {
+      "text": "See references [2], [3] and [4] in the Bibliography.",
+      "page": 12
+    },
+    {
+      "text": "13 GRI 201: Economic Performance 2016",
+      "page": 13
+    },
+    {
+      "text": "Disclosure 201-3 Defined benefit plan obligations and other",
+      "page": 13
+    },
+    {
+      "text": "retirement plans",
+      "page": 13
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 13
+    },
+    {
+      "text": "value of those liabilities.",
+      "page": 13
+    },
+    {
+      "text": "assets that have been set aside to meet them;",
+      "page": 13
+    },
+    {
+      "text": "strategy, if any, adopted by the employer to work towards full coverage, and the",
+      "page": 13
+    },
+    {
+      "text": "timescale, if any, by which the employer hopes to achieve full coverage.",
+      "page": 13
+    },
+    {
+      "text": "voluntary schemes, regional, or country-based schemes, or those with financial impact.",
+      "page": 13
+    },
+    {
+      "text": "2.4 When compiling the information specified in Disclosure 201-3, the reporting organization",
+      "page": 13
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 13
+    },
+    {
+      "text": "should:",
+      "page": 13
+    },
+    {
+      "text": "2.4.1 calculate the information in accordance with the regulations and methods for",
+      "page": 13
+    },
+    {
+      "text": "relevant jurisdictions, and report aggregated totals;",
+      "page": 13
+    },
+    {
+      "text": "2.4.2 use the same consolidation techniques as those applied in preparing the",
+      "page": 13
+    },
+    {
+      "text": "financial accounts of the organization.",
+      "page": 13
+    },
+    {
+      "text": "Guidance for Disclosure 201-3",
+      "page": 13
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 13
+    },
+    {
+      "text": "The structure of retirement plans offered to employees can be based on:",
+      "page": 13
+    },
+    {
+      "text": "• defined benefit plans;",
+      "page": 13
+    },
+    {
+      "text": "• defined contribution plans;",
+      "page": 13
+    },
+    {
+      "text": "• other types of retirement benefits.",
+      "page": 13
+    },
+    {
+      "text": "Different jurisdictions, such as countries, have varying interpretations and guidance regarding",
+      "page": 13
+    },
+    {
+      "text": "calculations used to determine plan coverage.",
+      "page": 13
+    },
+    {
+      "text": "Note that benefit pension plans are part of the International Accounting Standards Board (IASB)",
+      "page": 13
+    },
+    {
+      "text": "IAS 19 Employee Benefits, however IAS 19 covers additional topics.",
+      "page": 13
+    },
+    {
+      "text": "See reference [7] in the Bibliography.",
+      "page": 13
+    },
+    {
+      "text": "Background",
+      "page": 13
+    },
+    {
+      "text": "When an organization provides a retirement plan for its employees, these benefits can become",
+      "page": 13
+    },
+    {
+      "text": "a commitment that members of the schemes plan on for their long-term economic well-being.",
+      "page": 13
+    },
+    {
+      "text": "Defined benefit plans have potential implications for employers in terms of the obligations that",
+      "page": 13
+    },
+    {
+      "text": "need to be met. Other types of plans, such as defined contribution plans, do not guarantee",
+      "page": 13
+    },
+    {
+      "text": "access to a retirement plan or the quality of the benefits. Thus, the type of plan chosen has",
+      "page": 13
+    },
+    {
+      "text": "implications for both employees and employers. Conversely, a properly funded pension plan",
+      "page": 13
+    },
+    {
+      "text": "can help to attract and maintain employees and support long-term financial and strategic",
+      "page": 13
+    },
+    {
+      "text": "planning on the part of the employer.",
+      "page": 13
+    },
+    {
+      "text": "14 GRI 201: Economic Performance 2016",
+      "page": 14
+    },
+    {
+      "text": "Disclosure 201-4 Financial assistance received from government",
+      "page": 14
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 14
+    },
+    {
+      "text": "government during the reporting period, including:",
+      "page": 14
+    },
+    {
+      "text": "grant;",
+      "page": 14
+    },
+    {
+      "text": "operation.",
+      "page": 14
+    },
+    {
+      "text": "structure.",
+      "page": 14
+    },
+    {
+      "text": "Compilation requirements",
+      "page": 14
+    },
+    {
+      "text": "2.5 When compiling the information specified in Disclosure 201-4, the reporting",
+      "page": 14
+    },
+    {
+      "text": "government through consistent application of generally accepted accounting",
+      "page": 14
+    },
+    {
+      "text": "principles.",
+      "page": 14
+    },
+    {
+      "text": "Background",
+      "page": 14
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 14
+    },
+    {
+      "text": "This disclosure provides a measure of governments’ contributions to an organization.",
+      "page": 14
+    },
+    {
+      "text": "The significant financial assistance received from a government, in comparison with taxes paid,",
+      "page": 14
+    },
+    {
+      "text": "can be useful for developing a balanced picture of the transactions between the organization",
+      "page": 14
+    },
+    {
+      "text": "and government.",
+      "page": 14
+    },
+    {
+      "text": "See reference [8] in the Bibliography.",
+      "page": 14
+    },
+    {
+      "text": "15 GRI 201: Economic Performance 2016",
+      "page": 15
+    },
+    {
+      "text": "Glossary",
+      "page": 15
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 15
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 15
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 15
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 15
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 15
+    },
+    {
+      "text": "business partner",
+      "page": 15
+    },
+    {
+      "text": "entity with which the organization has some form of direct and formal engagement for the",
+      "page": 15
+    },
+    {
+      "text": "purpose of meeting its business objectives",
+      "page": 15
+    },
+    {
+      "text": "Source: Shift and Mazars LLP, UN Guiding Principles Reporting Framework, 2015; modified",
+      "page": 15
+    },
+    {
+      "text": "Examples: affiliates, business-to-business customers, clients, first-tier suppliers, franchisees,",
+      "page": 15
+    },
+    {
+      "text": "joint venture partners, investee companies in which the organization has a",
+      "page": 15
+    },
+    {
+      "text": "shareholding position",
+      "page": 15
+    },
+    {
+      "text": "Note: Business partners do not include subsidiaries and affiliates that the organization",
+      "page": 15
+    },
+    {
+      "text": "controls.",
+      "page": 15
+    },
+    {
+      "text": "business relationships",
+      "page": 15
+    },
+    {
+      "text": "relationships that the organization has with business partners, with entities in its value chain",
+      "page": 15
+    },
+    {
+      "text": "including those beyond the first tier, and with any other entities directly linked to its operations,",
+      "page": 15
+    },
+    {
+      "text": "products, or services",
+      "page": 15
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 15
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 15
+    },
+    {
+      "text": "modified",
+      "page": 15
+    },
+    {
+      "text": "Note: Examples of other entities directly linked to the organization’s operations, products,",
+      "page": 15
+    },
+    {
+      "text": "or services are a non-governmental organization with which the organization",
+      "page": 15
+    },
+    {
+      "text": "delivers support to a local community or state security forces that protect the",
+      "page": 15
+    },
+    {
+      "text": "organization’s facilities.",
+      "page": 15
+    },
+    {
+      "text": "defined benefit plan",
+      "page": 15
+    },
+    {
+      "text": "post-employment benefit plan other than a defined contribution plan",
+      "page": 15
+    },
+    {
+      "text": "defined contribution plan",
+      "page": 15
+    },
+    {
+      "text": "post-employment benefit plan under which an entity pays fixed contributions into a separate",
+      "page": 15
+    },
+    {
+      "text": "entity (a fund) and will have no legal or constructive obligation to pay further contributions if the",
+      "page": 15
+    },
+    {
+      "text": "fund does not hold sufficient assets to pay all employee benefits relating to employee service in",
+      "page": 15
+    },
+    {
+      "text": "the current and prior periods",
+      "page": 15
+    },
+    {
+      "text": "employee",
+      "page": 15
+    },
+    {
+      "text": "individual who is in an employment relationship with the organization according to national law",
+      "page": 15
+    },
+    {
+      "text": "or practice",
+      "page": 15
+    },
+    {
+      "text": "financial assistance",
+      "page": 15
+    },
+    {
+      "text": "direct or indirect financial benefits that do not represent a transaction of goods and services, but",
+      "page": 15
+    },
+    {
+      "text": "which are an incentive or compensation for actions taken, the cost of an asset, or expenses",
+      "page": 15
+    },
+    {
+      "text": "incurred",
+      "page": 15
+    },
+    {
+      "text": "Note: The provider of financial assistance does not expect a direct financial return from",
+      "page": 15
+    },
+    {
+      "text": "the assistance offered.",
+      "page": 15
+    },
+    {
+      "text": "full coverage",
+      "page": 15
+    },
+    {
+      "text": "plan assets that meet or exceed plan obligations",
+      "page": 15
+    },
+    {
+      "text": "greenhouse gas (GHG) *",
+      "page": 15
+    },
+    {
+      "text": "gas that contributes to the greenhouse effect by absorbing infrared radiation",
+      "page": 15
+    },
+    {
+      "text": "* Please note this term will be updated following the effective date of GRI 102: Climate Change",
+      "page": 15
+    },
+    {
+      "text": "16 GRI 201: Economic Performance 2016",
+      "page": 16
+    },
+    {
+      "text": "2025 and GRI 103: Energy 2025, as of 1 January 2027. Please see GRI 102/103 for the updated",
+      "page": 16
+    },
+    {
+      "text": "term.",
+      "page": 16
+    },
+    {
+      "text": "human rights",
+      "page": 16
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 16
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 16
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 16
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 16
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 16
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 16
+    },
+    {
+      "text": "modified",
+      "page": 16
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 16
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 16
+    },
+    {
+      "text": "impact",
+      "page": 16
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 16
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 16
+    },
+    {
+      "text": "development",
+      "page": 16
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 16
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 16
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 16
+    },
+    {
+      "text": "material topics",
+      "page": 16
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 16
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 16
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 16
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 16
+    },
+    {
+      "text": "supplier",
+      "page": 16
+    },
+    {
+      "text": "entity upstream from the organization (i.e., in the organization’s supply chain), which provides a",
+      "page": 16
+    },
+    {
+      "text": "product or service that is used in the development of the organization’s own products or services",
+      "page": 16
+    },
+    {
+      "text": "Examples: brokers, consultants, contractors, distributors, franchisees, home workers,",
+      "page": 16
+    },
+    {
+      "text": "independent contractors, licensees, manufacturers, primary producers, sub-",
+      "page": 16
+    },
+    {
+      "text": "contractors, wholesalers",
+      "page": 16
+    },
+    {
+      "text": "Note: A supplier can have a direct business relationship with the organization (often",
+      "page": 16
+    },
+    {
+      "text": "referred to as a first-tier supplier) or an indirect business relationship.",
+      "page": 16
+    },
+    {
+      "text": "supply chain",
+      "page": 16
+    },
+    {
+      "text": "range of activities carried out by entities upstream from the organization, which provide products",
+      "page": 16
+    },
+    {
+      "text": "or services that are used in the development of the organization’s own products or services",
+      "page": 16
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 16
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 16
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 16
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 16
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 16
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 16
+    },
+    {
+      "text": "value chain",
+      "page": 16
+    },
+    {
+      "text": "range of activities carried out by the organization, and by entities upstream and downstream",
+      "page": 16
+    },
+    {
+      "text": "from the organization, to bring the organization’s products or services from their conception to",
+      "page": 16
+    },
+    {
+      "text": "their end use",
+      "page": 16
+    },
+    {
+      "text": "17 GRI 201: Economic Performance 2016",
+      "page": 17
+    },
+    {
+      "text": "Note 1: Entities upstream from the organization (e.g., suppliers) provide products or",
+      "page": 17
+    },
+    {
+      "text": "services that are used in the development of the organization’s own products or",
+      "page": 17
+    },
+    {
+      "text": "services. Entities downstream from the organization (e.g., distributors, customers)",
+      "page": 17
+    },
+    {
+      "text": "receive products or services from the organization.",
+      "page": 17
+    },
+    {
+      "text": "Note 2: The value chain includes the supply chain.",
+      "page": 17
+    },
+    {
+      "text": "worker",
+      "page": 17
+    },
+    {
+      "text": "person that performs work for the organization",
+      "page": 17
+    },
+    {
+      "text": "Examples: employees, agency workers, apprentices, contractors, home workers, interns, self-",
+      "page": 17
+    },
+    {
+      "text": "employed persons, sub-contractors, volunteers, and persons working for",
+      "page": 17
+    },
+    {
+      "text": "organizations other than the reporting organization, such as for suppliers",
+      "page": 17
+    },
+    {
+      "text": "Note: In the GRI Standards, in some cases, it is specified whether a particular subset of",
+      "page": 17
+    },
+    {
+      "text": "workers is required to be used.",
+      "page": 17
+    },
+    {
+      "text": "Bibliography",
+      "page": 17
+    },
+    {
+      "text": "18 GRI 201: Economic Performance 2016",
+      "page": 18
+    },
+    {
+      "text": "Bibliography",
+      "page": 18
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments and additional references used in developing this",
+      "page": 18
+    },
+    {
+      "text": "Standard.",
+      "page": 18
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 18
+    },
+    {
+      "text": "1. Organisation for Economic Co-operation and Development (OECD), OECD Guidelines for Multinational",
+      "page": 18
+    },
+    {
+      "text": "Enterprises, 2011.",
+      "page": 18
+    },
+    {
+      "text": "Additional references:",
+      "page": 18
+    },
+    {
+      "text": "2. Carbon Disclosure Project (CDP), Guidance for companies responding to the Investor CDP Information Request,",
+      "page": 18
+    },
+    {
+      "text": "updated annually.",
+      "page": 18
+    },
+    {
+      "text": "3. Climate Disclosure Standards Board (CDSB), Climate Change Reporting Framework – Edition 1.1, October",
+      "page": 18
+    },
+    {
+      "text": "2012.",
+      "page": 18
+    },
+    {
+      "text": "4. Climate Disclosure Standards Board (CDSB), Climate Change Reporting Framework Boundary Update, June",
+      "page": 18
+    },
+    {
+      "text": "2012.",
+      "page": 18
+    },
+    {
+      "text": "5. International Accounting Standards Board (IASB), IAS 12 Income Taxes, 2001.",
+      "page": 18
+    },
+    {
+      "text": "6. International Accounting Standards Board (IASB), IAS 18 Revenues, 2001.",
+      "page": 18
+    },
+    {
+      "text": "7. International Accounting Standards Board (IASB), IAS 19 Employee Benefits, 2001.",
+      "page": 18
+    },
+    {
+      "text": "8. International Accounting Standards Board (IASB), IAS 20 Accounting for Government Grants and Disclosure of",
+      "page": 18
+    },
+    {
+      "text": "Government Assistance, 2001.",
+      "page": 18
+    },
+    {
+      "text": "9. International Accounting Standards Board (IASB), IFRS 8 Operating Segments, 2006.",
+      "page": 18
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 19
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 19
+    },
+    {
+      "text": "The Netherlands",
+      "page": 19
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 19
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 4
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 4
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 4
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 4
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 4
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 4
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 4
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 4
+    },
+    {
+      "text": "Topic Standards",
+      "page": 4
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 4
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 4
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 201: Economic Performance 2016",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}

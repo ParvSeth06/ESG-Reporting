@@ -1,0 +1,1360 @@
+{
+  "standard": "GRI 414 Supplier Social Assessment 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages supplier social assessment",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Percentage of new suppliers that were screened using social criteria."
+      ],
+      "page": 8
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Number of suppliers assessed for social impacts.",
+        "b. Number of suppliers identified as having significant actual and potential negative social",
+        "c. Significant actual and potential negative social impacts identified in the supply chain.",
+        "d. Percentage of suppliers identified as having significant actual and potential negative",
+        "e. Percentage of suppliers identified as having significant actual and potential negative"
+      ],
+      "page": 9
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses the topic of supplier social assessment.",
+      "page": 4
+    },
+    {
+      "text": "An organization may be involved with negative social impacts either through its own activities or as a result of its",
+      "page": 4
+    },
+    {
+      "text": "business relationships with other parties. Due diligence is expected of an organization in order to prevent, mitigate,",
+      "page": 4
+    },
+    {
+      "text": "and address actual and potential negative social impacts in the supply chain. These include negative impacts the",
+      "page": 4
+    },
+    {
+      "text": "organization either causes or contributes to, or that are directly linked to its operations, products, or services by its",
+      "page": 4
+    },
+    {
+      "text": "relationship with a supplier.",
+      "page": 4
+    },
+    {
+      "text": "These concepts are covered in key instruments of the United Nations: see the Bibliography.",
+      "page": 4
+    },
+    {
+      "text": "Suppliers can be assessed for a range of social criteria, including human rights (such as child labor and forced or",
+      "page": 4
+    },
+    {
+      "text": "compulsory labor); employment practices; health and safety practices; industrial relations; incidents (such as of",
+      "page": 4
+    },
+    {
+      "text": "abuse, coercion or harassment); wages and compensation; and working hours. Some of these criteria are covered in",
+      "page": 4
+    },
+    {
+      "text": "other GRI Topic Standards (e.g., GRI 401: Employment 2016, GRI 403: Occupational Health and Safety 2018, GRI",
+      "page": 4
+    },
+    {
+      "text": "408: Child Labor 2016, GRI 409: Forced or Compulsory Labor 2016).",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 4
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its social impacts in its supply chain. In addition to this Standard, disclosures",
+      "page": 5
+    },
+    {
+      "text": "that relate to this topic can be found in GRI 308: Supplier Environmental Assessment 2016.",
+      "page": 5
+    },
+    {
+      "text": "If the reporting organization has determined both supplier social assessment and supplier environmental",
+      "page": 5
+    },
+    {
+      "text": "assessment to be material, it can combine its disclosures for GRI 308 and GRI 414. For example, if the organization",
+      "page": 5
+    },
+    {
+      "text": "uses the same approach for managing both topics, it can provide one combined explanation of how the organization",
+      "page": 5
+    },
+    {
+      "text": "manages both topics.",
+      "page": 5
+    },
+    {
+      "text": "determined supplier social assessment to be a material topic:",
+      "page": 5
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 5
+    },
+    {
+      "text": "• Any disclosures from this Topic Standard that are relevant to the organization’s social impacts in its supply chain",
+      "page": 5
+    },
+    {
+      "text": "(Disclosure 414-1 through Disclosure 414-2).",
+      "page": 5
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 5
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 5
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 5
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 5
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 5
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 5
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 414: Supplier Social Assessment 2016",
+      "page": 6
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 6
+    },
+    {
+      "text": "item does not exist.",
+      "page": 6
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 6
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 6
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 6
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 6
+    },
+    {
+      "text": "information has been published).",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 414: Supplier Social Assessment 2016",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined supplier social assessment to be a material topic is required to report how it",
+      "page": 7
+    },
+    {
+      "text": "manages the topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 7
+    },
+    {
+      "text": "using Disclosure 3-3 in GRI 3: Material Topics 2021.",
+      "page": 7
+    },
+    {
+      "text": "The reporting organization can also disclose:",
+      "page": 7
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 7
+    },
+    {
+      "text": "• the systems used to screen new suppliers using social criteria, and a list of the social",
+      "page": 7
+    },
+    {
+      "text": "criteria used to screen new suppliers;",
+      "page": 7
+    },
+    {
+      "text": "• processes used, such as due diligence, to identify and assess significant actual and",
+      "page": 7
+    },
+    {
+      "text": "potential negative social impacts in the supply chain;",
+      "page": 7
+    },
+    {
+      "text": "• how the organization identifies and prioritizes suppliers for assessment of social impacts;",
+      "page": 7
+    },
+    {
+      "text": "• actions taken to address the significant actual and potential negative social impacts",
+      "page": 7
+    },
+    {
+      "text": "identified in the supply chain and whether the actions are intended to prevent, mitigate, or",
+      "page": 7
+    },
+    {
+      "text": "remediate the impacts;",
+      "page": 7
+    },
+    {
+      "text": "• how expectations are established and defined in contracts with suppliers to promote the",
+      "page": 7
+    },
+    {
+      "text": "prevention, mitigation, and remediation of significant actual and potential negative social",
+      "page": 7
+    },
+    {
+      "text": "impacts, including targets and objectives;",
+      "page": 7
+    },
+    {
+      "text": "• whether suppliers are incentivized and rewarded for the prevention, mitigation, and",
+      "page": 7
+    },
+    {
+      "text": "remediation of significant actual and potential negative social impacts;",
+      "page": 7
+    },
+    {
+      "text": "• practices for assessing and auditing suppliers and their products and services using social",
+      "page": 7
+    },
+    {
+      "text": "criteria;",
+      "page": 7
+    },
+    {
+      "text": "• a list of the type, system, scope, frequency, current implementation of assessment and audit,",
+      "page": 7
+    },
+    {
+      "text": "and which parts of the supply chain have been certified and audited;",
+      "page": 7
+    },
+    {
+      "text": "• the systems in place to assess the potential negative impacts of terminating a relationship",
+      "page": 7
+    },
+    {
+      "text": "with a supplier as a result of assessing the supplier for social impacts, and the",
+      "page": 7
+    },
+    {
+      "text": "organization’s strategy to mitigate those impacts.",
+      "page": 7
+    },
+    {
+      "text": "Social criteria or assessments of suppliers for social impacts can include the topics covered in",
+      "page": 7
+    },
+    {
+      "text": "other GRI Topic Standards (e.g., GRI 401: Employment 2016, GRI 403: Occupational Health and",
+      "page": 7
+    },
+    {
+      "text": "Safety 2018, GRI 408: Child Labor 2016, GRI 409: Forced or Compulsory Labor 2016).",
+      "page": 7
+    },
+    {
+      "text": "Negative impacts can include those that are either caused or contributed to by an organization,",
+      "page": 7
+    },
+    {
+      "text": "or that are directly linked to its operations, products, or services by its relationship with a",
+      "page": 7
+    },
+    {
+      "text": "supplier.",
+      "page": 7
+    },
+    {
+      "text": "Assessments can be informed by audits, contractual reviews, two-way engagement, and",
+      "page": 7
+    },
+    {
+      "text": "complaint and grievance mechanisms.",
+      "page": 7
+    },
+    {
+      "text": "Actions taken to address social impacts can include changing an organization’s procurement",
+      "page": 7
+    },
+    {
+      "text": "practices, adjusting performance expectations, capacity building, training, changes to",
+      "page": 7
+    },
+    {
+      "text": "processes, as well as terminating supplier relationships.",
+      "page": 7
+    },
+    {
+      "text": "Assessments and audits of suppliers and their products and services using social criteria can",
+      "page": 7
+    },
+    {
+      "text": "be undertaken by an organization, by a second party, or by a third party.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 414: Supplier Social Assessment 2016",
+      "page": 8
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 414-1 New suppliers that were screened using social",
+      "page": 8
+    },
+    {
+      "text": "criteria",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "Guidance for Disclosure 414-1",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "Social criteria can include the topics covered in other GRI Topic Standards (e.g., GRI 401:",
+      "page": 8
+    },
+    {
+      "text": "Employment 2016, GRI 403: Occupational Health and Safety 2018, GRI 408: Child Labor 2016,",
+      "page": 8
+    },
+    {
+      "text": "GRI 409: Forced or Compulsory Labor 2016).",
+      "page": 8
+    },
+    {
+      "text": "Background",
+      "page": 8
+    },
+    {
+      "text": "This disclosure informs stakeholders about the percentage of suppliers selected or contracted",
+      "page": 8
+    },
+    {
+      "text": "subject to due diligence processes for social impacts.",
+      "page": 8
+    },
+    {
+      "text": "An organization is expected to initiate due diligence as early as possible in the development of a",
+      "page": 8
+    },
+    {
+      "text": "new relationship with a supplier.",
+      "page": 8
+    },
+    {
+      "text": "Impacts may be prevented or mitigated at the stage of structuring contracts or other agreements,",
+      "page": 8
+    },
+    {
+      "text": "as well as via ongoing collaboration with suppliers.",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 414: Supplier Social Assessment 2016",
+      "page": 9
+    },
+    {
+      "text": "Disclosure 414-2 Negative social impacts in the supply chain and",
+      "page": 9
+    },
+    {
+      "text": "actions taken",
+      "page": 9
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 9
+    },
+    {
+      "text": "impacts.",
+      "page": 9
+    },
+    {
+      "text": "social impacts with which improvements were agreed upon as a result of assessment.",
+      "page": 9
+    },
+    {
+      "text": "social impacts with which relationships were terminated as a result of assessment,",
+      "page": 9
+    },
+    {
+      "text": "and why.",
+      "page": 9
+    },
+    {
+      "text": "2.1 When compiling the information specified in Disclosure 414-2, the reporting organization",
+      "page": 9
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 9
+    },
+    {
+      "text": "should, where it provides appropriate context on significant impacts, provide a",
+      "page": 9
+    },
+    {
+      "text": "breakdown of the information by:",
+      "page": 9
+    },
+    {
+      "text": "2.1.1 the location of the supplier;",
+      "page": 9
+    },
+    {
+      "text": "2.1.2 the significant actual and potential negative social impact.",
+      "page": 9
+    },
+    {
+      "text": "Guidance for Disclosure 414-2",
+      "page": 9
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 9
+    },
+    {
+      "text": "Negative impacts include those that are either caused or contributed to by an organization, or",
+      "page": 9
+    },
+    {
+      "text": "that are directly linked to its operations, products, or services by its relationship with a supplier.",
+      "page": 9
+    },
+    {
+      "text": "Assessments for social impacts can include the topics covered in other GRI Topic Standards",
+      "page": 9
+    },
+    {
+      "text": "(e.g., GRI 401: Employment 2016, GRI 403: Occupational Health and Safety 2018, GRI 408:",
+      "page": 9
+    },
+    {
+      "text": "Child Labor 2016, GRI 409: Forced or Compulsory Labor 2016).",
+      "page": 9
+    },
+    {
+      "text": "Assessments can be made against agreed performance expectations that are set and",
+      "page": 9
+    },
+    {
+      "text": "communicated to the suppliers prior to the assessment.",
+      "page": 9
+    },
+    {
+      "text": "Assessments can be informed by audits, contractual reviews, two-way engagement, and",
+      "page": 9
+    },
+    {
+      "text": "complaint and grievance mechanisms.",
+      "page": 9
+    },
+    {
+      "text": "Improvements can include changing an organization’s procurement practices, the adjustment of",
+      "page": 9
+    },
+    {
+      "text": "performance expectations, capacity building, training, and changes to processes.",
+      "page": 9
+    },
+    {
+      "text": "Background",
+      "page": 9
+    },
+    {
+      "text": "This disclosure informs stakeholders about an organization’s awareness of significant actual",
+      "page": 9
+    },
+    {
+      "text": "and potential negative social impacts in the supply chain.",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 414: Supplier Social Assessment 2016",
+      "page": 10
+    },
+    {
+      "text": "Glossary",
+      "page": 10
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 10
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 10
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 10
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 10
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 10
+    },
+    {
+      "text": "business partner",
+      "page": 10
+    },
+    {
+      "text": "entity with which the organization has some form of direct and formal engagement for the",
+      "page": 10
+    },
+    {
+      "text": "purpose of meeting its business objectives",
+      "page": 10
+    },
+    {
+      "text": "Source: Shift and Mazars LLP, UN Guiding Principles Reporting Framework, 2015; modified",
+      "page": 10
+    },
+    {
+      "text": "Examples: affiliates, business-to-business customers, clients, first-tier suppliers, franchisees,",
+      "page": 10
+    },
+    {
+      "text": "joint venture partners, investee companies in which the organization has a",
+      "page": 10
+    },
+    {
+      "text": "shareholding position",
+      "page": 10
+    },
+    {
+      "text": "Note: Business partners do not include subsidiaries and affiliates that the organization",
+      "page": 10
+    },
+    {
+      "text": "controls.",
+      "page": 10
+    },
+    {
+      "text": "business relationships",
+      "page": 10
+    },
+    {
+      "text": "relationships that the organization has with business partners, with entities in its value chain",
+      "page": 10
+    },
+    {
+      "text": "including those beyond the first tier, and with any other entities directly linked to its operations,",
+      "page": 10
+    },
+    {
+      "text": "products, or services",
+      "page": 10
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 10
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 10
+    },
+    {
+      "text": "modified",
+      "page": 10
+    },
+    {
+      "text": "Note: Examples of other entities directly linked to the organization’s operations, products,",
+      "page": 10
+    },
+    {
+      "text": "or services are a non-governmental organization with which the organization",
+      "page": 10
+    },
+    {
+      "text": "delivers support to a local community or state security forces that protect the",
+      "page": 10
+    },
+    {
+      "text": "organization’s facilities.",
+      "page": 10
+    },
+    {
+      "text": "due diligence",
+      "page": 10
+    },
+    {
+      "text": "process to identify, prevent, mitigate, and account for how the organization addresses its actual",
+      "page": 10
+    },
+    {
+      "text": "and potential negative impacts",
+      "page": 10
+    },
+    {
+      "text": "Source: Organisation for Economic Co-operation and Development (OECD), OECD",
+      "page": 10
+    },
+    {
+      "text": "Guidelines for Multinational Enterprises, 2011; modified",
+      "page": 10
+    },
+    {
+      "text": "United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 10
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 10
+    },
+    {
+      "text": "modified",
+      "page": 10
+    },
+    {
+      "text": "Note: See section 2.3 in GRI 1: Foundation 2021 for more information on ‘due diligence’.",
+      "page": 10
+    },
+    {
+      "text": "employee",
+      "page": 10
+    },
+    {
+      "text": "individual who is in an employment relationship with the organization according to national law",
+      "page": 10
+    },
+    {
+      "text": "or practice",
+      "page": 10
+    },
+    {
+      "text": "grievance",
+      "page": 10
+    },
+    {
+      "text": "perceived injustice evoking an individual’s or a group’s sense of entitlement, which may be",
+      "page": 10
+    },
+    {
+      "text": "based on law, contract, explicit or implicit promises, customary practice, or general notions of",
+      "page": 10
+    },
+    {
+      "text": "fairness of aggrieved communities",
+      "page": 10
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 10
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011",
+      "page": 10
+    },
+    {
+      "text": "grievance mechanism",
+      "page": 10
+    },
+    {
+      "text": "routinized process through which grievances can be raised and remedy can be sought",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 414: Supplier Social Assessment 2016",
+      "page": 11
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 11
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 11
+    },
+    {
+      "text": "modified",
+      "page": 11
+    },
+    {
+      "text": "Note: See Guidance to Disclosure 2-25 in GRI 2: General Disclosures 2021 for more",
+      "page": 11
+    },
+    {
+      "text": "information on ‘grievance mechanism’.",
+      "page": 11
+    },
+    {
+      "text": "human rights",
+      "page": 11
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 11
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 11
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 11
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 11
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 11
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 11
+    },
+    {
+      "text": "modified",
+      "page": 11
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 11
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 11
+    },
+    {
+      "text": "impact",
+      "page": 11
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 11
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 11
+    },
+    {
+      "text": "development",
+      "page": 11
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 11
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 11
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 11
+    },
+    {
+      "text": "material topics",
+      "page": 11
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 11
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 11
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 11
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 11
+    },
+    {
+      "text": "mitigation",
+      "page": 11
+    },
+    {
+      "text": "action(s) taken to reduce the extent of a negative impact",
+      "page": 11
+    },
+    {
+      "text": "Source: United Nations (UN), The Corporate Responsibility to Respect Human Rights: An",
+      "page": 11
+    },
+    {
+      "text": "Interpretive Guide, 2012; modified",
+      "page": 11
+    },
+    {
+      "text": "Note: The mitigation of an actual negative impact refers to actions taken to reduce the",
+      "page": 11
+    },
+    {
+      "text": "severity of the negative impact that has occurred, with any residual impact needing",
+      "page": 11
+    },
+    {
+      "text": "remediation. The mitigation of a potential negative impact refers to actions taken to",
+      "page": 11
+    },
+    {
+      "text": "reduce the likelihood of the negative impact occurring.",
+      "page": 11
+    },
+    {
+      "text": "remedy / remediation",
+      "page": 11
+    },
+    {
+      "text": "means to counteract or make good a negative impact or provision of remedy",
+      "page": 11
+    },
+    {
+      "text": "Source: United Nations (UN), The Corporate Responsibility to Respect Human Rights: An",
+      "page": 11
+    },
+    {
+      "text": "Interpretive Guide, 2012; modified",
+      "page": 11
+    },
+    {
+      "text": "Examples: apologies, financial or non-financial compensation, prevention of harm through",
+      "page": 11
+    },
+    {
+      "text": "injunctions or guarantees of non-repetition, punitive sanctions (whether criminal or",
+      "page": 11
+    },
+    {
+      "text": "administrative, such as fines), restitution, restoration, rehabilitation",
+      "page": 11
+    },
+    {
+      "text": "severity (of an impact)",
+      "page": 11
+    },
+    {
+      "text": "The severity of an actual or potential negative impact is determined by its scale (i.e., how grave",
+      "page": 11
+    },
+    {
+      "text": "the impact is), scope (i.e., how widespread the impact is), and irremediable character (how hard",
+      "page": 11
+    },
+    {
+      "text": "it is to counteract or make good the resulting harm).",
+      "page": 11
+    },
+    {
+      "text": "12 GRI 414: Supplier Social Assessment 2016",
+      "page": 12
+    },
+    {
+      "text": "Source: Organisation for Economic Co-operation and Development (OECD), OECD Due",
+      "page": 12
+    },
+    {
+      "text": "Diligence Guidance for Responsible Business Conduct, 2018; modified",
+      "page": 12
+    },
+    {
+      "text": "United Nations (UN), The Corporate Responsibility to Respect Human Rights: An",
+      "page": 12
+    },
+    {
+      "text": "Interpretive Guide, 2012; modified",
+      "page": 12
+    },
+    {
+      "text": "Note: See section 1 in GRI 3: Material Topics 2021 for more information on ‘severity’.",
+      "page": 12
+    },
+    {
+      "text": "supplier",
+      "page": 12
+    },
+    {
+      "text": "entity upstream from the organization (i.e., in the organization’s supply chain), which provides a",
+      "page": 12
+    },
+    {
+      "text": "product or service that is used in the development of the organization’s own products or services",
+      "page": 12
+    },
+    {
+      "text": "Examples: brokers, consultants, contractors, distributors, franchisees, home workers,",
+      "page": 12
+    },
+    {
+      "text": "independent contractors, licensees, manufacturers, primary producers, sub-",
+      "page": 12
+    },
+    {
+      "text": "contractors, wholesalers",
+      "page": 12
+    },
+    {
+      "text": "Note: A supplier can have a direct business relationship with the organization (often",
+      "page": 12
+    },
+    {
+      "text": "referred to as a first-tier supplier) or an indirect business relationship.",
+      "page": 12
+    },
+    {
+      "text": "supplier screening",
+      "page": 12
+    },
+    {
+      "text": "formal or documented process that applies a set of performance criteria as one of the factors in",
+      "page": 12
+    },
+    {
+      "text": "determining whether to proceed in a relationship with a supplier",
+      "page": 12
+    },
+    {
+      "text": "supply chain",
+      "page": 12
+    },
+    {
+      "text": "range of activities carried out by entities upstream from the organization, which provide products",
+      "page": 12
+    },
+    {
+      "text": "or services that are used in the development of the organization’s own products or services",
+      "page": 12
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 12
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 12
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 12
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 12
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 12
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 12
+    },
+    {
+      "text": "value chain",
+      "page": 12
+    },
+    {
+      "text": "range of activities carried out by the organization, and by entities upstream and downstream",
+      "page": 12
+    },
+    {
+      "text": "from the organization, to bring the organization’s products or services from their conception to",
+      "page": 12
+    },
+    {
+      "text": "their end use",
+      "page": 12
+    },
+    {
+      "text": "Note 1: Entities upstream from the organization (e.g., suppliers) provide products or",
+      "page": 12
+    },
+    {
+      "text": "services that are used in the development of the organization’s own products or",
+      "page": 12
+    },
+    {
+      "text": "services. Entities downstream from the organization (e.g., distributors, customers)",
+      "page": 12
+    },
+    {
+      "text": "receive products or services from the organization.",
+      "page": 12
+    },
+    {
+      "text": "Note 2: The value chain includes the supply chain.",
+      "page": 12
+    },
+    {
+      "text": "worker",
+      "page": 12
+    },
+    {
+      "text": "person that performs work for the organization",
+      "page": 12
+    },
+    {
+      "text": "Examples: employees, agency workers, apprentices, contractors, home workers, interns, self-",
+      "page": 12
+    },
+    {
+      "text": "employed persons, sub-contractors, volunteers, and persons working for",
+      "page": 12
+    },
+    {
+      "text": "organizations other than the reporting organization, such as for suppliers",
+      "page": 12
+    },
+    {
+      "text": "Note: In the GRI Standards, in some cases, it is specified whether a particular subset of",
+      "page": 12
+    },
+    {
+      "text": "workers is required to be used.",
+      "page": 12
+    },
+    {
+      "text": "Bibliography",
+      "page": 12
+    },
+    {
+      "text": "13 GRI 414: Supplier Social Assessment 2016",
+      "page": 13
+    },
+    {
+      "text": "Bibliography",
+      "page": 13
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments and additional references used in developing this",
+      "page": 13
+    },
+    {
+      "text": "Standard.",
+      "page": 13
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 13
+    },
+    {
+      "text": "1. United Nations (UN), ‘Guiding Principles on Business and Human Rights, Implementing the United Nations",
+      "page": 13
+    },
+    {
+      "text": "“Protect, Respect and Remedy” Framework’, 2011.",
+      "page": 13
+    },
+    {
+      "text": "2. United Nations (UN), Protect, Respect and Remedy: a Framework for Business and Human Rights, 2008.",
+      "page": 13
+    },
+    {
+      "text": "3. United Nations (UN), Report of the Special Representative of the Secretary-General on the Issue of Human",
+      "page": 13
+    },
+    {
+      "text": "Rights and Transnational Corporations and Other Business Enterprises, John Ruggie, 2011.",
+      "page": 13
+    },
+    {
+      "text": "Additional references:",
+      "page": 13
+    },
+    {
+      "text": "4. United Nations Global Compact, Global Compact Business Guide for Conflict Impact Assessment and Risk",
+      "page": 13
+    },
+    {
+      "text": "Management, 2002.",
+      "page": 13
+    },
+    {
+      "text": "5. United Nations Global Compact and Principles for Responsible Investment (PRI), Guidance on Responsible",
+      "page": 13
+    },
+    {
+      "text": "Business in Conflict-Affected and High-Risk Areas: A Resource for Companies and Investors, 2010.",
+      "page": 13
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 14
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 14
+    },
+    {
+      "text": "The Netherlands",
+      "page": 14
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 14
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 4
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 4
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 4
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 4
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 4
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 4
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 4
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 4
+    },
+    {
+      "text": "Topic Standards",
+      "page": 4
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 414: Supplier Social Assessment 2016",
+      "page": 5
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 5
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}

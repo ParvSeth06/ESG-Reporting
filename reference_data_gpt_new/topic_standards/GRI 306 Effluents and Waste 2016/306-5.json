@@ -1,0 +1,42 @@
+{
+  "standard": "GRI 306",
+  "disclosure_id": "306-5",
+  "title": "Disclosure 306-5 Water bodies affected by water",
+  "topic": "GRI 306: Effluents and Waste",
+  "requirements": [
+    "a. Water bodies and related habitats that are significantly affected by water discharges and/or",
+    "runoff, including information on:",
+    "i. the size of the water body and related habitat;",
+    "ii. whether the water body and related habitat is designated as a nationally",
+    "or internationally protected area;",
+    "iii. the biodiversity value, such as total number of protected species.",
+    "2.5 When compiling the information in Disclosure 306-5, the reporting organization shall report",
+    "water bodies and related habitats significantly affected by water discharges and/or runoff that",
+    "meet one or more of the following criteria:",
+    "2.5.1 Discharges account for an average of five percent or more of the annual average",
+    "volume",
+    "of the water body;",
+    "2.5.2 Discharges that, on the advice of appropriate professionals, such as municipal",
+    "authorities, are known to have or are highly likely to have significant impacts on the water",
+    "body and associated habitats;",
+    "2.5.3 Discharges to water bodies that are recognized by professionals to be particularly",
+    "sensitive due to their relative size, function, or status as a rare, threatened, or",
+    "endangered system,",
+    "or that support a particular endangered species of plant or animal;",
+    "2.5.4 Any discharge to a wetland listed in the Ramsar Convention or any other nationally",
+    "or internationally proclaimed conservation area regardless of the rate of discharge;",
+    "2.5.5 The water body has been identified as having a high biodiversity value, such as",
+    "species diversity and endemism, or total number of protected species;",
+    "2.5.6 The water body has been identified as having a high value or importance to local",
+    "communities."
+  ],
+  "background": [],
+  "guidance": [
+    "This disclosure is a qualitative counterpart to the quantitative disclosures of water discharge,",
+    "and helps to describe the impact of these discharges. Discharges and runoff affecting aquatic",
+    "habitats can have a significant impact on the availability of water resources.",
+    "See references 4 and 5 in the References section.",
+    "13 GRI 306: Effluents and Waste 2016"
+  ],
+  "recommendations": []
+}

@@ -1,0 +1,60 @@
+{
+  "standard": "GRI 305",
+  "disclosure_id": "305-4",
+  "title": "Disclosure 305-4 GHG emissions intensity",
+  "topic": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+  "requirements": [
+    "a. GHG emissions intensity ratio for the organization.",
+    "b. Organization-specific metric (the denominator) chosen to calculate the ratio.",
+    "c. Types of GHG emissions included in the intensity ratio; whether direct (Scope 1), energy",
+    "indirect (Scope 2), and/or other indirect (Scope 3).",
+    "d. Gases included in the calculation; whether CO , CH , N O, HFCs, PFCs, SF , NF , or all.",
+    "2 4 2 6 3",
+    "2.7 When compiling the information specified in Disclosure 305-4, the reporting",
+    "organization shall:",
+    "2.7.1 calculate the ratio by dividing the absolute GHG emissions (the numerator) by",
+    "the organization-specific metric (the denominator);",
+    "2.7.2 if reporting an intensity ratio for other indirect (Scope 3) GHG emissions, report",
+    "this intensity ratio separately from the intensity ratios for direct (Scope 1) and",
+    "energy indirect (Scope 2) emissions.",
+    "2.8 When compiling the information specified in Disclosure 305-4, the reporting organization"
+  ],
+  "background": [
+    "Intensity ratios define GHG emissions in the context of an organization-specific metric. Many",
+    "organizations track environmental performance with intensity ratios, which are often called",
+    "normalized environmental impact data.",
+    "GHG emissions intensity expresses the amount of GHG emissions per unit of activity, output, or",
+    "any other organization-specific metric. In combination with an organization’s absolute GHG",
+    "emissions, reported in Disclosures 305-1, 305-2, and 305-3, GHG emissions intensity helps to",
+    "contextualize the organization’s efficiency, including in relation to other organizations.",
+    "See references [13], [14], and [19] in the Bibliography.",
+    "17 GRI 305: Emissions 2016"
+  ],
+  "guidance": [
+    "Intensity ratios can be provided for, among others:",
+    "• products (such as metric tons of CO emissions per unit produced);",
+    "2",
+    "• services (such as metric tons of CO emissions per function or per service);",
+    "2",
+    "• sales (such as metric tons of CO emissions per sales).",
+    "2",
+    "Organization-specific metrics (denominators) can include:",
+    "• units of product;",
+    "• production volume (such as metric tons, liters, or MWh);",
+    "• size (such as m2 floor space);",
+    "• number of full-time employees;",
+    "• monetary units (such as revenue or sales).",
+    "The reporting organization can report an intensity ratio for direct (Scope 1) and energy indirect",
+    "(Scope 2) GHG emissions combined, using the figures reported in Disclosures 305-1 and 305-",
+    "2."
+  ],
+  "recommendations": [
+    "should, where it aids transparency or comparability over time, provide a breakdown of the",
+    "GHG emissions intensity ratio by:",
+    "2.8.1 business unit or facility;",
+    "2.8.2 country;",
+    "2.8.3 type of source;",
+    "2.8.4 type of activity.",
+    "Guidance for Disclosure 305-4"
+  ]
+}

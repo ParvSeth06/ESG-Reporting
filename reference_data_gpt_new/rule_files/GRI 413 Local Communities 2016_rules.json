@@ -1,0 +1,1594 @@
+{
+  "standard": "GRI 413 Local Communities 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages local communities using",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Percentage of operations with implemented local community engagement, impact",
+        "i. social impact assessments, including gender impact assessments, based on",
+        "ii. environmental impact assessments and ongoing monitoring;",
+        "iii. public disclosure of results of environmental and social impact assessments;",
+        "iv. local community development programs based on local communities’ needs;",
+        "v. stakeholder engagement plans based on stakeholder mapping;",
+        "vi. broad based local community consultation committees and processes that include",
+        "vii. works councils, occupational health and safety committees and other worker",
+        "viii. formal local community grievance processes."
+      ],
+      "page": 8
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Operations with significant actual and potential negative impacts on local communities,",
+        "i. the location of the operations;",
+        "ii. the significant actual and potential negative impacts of operations."
+      ],
+      "page": 10
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses the topic of local communities. In the GRI Standards, local communities are defined as",
+      "page": 4
+    },
+    {
+      "text": "individuals or groups of individuals living or working in areas that are affected or that could be affected by the",
+      "page": 4
+    },
+    {
+      "text": "organization’s activities. The local community can range from those living adjacent to the organization's operations to",
+      "page": 4
+    },
+    {
+      "text": "those living at a distance.",
+      "page": 4
+    },
+    {
+      "text": "An organization’s activities and infrastructure can have significant economic, social, cultural, and/or environmental",
+      "page": 4
+    },
+    {
+      "text": "impacts on local communities. Where possible, organizations are expected to anticipate and avoid negative impacts",
+      "page": 4
+    },
+    {
+      "text": "on local communities. Establishing a timely and effective stakeholder identification and engagement process is",
+      "page": 4
+    },
+    {
+      "text": "important to help organizations understand the vulnerability of local communities and how these might be affected by",
+      "page": 4
+    },
+    {
+      "text": "the organization’s activities.",
+      "page": 4
+    },
+    {
+      "text": "Due to the heterogeneous nature of local communities, an organization is expected to consider the differentiated",
+      "page": 4
+    },
+    {
+      "text": "nature of communities and the distinct and specific vulnerabilities these groups can suffer as a result of the",
+      "page": 4
+    },
+    {
+      "text": "organization’s activities.",
+      "page": 4
+    },
+    {
+      "text": "These concepts are covered in key instruments of the Organisation for Economic Co-operation and Development and",
+      "page": 4
+    },
+    {
+      "text": "the United Nations: see the Bibliography.",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 4
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its impacts related to local communities.",
+      "page": 5
+    },
+    {
+      "text": "determined local communities to be a material topic:",
+      "page": 5
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 5
+    },
+    {
+      "text": "• Any disclosures from this Topic Standard that are relevant to the organization’s impacts related to local",
+      "page": 5
+    },
+    {
+      "text": "communities (Disclosure 413-1 through Disclosure 413-2).",
+      "page": 5
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 5
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 5
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 5
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 5
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 5
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 5
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 5
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 5
+    },
+    {
+      "text": "item does not exist.",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 413: Local Communities 2016",
+      "page": 6
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 6
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 6
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 6
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 6
+    },
+    {
+      "text": "information has been published).",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 413: Local Communities 2016",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined local communities to be a material topic is required to report how it manages the",
+      "page": 7
+    },
+    {
+      "text": "topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 7
+    },
+    {
+      "text": "Disclosure 3-3 in GRI 3: Material Topics 2021.",
+      "page": 7
+    },
+    {
+      "text": "The reporting organization can also describe:",
+      "page": 7
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 7
+    },
+    {
+      "text": "• the means by which stakeholders are identified and engaged with;",
+      "page": 7
+    },
+    {
+      "text": "• which vulnerable groups have been identified;",
+      "page": 7
+    },
+    {
+      "text": "• any collective or individual rights that have been identified that are of particular concern for",
+      "page": 7
+    },
+    {
+      "text": "the community in question;",
+      "page": 7
+    },
+    {
+      "text": "• how it engages with stakeholder groups that are particular to the community (for example,",
+      "page": 7
+    },
+    {
+      "text": "groups defined by age, indigenous background, ethnicity or migration status);",
+      "page": 7
+    },
+    {
+      "text": "• the means by which its departments and other bodies address risks and impacts, or",
+      "page": 7
+    },
+    {
+      "text": "support independent third parties to engage with stakeholders and address risks and",
+      "page": 7
+    },
+    {
+      "text": "impacts.",
+      "page": 7
+    },
+    {
+      "text": "Background",
+      "page": 7
+    },
+    {
+      "text": "Communities have individual and collective rights deriving from, among others, international",
+      "page": 7
+    },
+    {
+      "text": "declarations and conventions such as:",
+      "page": 7
+    },
+    {
+      "text": "• the United Nations (UN) Declaration, ‘Universal Declaration of Human Rights’, 1948;",
+      "page": 7
+    },
+    {
+      "text": "• the United Nations (UN) Convention, ‘International Covenant on Civil and Political Rights’,",
+      "page": 7
+    },
+    {
+      "text": "1966;",
+      "page": 7
+    },
+    {
+      "text": "• the United Nations (UN) Convention, ‘International Covenant on Economic, Social, and",
+      "page": 7
+    },
+    {
+      "text": "Cultural Rights’, 1966;",
+      "page": 7
+    },
+    {
+      "text": "• the United Nations (UN) Declaration, ‘Declaration on the Right to Development’, 1986.",
+      "page": 7
+    },
+    {
+      "text": "Other standards such as the International Finance Corporation’s (IFC) Performance Standards",
+      "page": 7
+    },
+    {
+      "text": "(PS) also provide widely-accepted good practice approaches for organizational assessment,",
+      "page": 7
+    },
+    {
+      "text": "engagement and treatment of community-related impact issues (see IFC PS1 – Assessment",
+      "page": 7
+    },
+    {
+      "text": "and Management of Environmental and Social Risks and Impacts, and PS4 – Community",
+      "page": 7
+    },
+    {
+      "text": "Health, Safety, and Security).",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 413: Local Communities 2016",
+      "page": 8
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 413-1 Operations with local community engagement,",
+      "page": 8
+    },
+    {
+      "text": "impact assessments, and development programs",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "assessments, and/or development programs, including the use of:",
+      "page": 8
+    },
+    {
+      "text": "participatory processes;",
+      "page": 8
+    },
+    {
+      "text": "vulnerable groups;",
+      "page": 8
+    },
+    {
+      "text": "representation bodies to deal with impacts;",
+      "page": 8
+    },
+    {
+      "text": "2.1 When compiling the information specified in Disclosure 413-1, the reporting organization",
+      "page": 8
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 8
+    },
+    {
+      "text": "should use the data from Disclosure 2-6 in GRI 2: General Disclosures 2021 to identify",
+      "page": 8
+    },
+    {
+      "text": "the total number of operations, if the organization has reported its total number of",
+      "page": 8
+    },
+    {
+      "text": "operations when describing its activities.",
+      "page": 8
+    },
+    {
+      "text": "Background",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "A key element in managing impacts on people in local communities is assessment and",
+      "page": 8
+    },
+    {
+      "text": "planning in order to understand the actual and potential impacts, and strong engagement with",
+      "page": 8
+    },
+    {
+      "text": "local communities to understand their expectations and needs. There are many elements that",
+      "page": 8
+    },
+    {
+      "text": "can be incorporated into local community engagement, impact assessments, and development",
+      "page": 8
+    },
+    {
+      "text": "programs. This disclosure seeks to identify which elements have been consistently applied,",
+      "page": 8
+    },
+    {
+      "text": "organization-wide.",
+      "page": 8
+    },
+    {
+      "text": "Where possible, organizations are expected to anticipate and avoid negative impacts on local",
+      "page": 8
+    },
+    {
+      "text": "communities. Where this is not possible, or where residual impacts remain, organizations are",
+      "page": 8
+    },
+    {
+      "text": "expected to manage those impacts appropriately, including grievances, and to compensate",
+      "page": 8
+    },
+    {
+      "text": "local communities for negative impacts.",
+      "page": 8
+    },
+    {
+      "text": "Establishing a timely and effective stakeholder identification and engagement process is",
+      "page": 8
+    },
+    {
+      "text": "important to help organizations understand the vulnerability of local communities and how these",
+      "page": 8
+    },
+    {
+      "text": "might be affected by the organization’s activities. A stakeholder engagement process both in",
+      "page": 8
+    },
+    {
+      "text": "early planning stages as well as during operations, can help establish lines of communication",
+      "page": 8
+    },
+    {
+      "text": "between an organization’s various departments (planning, finance, environment, production,",
+      "page": 8
+    },
+    {
+      "text": "etc.) and key stakeholder interest groups in the community. This enables an organization to",
+      "page": 8
+    },
+    {
+      "text": "consider the views of community stakeholders in its decisions, and to address its potential",
+      "page": 8
+    },
+    {
+      "text": "impacts on local communities in a timely manner.",
+      "page": 8
+    },
+    {
+      "text": "Organizations can utilize a number of useful tools to engage communities, including social and",
+      "page": 8
+    },
+    {
+      "text": "human rights impact assessments, which include a diverse set of approaches for proper",
+      "page": 8
+    },
+    {
+      "text": "identification of stakeholders and community characteristics. These can be based on issues",
+      "page": 8
+    },
+    {
+      "text": "such as ethnic background, indigenous descent, gender, age, migrant status, socioeconomic",
+      "page": 8
+    },
+    {
+      "text": "status, literacy levels, disabilities, income level, infrastructure availability or specific human",
+      "page": 8
+    },
+    {
+      "text": "health vulnerabilities which may exist within stakeholder communities.",
+      "page": 8
+    },
+    {
+      "text": "An organization is expected to consider the differentiated nature of local communities and to",
+      "page": 8
+    },
+    {
+      "text": "take specific action to identify and engage vulnerable groups. This might require adopting",
+      "page": 8
+    },
+    {
+      "text": "differentiated measures to allow the effective participation of vulnerable groups, such as making",
+      "page": 8
+    },
+    {
+      "text": "information available in alternate languages or format for those who are not literate or who do",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 413: Local Communities 2016",
+      "page": 9
+    },
+    {
+      "text": "not have access to printed materials. Where necessary, organizations are expected to establish",
+      "page": 9
+    },
+    {
+      "text": "additional or separate processes so that negative impacts on vulnerable or disadvantaged",
+      "page": 9
+    },
+    {
+      "text": "groups are avoided, minimized, mitigated or compensated.1",
+      "page": 9
+    },
+    {
+      "text": "1 International Finance Corporation (IFC), Guidance Notes: Performance Standards on Environmental and Social Sustainability, 2012.",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 413: Local Communities 2016",
+      "page": 10
+    },
+    {
+      "text": "Disclosure 413-2 Operations with significant actual and potential",
+      "page": 10
+    },
+    {
+      "text": "negative impacts on local communities",
+      "page": 10
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 10
+    },
+    {
+      "text": "including:",
+      "page": 10
+    },
+    {
+      "text": "2.2 When compiling the information specified in Disclosure 413-2, the reporting organization",
+      "page": 10
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 10
+    },
+    {
+      "text": "should:",
+      "page": 10
+    },
+    {
+      "text": "2.2.1 report the vulnerability and risk to local communities from potential negative",
+      "page": 10
+    },
+    {
+      "text": "impacts due to factors including:",
+      "page": 10
+    },
+    {
+      "text": "2.2.1.1 the degree of physical or economic isolation of the local community;",
+      "page": 10
+    },
+    {
+      "text": "2.2.1.2 the level of socioeconomic development, including the degree of gender",
+      "page": 10
+    },
+    {
+      "text": "equality within the community;",
+      "page": 10
+    },
+    {
+      "text": "2.2.1.3 the state of socioeconomic infrastructure, including health and education",
+      "page": 10
+    },
+    {
+      "text": "infrastructure;",
+      "page": 10
+    },
+    {
+      "text": "2.2.1.4 the proximity to operations;",
+      "page": 10
+    },
+    {
+      "text": "2.2.1.5 the level of social organization;",
+      "page": 10
+    },
+    {
+      "text": "2.2.1.6 the strength and quality of the governance of local and national institutions",
+      "page": 10
+    },
+    {
+      "text": "around local communities;",
+      "page": 10
+    },
+    {
+      "text": "2.2.2 report the exposure of the local community to its operations due to higher than",
+      "page": 10
+    },
+    {
+      "text": "average use of shared resources or impact on shared resources, including:",
+      "page": 10
+    },
+    {
+      "text": "2.2.2.1 the use of hazardous substances that have an impact on the environment",
+      "page": 10
+    },
+    {
+      "text": "and human health in general, and specifically have an impact on",
+      "page": 10
+    },
+    {
+      "text": "reproductive health;",
+      "page": 10
+    },
+    {
+      "text": "2.2.2.2 the volume and type of pollution released;",
+      "page": 10
+    },
+    {
+      "text": "2.2.2.3 the status as major employer in the local community;",
+      "page": 10
+    },
+    {
+      "text": "2.2.2.4 land conversion and resettlement;",
+      "page": 10
+    },
+    {
+      "text": "2.2.2.5 natural resource consumption;",
+      "page": 10
+    },
+    {
+      "text": "2.2.3 for each of the significant actual and potential negative economic, social, cultural,",
+      "page": 10
+    },
+    {
+      "text": "and/or environmental impacts on local communities and their rights, describe:",
+      "page": 10
+    },
+    {
+      "text": "2.2.3.1 the intensity or severity of the impact;",
+      "page": 10
+    },
+    {
+      "text": "2.2.3.2 the likely duration of the impact;",
+      "page": 10
+    },
+    {
+      "text": "2.2.3.3 the reversibility of the impact;",
+      "page": 10
+    },
+    {
+      "text": "2.2.3.4 the scale of the impact.",
+      "page": 10
+    },
+    {
+      "text": "Guidance for Disclosure 413-2",
+      "page": 10
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 10
+    },
+    {
+      "text": "Internal sources of information about actual and potential negative impacts of operations on",
+      "page": 10
+    },
+    {
+      "text": "local communities can include:",
+      "page": 10
+    },
+    {
+      "text": "• actual performance data;",
+      "page": 10
+    },
+    {
+      "text": "• internal investment plans and associated risk assessments;",
+      "page": 10
+    },
+    {
+      "text": "• all data collected with topic disclosures as they relate to individual communities. For",
+      "page": 10
+    },
+    {
+      "text": "example: GRI 203: Indirect Economic Impacts 2016, GRI 301: Materials 2016, GRI 302:",
+      "page": 10
+    },
+    {
+      "text": "Energy 2016, GRI 303: Water and Effluents 2018, GRI 304: Biodiversity 2016, GRI 305:",
+      "page": 10
+    },
+    {
+      "text": "Emissions 2016, GRI 306: Waste 2020, GRI 403: Occupational Health and Safety 2018, GRI",
+      "page": 10
+    },
+    {
+      "text": "408: Child Labor 2016, GRI 409: Forced or Compulsory Labor 2016, GRI 410: Security",
+      "page": 10
+    },
+    {
+      "text": "Practices 2016, GRI 411: Rights of Indigenous Peoples 2016, and GRI 416: Customer Health",
+      "page": 10
+    },
+    {
+      "text": "and Safety 2016.",
+      "page": 10
+    },
+    {
+      "text": "Background",
+      "page": 10
+    },
+    {
+      "text": "This disclosure is focused on significant actual and potential negative impacts related to an",
+      "page": 10
+    },
+    {
+      "text": "organization’s operations and not on community investments or donations, which are",
+      "page": 10
+    },
+    {
+      "text": "addressed by GRI 201: Economic Performance 2016.",
+      "page": 10
+    },
+    {
+      "text": "This disclosure informs stakeholders about an organization’s awareness of its negative",
+      "page": 10
+    },
+    {
+      "text": "impacts on local communities. It also enables the organization to better prioritize and improve",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 413: Local Communities 2016",
+      "page": 11
+    },
+    {
+      "text": "its organization-wide attention to local communities.",
+      "page": 11
+    },
+    {
+      "text": "12 GRI 413: Local Communities 2016",
+      "page": 12
+    },
+    {
+      "text": "Glossary",
+      "page": 12
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 12
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 12
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 12
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 12
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 12
+    },
+    {
+      "text": "business partner",
+      "page": 12
+    },
+    {
+      "text": "entity with which the organization has some form of direct and formal engagement for the",
+      "page": 12
+    },
+    {
+      "text": "purpose of meeting its business objectives",
+      "page": 12
+    },
+    {
+      "text": "Source: Shift and Mazars LLP, UN Guiding Principles Reporting Framework, 2015; modified",
+      "page": 12
+    },
+    {
+      "text": "Examples: affiliates, business-to-business customers, clients, first-tier suppliers, franchisees,",
+      "page": 12
+    },
+    {
+      "text": "joint venture partners, investee companies in which the organization has a",
+      "page": 12
+    },
+    {
+      "text": "shareholding position",
+      "page": 12
+    },
+    {
+      "text": "Note: Business partners do not include subsidiaries and affiliates that the organization",
+      "page": 12
+    },
+    {
+      "text": "controls.",
+      "page": 12
+    },
+    {
+      "text": "business relationships",
+      "page": 12
+    },
+    {
+      "text": "relationships that the organization has with business partners, with entities in its value chain",
+      "page": 12
+    },
+    {
+      "text": "including those beyond the first tier, and with any other entities directly linked to its operations,",
+      "page": 12
+    },
+    {
+      "text": "products, or services",
+      "page": 12
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 12
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 12
+    },
+    {
+      "text": "modified",
+      "page": 12
+    },
+    {
+      "text": "Note: Examples of other entities directly linked to the organization’s operations, products,",
+      "page": 12
+    },
+    {
+      "text": "or services are a non-governmental organization with which the organization",
+      "page": 12
+    },
+    {
+      "text": "delivers support to a local community or state security forces that protect the",
+      "page": 12
+    },
+    {
+      "text": "organization’s facilities.",
+      "page": 12
+    },
+    {
+      "text": "child",
+      "page": 12
+    },
+    {
+      "text": "person under the age of 15 years, or under the age of completion of compulsory schooling,",
+      "page": 12
+    },
+    {
+      "text": "whichever is higher",
+      "page": 12
+    },
+    {
+      "text": "Note 1: Exceptions can occur in certain countries where economies and educational",
+      "page": 12
+    },
+    {
+      "text": "facilities are insufficiently developed, and a minimum age of 14 years applies.",
+      "page": 12
+    },
+    {
+      "text": "These countries of exception are specified by the International Labour Organization",
+      "page": 12
+    },
+    {
+      "text": "(ILO) in response to a special application by the country concerned and in",
+      "page": 12
+    },
+    {
+      "text": "consultation with representative organizations of employers and workers.",
+      "page": 12
+    },
+    {
+      "text": "Note 2: The ILO Minimum Age Convention, 1973, (No. 138), refers to both child labor and",
+      "page": 12
+    },
+    {
+      "text": "young workers.",
+      "page": 12
+    },
+    {
+      "text": "community development program",
+      "page": 12
+    },
+    {
+      "text": "plan that details actions to minimize, mitigate, or compensate for adverse social and/or",
+      "page": 12
+    },
+    {
+      "text": "economic impacts, and/or to identify opportunities or actions to enhance positive impacts of a",
+      "page": 12
+    },
+    {
+      "text": "project on the community",
+      "page": 12
+    },
+    {
+      "text": "employee",
+      "page": 12
+    },
+    {
+      "text": "individual who is in an employment relationship with the organization according to national law",
+      "page": 12
+    },
+    {
+      "text": "or practice",
+      "page": 12
+    },
+    {
+      "text": "human rights",
+      "page": 12
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 12
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 12
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 12
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 12
+    },
+    {
+      "text": "13 GRI 413: Local Communities 2016",
+      "page": 13
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 13
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 13
+    },
+    {
+      "text": "modified",
+      "page": 13
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 13
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 13
+    },
+    {
+      "text": "impact",
+      "page": 13
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 13
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 13
+    },
+    {
+      "text": "development",
+      "page": 13
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 13
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 13
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 13
+    },
+    {
+      "text": "Indigenous Peoples",
+      "page": 13
+    },
+    {
+      "text": "Indigenous Peoples are generally identified as:",
+      "page": 13
+    },
+    {
+      "text": "• tribal peoples in independent countries whose social, cultural and economic conditions",
+      "page": 13
+    },
+    {
+      "text": "distinguish them from other sections of the national community, and whose status is",
+      "page": 13
+    },
+    {
+      "text": "regulated wholly or partially by their own customs or traditions or by special laws or",
+      "page": 13
+    },
+    {
+      "text": "regulations;",
+      "page": 13
+    },
+    {
+      "text": "• peoples in independent countries who are regarded as indigenous on account of their",
+      "page": 13
+    },
+    {
+      "text": "descent from the populations which inhabited the country, or a geographical region to which",
+      "page": 13
+    },
+    {
+      "text": "the country belongs, at the time of conquest or colonization or the establishment of present",
+      "page": 13
+    },
+    {
+      "text": "state boundaries and who, irrespective of their legal status, retain some or all of their own",
+      "page": 13
+    },
+    {
+      "text": "social, economic, cultural and political institutions.",
+      "page": 13
+    },
+    {
+      "text": "Source: International Labour Organization (ILO), Indigenous and Tribal Peoples Convention,",
+      "page": 13
+    },
+    {
+      "text": "1989 (No. 169)",
+      "page": 13
+    },
+    {
+      "text": "local community",
+      "page": 13
+    },
+    {
+      "text": "individuals or groups of individuals living or working in areas that are affected or that could be",
+      "page": 13
+    },
+    {
+      "text": "affected by the organization’s activities",
+      "page": 13
+    },
+    {
+      "text": "Note: The local community can range from those living adjacent to the organization’s",
+      "page": 13
+    },
+    {
+      "text": "operations to those living at a distance.",
+      "page": 13
+    },
+    {
+      "text": "material topics",
+      "page": 13
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 13
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 13
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 13
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 13
+    },
+    {
+      "text": "operation with significant actual or potential negative impacts on local communities",
+      "page": 13
+    },
+    {
+      "text": "operation, considered alone or in combination with the characteristics of local communities, that",
+      "page": 13
+    },
+    {
+      "text": "has a higher than average potential of negative impacts, or actual negative impacts, on the",
+      "page": 13
+    },
+    {
+      "text": "social, economic or environmental well-being of local communities",
+      "page": 13
+    },
+    {
+      "text": "Note: Examples of negative impacts on local communities can include impacts to local",
+      "page": 13
+    },
+    {
+      "text": "community health and safety.",
+      "page": 13
+    },
+    {
+      "text": "severity (of an impact)",
+      "page": 13
+    },
+    {
+      "text": "The severity of an actual or potential negative impact is determined by its scale (i.e., how grave",
+      "page": 13
+    },
+    {
+      "text": "the impact is), scope (i.e., how widespread the impact is), and irremediable character (how hard",
+      "page": 13
+    },
+    {
+      "text": "it is to counteract or make good the resulting harm).",
+      "page": 13
+    },
+    {
+      "text": "Source: Organisation for Economic Co-operation and Development (OECD), OECD Due",
+      "page": 13
+    },
+    {
+      "text": "Diligence Guidance for Responsible Business Conduct, 2018; modified",
+      "page": 13
+    },
+    {
+      "text": "United Nations (UN), The Corporate Responsibility to Respect Human Rights: An",
+      "page": 13
+    },
+    {
+      "text": "Interpretive Guide, 2012; modified",
+      "page": 13
+    },
+    {
+      "text": "14 GRI 413: Local Communities 2016",
+      "page": 14
+    },
+    {
+      "text": "Note: See section 1 in GRI 3: Material Topics 2021 for more information on ‘severity’.",
+      "page": 14
+    },
+    {
+      "text": "supplier",
+      "page": 14
+    },
+    {
+      "text": "entity upstream from the organization (i.e., in the organization’s supply chain), which provides a",
+      "page": 14
+    },
+    {
+      "text": "product or service that is used in the development of the organization’s own products or services",
+      "page": 14
+    },
+    {
+      "text": "Examples: brokers, consultants, contractors, distributors, franchisees, home workers,",
+      "page": 14
+    },
+    {
+      "text": "independent contractors, licensees, manufacturers, primary producers, sub-",
+      "page": 14
+    },
+    {
+      "text": "contractors, wholesalers",
+      "page": 14
+    },
+    {
+      "text": "Note: A supplier can have a direct business relationship with the organization (often",
+      "page": 14
+    },
+    {
+      "text": "referred to as a first-tier supplier) or an indirect business relationship.",
+      "page": 14
+    },
+    {
+      "text": "supply chain",
+      "page": 14
+    },
+    {
+      "text": "range of activities carried out by entities upstream from the organization, which provide products",
+      "page": 14
+    },
+    {
+      "text": "or services that are used in the development of the organization’s own products or services",
+      "page": 14
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 14
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 14
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 14
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 14
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 14
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 14
+    },
+    {
+      "text": "value chain",
+      "page": 14
+    },
+    {
+      "text": "range of activities carried out by the organization, and by entities upstream and downstream",
+      "page": 14
+    },
+    {
+      "text": "from the organization, to bring the organization’s products or services from their conception to",
+      "page": 14
+    },
+    {
+      "text": "their end use",
+      "page": 14
+    },
+    {
+      "text": "Note 1: Entities upstream from the organization (e.g., suppliers) provide products or",
+      "page": 14
+    },
+    {
+      "text": "services that are used in the development of the organization’s own products or",
+      "page": 14
+    },
+    {
+      "text": "services. Entities downstream from the organization (e.g., distributors, customers)",
+      "page": 14
+    },
+    {
+      "text": "receive products or services from the organization.",
+      "page": 14
+    },
+    {
+      "text": "Note 2: The value chain includes the supply chain.",
+      "page": 14
+    },
+    {
+      "text": "vulnerable group",
+      "page": 14
+    },
+    {
+      "text": "group of individuals with a specific condition or characteristic (e.g., economic, physical, political,",
+      "page": 14
+    },
+    {
+      "text": "social) that could experience negative impacts as a result of the organization’s activities more",
+      "page": 14
+    },
+    {
+      "text": "severely than the general population",
+      "page": 14
+    },
+    {
+      "text": "Examples: children and youth; elderly persons; ex-combatants; HIV/AIDS-affected households;",
+      "page": 14
+    },
+    {
+      "text": "human rights defenders; Indigenous Peoples; internally displaced persons;",
+      "page": 14
+    },
+    {
+      "text": "migrant workers and their families; national or ethnic, religious and linguistic",
+      "page": 14
+    },
+    {
+      "text": "minorities; persons who might be discriminated against based on their sexual",
+      "page": 14
+    },
+    {
+      "text": "orientation, gender identity, gender expression, or sex characteristics (e.g., lesbian,",
+      "page": 14
+    },
+    {
+      "text": "gay, bisexual, transgender, intersex); persons with disabilities; refugees or",
+      "page": 14
+    },
+    {
+      "text": "returning refugees; women",
+      "page": 14
+    },
+    {
+      "text": "Note: Vulnerabilities and impacts can differ by gender.",
+      "page": 14
+    },
+    {
+      "text": "worker",
+      "page": 14
+    },
+    {
+      "text": "person that performs work for the organization",
+      "page": 14
+    },
+    {
+      "text": "Examples: employees, agency workers, apprentices, contractors, home workers, interns, self-",
+      "page": 14
+    },
+    {
+      "text": "employed persons, sub-contractors, volunteers, and persons working for",
+      "page": 14
+    },
+    {
+      "text": "organizations other than the reporting organization, such as for suppliers",
+      "page": 14
+    },
+    {
+      "text": "Note: In the GRI Standards, in some cases, it is specified whether a particular subset of",
+      "page": 14
+    },
+    {
+      "text": "workers is required to be used.",
+      "page": 14
+    },
+    {
+      "text": "Bibliography",
+      "page": 14
+    },
+    {
+      "text": "15 GRI 413: Local Communities 2016",
+      "page": 15
+    },
+    {
+      "text": "Bibliography",
+      "page": 15
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments and additional references used in developing this",
+      "page": 15
+    },
+    {
+      "text": "Standard.",
+      "page": 15
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 15
+    },
+    {
+      "text": "1. Organisation for Economic Co-operation and Development (OECD), OECD Guidelines for Multinational",
+      "page": 15
+    },
+    {
+      "text": "Enterprises, 2011.",
+      "page": 15
+    },
+    {
+      "text": "2. Organisation for Economic Co-operation and Development (OECD), Risk Awareness Tool for Multinational",
+      "page": 15
+    },
+    {
+      "text": "Enterprises in Weak Governance Zones, 2006.",
+      "page": 15
+    },
+    {
+      "text": "3. United Nations (UN) Convention, ‘International Covenant on Civil and Political Rights’, 1966.",
+      "page": 15
+    },
+    {
+      "text": "4. United Nations (UN) Convention, ‘International Covenant on Economic, Social, and Cultural Rights’, 1966.",
+      "page": 15
+    },
+    {
+      "text": "5. United Nations (UN) Declaration, ‘Declaration on the Right to Development’, 1986.",
+      "page": 15
+    },
+    {
+      "text": "6. United Nations (UN) Declaration, ‘Universal Declaration of Human Rights’, 1948.",
+      "page": 15
+    },
+    {
+      "text": "Additional references:",
+      "page": 15
+    },
+    {
+      "text": "7. International Finance Corporation (IFC), Performance Standards on Environmental and Social Sustainability,",
+      "page": 15
+    },
+    {
+      "text": "2012.",
+      "page": 15
+    },
+    {
+      "text": "8. International Finance Corporation (IFC), Stakeholder Engagement: A Good Practice Handbook for Companies",
+      "page": 15
+    },
+    {
+      "text": "Doing Business in Emerging Markets, 2007.",
+      "page": 15
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 16
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 16
+    },
+    {
+      "text": "The Netherlands",
+      "page": 16
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 16
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 4
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 4
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 4
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 4
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 4
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 4
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 4
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 413: Local Communities 2016",
+      "page": 5
+    },
+    {
+      "text": "Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 5
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 5
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}

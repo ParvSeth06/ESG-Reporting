@@ -1,0 +1,1108 @@
+{
+  "standard": "GRI 304 Biodiversity 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages biodiversity using Disclosure",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. For each operational site owned, leased, managed in, or adjacent to, protected areas",
+        "i. Geographic location;",
+        "ii. Subsurface and underground land that may be owned, leased, or managed by the",
+        "iii. Position in relation to the protected area (in the area, adjacent to, or containing",
+        "iv. Type of operation (office, manufacturing or production, or extractive);",
+        "v. Size of operational site in km2 (or another unit, if appropriate);",
+        "vi. Biodiversity value characterized by the attribute of the protected area or area of",
+        "vii. Biodiversity value characterized by listing of protected status (such as IUCN"
+      ],
+      "page": 8
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Nature of significant direct and indirect impacts on biodiversity with reference to one or",
+        "i. Construction or use of manufacturing plants, mines, and transport infrastructure;",
+        "ii. Pollution (introduction of substances that do not naturally occur in the habitat from",
+        "iii. Introduction of invasive species, pests, and pathogens;",
+        "iv. Reduction of species;",
+        "v. Habitat conversion;",
+        "vi. Changes in ecological processes outside the natural range of variation (such as",
+        "b. Significant direct and indirect positive and negative impacts with reference to the",
+        "i. Species affected;",
+        "ii. Extent of areas impacted;",
+        "iii. Duration of impacts;",
+        "iv. Reversibility or irreversibility of the impacts."
+      ],
+      "page": 9
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Size and location of all habitat areas protected or restored, and whether the success of",
+        "b. Whether partnerships exist with third parties to protect or restore habitat areas distinct",
+        "c. Status of each area based on its condition at the close of the reporting period.",
+        "d. Standards, methodologies, and assumptions used."
+      ],
+      "page": 10
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Total number of IUCN Red List species and national conservation list species with",
+        "i. Critically endangered",
+        "ii. Endangered",
+        "iii. Vulnerable",
+        "iv. Near threatened",
+        "v. Least concern"
+      ],
+      "page": 11
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses the topic of biodiversity.",
+      "page": 4
+    },
+    {
+      "text": "Protecting biological diversity is important for ensuring the survival of plant and animal species, genetic diversity, and",
+      "page": 4
+    },
+    {
+      "text": "natural ecosystems. In addition, natural ecosystems provide clean water and air, and contribute to food security and",
+      "page": 4
+    },
+    {
+      "text": "human health. Biodiversity also contributes directly to local livelihoods, making it essential for achieving poverty",
+      "page": 4
+    },
+    {
+      "text": "reduction, and thus sustainable development.",
+      "page": 4
+    },
+    {
+      "text": "These concepts are covered in key instruments of the United Nations: see Bibliography.",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 4
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its biodiversity-related impacts.",
+      "page": 5
+    },
+    {
+      "text": "determined biodiversity to be a material topic:",
+      "page": 5
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 5
+    },
+    {
+      "text": "• Any disclosures from this Topic Standard that are relevant to the organization’s biodiversity-related impacts",
+      "page": 5
+    },
+    {
+      "text": "(Disclosure 304-1 through Disclosure 304-4).",
+      "page": 5
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 5
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 5
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 5
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 5
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 5
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 5
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 5
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 5
+    },
+    {
+      "text": "item does not exist.",
+      "page": 5
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 5
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 5
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 5
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 5
+    },
+    {
+      "text": "information has been published).",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 304: Biodiversity 2016",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 304: Biodiversity 2016",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined biodiversity to be a material topic is required to report how it manages the topic",
+      "page": 7
+    },
+    {
+      "text": "using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 7
+    },
+    {
+      "text": "3-3 in GRI 3: Material Topics 2021.",
+      "page": 7
+    },
+    {
+      "text": "The reporting organization can also describe its strategy for achieving its policy on biodiversity",
+      "page": 7
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 7
+    },
+    {
+      "text": "management. A biodiversity strategy can contain a combination of elements related to the",
+      "page": 7
+    },
+    {
+      "text": "prevention, management, and remediation of damage to natural habitats resulting from the",
+      "page": 7
+    },
+    {
+      "text": "organization’s activities. An example of this is the integration of biodiversity considerations into",
+      "page": 7
+    },
+    {
+      "text": "analytical tools, such as environmental site impact assessments.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 304: Biodiversity 2016",
+      "page": 8
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 304-1 Operational sites owned, leased, managed in, or",
+      "page": 8
+    },
+    {
+      "text": "adjacent to, protected areas and areas of high biodiversity value",
+      "page": 8
+    },
+    {
+      "text": "outside protected areas",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "and areas of high biodiversity value outside protected areas, the following information:",
+      "page": 8
+    },
+    {
+      "text": "organization;",
+      "page": 8
+    },
+    {
+      "text": "portions of the protected area) or the high biodiversity value area outside",
+      "page": 8
+    },
+    {
+      "text": "protected areas;",
+      "page": 8
+    },
+    {
+      "text": "high biodiversity value outside the protected area (terrestrial, freshwater, or",
+      "page": 8
+    },
+    {
+      "text": "maritime ecosystem);",
+      "page": 8
+    },
+    {
+      "text": "Protected Area Management Categories, Ramsar Convention, national legislation).",
+      "page": 8
+    },
+    {
+      "text": "2.1 When compiling the information specified in Disclosure 304-1, the reporting organization",
+      "page": 8
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 8
+    },
+    {
+      "text": "should include information about sites for which future operations have been formally",
+      "page": 8
+    },
+    {
+      "text": "announced.",
+      "page": 8
+    },
+    {
+      "text": "Background",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "Monitoring which activities are taking place in both protected areas and areas of high biodiversity",
+      "page": 8
+    },
+    {
+      "text": "value outside protected areas makes it possible for the organization to reduce the risks of",
+      "page": 8
+    },
+    {
+      "text": "impacts. It also makes it possible for the organization to manage impacts on biodiversity or to",
+      "page": 8
+    },
+    {
+      "text": "avoid mismanagement.",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 304: Biodiversity 2016",
+      "page": 9
+    },
+    {
+      "text": "Disclosure 304-2 Significant impacts of activities, products and",
+      "page": 9
+    },
+    {
+      "text": "services on biodiversity",
+      "page": 9
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 9
+    },
+    {
+      "text": "more of the following:",
+      "page": 9
+    },
+    {
+      "text": "point and non-point sources);",
+      "page": 9
+    },
+    {
+      "text": "salinity or changes in groundwater level).",
+      "page": 9
+    },
+    {
+      "text": "following:",
+      "page": 9
+    },
+    {
+      "text": "Guidance for Disclosure 304-2",
+      "page": 9
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 9
+    },
+    {
+      "text": "Indirect impacts on biodiversity can include impacts in the supply chain.",
+      "page": 9
+    },
+    {
+      "text": "Areas of impact are not limited to areas that are formally protected and include consideration of",
+      "page": 9
+    },
+    {
+      "text": "impacts on buffer zones, as well as formally designated areas of special importance or",
+      "page": 9
+    },
+    {
+      "text": "sensitivity.",
+      "page": 9
+    },
+    {
+      "text": "Background",
+      "page": 9
+    },
+    {
+      "text": "This disclosure provides the background for understanding (and developing) an organization’s",
+      "page": 9
+    },
+    {
+      "text": "strategy to mitigate significant direct and indirect impacts on biodiversity. By presenting",
+      "page": 9
+    },
+    {
+      "text": "structured and qualitative information, the disclosure enables comparison of the relative size,",
+      "page": 9
+    },
+    {
+      "text": "scale, and nature of impacts over time and across organizations.",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 304: Biodiversity 2016",
+      "page": 10
+    },
+    {
+      "text": "Disclosure 304-3 Habitats protected or restored",
+      "page": 10
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 10
+    },
+    {
+      "text": "the restoration measure was or is approved by independent external professionals.",
+      "page": 10
+    },
+    {
+      "text": "from where the organization has overseen and implemented restoration or protection",
+      "page": 10
+    },
+    {
+      "text": "measures.",
+      "page": 10
+    },
+    {
+      "text": "2.2 When compiling the information specified in Disclosure 304-3, the reporting organization",
+      "page": 10
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 10
+    },
+    {
+      "text": "should align the information presented in this disclosure with regulatory or license",
+      "page": 10
+    },
+    {
+      "text": "requirements for the protection or restoration of habitats, if applicable.",
+      "page": 10
+    },
+    {
+      "text": "Guidance for Disclosure 304-3",
+      "page": 10
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 10
+    },
+    {
+      "text": "This disclosure addresses the extent of an organization’s prevention and remediation activities",
+      "page": 10
+    },
+    {
+      "text": "with respect to its impacts on biodiversity. This disclosure refers to areas where remediation",
+      "page": 10
+    },
+    {
+      "text": "has been completed or where the area is actively protected. Areas where operations are still",
+      "page": 10
+    },
+    {
+      "text": "active can be counted if they conform to the definitions of ‘area restored’ or ‘area protected’.",
+      "page": 10
+    },
+    {
+      "text": "11 GRI 304: Biodiversity 2016",
+      "page": 11
+    },
+    {
+      "text": "Disclosure 304-4 IUCN Red List species and national conservation",
+      "page": 11
+    },
+    {
+      "text": "list species with habitats in areas affected by operations",
+      "page": 11
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 11
+    },
+    {
+      "text": "habitats in areas affected by the operations of the organization, by level of extinction",
+      "page": 11
+    },
+    {
+      "text": "risk:",
+      "page": 11
+    },
+    {
+      "text": "2.3 When compiling the information specified in Disclosure 304-4, the reporting organization",
+      "page": 11
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 11
+    },
+    {
+      "text": "should compare the information in the IUCN Red List and national conservation lists with",
+      "page": 11
+    },
+    {
+      "text": "the species outlined in planning documentation and monitoring records to ensure",
+      "page": 11
+    },
+    {
+      "text": "consistency.",
+      "page": 11
+    },
+    {
+      "text": "Background",
+      "page": 11
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 11
+    },
+    {
+      "text": "This disclosure helps an organization to identify where its activities pose a threat to endangered",
+      "page": 11
+    },
+    {
+      "text": "plant and animal species. By identifying these threats, the organization can initiate appropriate",
+      "page": 11
+    },
+    {
+      "text": "steps to avoid harm and to prevent the extinction of species. The International Union for",
+      "page": 11
+    },
+    {
+      "text": "Conservation of Nature (IUCN) ‘Red List of Threatened Species’ (an inventory of the global",
+      "page": 11
+    },
+    {
+      "text": "conservation status of plant and animal species) and national conservation lists serve as",
+      "page": 11
+    },
+    {
+      "text": "authorities on the sensitivity of habitat in areas affected by operations, and on the relative",
+      "page": 11
+    },
+    {
+      "text": "importance of these habitats from a management perspective.",
+      "page": 11
+    },
+    {
+      "text": "See reference [8] in the Bibliography.",
+      "page": 11
+    },
+    {
+      "text": "12 GRI 304: Biodiversity 2016",
+      "page": 12
+    },
+    {
+      "text": "Glossary",
+      "page": 12
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 12
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 12
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 12
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 12
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 12
+    },
+    {
+      "text": "area of high biodiversity value",
+      "page": 12
+    },
+    {
+      "text": "area not subject to legal protection, but recognized for important biodiversity features by a",
+      "page": 12
+    },
+    {
+      "text": "number of governmental and non-governmental organizations",
+      "page": 12
+    },
+    {
+      "text": "Note 1: Areas of high biodiversity value include habitats that are a priority for conservation,",
+      "page": 12
+    },
+    {
+      "text": "which are often defined in National Biodiversity Strategies and Action Plans",
+      "page": 12
+    },
+    {
+      "text": "prepared under the United Nations (UN) Convention, ‘Convention on Biological",
+      "page": 12
+    },
+    {
+      "text": "Diversity’, 1992.",
+      "page": 12
+    },
+    {
+      "text": "Note 2: Several international conservation organizations have identified particular areas of",
+      "page": 12
+    },
+    {
+      "text": "high biodiversity value.",
+      "page": 12
+    },
+    {
+      "text": "area protected",
+      "page": 12
+    },
+    {
+      "text": "area that is protected from any harm during operational activities, and where the environment",
+      "page": 12
+    },
+    {
+      "text": "remains in its original state with a healthy and functioning ecosystem",
+      "page": 12
+    },
+    {
+      "text": "area restored",
+      "page": 12
+    },
+    {
+      "text": "area that was used during or affected by operational activities, and where remediation",
+      "page": 12
+    },
+    {
+      "text": "measures have either restored the environment to its original state, or to a state where it has a",
+      "page": 12
+    },
+    {
+      "text": "healthy and functioning ecosystem",
+      "page": 12
+    },
+    {
+      "text": "human rights",
+      "page": 12
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 12
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 12
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 12
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 12
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 12
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 12
+    },
+    {
+      "text": "modified",
+      "page": 12
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 12
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 12
+    },
+    {
+      "text": "impact",
+      "page": 12
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 12
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 12
+    },
+    {
+      "text": "development",
+      "page": 12
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 12
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 12
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 12
+    },
+    {
+      "text": "material topics",
+      "page": 12
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 12
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 12
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 12
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 12
+    },
+    {
+      "text": "protected area",
+      "page": 12
+    },
+    {
+      "text": "geographic area that is designated, regulated, or managed to achieve specific conservation",
+      "page": 12
+    },
+    {
+      "text": "objectives",
+      "page": 12
+    },
+    {
+      "text": "13 GRI 304: Biodiversity 2016",
+      "page": 13
+    },
+    {
+      "text": "significant impact on biodiversity",
+      "page": 13
+    },
+    {
+      "text": "impact that can adversely affect the integrity of a geographic area or region, either directly or",
+      "page": 13
+    },
+    {
+      "text": "indirectly, by substantially changing its ecological features, structures, and functions across its",
+      "page": 13
+    },
+    {
+      "text": "whole area, and over the long term, so that habitat, its population levels, and the particular",
+      "page": 13
+    },
+    {
+      "text": "species that make the habitat important cannot be sustained",
+      "page": 13
+    },
+    {
+      "text": "Note 1: On a species level, a significant impact causes a population decline or change in",
+      "page": 13
+    },
+    {
+      "text": "distribution so that natural recruitment (reproduction or immigration from unaffected",
+      "page": 13
+    },
+    {
+      "text": "areas) cannot return to former levels within a limited number of generations.",
+      "page": 13
+    },
+    {
+      "text": "Note 2: A significant impact can also affect subsistence or commercial resource use to the",
+      "page": 13
+    },
+    {
+      "text": "degree that the well-being of users is affected over the long term.",
+      "page": 13
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 13
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 13
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 13
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 13
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 13
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 13
+    },
+    {
+      "text": "Bibliography",
+      "page": 13
+    },
+    {
+      "text": "14 GRI 304: Biodiversity 2016",
+      "page": 14
+    },
+    {
+      "text": "Bibliography",
+      "page": 14
+    },
+    {
+      "text": "This section lists authoritative intergovernmental instruments and additional references used in developing this",
+      "page": 14
+    },
+    {
+      "text": "Standard.",
+      "page": 14
+    },
+    {
+      "text": "Authoritative instruments:",
+      "page": 14
+    },
+    {
+      "text": "1. Ramsar Convention, ‘The Convention on Wetlands of International Importance especially as Waterfowl Habitat’,",
+      "page": 14
+    },
+    {
+      "text": "1994.",
+      "page": 14
+    },
+    {
+      "text": "2. United Nations (UN) Convention, ‘Convention on Biological Diversity’, 1992.",
+      "page": 14
+    },
+    {
+      "text": "3. United Nations (UN) Convention, ‘Convention on International Trade in Endangered Species of Wild Flora and",
+      "page": 14
+    },
+    {
+      "text": "Fauna (CITES)’, 1979.",
+      "page": 14
+    },
+    {
+      "text": "4. United Nations Educational, Scientific and Cultural Organization (UNESCO), Biosphere Reserves,",
+      "page": 14
+    },
+    {
+      "text": "http://www.unesco.org/new/en/natural-sciences/environment/ecological-sciences/biosphere-reserves/,",
+      "page": 14
+    },
+    {
+      "text": "accessed on 1 September 2016.",
+      "page": 14
+    },
+    {
+      "text": "5. United Nations Educational, Scientific and Cultural Organization (UNESCO), World Heritage Sites List,",
+      "page": 14
+    },
+    {
+      "text": "http://whc.unesco.org/en/list, accessed on 1 September 2016.",
+      "page": 14
+    },
+    {
+      "text": "Additional references:",
+      "page": 14
+    },
+    {
+      "text": "6. BirdLife International, Important Bird and Biodiversity Areas, http://www.birdlife.org/datazone/site, accessed on 1",
+      "page": 14
+    },
+    {
+      "text": "September 2016.",
+      "page": 14
+    },
+    {
+      "text": "7. International Union for Conservation of Nature (IUCN), Guidelines for Applying Protected Area Management",
+      "page": 14
+    },
+    {
+      "text": "Categories, 2008.",
+      "page": 14
+    },
+    {
+      "text": "8. International Union for Conservation of Nature (IUCN), Red List of Threatened Species,",
+      "page": 14
+    },
+    {
+      "text": "http://www.iucnredlist.org/, accessed on 1 September 2016.",
+      "page": 14
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 15
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 15
+    },
+    {
+      "text": "The Netherlands",
+      "page": 15
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 15
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 4
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 4
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 4
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 4
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 4
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 4
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 4
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 4
+    },
+    {
+      "text": "Topic Standards",
+      "page": 4
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 4
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 4
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 304: Biodiversity 2016",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}

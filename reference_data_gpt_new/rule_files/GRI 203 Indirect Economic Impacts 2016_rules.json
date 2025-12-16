@@ -1,0 +1,863 @@
+{
+  "standard": "GRI 203 Indirect Economic Impacts 2016",
+  "type": "universal",
+  "mandatory_requirements": [
+    {
+      "text": "GRI 1: Foundation 2021 specifies the requirements that the organization must comply with to report in accordance",
+      "sub_requirements": [],
+      "page": 4
+    },
+    {
+      "text": "Requirements are presented in bold font and indicated by the word 'shall'. An organization must comply with",
+      "sub_requirements": [],
+      "page": 6
+    },
+    {
+      "text": "1.1 The reporting organization shall report how it manages indirect economic impacts",
+      "sub_requirements": [],
+      "page": 7
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Extent of development of significant infrastructure investments and services",
+        "b. Current or expected impacts on communities and local economies, including positive",
+        "c. Whether these investments and services are commercial, in-kind, or pro bono"
+      ],
+      "page": 8
+    },
+    {
+      "text": "The reporting organization shall report the following information:",
+      "sub_requirements": [
+        "a. Examples of significant identified indirect economic impacts of the organization,",
+        "b. Significance of the indirect economic impacts in the context of external benchmarks"
+      ],
+      "page": 9
+    }
+  ],
+  "reporting_principles": [],
+  "process_rules": [
+    {
+      "text": "Background on the topic",
+      "page": 4
+    },
+    {
+      "text": "This Standard addresses an organization’s indirect economic impacts, including impacts of an organization’s",
+      "page": 4
+    },
+    {
+      "text": "infrastructure investments and services supported.",
+      "page": 4
+    },
+    {
+      "text": "An economic impact can be defined as a change in the productive potential of the economy that has an influence on a",
+      "page": 4
+    },
+    {
+      "text": "community’s or stakeholder’s well-being and longer-term prospects for development. Indirect economic impacts are",
+      "page": 4
+    },
+    {
+      "text": "the additional consequences of the direct impact of financial transactions and the flow of money between an",
+      "page": 4
+    },
+    {
+      "text": "organization and its stakeholders.",
+      "page": 4
+    },
+    {
+      "text": "Indirect economic impacts can be monetary or non-monetary, and are particularly important to assess in relation to",
+      "page": 4
+    },
+    {
+      "text": "local communities and regional economies.",
+      "page": 4
+    },
+    {
+      "text": "System of GRI Standards",
+      "page": 4
+    },
+    {
+      "text": "This Standard is part of the GRI Sustainability Reporting Standards (GRI Standards). The GRI Standards enable an",
+      "page": 4
+    },
+    {
+      "text": "organization to report information about its most significant impacts on the economy, environment, and people,",
+      "page": 4
+    },
+    {
+      "text": "including impacts on their human rights, and how it manages these impacts.",
+      "page": 4
+    },
+    {
+      "text": "The GRI Standards are structured as a system of interrelated standards that are organized into three series: GRI",
+      "page": 4
+    },
+    {
+      "text": "This Standard can be used by any organization – regardless of size, type, sector, geographic location, or reporting",
+      "page": 5
+    },
+    {
+      "text": "experience – to report information about its indirect economic impacts.",
+      "page": 5
+    },
+    {
+      "text": "determined indirect economic impacts to be a material topic:",
+      "page": 5
+    },
+    {
+      "text": "• Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this Standard);",
+      "page": 5
+    },
+    {
+      "text": "• Any disclosures from this Topic Standard that are relevant to the organization’s indirect economic impacts",
+      "page": 5
+    },
+    {
+      "text": "(Disclosure 203-1 through Disclosure 203-2).",
+      "page": 5
+    },
+    {
+      "text": "See Requirements 4 and 5 in GRI 1: Foundation 2021.",
+      "page": 5
+    },
+    {
+      "text": "Reasons for omission are permitted for these disclosures.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot comply with a disclosure or with a requirement in a disclosure (e.g., because the required",
+      "page": 5
+    },
+    {
+      "text": "information is confidential or subject to legal prohibitions), the organization is required to specify the disclosure or the",
+      "page": 5
+    },
+    {
+      "text": "requirement it cannot comply with, and provide a reason for omission together with an explanation in the GRI content",
+      "page": 5
+    },
+    {
+      "text": "index. See Requirement 6 in GRI 1: Foundation 2021 for more information on reasons for omission.",
+      "page": 5
+    },
+    {
+      "text": "If the organization cannot report the required information about an item specified in a disclosure because the item",
+      "page": 5
+    },
+    {
+      "text": "(e.g., committee, policy, practice, process) does not exist, it can comply with the requirement by reporting this to be the",
+      "page": 5
+    },
+    {
+      "text": "case. The organization can explain the reasons for not having this item, or describe any plans to develop it. The",
+      "page": 5
+    },
+    {
+      "text": "disclosure does not require the organization to implement the item (e.g., developing a policy), but to report that the",
+      "page": 5
+    },
+    {
+      "text": "item does not exist.",
+      "page": 5
+    },
+    {
+      "text": "If the organization intends to publish a standalone sustainability report, it does not need to repeat information that it",
+      "page": 5
+    },
+    {
+      "text": "has already reported publicly elsewhere, such as on web pages or in its annual report. In such a case, the",
+      "page": 5
+    },
+    {
+      "text": "organization can report a required disclosure by providing a reference in the GRI content index as to where this",
+      "page": 5
+    },
+    {
+      "text": "information can be found (e.g., by providing a link to the web page or citing the page in the annual report where the",
+      "page": 5
+    },
+    {
+      "text": "information has been published).",
+      "page": 5
+    },
+    {
+      "text": "6 GRI 203: Indirect Economic Impacts 2016",
+      "page": 6
+    },
+    {
+      "text": "Requirements, guidance and defined terms",
+      "page": 6
+    },
+    {
+      "text": "The following apply throughout this Standard:",
+      "page": 6
+    },
+    {
+      "text": "requirements to report in accordance with the GRI Standards.",
+      "page": 6
+    },
+    {
+      "text": "Requirements may be accompanied by guidance.",
+      "page": 6
+    },
+    {
+      "text": "Guidance includes background information, explanations, and examples to help the organization better understand",
+      "page": 6
+    },
+    {
+      "text": "the requirements. The organization is not required to comply with guidance.",
+      "page": 6
+    },
+    {
+      "text": "The Standards may also include recommendations. These are cases where a particular course of action is",
+      "page": 6
+    },
+    {
+      "text": "encouraged but not required.",
+      "page": 6
+    },
+    {
+      "text": "The word ‘should’ indicates a recommendation, and the word ‘can’ indicates a possibility or option.",
+      "page": 6
+    },
+    {
+      "text": "Defined terms are underlined in the text of the GRI Standards and linked to their definitions in the Glossary. The",
+      "page": 6
+    },
+    {
+      "text": "organization is required to apply the definitions in the Glossary.",
+      "page": 6
+    },
+    {
+      "text": "7 GRI 203: Indirect Economic Impacts 2016",
+      "page": 7
+    },
+    {
+      "text": "1. Topic management disclosures",
+      "page": 7
+    },
+    {
+      "text": "material topics.",
+      "page": 7
+    },
+    {
+      "text": "An organization that has determined indirect economic impacts to be a material topic is required to report how it",
+      "page": 7
+    },
+    {
+      "text": "manages the topic using Disclosure 3-3 in GRI 3: Material Topics 2021 (see clause 1.1 in this section).",
+      "page": 7
+    },
+    {
+      "text": "This section is therefore designed to supplement – and not replace – Disclosure 3-3 in GRI 3.",
+      "page": 7
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 7
+    },
+    {
+      "text": "using Disclosure 3-3 in GRI 3: Material Topics 2021.",
+      "page": 7
+    },
+    {
+      "text": "1.2 The reporting organization should:",
+      "page": 7
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 7
+    },
+    {
+      "text": "1.2.1 describe work undertaken to understand indirect economic impacts at the",
+      "page": 7
+    },
+    {
+      "text": "national, regional, or local level;",
+      "page": 7
+    },
+    {
+      "text": "1.2.2 explain whether it conducted a community needs assessment to determine the",
+      "page": 7
+    },
+    {
+      "text": "need for infrastructure and other services, and describe the results of the",
+      "page": 7
+    },
+    {
+      "text": "assessment.",
+      "page": 7
+    },
+    {
+      "text": "8 GRI 203: Indirect Economic Impacts 2016",
+      "page": 8
+    },
+    {
+      "text": "2. Topic disclosures",
+      "page": 8
+    },
+    {
+      "text": "An organization is expected to compile information for economic disclosures using figures from its audited financial",
+      "page": 8
+    },
+    {
+      "text": "statements or from its internally-audited management accounts, whenever possible. Data can be compiled using, for",
+      "page": 8
+    },
+    {
+      "text": "example:",
+      "page": 8
+    },
+    {
+      "text": "• the relevant International Financial Reporting Standards (IFRS), published by the International Accounting",
+      "page": 8
+    },
+    {
+      "text": "Standards Board (IASB), and the Interpretations developed by the IFRS Interpretations Committee (specific IFRS",
+      "page": 8
+    },
+    {
+      "text": "are referenced for some of the disclosures);",
+      "page": 8
+    },
+    {
+      "text": "• the International Public Sector Accounting Standards (IPSAS) issued by the International Federation of",
+      "page": 8
+    },
+    {
+      "text": "Accountants (IFAC);",
+      "page": 8
+    },
+    {
+      "text": "• national or regional standards recognized internationally for the purpose of financial reporting.",
+      "page": 8
+    },
+    {
+      "text": "Disclosure 203-1 Infrastructure investments and services supported",
+      "page": 8
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 8
+    },
+    {
+      "text": "supported.",
+      "page": 8
+    },
+    {
+      "text": "and negative impacts where relevant.",
+      "page": 8
+    },
+    {
+      "text": "engagements.",
+      "page": 8
+    },
+    {
+      "text": "2.1 When compiling the information specified in Disclosure 203-1, the reporting organization",
+      "page": 8
+    },
+    {
+      "text": "RECOMMENDATIONS",
+      "page": 8
+    },
+    {
+      "text": "should disclose:",
+      "page": 8
+    },
+    {
+      "text": "2.1.1 the size, cost and duration of each significant infrastructure investment or service",
+      "page": 8
+    },
+    {
+      "text": "supported;",
+      "page": 8
+    },
+    {
+      "text": "2.1.2 the extent to which different communities or local economies are impacted by the",
+      "page": 8
+    },
+    {
+      "text": "organization’s infrastructure investments and services supported.",
+      "page": 8
+    },
+    {
+      "text": "Background",
+      "page": 8
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 8
+    },
+    {
+      "text": "This disclosure concerns the impact that an organization’s infrastructure investments and",
+      "page": 8
+    },
+    {
+      "text": "services supported have on its stakeholders and the economy.",
+      "page": 8
+    },
+    {
+      "text": "The impacts of infrastructure investment can extend beyond the scope of an organization’s own",
+      "page": 8
+    },
+    {
+      "text": "operations and over a longer timescale. Such investments can include transport links, utilities,",
+      "page": 8
+    },
+    {
+      "text": "community social facilities, health and welfare centers, and sports centers. Along with",
+      "page": 8
+    },
+    {
+      "text": "investment in its own operations, this is one measure of the organization’s capital contribution",
+      "page": 8
+    },
+    {
+      "text": "to the economy.",
+      "page": 8
+    },
+    {
+      "text": "9 GRI 203: Indirect Economic Impacts 2016",
+      "page": 9
+    },
+    {
+      "text": "Disclosure 203-2 Significant indirect economic impacts",
+      "page": 9
+    },
+    {
+      "text": "REQUIREMENTS",
+      "page": 9
+    },
+    {
+      "text": "including positive and negative impacts.",
+      "page": 9
+    },
+    {
+      "text": "and stakeholder priorities, such as national and international standards, protocols, and",
+      "page": 9
+    },
+    {
+      "text": "policy agendas.",
+      "page": 9
+    },
+    {
+      "text": "Guidance for Disclosure 203-2",
+      "page": 9
+    },
+    {
+      "text": "GUIDANCE",
+      "page": 9
+    },
+    {
+      "text": "This disclosure concerns the spectrum of indirect economic impacts that an organization can",
+      "page": 9
+    },
+    {
+      "text": "have on its stakeholders and the economy.",
+      "page": 9
+    },
+    {
+      "text": "Examples of significant indirect economic impacts, both positive and negative, can include:",
+      "page": 9
+    },
+    {
+      "text": "• changes in the productivity of organizations, sectors, or the whole economy (such as through",
+      "page": 9
+    },
+    {
+      "text": "greater adoption of information technology);",
+      "page": 9
+    },
+    {
+      "text": "• economic development in areas of high poverty (such as changes in the total number of",
+      "page": 9
+    },
+    {
+      "text": "dependents supported through the income of a single job);",
+      "page": 9
+    },
+    {
+      "text": "• economic impacts of improving or deteriorating social or environmental conditions (such as",
+      "page": 9
+    },
+    {
+      "text": "changing job market in an area converted from small farms to large plantations, or the",
+      "page": 9
+    },
+    {
+      "text": "economic impacts of pollution);",
+      "page": 9
+    },
+    {
+      "text": "• availability of products and services for those on low incomes (such as preferential pricing of",
+      "page": 9
+    },
+    {
+      "text": "pharmaceuticals, which contributes to a healthier population that can participate more fully in",
+      "page": 9
+    },
+    {
+      "text": "the economy; or pricing structures that exceed the economic capacity of those on low",
+      "page": 9
+    },
+    {
+      "text": "incomes);",
+      "page": 9
+    },
+    {
+      "text": "• enhanced skills and knowledge in a professional community or in a geographic location",
+      "page": 9
+    },
+    {
+      "text": "(such as when shifts in an organization’s needs attract additional skilled workers to an area,",
+      "page": 9
+    },
+    {
+      "text": "who, in turn, drive a local need for new learning institutions);",
+      "page": 9
+    },
+    {
+      "text": "• number of jobs supported in the supply or distribution chain (such as the employment",
+      "page": 9
+    },
+    {
+      "text": "impacts on suppliers as a result of an organization’s growth or contraction);",
+      "page": 9
+    },
+    {
+      "text": "• stimulating, enabling, or limiting foreign direct investment (such as when an organization",
+      "page": 9
+    },
+    {
+      "text": "changes the infrastructure or services it provides in a developing country, which then leads to",
+      "page": 9
+    },
+    {
+      "text": "changes in foreign direct investment in the region);",
+      "page": 9
+    },
+    {
+      "text": "• economic impacts from a change in operation or activity location (such as the impact of",
+      "page": 9
+    },
+    {
+      "text": "outsourcing jobs to an overseas location);",
+      "page": 9
+    },
+    {
+      "text": "• economic impacts from the use of products and services (such as economic growth",
+      "page": 9
+    },
+    {
+      "text": "resulting from the use of a particular product or service).",
+      "page": 9
+    },
+    {
+      "text": "10 GRI 203: Indirect Economic Impacts 2016",
+      "page": 10
+    },
+    {
+      "text": "Glossary",
+      "page": 10
+    },
+    {
+      "text": "This glossary provides definitions for terms used in this Standard. The organization is required to apply these",
+      "page": 10
+    },
+    {
+      "text": "definitions when using the GRI Standards.",
+      "page": 10
+    },
+    {
+      "text": "The definitions included in this glossary may contain terms that are further defined in the complete GRI Standards",
+      "page": 10
+    },
+    {
+      "text": "Glossary. All defined terms are underlined. If a term is not defined in this glossary or in the complete GRI Standards",
+      "page": 10
+    },
+    {
+      "text": "Glossary, definitions that are commonly used and understood apply.",
+      "page": 10
+    },
+    {
+      "text": "employee",
+      "page": 10
+    },
+    {
+      "text": "individual who is in an employment relationship with the organization according to national law",
+      "page": 10
+    },
+    {
+      "text": "or practice",
+      "page": 10
+    },
+    {
+      "text": "human rights",
+      "page": 10
+    },
+    {
+      "text": "rights inherent to all human beings, which include, at a minimum, the rights set out in the United",
+      "page": 10
+    },
+    {
+      "text": "Nations (UN) International Bill of Human Rights and the principles concerning fundamental",
+      "page": 10
+    },
+    {
+      "text": "rights set out in the International Labour Organization (ILO) Declaration on Fundamental",
+      "page": 10
+    },
+    {
+      "text": "Principles and Rights at Work",
+      "page": 10
+    },
+    {
+      "text": "Source: United Nations (UN), Guiding Principles on Business and Human Rights:",
+      "page": 10
+    },
+    {
+      "text": "Implementing the United Nations “Protect, Respect and Remedy” Framework, 2011;",
+      "page": 10
+    },
+    {
+      "text": "modified",
+      "page": 10
+    },
+    {
+      "text": "Note: See Guidance to 2-23-b-i in GRI 2: General Disclosures 2021 for more information",
+      "page": 10
+    },
+    {
+      "text": "on ‘human rights’.",
+      "page": 10
+    },
+    {
+      "text": "impact",
+      "page": 10
+    },
+    {
+      "text": "effect the organization has or could have on the economy, environment, and people, including on",
+      "page": 10
+    },
+    {
+      "text": "their human rights, which in turn can indicate its contribution (negative or positive) to sustainable",
+      "page": 10
+    },
+    {
+      "text": "development",
+      "page": 10
+    },
+    {
+      "text": "Note 1: Impacts can be actual or potential, negative or positive, short-term or long-term,",
+      "page": 10
+    },
+    {
+      "text": "intended or unintended, and reversible or irreversible.",
+      "page": 10
+    },
+    {
+      "text": "Note 2: See section 2.1 in GRI 1: Foundation 2021 for more information on ‘impact’.",
+      "page": 10
+    },
+    {
+      "text": "infrastructure",
+      "page": 10
+    },
+    {
+      "text": "facilities built primarily to provide a public service or good rather than a commercial purpose,",
+      "page": 10
+    },
+    {
+      "text": "and from which the organization does not seek to gain direct economic benefit",
+      "page": 10
+    },
+    {
+      "text": "Examples: hospitals, roads, schools, water supply facilities",
+      "page": 10
+    },
+    {
+      "text": "material topics",
+      "page": 10
+    },
+    {
+      "text": "topics that represent the organization’s most significant impacts on the economy, environment,",
+      "page": 10
+    },
+    {
+      "text": "and people, including impacts on their human rights",
+      "page": 10
+    },
+    {
+      "text": "Note: See section 2.2 in GRI 1: Foundation 2021 and section 1 in GRI 3: Material Topics",
+      "page": 10
+    },
+    {
+      "text": "2021 for more information on ‘material topics’.",
+      "page": 10
+    },
+    {
+      "text": "services supported",
+      "page": 10
+    },
+    {
+      "text": "services that provide a public benefit either through direct payment of operating costs or through",
+      "page": 10
+    },
+    {
+      "text": "staffing the facility or service with an organization’s own employees",
+      "page": 10
+    },
+    {
+      "text": "Note: Public benefit can also include public services.",
+      "page": 10
+    },
+    {
+      "text": "sustainable development / sustainability",
+      "page": 10
+    },
+    {
+      "text": "development that meets the needs of the present without compromising the ability of future",
+      "page": 10
+    },
+    {
+      "text": "generations to meet their own needs",
+      "page": 10
+    },
+    {
+      "text": "Source: World Commission on Environment and Development, Our Common Future, 1987",
+      "page": 10
+    },
+    {
+      "text": "Note: The terms ‘sustainability’ and ‘sustainable development’ are used interchangeably",
+      "page": 10
+    },
+    {
+      "text": "in the GRI Standards.",
+      "page": 10
+    },
+    {
+      "text": "PO Box 10039",
+      "page": 11
+    },
+    {
+      "text": "1001 EA Amsterdam",
+      "page": 11
+    },
+    {
+      "text": "The Netherlands",
+      "page": 11
+    },
+    {
+      "text": "www.globalreporting.org",
+      "page": 11
+    }
+  ],
+  "sector_specific_rules": [
+    {
+      "text": "Universal Standards: GRI 1, GRI 2 and GRI 3",
+      "page": 4
+    },
+    {
+      "text": "with the GRI Standards. The organization begins using the GRI Standards by consulting GRI 1.",
+      "page": 4
+    },
+    {
+      "text": "GRI 2: General Disclosures 2021 contains disclosures that the organization uses to provide information about its",
+      "page": 4
+    },
+    {
+      "text": "reporting practices and other organizational details, such as its activities, governance, and policies.",
+      "page": 4
+    },
+    {
+      "text": "GRI 3: Material Topics 2021 provides guidance on how to determine material topics. It also contains disclosures that",
+      "page": 4
+    },
+    {
+      "text": "the organization uses to report information about its process of determining material topics, its list of material topics,",
+      "page": 4
+    },
+    {
+      "text": "and how it manages each topic.",
+      "page": 4
+    },
+    {
+      "text": "report for each material topic.",
+      "page": 4
+    },
+    {
+      "text": "Topic Standards",
+      "page": 4
+    },
+    {
+      "text": "The Topic Standards contain disclosures that the organization uses to report information about its impacts in relation",
+      "page": 4
+    },
+    {
+      "text": "to particular topics. The organization uses the Topic Standards according to the list of material topics it has",
+      "page": 4
+    },
+    {
+      "text": "determined using GRI 3.",
+      "page": 4
+    },
+    {
+      "text": "5 GRI 203: Indirect Economic Impacts 2016",
+      "page": 5
+    },
+    {
+      "text": "Figure 1. GRI Standards: Universal, Sector and Topic Standards",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Requirements and",
+      "page": 5
+    },
+    {
+      "text": "principles for using the",
+      "page": 5
+    },
+    {
+      "text": "GRI Standards",
+      "page": 5
+    },
+    {
+      "text": "Disclosures about the",
+      "page": 5
+    },
+    {
+      "text": "reporting organization",
+      "page": 5
+    },
+    {
+      "text": "Disclosures and",
+      "page": 5
+    },
+    {
+      "text": "guidance about the",
+      "page": 5
+    },
+    {
+      "text": "organization's material",
+      "page": 5
+    },
+    {
+      "text": "topics",
+      "page": 5
+    },
+    {
+      "text": "Standards to your reporting apply to your sectors specific information on your",
+      "page": 5
+    },
+    {
+      "text": "material topics",
+      "page": 5
+    }
+  ]
+}
